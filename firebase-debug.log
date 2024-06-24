@@ -1,0 +1,64 @@
+[debug] [2024-06-21T14:41:08.884Z] ----------------------------------------------------------------------
+[debug] [2024-06-21T14:41:08.891Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2024-06-21T14:41:08.891Z] CLI Version:   13.11.3
+[debug] [2024-06-21T14:41:08.892Z] Platform:      win32
+[debug] [2024-06-21T14:41:08.892Z] Node Version:  v20.11.1
+[debug] [2024-06-21T14:41:08.892Z] Time:          Fri Jun 21 2024 21:41:08 GMT+0700 (Indochina Time)
+[debug] [2024-06-21T14:41:08.892Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-21T14:41:09.001Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-21T14:41:09.002Z] > authorizing via signed-in user (info@nhavantuonglai.com)
+[debug] [2024-06-21T14:41:09.003Z] [iam] checking project nhavantuonglai-com for permissions ["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]
+[debug] [2024-06-21T14:41:09.006Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions [none]
+[debug] [2024-06-21T14:41:09.006Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions x-goog-quota-user=projects/nhavantuonglai-com
+[debug] [2024-06-21T14:41:09.006Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]}
+[debug] [2024-06-21T14:41:10.237Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions 200
+[debug] [2024-06-21T14:41:10.239Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]}
+[debug] [2024-06-21T14:41:10.241Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com [none]
+[debug] [2024-06-21T14:41:10.663Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com 200
+[debug] [2024-06-21T14:41:10.663Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com {"projectId":"nhavantuonglai-com","projectNumber":"39760633737","displayName":"nhavantuonglai-com","name":"projects/nhavantuonglai-com","resources":{"hostingSite":"nhavantuonglai-com","storageBucket":"nhavantuonglai-com.appspot.com","locationId":"us-central"},"state":"ACTIVE","etag":"1_ec7cf583-1f55-4050-88ab-4459459c5811"}
+[debug] [2024-06-21T14:41:17.559Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites pageToken=&pageSize=10
+[debug] [2024-06-21T14:41:18.234Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites 200
+[debug] [2024-06-21T14:41:18.234Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites {"sites":[{"name":"projects/nhavantuonglai-com/sites/nhavantuonglai-com","defaultUrl":"https://nhavantuonglai-com.web.app","appId":"1:39760633737:web:83e1f5dcd85fbbd4be0b58","type":"DEFAULT_SITE"}]}
+[debug] [2024-06-21T14:41:18.235Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config [none]
+[debug] [2024-06-21T14:41:19.125Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config 403
+[debug] [2024-06-21T14:41:19.125Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config {"error":{"code":403,"message":"com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.","status":"PERMISSION_DENIED"}}
+[debug] [2024-06-21T14:41:19.128Z] HTTP Error: 403, com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.
+[debug] [2024-06-21T14:41:19.289Z] FirebaseError: HTTP Error: 403, com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.
+    at responseToError (C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:49:12)
+    at RetryOperation._fn (C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:305:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to get WEB app configuration. See firebase-debug.log for more info.
+[debug] [2024-06-21T14:43:36.705Z] ----------------------------------------------------------------------
+[debug] [2024-06-21T14:43:36.715Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2024-06-21T14:43:36.715Z] CLI Version:   13.11.3
+[debug] [2024-06-21T14:43:36.715Z] Platform:      win32
+[debug] [2024-06-21T14:43:36.716Z] Node Version:  v20.11.1
+[debug] [2024-06-21T14:43:36.716Z] Time:          Fri Jun 21 2024 21:43:36 GMT+0700 (Indochina Time)
+[debug] [2024-06-21T14:43:36.716Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-21T14:43:36.797Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-21T14:43:36.798Z] > authorizing via signed-in user (info@nhavantuonglai.com)
+[debug] [2024-06-21T14:43:36.798Z] [iam] checking project nhavantuonglai-com for permissions ["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]
+[debug] [2024-06-21T14:43:36.802Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions [none]
+[debug] [2024-06-21T14:43:36.802Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions x-goog-quota-user=projects/nhavantuonglai-com
+[debug] [2024-06-21T14:43:36.802Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]}
+[debug] [2024-06-21T14:43:38.018Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions 200
+[debug] [2024-06-21T14:43:38.018Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/nhavantuonglai-com:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update","firebaserules.releases.create","firebaserules.releases.update","firebaserules.rulesets.create"]}
+[debug] [2024-06-21T14:43:38.019Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com [none]
+[debug] [2024-06-21T14:43:38.428Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com 200
+[debug] [2024-06-21T14:43:38.428Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/nhavantuonglai-com {"projectId":"nhavantuonglai-com","projectNumber":"39760633737","displayName":"nhavantuonglai-com","name":"projects/nhavantuonglai-com","resources":{"hostingSite":"nhavantuonglai-com","storageBucket":"nhavantuonglai-com.appspot.com","locationId":"us-central"},"state":"ACTIVE","etag":"1_ec7cf583-1f55-4050-88ab-4459459c5811"}
+[debug] [2024-06-21T14:43:43.492Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites pageToken=&pageSize=10
+[debug] [2024-06-21T14:43:44.173Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites 200
+[debug] [2024-06-21T14:43:44.173Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/nhavantuonglai-com/sites {"sites":[{"name":"projects/nhavantuonglai-com/sites/nhavantuonglai-com","defaultUrl":"https://nhavantuonglai-com.web.app","appId":"1:39760633737:web:83e1f5dcd85fbbd4be0b58","type":"DEFAULT_SITE"}]}
+[debug] [2024-06-21T14:43:44.173Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config [none]
+[debug] [2024-06-21T14:43:45.041Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config 403
+[debug] [2024-06-21T14:43:45.041Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:39760633737:web:83e1f5dcd85fbbd4be0b58/config {"error":{"code":403,"message":"com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.","status":"PERMISSION_DENIED"}}
+[debug] [2024-06-21T14:43:45.042Z] HTTP Error: 403, com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.
+[debug] [2024-06-21T14:43:45.207Z] FirebaseError: HTTP Error: 403, com.google.api.tenant.error.TenantManagerException: Project '39760633737' not found or permission denied.
+    at responseToError (C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:49:12)
+    at RetryOperation._fn (C:\Users\nhava\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:305:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to get WEB app configuration. See firebase-debug.log for more info.

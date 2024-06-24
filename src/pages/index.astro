@@ -1,0 +1,267 @@
+---
+import Layout from '~/layouts/page-layout.astro';
+
+import Hero from '~/components/widgets/hero.astro';
+import Content from '~/components/widgets/content.astro';
+import BlogLatestPosts from '~/components/widgets/blog-latest-post.astro';
+import FAQ from '~/components/widgets/faq.astro';
+import Brands from '~/components/widgets/brands.astro';
+import Testimonials from '~/components/widgets/testimonials.astro';
+import Features from '~/components/widgets/features.astro';
+
+const metadata = {
+	title: 'Đọc nhiều, hiểu sâu, viết hay | nhavantuonglai',
+	ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Hero
+		title="Đọc nhiều, hiểu sâu, viết hay cùng nhavantuonglai."
+		subtitle="nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng, nhavantuonglai biết cách kể những câu chuyện mang nặng tính cá nhân hóa nhưng vẫn sâu sắc mà có tính phổ quát cao."
+		actions={[
+			{ variant: 'primary', text: 'Đọc thêm', href: 'https://info.nhavantuonglai.com/instagram', icon: 'tabler:square-rounded-arrow-right' },
+		]}
+		image={{
+			src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0343.jpg',
+			alt: 'nhavantuonglai-cover',
+		}}
+	/>
+
+	<BlogLatestPosts
+		title="Bài mới nhất"
+		information={`Danh sách 4 bài mới nhất, cập nhật theo thứ tự ngày tháng trên website, giúp dòng chảy thông tin luôn được cập nhật và cảm hứng viết lách luôn tuôn trào.`}
+	/>
+
+	<Content
+		isReversed
+		title="Dịch vụ cung cấp"
+		items={[
+			{
+				title: 'Kinh nghiệm viết lâu năm, đáp ứng tốt yêu cầu kỹ thuật',
+				description: 'Với 6 năm kinh nghiệm content đa lĩnh vực, khả năng nghiên cứu và tổng hợp thông tin đáp ứng tốt mọi yêu cầu viết bài chuẩn SEO của mọi doanh nghiệp. Tỷ lệ unique cam kết trên 98%.',
+			},
+			{
+				title: 'Vốn sống phong phú, nhiều tài nguyên và chất liệu viết',
+				description: 'Vốn sống phong phú, nhiều tài nguyên và chất liệu viết',
+			},
+			{
+				title: 'Làm việc theo nguyên tắc, tuân thủ hợp đồng và deadline',
+				description: 'Là người sống nguyên tắc với nhiều tiêu chuẩn tự bản thân phải tuân thủ, nhavantuonglai cam kết hoàn tất các sản phẩm viết bài chuẩn SEO đúng thời hạn, chất lượng như đã cam kết.',
+			},
+		]}
+		image={{
+			src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0026.jpg',
+			alt: 'nhavantuonglai-content',
+		}}
+	>
+		<Fragment slot="content">
+			<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Viết bài chuẩn SEO</h3>
+			Viết bài chuẩn SEO cân bằng giữa việc đáp ứng tốt các yêu cầu kỹ thuật SEO, thuật toán từ công cụ tìm kiếm và giải quyết vấn đề mà người đọc đang tìm thông tin. Vậy, tại sao nên thuê nhavantuonglai để viết bài chuẩn SEO?
+		</Fragment>
+	</Content>
+
+	<Content
+		isAfterContent
+		items={[
+			{
+				title: 'Kinh nghiệm thực chiến kết hợp kiến thức được cập nhật liên tục',
+				description: `Với 3 năm kinh nghiệm SEO trực tiếp và 2 năm SEO gián tiếp, nhavantuonglai đáp ứng tốt mọi yêu cầu, chỉ tiêu KPI liên quan đến SEO cũng như giải quyết được các vấn đề kỹ thuật nhằm tối ưu website chuẩn SEO.`,
+			},
+			{
+				title: 'Công cụ đa dạng, nguồn lực hiệu quả và kết quả cụ thể',
+				description: 'Thông qua các công cụ, nền tảng hỗ trợ để tìm hiểu, giải quyết và tối ưu website chuẩn SEO, nhavantuonglai cam kết đem lại kết quả cụ thể, dựa trên nội dung đã thống nhất và kỳ vọng của các doanh nghiệp.',
+			},
+			{
+				title: 'SEO bền vững, nói không với thủ thuật ăn xổi ở thì',
+				description:'Các website doanh nghiệp mà nhavantuonglai nhận tối ưu chuẩn SEO luôn duy trì ổn định traffic và thứ hạng, ngay cả sau 3 – 6 tháng thì các yếu tố ấy vẫn được đảm bảo.',
+			},
+		]}
+		image={{
+			src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0083.jpg',
+			alt: 'nhavantuonglai-website',
+		}}
+	>
+		<Fragment slot="content">
+			<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Tối ưu website chuẩn SEO</h3>
+			Website thiếu ổn định ảnh hưởng đến trải nghiệm người dùng, tỷ lệ chuyển đổi thấp cũng như nguy cơ bị tấn công cao. Vậy, tại sao nên thuê nhavantuonglai để tối ưu website chuẩn SEO cho doanh nghiệp của bạn?
+		</Fragment>
+	</Content>
+
+	<Content
+		isReversed
+		isAfterContent
+		items={[
+			{
+				title: 'Hiểu biết đa nền tảng, đáp ứng đúng và đủ mọi nhu cầu lẫn ngân sách',
+				description: 'Với kinh nghiệm 6 năm làm website chuẩn SEO, duy trì và thực chiến tốt các nền tảng build website như Wordpress, Webflow, Astro (seft-host, on Githu)... để có thể đáp ứng đa dạng nhu cầu và mong muốn của khách hàng.',
+			},
+			{
+				title: 'Kết hợp tốt giữa tối ưu chuẩn SEO và thân thiện với người dùng',
+				description: 'Thân thiện với người dùng không chỉ là tiêu chuẩn trong SEO, mà nó còn là trải nghiệm thuần túy mà bất kỳ ai cũng muốn khi lướt mạng. nhavantuonglai cân bằng tốt, đáp ứng hiệu quả giữa yếu tố kỹ thuật và thân thiện, đem đến giao diện website vừa mang tính chuyển đổi cao lẫn hiệu quả cho người đọc khi cần tiếp cận thông tin.',
+			},
+			{
+				title: 'Bảo hành với các gói tùy chọn mở rộng',
+				description: 'Không chỉ bàn giao, nhavantuonglai còn hỗ trợ đào tạo, sử dụng thành thạo website cho nhân viên doanh nghiệp, cũng như mở rộng các gói bảo hành với các mức ngân sách khác nhau, đáp ứng tốt mọi yêu cầu về chi phí vận hành website trong doanh nghiệp.',
+			},
+		]}
+		image={{
+			src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0325.jpg',
+			alt: 'nhavantuonglai-seo',
+		}}
+	>
+		<Fragment slot="content">
+			<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Thiết kế website chuẩn SEO</h3>
+			Website là thương hiệu số của doanh nghiệp lẫn cá nhân, giúp tiếp cận khách hàng tiềm năng hiệu quả, tăng nhận diện và bảo vệ thương hiệu trực tuyến hiệu quả hơn. Khi hợp tác với nhavantuonglai để thiết kế website chuẩn SEO, bạn sẽ được hưởng những lợi ích dưới đây.
+		</Fragment>
+	</Content>
+
+	<FAQ
+		title="10 vạn câu hỏi tào lao"
+		items={[
+			{
+				title: 'Viết có phải là quá trình tự học không?',
+				description: 'Cho dù bạn viết tiểu thuyết, thơ, kịch hay kịch bản, bạn hoàn toàn có thể tự dạy mình cách trở thành một nhà văn sáng tạo. Letter Review tin rằng trong mỗi tác phẩm nghệ thuật tuyệt vời là tất cả các quy tắc và bài học bạn cần để tạo ra một tác phẩm nghệ thuật tuyệt vời.',
+				icon: 'tabler:chevrons-right',
+			},
+			{
+				title: 'Các nhà văn có tự học không?',
+				description: `Hầu hết các nhà văn đều tự học. Tôi học bằng cách đọc nhiều, viết nhiều, sau đó phê bình bài viết của người khác. Cuối cùng, tôi quyết định đọc một vài cuốn sách về viết lách sáng tạo.`,
+				icon: 'tabler:chevrons-right',
+			},
+			{
+				title: 'Kỹ năng viết cơ bản là gì?',
+				description: 'Kỹ năng viết cơ bản: Chúng bao gồm chính tả, viết hoa, dấu câu, chữ viết tay và bàn phím, và cấu trúc câu (ví dụ: học cách loại bỏ các đoạn chạy và các đoạn câu). Kỹ năng viết cơ bản đôi khi được gọi là cơ chế của văn chương.',
+				icon: 'tabler:chevrons-right',
+			},
+			{
+				title: 'Nhà văn được sinh ra hay được đào tạo?',
+				description: `Nhà văn giỏi được dạy, không phải sinh ra. Ở bất kỳ cấp độ nào, người ta có thể được dạy các kỹ năng để trở thành một nhà văn giỏi và cải thiện khả năng viết của họ, duy trì chúng là điều tạo nên một nhà văn giỏi.`,
+				icon: 'tabler:chevrons-right',
+			},
+		{
+				title: 'Viết lách có còn là một nghề nghiệp không?',
+				description: `Việc làm của các nhà văn và tác giả được dự đoán sẽ tăng 4% từ năm 2022 đến năm 2032, nhanh bằng mức trung bình cho tất cả các ngành nghề. Khoảng 15.500 cơ hội cho các nhà văn và tác giả được dự kiến mỗi năm, trung bình, trong thập kỷ này.`,
+				icon: 'tabler:chevrons-right',
+			},
+		{
+				title: '5 kiểu viết là gì?',
+				description: `Năm loại văn bản chính là phơi bày, thuyết phục, tường thuật, mô tả và sáng tạo. Mỗi người phục vụ một mục đích khác nhau và sử dụng các kỹ thuật khác nhau để thực hiện nó.`,
+				icon: 'tabler:chevrons-right',
+			},
+		{
+				title: 'Tôi có thể viết mà không có kinh nghiệm?',
+				description: `Bắt đầu một doanh nghiệp viết lách tự do có thể là quá sức, nhưng nó không phải là không thể. Rất nhiều nhà văn tự do thành công bắt đầu mà không có kinh nghiệm hoặc trình độ học vấn – có những cơ hội hợp đồng biểu diễn bằng văn bản chỉ chờ bạn đăng ký chúng. Nếu bạn muốn bắt đầu viết, không có thời điểm nào tốt hơn ngày hôm nay.`,
+				icon: 'tabler:chevrons-right',
+			},
+		{
+				title: 'Tôi có thể gõ 1.000 từ trong một giờ không?',
+				description: `Viết 1.000 từ sẽ mất khoảng 25 phút đối với người viết trung bình gõ trên bàn phím và 50 phút đối với chữ viết tay. Tuy nhiên, nếu nội dung cần bao gồm nghiên cứu chuyên sâu, liên kết, trích dẫn hoặc đồ họa như cho một bài viết trên blog hoặc bài luận trung học, độ dài có thể tăng lên 3,3 giờ.`,
+				icon: 'tabler:chevrons-right',
+			},
+		]}
+	>
+	</FAQ>
+
+	<Brands
+		title="Được tin đọc bởi các khách hàng của"
+		images={[
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-facebook.png',
+				alt: 'nhavantuonglai-facebook',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-google.png',
+				alt: 'nhavantuonglai-google',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-microsoft.png',
+				alt: 'nhavantuonglai-microsoft',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-netflix.png',
+				alt: 'nhavantuonglai-netflix',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-spotify.png',
+				alt: 'nhavantuonglai-spotify',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-tiktok.png',
+				alt: 'nhavantuonglai-tiktok',
+			},
+			{
+				src: 'https://data.nhavantuonglai.com/image/clients/client-apple.png',
+				alt: 'nhavantuonglai-apple',
+			},
+		]}
+	/>
+
+	<Testimonials
+	title="Bằng chứng xã hội"
+	testimonials={[
+		{
+		testimonial: `Website của tôi được nhavantuonglai tạo ra miễn phí, không tốn phí hosting, giúp tiết kiệm được một khoảng ngân sách hàng tháng. Thật tuyệt vời.`,
+		name: 'Phạm Vy',
+		job: 'Chủ shop quần áo',
+		image: {
+			src: 'https://data.nhavantuonglai.com/image/clients/client-people-one.png',
+			alt: 'nhavantuonglai-pham-vy',
+		},
+		},
+		{
+		testimonial: `Chất lượng bài viết tốt, khi chuyển sang đội SEO họ cũng đánh giá cao và phản hồi hiệu quả top SEO, chuyển đổi rất chất lượng.`,
+		name: 'Văn Nhàn',
+		job: 'Content Leader',
+		image: {
+			src: 'https://data.nhavantuonglai.com/image/clients/client-people-two.png',
+			alt: 'nhavantuonglai-van-nhan',
+		},
+		},
+		{
+		testimonial: 'Dữ liệu trên website khác đầy đủ và chi tiết, có vẻ như được cập nhật thường xuyên, nói chung website đáng truy cập thường xuyên.',
+		name: 'Trần An',
+		job: 'Data Analysis',
+		image: {
+			src: 'https://data.nhavantuonglai.com/image/clients/client-people-three.png',
+			alt: 'nhavantuonglai-tran-an',
+		},
+		},
+	]}
+	/>
+
+	<Features
+		title="Luôn sẵn sàng hỗ trợ khi bạn cần"
+		items={[
+			{
+				title: 'Hỗ trợ nhanh',
+				description: `Bạn có thể liên lạc trực tiếp với nhavantuonglai qua số hotline đính kèm dưới đây, hoặc Instagram nếu không thích nghe điện thoại cho bất kỳ vấn đề, rắc rối nào phát sinh trong quá trình đọc lẫn trong cuộc sống của bạn.`,
+			},
+			{
+				title: 'Hỗ trợ chuyên nghiệp',
+				description: 'Bạn có thể viết thư và gửi theo địa chỉ đính kèm dưới đây trong trường hợp cần trao đổi chi tiết, chuyên nghiệp về vấn đề bản thân, hợp tác đôi bên hoặc bất kỳ thắc mắc nào muốn được trao đổi chi tiết.',
+			},
+			{
+				title: 'Hỗ trợ trực tiếp',
+				description: 'Bạn có thể đề xuất buổi hẹn gặp trực tiếp trong trường hợp cho rằng vấn đề cần trao đổi chỉ có thể làm rõ thông qua đối thoại trực tiếp. Hãy liên hệ với nhavantuonglai theo các thông tin đính kèm dưới đây để sắp xếp.',
+			},
+			{
+				title: 'Hotline',
+				description: '+84 88 686 7749',
+				icon: 'tabler:headset',
+			},
+			{
+				title: 'Email cá nhân',
+				description: 'info@nhavantuonglai.com',
+				icon: 'tabler:mail',
+			},
+			{
+				title: 'Địa chỉ',
+				description: 'Da Nang | Hue',
+				icon: 'tabler:map-pin',
+			},
+		]}
+	/>
+
+</Layout>
