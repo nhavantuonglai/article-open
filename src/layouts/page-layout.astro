@@ -6,6 +6,8 @@ import { headerData, footerData } from '~/navigation';
 
 import type { MetaData } from '~/types';
 
+import SpeedInsights from "@vercel/speed-insights/astro";
+
 export interface Props {
 	metadata?: MetaData;
 }
@@ -14,6 +16,7 @@ const { metadata } = Astro.props;
 ---
 
 <Layout metadata={metadata}>
+	<SpeedInsights/>
 	<slot name="header">
 		<Header {...headerData} isSticky showRssFeed showToggleTheme/>
 	</slot>
