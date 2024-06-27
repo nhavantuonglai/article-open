@@ -150,6 +150,13 @@ declare module 'astro:content' {
   collection: "post";
   data: InferEntrySchema<"post">
 } & { render(): Render[".md"] };
+"huong-dan-lam-tieu-ban-thuc-vat-hoa-kho.md": {
+	id: "huong-dan-lam-tieu-ban-thuc-vat-hoa-kho.md";
+  slug: "huong-dan-lam-tieu-ban-thuc-vat-hoa-kho";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
 "tieu-ban-thuc-vat-hoa-kho.md": {
 	id: "tieu-ban-thuc-vat-hoa-kho.md";
   slug: "tieu-ban-thuc-vat-hoa-kho";
