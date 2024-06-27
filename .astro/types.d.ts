@@ -143,6 +143,20 @@ declare module 'astro:content' {
   collection: "post";
   data: InferEntrySchema<"post">
 } & { render(): Render[".md"] };
+"google-one-tho-nhi-ky.md": {
+	id: "google-one-tho-nhi-ky.md";
+  slug: "google-one-tho-nhi-ky";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"tieu-ban-thuc-vat-hoa-kho.md": {
+	id: "tieu-ban-thuc-vat-hoa-kho.md";
+  slug: "tieu-ban-thuc-vat-hoa-kho";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
 };
 
 	};

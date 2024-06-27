@@ -14,17 +14,6 @@ import astrowind from './src/integration';
 
 import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin, lazyImagesRehypePlugin } from './src/utils/frontmatter.mjs';
 
-import { defineConfig } from 'astro/config';
-import vercel from '@astrojs/vercel/serverless';
- 
-export default defineConfig({
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true,
-    },
-  }),
-});
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
