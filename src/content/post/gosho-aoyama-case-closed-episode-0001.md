@@ -15,7 +15,6 @@ tags:
 
 _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng các vụ án phức tạp, hấp dẫn, kết hợp cùng những tình tiết ly kỳ, đầy bất ngờ. Mỗi vụ án đều được tác giả chăm chút kỹ lưỡng, từ cách thức gây án, động cơ, đến quá trình suy luận và phá án của Conan. Những yếu tố này không chỉ tạo nên sự hấp dẫn mà còn kích thích tư duy logic của người đọc, khiến họ không thể rời mắt khỏi trang truyện. Cùng tìm hiểu điều đó trong chương 0001 của Case Closed (Thám tử lừng danh Conan) dưới đây._
 
-
 ## Case Closed (Thám tử lừng danh Conan) Chương 0001
 
 <figure><img src="https://data.nhavantuonglai.com/image/manga/case-closed-0001-01.jpg" alt="case-closed-nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
