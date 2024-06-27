@@ -1,0 +1,38 @@
+---
+pubDatetime: 2009-11-01T10:00:00Z
+title: Oleksii Trekhleb | Javascript algorithms (Heap sort)
+description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
+featured: false
+image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0041.jpg
+tags:
+  - developer
+  - github
+  - github book
+  - github guide
+  - oleksii trekhleb
+  - trekhleb
+  - javascript
+  - learn to code
+  - training providers
+  - training materials
+---
+
+Heapsort is a comparison-based sorting algorithm.
+Heapsort can be thought of as an improved selection
+sort: like that algorithm, it divides its input into
+a sorted and an unsorted region, and it iteratively
+shrinks the unsorted region by extracting the largest
+element and moving that to the sorted region. The improvement consists of the use of a heap data structure
+rather than a linear-time search to find the maximum.
+
+![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif)
+
+![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif)
+
+## Complexity
+
+| Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
+| --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------- |
+| Heap sort         | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No        |           |
+
+<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
