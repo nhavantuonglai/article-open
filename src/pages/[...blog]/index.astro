@@ -15,6 +15,8 @@ import RelatedPosts from '~/components/blog/related-post.astro';
 
 import Features from '~/components/widgets/features.astro';
 
+import SpeedInsights from '@vercel/speed-insights/astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async () =>{
@@ -46,6 +48,9 @@ const metadata = merge(
 ---
 
 <Layout metadata={metadata}>
+
+	<SpeedInsights />
+
 	<SinglePost post={{ ...post, image: image }} url={url}/>
 
 	<ToBlogLink/>

@@ -9,6 +9,8 @@ import Brands from '~/components/widgets/brands.astro';
 import Testimonials from '~/components/widgets/testimonials.astro';
 import Features from '~/components/widgets/features.astro';
 
+import SpeedInsights from '@vercel/speed-insights/astro';
+
 const metadata = {
 	title: 'Đọc nhiều, hiểu sâu, viết hay | nhavantuonglai',
 	ignoreTitleTemplate: true,
@@ -16,6 +18,8 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
+
+	<SpeedInsights />
 
 	<Hero
 		title="Đọc nhiều, hiểu sâu, viết hay cùng nhavantuonglai."
