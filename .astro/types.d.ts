@@ -136,30 +136,9 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"post": {
-"cam-nang-du-lich-cat-ba.md": {
-	id: "cam-nang-du-lich-cat-ba.md";
-  slug: "cam-nang-du-lich-cat-ba";
-  body: string;
-  collection: "post";
-  data: InferEntrySchema<"post">
-} & { render(): Render[".md"] };
-"google-one-tho-nhi-ky.md": {
-	id: "google-one-tho-nhi-ky.md";
-  slug: "google-one-tho-nhi-ky";
-  body: string;
-  collection: "post";
-  data: InferEntrySchema<"post">
-} & { render(): Render[".md"] };
-"huong-dan-lam-tieu-ban-thuc-vat-hoa-kho.md": {
-	id: "huong-dan-lam-tieu-ban-thuc-vat-hoa-kho.md";
-  slug: "huong-dan-lam-tieu-ban-thuc-vat-hoa-kho";
-  body: string;
-  collection: "post";
-  data: InferEntrySchema<"post">
-} & { render(): Render[".md"] };
-"tieu-ban-thuc-vat-hoa-kho.md": {
-	id: "tieu-ban-thuc-vat-hoa-kho.md";
-  slug: "tieu-ban-thuc-vat-hoa-kho";
+"cam-nang-du-lich-dao-phu-quy-cu-lao-thu.md": {
+	id: "cam-nang-du-lich-dao-phu-quy-cu-lao-thu.md";
+  slug: "cam-nang-du-lich-dao-phu-quy-cu-lao-thu";
   body: string;
   collection: "post";
   data: InferEntrySchema<"post">

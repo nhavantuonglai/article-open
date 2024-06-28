@@ -57,7 +57,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post>=>
 		metadata = {},
 	} = data;
 
-	const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
+	const slug = cleanSlug(rawSlug);
 	const pubDatetime = new Date(rawpubDatetime);
 	const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
 	const category = rawCategory ? cleanSlug(rawCategory) : undefined;
@@ -134,7 +134,7 @@ export const fetchPosts = async (): Promise<Array<Post>>=>{
 	}
 
 	return _posts;
-};
+	};
 
 export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post>>=>{
 	if (!Array.isArray(slugs)) return [];
@@ -147,7 +147,7 @@ export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post
 		});
 		return r;
 	}, []);
-};
+	};
 
 export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>>=>{
 	if (!Array.isArray(ids)) return [];
@@ -185,7 +185,7 @@ export const getStaticPathsBlogPost = async () =>{
 		},
 		props: { post },
 	}));
-};
+	};
 
 export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: PaginateFunction }) =>{
 	if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];

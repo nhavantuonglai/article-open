@@ -11,17 +11,5 @@
         }
       ]
     }
-  ],
-  "redirects": [
-    {
-      "source": "article/huong-dan-lam-tieu-ban-thuc-vat-hoa-kho",
-      "destination": "article/tieu-ban-thuc-vat-hoa-kho",
-      "permanent": true
-    },
-    {
-      "source": "/article/huong-dan-dang-ky-google-drive-google-one-gia-re-tai-tho-nhi-ky",
-      "destination": "/article/google-one-tho-nhi-ky",
-      "permanent": false
-    }
   ]
 }

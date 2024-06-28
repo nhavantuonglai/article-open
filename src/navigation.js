@@ -31,7 +31,6 @@ export const footerData = {
 				{ text: 'Viết thuê', href: 'https://info.nhavantuonglai.com/viet-thue'},
 				{ text: 'Thư viện', href: 'https://info.nhavantuonglai.com/thu-vien' },
 				{ text: 'Tôn giáo', href: 'https://nhavantuonglai.com/tags/ton-giao' },
-				{ text: 'Conan', href: 'https://nhavantuonglai.com/tags/conan' },
 				{ text: 'SEO', href: 'https://nhavantuonglai.com/tags/seo' },
 				{ text: 'Lập trình', href: 'https://info.nhavantuonglai.com/developer'},
 			],
