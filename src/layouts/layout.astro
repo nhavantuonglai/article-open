@@ -14,8 +14,6 @@ import BasicScripts from '~/components/common/basic-scripts.astro';
 
 import type { MetaData as MetaDataType } from '~/types';
 
-import SpeedInsights from "@vercel/speed-insights/astro";
-
 export interface Props {
 	metadata?: MetaDataType;
 }
@@ -23,7 +21,6 @@ export interface Props {
 const { metadata = {} } = Astro.props;
 const { language, textDirection } = I18N;
 ---
-
 <!doctype html>
 <html lang={language} dir={textDirection} class="2xl:text-[20px]">
 	<head>
@@ -38,7 +35,6 @@ const { language, textDirection } = I18N;
 	</head>
 
 	<body class="antialiased text-default bg-page tracking-tight">
-		<SpeedInsights/>
 		<slot/>
 
 		<BasicScripts/>
@@ -48,5 +44,21 @@ const { language, textDirection } = I18N;
 				content-visibility: auto;
 			}
 		</style>
+
+
+		<script>
+			window.fbAsyncInit = function()
+			{
+			FB.init({
+				appId: '992983159168871',
+				xfbml: true,
+				version: 'v20.0'
+			});
+			};
+		</script>
+
+		<div id="fb-root"></div>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v20.0&appId=992983159168871" nonce="CErKuz80"></script>
+
 	</body>
 </html>

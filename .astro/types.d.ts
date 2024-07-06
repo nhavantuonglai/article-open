@@ -136,9 +136,44 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"post": {
-"cam-nang-du-lich-dao-phu-quy-cu-lao-thu.md": {
-	id: "cam-nang-du-lich-dao-phu-quy-cu-lao-thu.md";
-  slug: "cam-nang-du-lich-dao-phu-quy-cu-lao-thu";
+"kim-dung-than-dieu-hiep-lu-chuong-34.md": {
+	id: "kim-dung-than-dieu-hiep-lu-chuong-34.md";
+  slug: "kim-dung-than-dieu-hiep-lu-chuong-34";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"kim-dung-thien-long-bat-bo-chuong-12.md": {
+	id: "kim-dung-thien-long-bat-bo-chuong-12.md";
+  slug: "kim-dung-thien-long-bat-bo-chuong-12";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"kim-dung-thien-long-bat-bo-chuong-18.md": {
+	id: "kim-dung-thien-long-bat-bo-chuong-18.md";
+  slug: "kim-dung-thien-long-bat-bo-chuong-18";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"kim-dung-thien-long-bat-bo-chuong-21.md": {
+	id: "kim-dung-thien-long-bat-bo-chuong-21.md";
+  slug: "kim-dung-thien-long-bat-bo-chuong-21";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"kim-dung-thien-long-bat-bo-chuong-41.md": {
+	id: "kim-dung-thien-long-bat-bo-chuong-41.md";
+  slug: "kim-dung-thien-long-bat-bo-chuong-41";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+"kim-dung-thien-long-bat-bo-chuong-42.md": {
+	id: "kim-dung-thien-long-bat-bo-chuong-42.md";
+  slug: "kim-dung-thien-long-bat-bo-chuong-42";
   body: string;
   collection: "post";
   data: InferEntrySchema<"post">

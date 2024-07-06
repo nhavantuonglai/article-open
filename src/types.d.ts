@@ -158,7 +158,6 @@ export interface Disclaimer {
 	label?: string;
 }
 
-// COMPONENTS
 export interface CallToAction extends Omit<HTMLAttributes<'a'>, 'slot'>{
 	variant?: 'primary' | 'secondary' | 'tertiary' | 'link';
 	text?: string;

@@ -6,6 +6,7 @@ import type { ImageMetadata } from 'astro';
 import Layout from '~/layouts/page-layout.astro';
 import SinglePost from '~/components/blog/single-post.astro';
 import ToBlogLink from '~/components/blog/to-blog-link.astro';
+import Comments from '~/components/blog/comments.astro';
 
 import { getCanonical, getPermalink } from '~/utils/permalinks';
 import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
@@ -48,6 +49,8 @@ const metadata = merge(
 <Layout metadata={metadata}>
 
 	<SinglePost post={{ ...post, image: image }} url={url}/>
+
+	<Comments/>
 
 	<ToBlogLink/>
 
