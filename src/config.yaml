@@ -7,41 +7,41 @@ site:
   googleSiteVerificationId:
 
 metadata:
+  url: 'https://nhavantuonglai.com'
 
-url: 'https://nhavantuonglai.com'
+  title:
+    default: nhavantuonglai
+    template: '%s | nhavantuonglai'
 
-title:
-  default: nhavantuonglai
-  template: '%s | nhavantuonglai'
+  description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
 
-description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
+  robots:
+    index: true
+    follow: true
 
-robots:
-  index: true
-  follow: true
+  og:
+    site_name: nhavantuonglai
+    images:
+     url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0753.jpg'
+     width: 600
+     height: 407
 
-og:
-  site_name: nhavantuonglai
-  images:
-  url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0753.jpg'
-  width: 600
-  height: 407
-  type: website
+    type: website
 
-image:
-  url: 'trống, cần điền'
-  secure_url: 'https://nhavantuonglai.com'
-  type: 'image/jpeg'
-  alt: 'trống, cần điền'
+  image:
+    url: 'trống, cần điền'
+    secure_url: 'https://nhavantuonglai.com'
+    type: 'image/jpeg'
+    alt: 'trống, cần điền'
 
-twitter:
-  image: 'trống, cần điền'
-  title: 'trống, cần điền'
-  description: 'trống, cần điền'
-  twitter:card: 'trống, cần điền'
-  handle: '@nhavantuonglai'
-  site: '@nhavantuonglai'
-  cardType: summary_large_image
+  twitter:
+    image: 'trống, cần điền'
+    title: 'trống, cần điền'
+    description: 'trống, cần điền'
+    twitter:card: 'trống, cần điền'
+    handle: '@nhavantuonglai'
+    site: '@nhavantuonglai'
+    cardType: summary_large_image
 
 i18n:
   language: vi
