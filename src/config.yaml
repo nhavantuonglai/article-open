@@ -7,22 +7,41 @@ site:
   googleSiteVerificationId:
 
 metadata:
-    title: 'trống, cần điền'
-    type: 'website'
-    url: 'https://nhavantuonglai.com'
-    image: 'trống, cần điền'
 
-    image:url: 'trống, cần điền'
-    image:secure_url: 'trống, cần điền'
-    image:type: 'image/jpeg'
-    image:width: '1200'
-    image:height: '630'
-    image:alt: 'trống, cần điền'
+url: 'https://nhavantuonglai.com'
 
-    twitter:image: 'trống, cần điền'
-    twitter:card: 'trống, cần điền'
-    twitter:title: 'trống, cần điền'
-    twitter:description: 'trống, cần điền'
+title:
+  default: nhavantuonglai
+  template: '%s | nhavantuonglai'
+
+description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
+
+robots:
+  index: true
+  follow: true
+
+og:
+  site_name: nhavantuonglai
+  images:
+  url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0753.jpg'
+  width: 600
+  height: 407
+  type: website
+
+image:
+  url: 'trống, cần điền'
+  secure_url: 'https://nhavantuonglai.com'
+  type: 'image/jpeg'
+  alt: 'trống, cần điền'
+
+twitter:
+  image: 'trống, cần điền'
+  title: 'trống, cần điền'
+  description: 'trống, cần điền'
+  twitter:card: 'trống, cần điền'
+  handle: '@nhavantuonglai'
+  site: '@nhavantuonglai'
+  cardType: summary_large_image
 
 i18n:
   language: vi
