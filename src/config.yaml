@@ -7,22 +7,22 @@ site:
   googleSiteVerificationId:
 
 metadata:
-    title: content="<trống, cần điền>"
+    title: content="trống, cần điền"
     type: content="website"
     url: content="https://nhavantuonglai.com"
-    image: content="<trống, cần điền>"
+    image: content="trống, cần điền"
 
-    image:url: content="<trống, cần điền>"
-    image:secure_url: content="<trống, cần điền>"
+    image:url: content="trống, cần điền"
+    image:secure_url: content="trống, cần điền"
     image:type: content="image/jpeg"
     image:width: content="1200"
     image:height: content="630"
-    image:alt: content="<trống, cần điền>"
+    image:alt: content="trống, cần điền"
 
-    twitter:image: content="<trống, cần điền>"
-    twitter:card: content="<trống, cần điền>"
-    twitter:title: content="<trống, cần điền>"
-    twitter:description: content="<trống, cần điền>"
+    twitter:image: content="trống, cần điền"
+    twitter:card: content="trống, cần điền"
+    twitter:title: content="trống, cần điền"
+    twitter:description: content="trống, cần điền"
 
 i18n:
   language: vi
