@@ -7,30 +7,23 @@ site:
   googleSiteVerificationId:
 
 metadata:
-  title:
-    default: nhavantuonglai
-    template: '%s | nhavantuonglai'
-  description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
-  robots:
-    index: true
-    follow: true
-  openGraph:
-    site_name: nhavantuonglai
-    images:
-      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0344.jpg'
-      width: 600
-      height: 407
-    type: website
-  twitter:
-    title: '@nhavantuonglai'
-    handle: '@nhavantuonglai'
-    site: '@nhavantuonglai'
-    cardType: summary_large_image
-    images:
-      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0344.jpg'
-      width: 600
-      height: 407
-    description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
+    title: content="<trống, cần điền>"
+    type: content="website"
+    url: content="https://nhavantuonglai.com"
+    image: content="<trống, cần điền>"
+
+    image:url: content="<trống, cần điền>"
+    image:secure_url: content="<trống, cần điền>"
+    image:type: content="image/jpeg"
+    image:width: content="1200"
+    image:height: content="630"
+    image:alt: content="<trống, cần điền>"
+
+    twitter:image: content="<trống, cần điền>"
+    twitter:card: content="<trống, cần điền>"
+    twitter:title: content="<trống, cần điền>"
+    twitter:description: content="<trống, cần điền>"
+
 i18n:
   language: vi
   textDirection: ltr
