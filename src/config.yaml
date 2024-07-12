@@ -22,10 +22,15 @@ metadata:
       height: 407
     type: website
   twitter:
+    title: '@nhavantuonglai'
     handle: '@nhavantuonglai'
     site: '@nhavantuonglai'
     cardType: summary_large_image
-
+    images:
+      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0344.jpg'
+      width: 600
+      height: 407
+    description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
 i18n:
   language: vi
   textDirection: ltr
