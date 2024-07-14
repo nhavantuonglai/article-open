@@ -26,11 +26,14 @@ const {
 ---
 
 <WidgetWrapper
+
 	id={id}
 	isDark={isDark}
 	containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
 	bg={bg}
+
 >
+
 	<Headline
 		title={title}
 		subtitle={subtitle}
@@ -41,6 +44,7 @@ const {
 			subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
 		}}
 	/>
+
 	<div class="mb-8 md:mx-auto md:mb-12 text-center">
 		<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
 			<div class="md:basis-1/2 self-center">
@@ -68,6 +72,7 @@ const {
 					}}
 				/>
 			</div>
+
 			<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
 				{
 					image && (
@@ -91,4 +96,5 @@ const {
 			</div>
 		</div>
 	</div>
+
 </WidgetWrapper>

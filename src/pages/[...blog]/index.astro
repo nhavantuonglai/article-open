@@ -4,17 +4,25 @@ import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 import merge from 'lodash.merge';
 import type { ImageMetadata } from 'astro';
 import Layout from '~/layouts/page-layout.astro';
+
 import SinglePost from '~/components/blog/single-post.astro';
 import ToBlogLink from '~/components/blog/to-blog-link.astro';
-import Comments from '~/components/blog/comments.astro';
+import Floating from '~/components/blog/floating.astro';
+import RelatedPosts from '~/components/blog/related-post.astro';
 
 import { getCanonical, getPermalink } from '~/utils/permalinks';
 import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
 import { findImage } from '~/utils/images';
 import type { MetaData } from '~/types';
-import RelatedPosts from '~/components/blog/related-post.astro';
 
 import Features from '~/components/widgets/features.astro';
+
+import CTA from '~/components/content/call-to-action.astro';
+import Youtube from '~/components/content/youtube-short.astro';
+import Soundcloud from '~/components/content/soundcloud.astro';
+
+import Anticopy from '~/components/blog/anti-copy.astro';
+import Comments from '~/components/blog/comments.astro';
 
 export const prerender = true;
 
@@ -50,63 +58,20 @@ const metadata = merge(
 
 	<SinglePost post={{ ...post, image: image }} url={url}/>
 
+	<Anticopy/>
+
 	<Comments/>
 
 	<ToBlogLink/>
 
 	<RelatedPosts post={post}/>
 
-	<Features
-		title="Một vài sản phẩm đã dựng"
-		items={[
-			{
-				title: 'Ép tiêu bản hoa khô',
-				description: '<iframe width="100%" height="530" src="https://www.youtube.com/embed/bBTa3rAcBWI" title="nhavantuonglai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
-			},
-			{
-				title: 'Cồn Hến sông Hương',
-				description: '<iframe width="100%" height="530" src="https://www.youtube.com/embed/8QIw1gexNR4" title="nhavantuonglai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
-			},
-			{
-				title: 'Hoàng hôn đầm Lập An',
-				description: '<iframe width="100%" height="530" src="https://www.youtube.com/embed/6CWX6av703s" title="nhavantuonglai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
-			},
-		]}
-	/>
+	<Youtube/>
 
-	<Features
-		title="Luôn sẵn sàng hỗ trợ khi bạn cần"
-		items={[
-			{
-				title: 'Hỗ trợ nhanh',
-				description: `Bạn có thể liên lạc trực tiếp với nhavantuonglai qua số hotline đính kèm dưới đây, hoặc Instagram nếu không thích nghe điện thoại cho bất kỳ vấn đề, rắc rối nào phát sinh trong quá trình đọc lẫn trong cuộc sống của bạn.`,
-			},
-			{
-				title: 'Hỗ trợ chuyên nghiệp',
-				description: 'Bạn có thể viết thư và gửi theo địa chỉ đính kèm dưới đây trong trường hợp cần trao đổi chi tiết, chuyên nghiệp về vấn đề bản thân, hợp tác đôi bên hoặc bất kỳ thắc mắc nào muốn được trao đổi chi tiết.',
-			},
-			{
-				title: 'Hỗ trợ trực tiếp',
-				description: 'Bạn có thể đề xuất buổi hẹn gặp trực tiếp trong trường hợp cho rằng vấn đề cần trao đổi chỉ có thể làm rõ thông qua đối thoại trực tiếp. Hãy liên hệ với nhavantuonglai theo các thông tin đính kèm dưới đây để sắp xếp.',
-			},
-			{
-				title: 'Hotline',
-				description: '+84 88 686 7749',
-				icon: 'tabler:headset',
-			},
-			{
-				title: 'Email cá nhân',
-				description: 'info@nhavantuonglai.com',
-				icon: 'tabler:mail',
-			},
-			{
-				title: 'Địa chỉ',
-				description: 'Da Nang | Hue',
-				icon: 'tabler:map-pin',
-			},
-		]}
-	/>
+	<CTA/>
 
-	<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1842301365&color=%23ff725e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nhavantuonglai" title="nhavantuonglai" target="_blank" style="color: #cccccc; text-decoration: none;">nhavantuonglai</a> · <a href="https://soundcloud.com/nhavantuonglai/sets/ghiblis-piano" title="Ghiblis Music Piano Playlist" target="_blank" style="color: #cccccc; text-decoration: none;">Ghiblis Music Piano Playlist</a></div>
+	<Floating/>
+
+	<Soundcloud/>
 
 </Layout>

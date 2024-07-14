@@ -58,6 +58,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 											class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
 											href={href}
 											aria-label={ariaLabel}
+											target="_blank"
 										>
 											<Fragment set:html={text}/>
 										</a>
@@ -79,6 +80,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 									class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center"
 									aria-label={ariaLabel}
 									href={href}
+									target="_blank"
 								>
 									{icon && <Icon name={icon} class="w-5 h-5"/>}
 									<Fragment set:html={text}/>
@@ -90,15 +92,12 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 					''
 				)
 			}
-			<img
-				src ="https://images.dmca.com/badges/dmca_protected_sml_120b.png?id=23017359-d24b-46a6-8b23-3da1b75aa49a"
-				alt="dmca protection nhavantuonglai"
-			/>
 
+			<a href="//www.dmca.com/protection/status.aspx?id=23017359-d24b-46a6-8b23-3da1b75aa49a" title="dmca protection nhavantuonglai" class="dmca-badge" > <img src ="https://images.dmca.com/badges/dmca_protected_sml_120b.png?id=23017359-d24b-46a6-8b23-3da1b75aa49a"alt="dmca protection nhavantuonglai"/>
 			</a>
-			<script
-				src="https://data.nhavantuonglai.com/javascript/dcma-badge.js">
+			<script src="https://data.nhavantuonglai.com/javascript/dcma-badge.js">
 			</script>
+
 			<div class="text-sm mr-4 dark:text-muted">
 				<Fragment set:html={footNote}/>
 			</div>

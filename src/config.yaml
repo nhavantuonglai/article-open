@@ -8,26 +8,23 @@ site:
 
 metadata:
   title:
-    default: "nhavantuonglai"
-    template: "%s | nhavantuonglai"
+    default: nhavantuonglai
+    template: '%s | nhavantuonglai'
   description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
   robots:
     index: true
     follow: true
-  og:
-    site_name: "nhavantuonglai"
-    image:
-      url: "https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0344.jpg"
+  openGraph:
+    site_name: nhavantuonglai
+    images:
+      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0753.jpg'
       width: 600
       height: 407
     type: website
   twitter:
-    title: "%s | nhavantuonglai"
-    handle: "@nhavantuonglai"
-    site: "@nhavantuonglai"
+    handle: '@nhavantuonglai'
+    site: '@nhavantuonglai'
     cardType: summary_large_image
-    description: "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng."
-    image: "https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0344.jpg"
 
 i18n:
   language: vi

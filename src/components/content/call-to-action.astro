@@ -1,0 +1,55 @@
+---
+import Contact from '~/components/widgets/contact.astro';
+---
+
+<Contact
+
+	title="Liên lạc qua Instagram"
+	subtitle="Bạn có thể liên lạc trực tiếp với nhavantuonglai qua Instagram cho bất kỳ vấn đề, rắc rối nào phát sinh trong quá trình đọc bài lẫn trong cuộc sống của bạn."
+
+	isReversed={true}
+	callToAction={{
+		text: 'Nhắn tin',
+		href: 'https://info.nhavantuonglai.com/instagram',
+	}}
+
+	items={[
+		{
+		title: 'Tức thời',
+		description: 'nhavantuonglai sẽ cố gắng phản hồi nhanh chóng nhất có thể, giúp giải quyết tốt vấn đề bạn đang gặp.',
+		icon: 'tabler:globe',
+		},
+		{
+		title: 'Thân thiện',
+		description:
+			'Cuộc trao đổi sẽ diễn ra tự nhiên và thoải mái, giúp bạn dễ dàng chia sẻ và tìm hiểu được tốt hơn.',
+		icon: 'tabler:message-star',
+		},
+	]}
+
+/>
+
+<Contact
+
+	title="Liên lạc qua email"
+	subtitle="Bạn có thể viết thư và gửi theo địa chỉ đính kèm dưới đây trong trường hợp cần trao đổi chi tiết, chuyên nghiệp về vấn đề bản thân, hợp tác đôi bên hoặc bất kỳ thắc mắc nào muốn được trao đổi chi tiết."
+
+	callToAction={{
+		text: 'Gửi mail',
+		href: 'mailto:info@nhavantuonglai.com',
+	}}
+
+	items={[
+		{
+		title: 'Tin cậy',
+		description: 'nhavantuonglai đảm bảo tính chính xác và rõ ràng với các thông tin được cung cấp.',
+		icon: 'tabler:globe',
+		},
+		{
+		title: 'Chuyên nghiệp',
+		description:
+			'Thư từ và các nội dung liên quan được trình bày chuyên nghiệp, rõ ràng và đảm bảo kết quả phản hồi tốt nhất.',
+		icon: 'tabler:message-star',
+		},
+	]}
+/>
