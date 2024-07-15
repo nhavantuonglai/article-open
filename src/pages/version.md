@@ -15,6 +15,18 @@ Việc cập nhật được diễn ra tự động, không ảnh hưởng đế
 
 ## Version 05
 
+### v05.03.01
+
+**Cập nhật trang**
+
+_Không áp dụng_
+
+**Tối ưu trang**
+
+1. Tối ưu toàn bộ code hiển thị.
+
+2. Tối ưu popup chat.
+
 ### v05.02.04
 
 **Cập nhật trang**

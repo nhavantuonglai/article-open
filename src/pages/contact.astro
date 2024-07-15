@@ -1,16 +1,22 @@
 ---
-import Layout from '~/layouts/page-layout.astro';
-
-import CTA from '~/components/content/call-to-action.astro';
+import Layout from '~/layouts/layout.astro';
+import Contact from '~/components/widgets/contact.astro';
 
 const metadata = {
-	title: 'Luôn sẵn sàng hỗ trợ khi bạn cần | nhavantuonglai.',
+	title: 'Sẵn sàng hỗ trợ khi bạn cần | nhavantuonglai.',
 	ignoreTitleTemplate: true,
+	noindex: true,
 };
 ---
-
 <Layout metadata={metadata}>
 
-	<CTA/>
+	<Contact
+		subtitle="nhavantuonglai thường xuyên cập nhật thông tin, chia sẻ bài viết mới, và tổ chức các sự kiện đặc biệt trên Instagram, giúp bạn luôn được cập nhật nhanh chóng và chính xác."
+		callToAction={{
+			text: 'Nhắn tin',
+			href: 'https://info.nhavantuonglai.com/instagram',
+		}}
 
-</Layout>
+	<Contact/>
+
+<Layout>

@@ -1,6 +1,42 @@
-<floating-chat id="floatingChat" content="https://nhavantuonglai.com/contact"/>
+<floating-chat id="floatingChat" class="floatelement" content="https://nhavantuonglai.com/contact"/>
 
 <script>
 	const floatingChat = document.getElementById('floatingChat')
 	floatingChat.$on('open', e => alert('Opened'))
+
+	class DisplayElement {
+		constructor(element) {
+			this.element = element;
+			this.maxHeight = 300;
+			this.maxWidth = 300;
+			this.hideThreshold = 960;
+
+			this.applyMaxSize();
+
+			window.addEventListener('resize', () => this.checkWindowSize());
+
+			this.checkWindowSize();
+		}
+
+		applyMaxSize() {
+			this.element.style.maxHeight = `${this.maxHeight}px`;
+			this.element.style.maxWidth = `${this.maxWidth}px`;
+		}
+
+		checkWindowSize() {
+			if (window.innerWidth < this.hideThreshold) {
+				this.element.style.display = 'none';
+			} else {
+				this.element.style.display = 'block';
+			}
+		}
+	}
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const element = document.querySelector('.floatelement');
+		if (element) {
+			new DisplayElement(element);
+		}
+	});
+
 </script>

@@ -16,8 +16,12 @@ export const headerData = {
 			href: 'https://nhavantuonglai.com/services',
 		},
 		{
-			text: 'Liên hệ',
-			href: 'https://nhavantuonglai.com/contact',
+			text: 'Mã nguồn',
+			href: 'https://info.nhavantuonglai.com/github',
+		},
+		{
+			text: 'Trạng thái',
+			href: 'https://info.nhavantuonglai.com/openstatus',
 		},
 	],
 
@@ -64,11 +68,11 @@ export const footerData = {
 				},
 				{
 					text: 'Âm thanh',
-					href: 'https://nhavantuonglai.com/tags/haruki-murakami'
+					href: 'https://nhavantuonglai.com/tags/audiophile'
 				},
 				{
 					text: 'Kỹ năng viết',
-					href: 'https://nhavantuonglai.com/tags/gosho-aoyama'
+					href: 'https://nhavantuonglai.com/tags/ky-nang-viet'
 				},
 			],
 		},
@@ -125,7 +129,7 @@ export const footerData = {
 			href: 'https://nhavantuonglai.com/policy'
 		},
 		{
-			text: 'Cập nhật',
+			text: 'Phiên bản',
 			href: 'https://nhavantuonglai.com/version'
 		},
 	],
