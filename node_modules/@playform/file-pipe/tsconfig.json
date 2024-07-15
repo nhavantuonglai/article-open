@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"outDir": "Target"
+	},
+	"extends": "@playform/build/Target/Notation/TypeScript",
+	"include": ["Source"]
+}
