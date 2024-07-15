@@ -14,6 +14,8 @@ import Features from '~/components/widgets/features.astro';
 import Hero from '~/components/content/hero.astro';
 import CTA from '~/components/content/call-to-action.astro';
 
+import Flowsdata from '~/components/common/flowsdata.astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) =>{
@@ -48,7 +50,10 @@ const metadata = {
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
 	</section>
 
+	<Flowsdata/>
+
 	<CTA/>
+
 	<Floating/>
 
 </Layout>

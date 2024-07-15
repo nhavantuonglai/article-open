@@ -31,7 +31,7 @@ export const headerData = {
 export const footerData = {
 	links: [
 		{
-			title: 'Bài viết',
+			title: 'Danh mục',
 			links: [
 				{
 					text: 'Viết lách',
@@ -46,6 +46,15 @@ export const footerData = {
 					href: 'https://info.nhavantuonglai.com/thu-vien'
 				},
 				{
+					text: 'Lập trình',
+					href: 'https://info.nhavantuonglai.com/developer'
+				},
+				],
+		},
+		{
+			title: 'Thư mục',
+			links: [
+				{
 					text: 'Tôn giáo',
 					href: 'https://nhavantuonglai.com/tags/ton-giao'
 				},
@@ -54,10 +63,14 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/tags/seo'
 				},
 				{
-					text: 'Lập trình',
-					href: 'https://info.nhavantuonglai.com/developer'
+					text: 'Âm thanh',
+					href: 'https://nhavantuonglai.com/tags/haruki-murakami'
 				},
-				],
+				{
+					text: 'Kỹ năng viết',
+					href: 'https://nhavantuonglai.com/tags/gosho-aoyama'
+				},
+			],
 		},
 		{
 			title: 'Tác giả',
@@ -78,51 +91,26 @@ export const footerData = {
 					text: 'Haruki Murakami',
 					href: 'https://nhavantuonglai.com/tags/haruki-murakami'
 				},
-				{
-					text: 'Gosho Aoyama',
-					href: 'https://nhavantuonglai.com/tags/gosho-aoyama'
-					},
-				{
-					text: 'Rachel Carson',
-					href: 'https://nhavantuonglai.com/tags/rachel-carson'
-				},
 			],
 		},
 		{
-			title: 'Hỗ trợ',
+			title: 'Tác phẩm',
 			links: [
 				{
-					text: 'Fanpage',
-					href: 'https://info.nhavantuonglai.com/fanpage'
+					text: 'Đường xưa mây trắng',
+					href: 'https://nhavantuonglai.com/tags/duong-xua-may-trang'
 				},
 				{
-					text: 'Facebook',
-					href: 'https://info.nhavantuonglai.com/facebook'
-				},
-			],
-		},
-		{
-			title: 'Tài nguyên',
-			links: [
-				{
-					text: 'Adobe Stock',
-					href: 'https://info.nhavantuonglai.com/stock'
+					text: 'Niên lịch miền gió cát',
+					href: 'https://nhavantuonglai.com/tags/nien-lich-mien-gio-cat'
 				},
 				{
-					text: '500px',
-					href: 'https://info.nhavantuonglai.com/500px'
+					text: 'Chim vặn dây cót',
+					href: 'https://nhavantuonglai.com/tags/bien-nien-ky-chim-van-day-cot'
 				},
 				{
-					text: 'Freepik',
-					href: 'https://info.nhavantuonglai.com/freepik'
-				},
-				{
-					text: 'Shutterstock',
-					href: 'https://info.nhavantuonglai.com/shutterstock'
-				},
-				{
-					text: 'Flickr',
-					href: 'https://info.nhavantuonglai.com/flickr'
+					text: 'Thần điêu hiệp lữ',
+					href: 'https://nhavantuonglai.com/tags/than-dieu-hiep-lu'
 				},
 			],
 		},

@@ -12,6 +12,8 @@ import CTA from '~/components/content/call-to-action.astro';
 
 import Features from '~/components/widgets/features.astro';
 
+import Flowsdata from '~/components/common/flowsdata.astro';
+
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
 
 export const prerender = true;
@@ -53,7 +55,10 @@ const metadata = {
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
 	</section>
 
+	<Flowsdata/>
+
 	<CTA/>
+
 	<Floating/>
 
 </Layout>
