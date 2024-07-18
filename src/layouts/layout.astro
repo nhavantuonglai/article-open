@@ -1,0 +1,64 @@
+---
+import '~/assets/styles/tailwind.css';
+
+import { I18N } from 'nhavantuonglai:config';
+
+import CommonMeta from '~/components/common/common-meta.astro';
+import Favicons from '~/components/favicons.astro';
+import CustomStyles from '~/components/custom-styles.astro';
+import ApplyColorMode from '~/components/common/apply-color-mode.astro';
+import Metadata from '~/components/common/metadata.astro';
+import SiteVerification from '~/components/common/site-verification.astro';
+import Analytics from '~/components/common/analytics.astro';
+import BasicScripts from '~/components/common/basic-scripts.astro';
+
+import type { MetaData as MetaDataType } from '~/types';
+
+export interface Props {
+	metadata?: MetaDataType;
+}
+
+const { metadata = {} } = Astro.props;
+const { language, textDirection } = I18N;
+---
+<!doctype html>
+<html lang={language} dir={textDirection} class="2xl:text-[20px]">
+	<head>
+		<script defer src='https://data.nhavantuonglai.com/javascript/floating.js'></script>
+		<CommonMeta/>
+		<Favicons/>
+		<CustomStyles/>
+		<ApplyColorMode/>
+		<Metadata {...metadata}/>
+		<SiteVerification/>
+		<Analytics/>
+
+	</head>
+
+	<body class="antialiased text-default bg-page tracking-tight">
+		<slot/>
+
+		<BasicScripts/>
+
+		<style is:global>
+			img {
+				content-visibility: auto;
+			}
+		</style>
+
+		<script>
+			window.fbAsyncInit = function()
+			{
+			FB.init({
+				appId: '992983159168871',
+				xfbml: true,
+				version: 'v20.0'
+			});
+			};
+		</script>
+
+		<div id="fb-root"></div>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v20.0&appId=992983159168871" nonce="CErKuz80"></script>
+
+	</body>
+</html>
