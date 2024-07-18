@@ -10,6 +10,9 @@ import Floating from '~/components/blog/floating.astro';
 import Hero from '~/components/content/hero.astro';
 import CTA from '~/components/content/call-to-action.astro';
 
+import Youtube from '~/components/content/youtube-short.astro';
+import Soundcloud from '~/components/content/soundcloud.astro';
+
 import Features from '~/components/widgets/features.astro';
 
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
@@ -39,6 +42,8 @@ const metadata = {
 
 <Layout metadata={metadata}>
 
+	<Floating/>
+
 	<Hero/>
 
 	<section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
@@ -55,6 +60,8 @@ const metadata = {
 
 	<CTA/>
 
-	<Floating/>
+	<Youtube/>
+
+	<Soundcloud/>
 
 </Layout>

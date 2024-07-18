@@ -16,12 +16,8 @@ export const headerData = {
 			href: 'https://nhavantuonglai.com/services',
 		},
 		{
-			text: 'Mã nguồn',
-			href: 'https://info.nhavantuonglai.com/github',
-		},
-		{
-			text: 'Trạng thái',
-			href: 'https://info.nhavantuonglai.com/openstatus',
+			text: 'Liên hệ',
+			href: 'https://nhavantuonglai.com/contact',
 		},
 	],
 

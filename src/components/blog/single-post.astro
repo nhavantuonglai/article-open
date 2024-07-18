@@ -20,6 +20,7 @@ const { Content } = post;
 
 <section class="py-16 max-w-7xl mx-auto">
 	<article>
+
 		<header class={post.image ? '' : ''}>
 			<h1
 				class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading"
@@ -31,6 +32,7 @@ const { Content } = post;
 			>
 				{post.description}
 			</p>
+
 			<div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
 				<p>
 					<Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400"/>
@@ -43,6 +45,7 @@ const { Content } = post;
 						)
 					}
 				</p>
+
 			</div>
 			{
 				post.image ? (
@@ -64,16 +67,22 @@ const { Content } = post;
 				)
 			}
 		</header>
+
 		<div
 			class="text-justify mx-auto px-6 sm:px-6 max-w-3xl prose prose-md text-xl lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-accent prose-img:rounded-md prose-img:shadow-lg mt-4 prose-headings:scroll-mt-[80px]"
 		>
+
 		{Content ? <Content/>: <Fragment set:html={post.content || ''}/>}
 		</div>
+
 		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
 			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
 		</div>
+
 		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
 			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500 dark:text-slate-600"/>
 		</div>
+
 	</article>
+
 </section>

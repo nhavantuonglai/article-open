@@ -10,6 +10,8 @@ import ToBlogLink from '~/components/blog/to-blog-link.astro';
 import Floating from '~/components/blog/floating.astro';
 import RelatedPosts from '~/components/blog/related-post.astro';
 
+import Anticopy from '~/components/blog/anti-copy.astro';
+
 import { getCanonical, getPermalink } from '~/utils/permalinks';
 import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
 import { findImage } from '~/utils/images';
@@ -21,7 +23,6 @@ import CTA from '~/components/content/call-to-action.astro';
 import Youtube from '~/components/content/youtube-short.astro';
 import Soundcloud from '~/components/content/soundcloud.astro';
 
-import Anticopy from '~/components/blog/anti-copy.astro';
 import Comments from '~/components/blog/comments.astro';
 
 export const prerender = true;
@@ -56,9 +57,11 @@ const metadata = merge(
 
 <Layout metadata={metadata}>
 
-	<SinglePost post={{ ...post, image: image }} url={url}/>
+	<Floating/>
 
 	<Anticopy/>
+
+	<SinglePost post={{ ...post, image: image }} url={url}/>
 
 	<Comments/>
 
@@ -66,11 +69,9 @@ const metadata = merge(
 
 	<RelatedPosts post={post}/>
 
-	<Youtube/>
-
 	<CTA/>
 
-	<Floating/>
+	<Youtube/>
 
 	<Soundcloud/>
 
