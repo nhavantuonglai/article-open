@@ -37,6 +37,7 @@ declare module 'astro:content' {
 		E extends ValidContentEntrySlug<C> | (string & {}),
 	>(
 		collection: C,
+		// Note that this has to accept a regular string too, for SSR
 		entrySlug: E
 	): E extends ValidContentEntrySlug<C>
 		? Promise<CollectionEntry<C>>
@@ -93,6 +94,7 @@ declare module 'astro:content' {
 		? Promise<DataEntryMap[C][E]>
 		: Promise<CollectionEntry<C> | undefined>;
 
+	/** Resolve an array of entry references from the same collection */
 	export function getEntries<C extends keyof ContentEntryMap>(
 		entries: {
 			collection: C;
@@ -120,7 +122,9 @@ declare module 'astro:content' {
 					id: keyof DataEntryMap[C];
 				}
 	>;
-
+	// Allow generic `string` to avoid excessive type errors in the config
+	// if `dev` is not running to update as you edit.
+	// Invalid collection names will be caught at build time.
 	export function reference<C extends string>(
 		collection: C
 	): import('astro/zod').ZodEffects<import('astro/zod').ZodString, never>;
@@ -129,6 +133,19 @@ declare module 'astro:content' {
 	type InferEntrySchema<C extends keyof AnyEntryMap> = import('astro/zod').infer<
 		ReturnTypeOrOriginal<Required<ContentConfig['collections'][C]>['schema']>
 	>;
+
+	type ContentEntryMap = {
+		"post": {
+"thich-nhat-hanh-tuyen-tap.md": {
+	id: "thich-nhat-hanh-tuyen-tap.md";
+  slug: "thich-nhat-hanh-tuyen-tap";
+  body: string;
+  collection: "post";
+  data: InferEntrySchema<"post">
+} & { render(): Render[".md"] };
+};
+
+	};
 
 	type DataEntryMap = {
 		
