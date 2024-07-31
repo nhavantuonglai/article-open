@@ -23,6 +23,7 @@ import CTA from '~/components/content/call-to-action.astro';
 import Youtube from '~/components/content/youtube-short.astro';
 import Soundcloud from '~/components/content/soundcloud.astro';
 
+import Progress from '~/components/blog/progress.astro';
 import Comments from '~/components/blog/comments.astro';
 
 export const prerender = true;
@@ -60,6 +61,8 @@ const metadata = merge(
 	<Floating/>
 
 	<Anticopy/>
+
+	<Progress/>
 
 	<SinglePost post={{ ...post, image: image }} url={url}/>
 
