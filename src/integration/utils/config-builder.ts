@@ -130,12 +130,12 @@ const getI18N = (config: Config) =>{
 const getAppBlog = (config: Config) =>{
 	const _default = {
 		isEnabled: false,
-		postsPerPage: 6,
+		postsPerPage: 10,
 		isRelatedPostsEnabled: false,
 		relatedPostsCount: 4,
 		post: {
 			isEnabled: true,
-			permalink: '/blog/%slug%',
+			permalink: '/article/%slug%',
 			robots: {
 				index: true,
 				follow: true,
@@ -143,15 +143,7 @@ const getAppBlog = (config: Config) =>{
 		},
 		list: {
 			isEnabled: true,
-			pathname: 'blog',
-			robots: {
-				index: true,
-				follow: true,
-			},
-		},
-		category: {
-			isEnabled: true,
-			pathname: 'category',
+			pathname: 'article',
 			robots: {
 				index: true,
 				follow: true,
@@ -159,7 +151,7 @@ const getAppBlog = (config: Config) =>{
 		},
 		tag: {
 			isEnabled: true,
-			pathname: 'tag',
+			pathname: 'tags',
 			robots: {
 				index: false,
 				follow: true,

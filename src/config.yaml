@@ -4,8 +4,6 @@ site:
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId:
-
 metadata:
   title:
     default: nhavantuonglai
