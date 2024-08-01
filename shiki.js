@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 import shiki from 'shiki';
 
 const MyComponent = () => {
