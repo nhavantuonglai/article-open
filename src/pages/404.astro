@@ -2,10 +2,6 @@
 import Layout from '~/layouts/page-layout.astro';
 import { getHomePermalink} from '~/utils/permalinks';
 
-import Article from '~/components/content/article.astro';
-import CTA from '~/components/content/call-to-action.astro';
-import Floating from '~/components/blog/floating.astro';
-
 const title = `Đã xảy ra lỗi`;
 ---
 
@@ -20,15 +16,13 @@ const title = `Đã xảy ra lỗi`;
 				<p class="mt-4 mb-8 text-lg justify-center text-muted dark:text-slate-400">
 					Một hoặc nhiều các vấn đề sau đã phát sinh: website bảo trì, link không khả dụng, quyền truy cập hạn chế.
 				</p>
+
+				<meta http-equiv="refresh" content="1;url=https://nhavantuonglai.com/">
+
 				<a rel="noopener noreferrer" href={getHomePermalink()} class="btn ml-4">Về nguồn.</a>
 			</div>
 		</div>
 	</section>
 
-	<Article/>
-
-	<CTA/>
-
-	<Floating/>
 
 </Layout>
