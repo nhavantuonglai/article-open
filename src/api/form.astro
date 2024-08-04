@@ -1,37 +1,6 @@
 ---
 import type { Form as Props } from '~/types';
 import Button from '~/components/ui/button.astro';
-import type { APIRoute } from 'astro';
-import nodemailer from 'nodemailer';
-
-export const post: APIRoute = async ({ request }) => {
-	const formData = await request.formData();
-	const name = formData.get('name');
-	const email = formData.get('email');
-
-	const transporter = nodemailer.createTransport({
-		service: 'gmail',
-		auth: {
-			user: 'info@nhavantuonglai.com',
-			pass: 'uehiseilqrtecfpu'
-		}
-	});
-
-	const mailOptions = {
-		from: 'info@nhavantuonglai.com',
-		to: 'info@nhavantuonglai.com',
-		subject: 'Tin nhắn mới từ ${name} | nhavantuonglai.com',
-		text: `Name: ${name}\nEmail: ${email}`
-	};
-
-	try {
-		await transporter.sendMail(mailOptions);
-		return new Response(JSON.stringify({ message: 'Email đã gửi thành công.' }), { status: 200 });
-	} catch (error) {
-		return new Response(JSON.stringify({ message: 'Email đã gửi thất bại.', error: error.message }), { status: 500 });
-	}
-
-};
 
 const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } = Astro.props;
 
@@ -103,3 +72,7 @@ const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } 
 	}
 
 </form>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
