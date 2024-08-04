@@ -1,17 +1,42 @@
 ---
-import Contact from '~/components/widgets/contact.astro';
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+
 ---
 
-<Contact
 
-	title="Liên lạc thông qua Instagram"
-	subtitle="Thông qua Instagram, bạn có thể trao đổi trực tiếp và tức thời, cũng như cập nhật những thông tin mới nhất từ nhavantuonglai."
+<form action="https://formspree.io/f/xvgpalrg" method="post">
 
-	isReversed={true}
+
+	<div class="mb-6 relative mx-auto max-w-7xl px-4 md:px-6 text-default">
+
+		<Fragment slot="content">
+			<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Đăng ký thông tin</h3>
+		</Fragment>
+
+		<label for="name" class="mb-4 block text-sm font-medium">Họ và tên</label>
+		<input name="Họ và tên" id="name" type="name" class="mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+		<label for="email" class="mb-4 block text-sm font-medium">Email liên lạc</label>
+		<input email="Email liên lạc" id="email" type="email" class="mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+		<label for="content" class="mb-4 block text-sm font-medium">Nội dung trao đổi</label>
+		<input content="Nội dung trao đổi" id="content" type="content" class="mb-4 py-6 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+	<div/>
+
+  <button type="submit" class="btn-primary mb-12 w-auto">Gửi form</button>
+
+</form>
+
+
+<CTA
+
 	callToAction={{
 		text: 'Nhắn tin',
 		href: 'https://info.nhavantuonglai.com/instagram',
 	}}
+
 
 	items={[
 		{
@@ -28,12 +53,22 @@ import Contact from '~/components/widgets/contact.astro';
 		},
 	]}
 
-/>
+	image={{
+		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0040.jpg',
+		alt: 'viet-bai-chuan-seo',
+	}}
+	>
 
-<Contact
+	<Fragment slot="content">
+		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Liên lạc thông qua Instagram</h3>
+		Thông qua Instagram, bạn có thể trao đổi trực tiếp và tức thời, cũng như cập nhật những thông tin mới nhất từ nhavantuonglai.
+	</Fragment>
 
-	title="Trao đổi trên email"
-	subtitle="Thông qua email cá nhân, bạn có thể trao đổi thỏa thuận hợp tác, kết nối chuyên sâu và mang tính chuyên nghiệp."
+</CTA>
+
+<CTA
+
+	isReversed
 
 	callToAction={{
 		text: 'Gửi mail',
@@ -54,4 +89,16 @@ import Contact from '~/components/widgets/contact.astro';
 		icon: 'tabler:award',
 		},
 	]}
+
+	image={{
+		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0040.jpg',
+		alt: 'viet-bai-chuan-seo',
+	}}
+	>
+
+	<Fragment slot="content">
+		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Trao đổi trên email</h3>
+		Thông qua email cá nhân, bạn có thể trao đổi thỏa thuận hợp tác, kết nối chuyên sâu và mang tính chuyên nghiệp.
+	</Fragment>
+
 />
