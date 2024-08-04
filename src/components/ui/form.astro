@@ -5,47 +5,33 @@ import type { APIRoute } from 'astro';
 import nodemailer from 'nodemailer';
 
 export const post: APIRoute = async ({ request }) => {
-  const formData = await request.formData();
-  const name = formData.get('name');
-  const email = formData.get('email');
+	const formData = await request.formData();
+	const name = formData.get('name');
+	const email = formData.get('email');
 
-  const transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-      user: 'info@nhavantuonglai.com',
-      pass: 'uehiseilqrtecfpu'
-    }
-  });
+	const transporter = nodemailer.createTransport({
+		service: 'gmail',
+		auth: {
+			user: 'info@nhavantuonglai.com',
+			pass: 'uehiseilqrtecfpu'
+		}
+	});
 
-  const mailOptions = {
-    from: 'info@nhavantuonglai.com',
-    to: 'info@nhavantuonglai.com',
-    subject: 'Tin nhắn mới từ ${name} | nhavantuonglai.com',
-    text: `Name: ${name}\nEmail: ${email}`
-  };
+	const mailOptions = {
+		from: 'info@nhavantuonglai.com',
+		to: 'info@nhavantuonglai.com',
+		subject: 'Tin nhắn mới từ ${name} | nhavantuonglai.com',
+		text: `Name: ${name}\nEmail: ${email}`
+	};
 
-  try {
-    await transporter.sendMail(mailOptions);
-    return new Response(JSON.stringify({ message: 'Email đã gửi thành công.' }), { status: 200 });
-  } catch (error) {
-    return new Response(JSON.stringify({ message: 'Email đã gửi thất bại.', error: error.message }), { status: 500 });
-  }
+	try {
+		await transporter.sendMail(mailOptions);
+		return new Response(JSON.stringify({ message: 'Email đã gửi thành công.' }), { status: 200 });
+	} catch (error) {
+		return new Response(JSON.stringify({ message: 'Email đã gửi thất bại.', error: error.message }), { status: 500 });
+	}
+
 };
-
-
-      const result = await response.json();
-      
-      if (response.ok) {
-        responseMessage.textContent = 'Form submitted successfully: ' + result.message;
-        responseMessage.style.color = 'green';
-      } else {
-        responseMessage.textContent = 'Error: ' + result.message;
-        responseMessage.style.color = 'red';
-      }
-    } catch (error) {
-      responseMessage.textContent = 'Failed to submit form: ' + error.message;
-      responseMessage.style.color = 'red';
-    }
 
 const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } = Astro.props;
 
