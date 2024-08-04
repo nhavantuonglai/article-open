@@ -1,0 +1,46 @@
+---
+import Form from '~/components/ui/form.astro';
+
+const {
+	title = '',
+	subtitle = '',
+	tagline = '',
+	testimonials = [],
+	callToAction,
+
+	id,
+	isDark = false,
+	classes = {},
+	bg = await Astro.slots.render('bg'),
+} = Astro.props;
+---
+<Form
+
+	id="form"
+	title="Drop us a message today!"
+	subtitle="For quicker answers, explore our FAQs section. You may find the solution you're looking  for right there! If not, our support team is delighted to help you."
+
+	inputs={[
+	  {
+		type: 'text',
+		name: 'name',
+		label: 'Họ và tên',
+	  },
+	  {
+		type: 'email',
+		name: 'email',
+		label: 'Email liên lạc',
+	  },
+	  {
+		type: 'text',
+		name: 'text',
+		label: 'Nội dung trao đổi',
+	  },
+	]}
+
+	disclaimer={{
+	  label:
+		'Tôi đồng ý với các điều khoản, thông tin chia sẻ dữ liệu khi gửi.',
+	}}
+
+/>

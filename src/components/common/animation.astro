@@ -1,0 +1,65 @@
+<style>
+
+	.slide-up {
+		opacity: 0;
+		transform: translateY(20px);
+		transition: all 0.5s ease-in-out;
+	}
+
+	.slide-up.active {
+		opacity: 1;
+		transform: translateY(0);
+	}
+
+	.slide-left {
+		opacity: 0;
+		transform: translateX(20px);
+		transition: all 0.5s ease-in-out;
+	}
+
+	.slide-left.active {
+		opacity: 1;
+		transform: translateX(0);
+	}
+
+	.slide-right {
+		opacity: 0;
+		transform: translateX(-20px);
+		transition: all 0.5s ease-in-out;
+	}
+
+	.slide-right.active {
+		opacity: 1;
+		transform: translateX(0);
+	}
+
+	.continuous-slide {
+		position: relative;
+		animation: slide 10s linear infinite;
+	}
+
+	@keyframes slide {
+		0% {
+			left: -100%;
+		}
+		100% {
+			left: 100%;
+		}
+	}
+
+</style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const elements = document.querySelectorAll('.slide-up, .slide-left, .slide-right');
+		const observer = new IntersectionObserver((entries) => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					entry.target.classList.add('active');
+				}
+			});
+		});
+
+		elements.forEach(el => observer.observe(el));
+	});
+</script>
