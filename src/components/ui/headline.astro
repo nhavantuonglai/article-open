@@ -19,7 +19,7 @@ const {
 {
 	(title || subtitle || tagline) && (
 		<div
-			class={twMerge("mb-8 md:mx-auto md:mb-12 text-center", containerClass)}
+			class="mb-8 md:mx-auto text-center max-w-3xl"}
 		>
 			{tagline && (
 				<p
@@ -29,8 +29,7 @@ const {
 			)}
 			{title && (
 				<h2
-					class={twMerge(
-						"text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-4 font-heading",
+					class="leading-tighter text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading",
 						titleClass
 					)}
 					set:html={title}

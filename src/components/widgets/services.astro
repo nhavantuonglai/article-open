@@ -45,14 +45,14 @@ const {
 		}}
 	/>
 
-	<div class="mb-8 md:mx-auto md:mb-12 text-center">
+	<div class="mb-6 md:mx-auto md:mb-12 text-center">
 		<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
 			<div class="md:basis-1/2 self-center">
-				{content && <div class="text-justify mb-12 text-lg dark:text-slate-400" set:html={content}/>}
+				{content && <div class="text-justify mb-6 text-lg dark:text-slate-400" set:html={content}/>}
 
 				{
 					callToAction && (
-						<div class="btn-primary mb-12 w-auto">
+						<div class="btn-primary w-auto">
 							<Button variant="link" {...callToAction}/>
 						</div>
 					)

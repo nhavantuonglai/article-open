@@ -4,33 +4,9 @@ import CTA from '~/components/widgets/services.astro';
 
 ---
 
-
-<form action="https://formspree.io/f/xvgpalrg" method="post">
-
-
-	<div class="mb-6 relative mx-auto max-w-7xl px-4 md:px-6 text-default">
-
-		<Fragment slot="content">
-			<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Đăng ký thông tin</h3>
-		</Fragment>
-
-		<label for="name" class="mb-4 block text-sm font-medium">Họ và tên</label>
-		<input name="Họ và tên" id="name" type="name" class="mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
-
-		<label for="email" class="mb-4 block text-sm font-medium">Email liên lạc</label>
-		<input email="Email liên lạc" id="email" type="email" class="mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
-
-		<label for="content" class="mb-4 block text-sm font-medium">Nội dung trao đổi</label>
-		<input content="Nội dung trao đổi" id="content" type="content" class="mb-4 py-6 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
-
-	<div/>
-
-  <button type="submit" class="btn-primary mb-12 w-auto">Gửi form</button>
-
-</form>
-
-
 <CTA
+
+	title="Liên lạc trao đổi"
 
 	callToAction={{
 		text: 'Nhắn tin',
@@ -40,13 +16,13 @@ import CTA from '~/components/widgets/services.astro';
 
 	items={[
 		{
-		title: 'Tức thời và nhanh chóng',
+		title: 'Tức thời',
 		description:
 			'Bạn có thể gửi và nhận tin nhắn nhanh chóng, trực tiếp, giúp những vấn đề cá nhân của bạn được giải quyết tức thời và hiệu quả hơn.',
 		icon: 'tabler:bell-school',
 		},
 		{
-		title: 'Thân thiện và gần gũi',
+		title: 'Thân thiện',
 		description:
 			'Vì tính chất là kênh liên lạc nhanh, nên bạn có thể bỏ qua những nghi thức giao tiếp thông thường, chỉ cần lịch sự và tôn trọng thì sẽ nhận được sự phản hồi đầy thân thiện, thoải mái từ tác giả.',
 		icon: 'tabler:brand-codecov',
@@ -54,13 +30,13 @@ import CTA from '~/components/widgets/services.astro';
 	]}
 
 	image={{
-		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0040.jpg',
-		alt: 'viet-bai-chuan-seo',
+		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0640.jpg',
+		alt: 'nhan-tin-instagram',
 	}}
-	>
+>
 
 	<Fragment slot="content">
-		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Liên lạc thông qua Instagram</h3>
+		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-4">Liên lạc thông qua Instagram</h2>
 		Thông qua Instagram, bạn có thể trao đổi trực tiếp và tức thời, cũng như cập nhật những thông tin mới nhất từ nhavantuonglai.
 	</Fragment>
 
@@ -91,14 +67,32 @@ import CTA from '~/components/widgets/services.astro';
 	]}
 
 	image={{
-		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0040.jpg',
-		alt: 'viet-bai-chuan-seo',
+		src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0645.jpg',
+		alt: 'viet-mail',
 	}}
-	>
+>
 
 	<Fragment slot="content">
-		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Trao đổi trên email</h3>
+		<h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-4">Trao đổi trên email</h2>
 		Thông qua email cá nhân, bạn có thể trao đổi thỏa thuận hợp tác, kết nối chuyên sâu và mang tính chuyên nghiệp.
 	</Fragment>
 
-/>
+</CTA>
+
+<h3 class="mx-auto max-w-7xl md:px-6 px-4 text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-6">Đăng ký thông tin</h3>
+
+<form class="mx-auto max-w-7xl md:px-6 px-4">
+
+	<label for="name" class="mb-3 block text-lg font-medium">Họ và tên</label>
+	<input name="Họ và tên" id="name" type="name" class="mx-auto max-w-7xl mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+	<label for="email" class="mb-3 block text-lg font-medium">Email liên lạc</label>
+	<input email="Email liên lạc" id="email" type="email" class="mx-auto max-w-7xl px-4 md:px-6 mb-4 py-3 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+
+	<label for="content" class="mb-3 block text-lg font-medium">Nội dung trao đổi</label>
+	<input content="Nội dung trao đổi" id="content" type="content" class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900">
+
+	<button type="submit" class="btn-primary mb-6">Gửi form</button>
+
+</form>
