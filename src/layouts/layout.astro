@@ -8,7 +8,6 @@ import Favicons from '~/components/favicons.astro';
 import CustomStyles from '~/components/custom-styles.astro';
 import ApplyColorMode from '~/components/common/apply-color-mode.astro';
 import Metadata from '~/components/common/metadata.astro';
-import SiteVerification from '~/components/common/site-verification.astro';
 import Analytics from '~/components/common/analytics.astro';
 import BasicScripts from '~/components/common/basic-scripts.astro';
 
@@ -30,7 +29,6 @@ const { language, textDirection } = I18N;
 		<CustomStyles/>
 		<ApplyColorMode/>
 		<Metadata {...metadata}/>
-		<SiteVerification/>
 		<Analytics/>
 
 	</head>
@@ -45,20 +43,6 @@ const { language, textDirection } = I18N;
 				content-visibility: auto;
 			}
 		</style>
-
-		<script>
-			window.fbAsyncInit = function()
-			{
-			FB.init({
-				appId: '992983159168871',
-				xfbml: true,
-				version: 'v20.0'
-			});
-			};
-		</script>
-
-		<div id="fb-root"></div>
-		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v20.0&appId=992983159168871" nonce="CErKuz80"></script>
 
 	</body>
 </html>

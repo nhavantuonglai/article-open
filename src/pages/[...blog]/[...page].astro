@@ -8,8 +8,6 @@ import Headline from '~/components/blog/headline.astro';
 import BlogList from '~/components/blog/list.astro';
 import Pagination from '~/components/blog/pagination.astro';
 
-import CTA from '~/components/content/call-to-action.astro';
-
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
 
 export const prerender = true;
@@ -39,7 +37,7 @@ const metadata = {
 
 	<Hero/>
 
-	<section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+	<section class="px-6 sm:px-6 py-20 mx-auto max-w-4xl">
 
 		<Headline
 			subtitle="đã xuất bản trên website."
@@ -51,7 +49,5 @@ const metadata = {
 
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
 	</section>
-
-	<CTA/>
 
 </Layout>
