@@ -1,0 +1,35 @@
+---
+import Layout from '~/layouts/page-layout.astro';
+
+import Hero from '~/components/content/hero.astro';
+import Article from '~/components/content/article.astro';
+import Services from '~/components/content/services.astro';
+
+import FAQ from '~/components/widgets/faq.astro';
+import Brands from '~/components/content/brands.astro';
+import Testimonials from '~/components/content/testimonials.astro';
+import CTA from '~/components/content/call-to-action.astro';
+
+const metadata = {
+	title: 'Đọc nhiều, hiểu sâu, viết hay | nhavantuonglai',
+	ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Hero/>
+
+	<Article/>
+
+	<Services/>
+
+	<FAQ/>
+
+	<Brands/>
+
+	<Testimonials/>
+
+	<CTA/>
+
+</Layout>

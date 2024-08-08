@@ -1,0 +1,46 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+import { blogTagRobots, getStaticPathsBlogTag } from '~/utils/blog';
+
+import Layout from '~/layouts/page-layout.astro';
+
+import Hero from '~/components/content/hero.astro';
+import Headline from '~/components/blog/headline.astro';
+import BlogList from '~/components/blog/list.astro';
+import Pagination from '~/components/blog/pagination.astro';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) =>{
+	return await getStaticPathsBlogTag({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page, tag } = Astro.props as Props;
+
+const currentPage = page.currentPage ?? 1;
+
+const metadata = {
+	title: `Danh sách bài viết theo thẻ ${tag}${currentPage >1 ? ` | Trang ${currentPage} ` : ''}`,
+	robots: {
+		index: blogTagRobots?.index,
+		follow: blogTagRobots?.follow,
+	},
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Hero/>
+
+	<section class="px-4 md:px-6 py-20 mx-auto max-w-4xl">
+
+		<Headline>Thẻ bài: {tag}.</Headline>
+
+		<BlogList posts={page.data}/>
+
+		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
+	</section>
+
+</Layout>
