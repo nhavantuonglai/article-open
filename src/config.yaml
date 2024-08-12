@@ -69,9 +69,9 @@ ui:
         heading: rgb(234 237 243)
         muted: rgb(33 39 55 / 66%)
         bgPage: rgb(234 237 243)
-        primary: rgb(255 114 94)
-        secondary: rgb(255 114 94)
-        accent: rgb(255 114 94)
+        primary: rgb(22 163 74)
+        secondary: rgb(22 163 74)
+        accent: rgb(22 163 74)
     dark:
       fonts: {}
       colors:
@@ -79,6 +79,6 @@ ui:
         heading: rgb(33 39 55)
         muted: rgb(229 236 246 / 66%)
         bgPage: rgb(33 39 55)
-        primary: rgb(255 114 94)
-        secondary: rgb(255 114 94)
-        accent: rgb(255 114 94)
+        primary: rgb(22 163 74)
+        secondary: rgb(22 163 74)
+        accent: rgb(22 163 74)

@@ -69,7 +69,7 @@ const { Content } = post;
 		</header>
 
 		<div
-			class="sm:px-6 max-w-3xl px-6 text-justify mx-auto prose prose-xl text-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]"
+			class="sm:px-6 max-w-3xl px-6 text-justify mx-auto prose prose-xl text-xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]"
 		>
 
 		{Content ? <Content/>: <Fragment set:html={post.content || ''}/>}
