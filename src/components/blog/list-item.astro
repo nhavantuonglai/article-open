@@ -31,7 +31,7 @@ const truncateDescription = (text, maxWords = 30) => {
 <article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''}`}>
 	{
 		image && (
-			<a class="relative block group" href={link ?? 'javascript:void(0)'}>
+			<a class="relative block group" href={link ?? 'javascript:void(0)'} target="_blank">
 				<div class="relative h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%] overflow-hidden bg-gray-400 dark:bg-slate-700 rounded shadow-lg">
 					{image && (
 						<Image
