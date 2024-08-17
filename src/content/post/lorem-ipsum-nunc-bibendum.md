@@ -1,13 +1,14 @@
 ---
 pubDatetime: 2012-03-21T10:00:00Z
-title: Lorem ipsum sed vel nunc bibendum
+title: Đằng sau đoạn văn bản đến từ cổ đại và vẫn được dùng cho tới ngày nay
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featured: false
 image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0269.jpg
 tags:
-  - ai
-  - xu huong cong nghe
-  - kinh te hoc
+  - lorem ipsum
+  - lorem
+  - ipsum
+  - lorem ipsum dolor sit amet
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at velit et nulla sollicitudin dictum. Fusce id tempor velit. Nam dapibus pretium libero non aliquam. Mauris ullamcorper augue eget ullamcorper rhoncus._

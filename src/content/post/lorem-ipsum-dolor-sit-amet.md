@@ -1,13 +1,14 @@
 ---
 pubDatetime: 2012-05-11T10:00:00Z
-title: Lorem ipsum dolor sit amet
+title: Tầm quan trọng của lorem ipsum trong thiết kế website
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featured: false
 image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0229.jpg
 tags:
-  - ai
-  - xu huong cong nghe
-  - kinh te hoc
+  - lorem ipsum
+  - lorem
+  - ipsum
+  - lorem ipsum dolor sit amet
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at velit et nulla sollicitudin dictum. Fusce id tempor velit. Nam dapibus pretium libero non aliquam. Mauris ullamcorper augue eget ullamcorper rhoncus._

@@ -1,13 +1,14 @@
 ---
 pubDatetime: 2012-03-04T10:00:00Z
-title: Lorem ipsum ut facilisis
+title: Khám phá sức mạnh của lorem ipsum mà không phải ai cũng biết
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featured: false
 image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0549.jpg
 tags:
+  - lorem ipsum
   - lorem
   - ipsum
-  - lorem ipsum
+  - lorem ipsum dolor sit amet
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at velit et nulla sollicitudin dictum. Fusce id tempor velit. Nam dapibus pretium libero non aliquam. Mauris ullamcorper augue eget ullamcorper rhoncus._
