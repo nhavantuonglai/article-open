@@ -5,12 +5,82 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiu
 featured: false
 image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0549.jpg
 tags:
-  - ai
-  - xu huong cong nghe
-  - kinh te hoc
+  - lorem
+  - ipsum
+  - lorem ipsum
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at velit et nulla sollicitudin dictum. Fusce id tempor velit. Nam dapibus pretium libero non aliquam. Mauris ullamcorper augue eget ullamcorper rhoncus._
+
+## Lorem Ipsum là gì?
+
+Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành tiêu chuẩn của ngành kể từ những năm 1500, khi một người in ấn vô danh đã lấy một bản mẫu chữ và sắp xếp lại để tạo ra một cuốn sách mẫu chữ. Lorem ipsum đã tồn tại qua năm thế kỷ và cả khi công nghệ sắp chữ điện tử ra đời, vẫn giữ nguyên hình thức cơ bản. Lorem ipsum đã trở nên phổ biến vào những năm 1960 với sự xuất hiện của các tờ Letraset chứa các đoạn văn Lorem Ipsum, và gần đây hơn với các phần mềm xuất bản trên máy tính như Aldus PageMaker, bao gồm các phiên bản của Lorem Ipsum.
+
+## Vai trò của lorem ipsum là gì?
+
+Đã từ lâu, người ta biết rằng người đọc sẽ bị phân tâm bởi nội dung có thể đọc được của một trang khi nhìn vào bố cục của lorem ipsum. Việc sử dụng Lorem Ipsum nhằm mục đích có một phân bố chữ cái gần như bình thường, thay vì sử dụng _Nội dung ở đây, nội dung ở đây_, làm cho lorem ipsum trông giống như tiếng Anh có thể đọc được. Nhiều gói phần mềm xuất bản trên máy tính và các trình soạn thảo trang web hiện nay sử dụng Lorem Ipsum như văn bản mẫu mặc định, và khi tìm kiếm _lorem ipsum_, bạn sẽ thấy nhiều trang web vẫn còn ở giai đoạn khởi đầu. Các phiên bản khác nhau đã xuất hiện qua nhiều năm, đôi khi là ngẫu nhiên, đôi khi là có mục đích (với sự chèn thêm hài hước và những điều tương tự).
+
+## Nguồn gốc của lorem ipsum từ đâu?
+
+Trái với niềm tin phổ biến, Lorem Ipsum không chỉ đơn giản là văn bản ngẫu nhiên. Lorem ipsum có nguồn gốc từ một tác phẩm văn học Latinh cổ điển từ năm 45 trước Công nguyên, tức là đã hơn 2000 năm tuổi. Richard McClintock, một giáo sư tiếng Latinh tại Đại học Hampden Sydney ở Virginia, đã tìm kiếm một trong những từ Latinh ít phổ biến hơn, _consectetur_, từ một đoạn văn Lorem Ipsum, và thông qua việc tra cứu các từ trong văn học cổ điển, ông đã phát hiện ra nguồn gốc không thể chối cãi. Lorem Ipsum xuất phát từ các đoạn 1.10.32 và 1.10.33 của cuốn _de Finibus Bonorum et Malorum_ (Các Cực Đoan của Điều Tốt và Xấu) của Cicero, được viết vào năm 45 trước Công nguyên. Cuốn sách này là một luận thuyết về lý thuyết đạo đức, rất phổ biến trong thời Phục hưng. Câu đầu tiên của Lorem Ipsum, _Lorem ipsum dolor sit amet…_, đến từ một dòng trong đoạn 1.10.32.
+
+Phần văn bản chuẩn của Lorem Ipsum đã được sử dụng từ những năm 1500 được tái hiện dưới đây cho những ai quan tâm. Các đoạn 1.10.32 và 1.10.33 từ cuốn _de Finibus Bonorum et Malorum_ của Cicero cũng được tái hiện trong hình thức gốc của chúng, kèm theo các bản dịch tiếng Anh từ bản dịch năm 1914 của H. Rackham.
+
+## Làm thế nào để tạo ra đoạn văn lorem ipsum?
+
+Có rất nhiều phiên bản khác nhau của các đoạn Lorem Ipsum có sẵn, nhưng phần lớn đã bị thay đổi dưới hình thức nào đó, do sự chèn thêm hài hước hoặc các từ ngẫu nhiên trông không hề đáng tin cậy. Nếu bạn dự định sử dụng một đoạn văn Lorem Ipsum, bạn cần phải chắc chắn rằng không có gì đáng xấu hổ bị ẩn trong giữa văn bản. Tất cả các công cụ tạo Lorem Ipsum trên Internet thường lặp lại các đoạn văn được xác định trước khi cần thiết, làm cho đây trở thành công cụ tạo thực sự đầu tiên trên Internet. Lorem ipsum sử dụng một từ điển gồm hơn 200 từ Latinh, kết hợp với một số cấu trúc câu mẫu, để tạo ra Lorem Ipsum có vẻ hợp lý. Lorem Ipsum được tạo ra do đó luôn không có sự lặp lại, chèn thêm hài hước, hoặc các từ không đặc trưng…
+
+Để chèn lorem ipsum trong Word, bạn có thể sử dụng một trong các phương pháp sau.
+
+### Sử dụng hàm rand()
+
+Để chèn lorem ipsum được bản địa hóa trong Word, hãy gõ `=rand()` vào tài liệu tại vị trí mà bạn muốn văn bản xuất hiện, sau đó nhấn Enter.
+
+Lorem ipsum được chèn cho phiên bản tiếng Anh của Word giống như sau:
+
+`Video cung cấp một cách mạnh mẽ để giúp bạn chứng minh quan điểm của mình. Khi bạn nhấp vào Video trực tuyến, bạn có thể dán mã nhúng của video mà bạn muốn thêm. Bạn cũng có thể gõ một từ khóa để tìm kiếm trực tuyến video phù hợp nhất với tài liệu của mình.`
+
+`Để làm cho tài liệu của bạn trông chuyên nghiệp, Word cung cấp các thiết kế đầu trang, chân trang, trang bìa và hộp văn bản bổ sung cho nhau. Ví dụ, bạn có thể thêm một trang bìa, đầu trang và thanh bên phù hợp. Nhấp vào Chèn và sau đó chọn các yếu tố mà bạn muốn từ các bộ sưu tập khác nhau.`
+
+`Các chủ đề và kiểu dáng cũng giúp giữ cho tài liệu của bạn được phối hợp. Khi bạn nhấp vào Thiết kế và chọn một Chủ đề mới, hình ảnh, biểu đồ và đồ họa SmartArt sẽ thay đổi để phù hợp với chủ đề mới của bạn. Khi bạn áp dụng các kiểu dáng, tiêu đề của bạn sẽ thay đổi để phù hợp với chủ đề mới.`
+
+Bạn có thể kiểm soát số lượng đoạn văn và dòng văn bản xuất hiện bằng cách thêm số bên trong dấu ngoặc của hàm rand(). Cú pháp của hàm =rand() như sau: `=rand(p,l)`
+
+Lưu ý: Trong hàm này, `p` là số lượng đoạn văn, và `l` là số dòng mà bạn muốn xuất hiện trong mỗi đoạn văn.
+
+Các tham số là tùy chọn. Nếu bạn bỏ qua các tham số, số đoạn văn mặc định là ba, và số dòng mặc định trong mỗi đoạn văn cũng là ba.
+
+Dưới đây là một số ví dụ minh họa cách hoạt động của các tham số:
+
+`=rand(1)` chèn một đoạn văn với ba dòng văn bản trong đoạn văn.
+
+`=rand(10,10)` chèn 10 đoạn văn với 10 dòng văn bản trong mỗi đoạn văn.
+
+### Sử dụng hàm lorem()
+
+Để chèn lorem ipsum giả Latin không được bản địa hóa trong Word, hãy gõ =lorem() vào tài liệu tại vị trí mà bạn muốn văn bản xuất hiện, sau đó nhấn ENTER.
+
+lorem ipsum được chèn sẽ giống như sau:
+
+`Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.`
+
+Bạn có thể kiểm soát số lượng đoạn văn và dòng văn bản xuất hiện bằng cách thêm số bên trong dấu ngoặc của hàm lorem(). Cú pháp của hàm =lorem() như sau: `lorem(p,l)`.
+
+Lưu ý: Trong hàm này, `p` là số lượng đoạn văn, và `l` là số dòng mà bạn muốn xuất hiện trong mỗi đoạn văn.
+
+Các tham số là tùy chọn. Nếu bạn bỏ qua các tham số, số đoạn văn mặc định là ba, và số dòng mặc định trong mỗi đoạn văn cũng là ba.
+
+### Tính năng chèn lorem ipsum không hoạt động?
+
+Theo mặc định, tính năng chèn lorem ipsum trong Word được bật. Tuy nhiên, tính năng này sẽ bị tắt khi tùy chọn Thay thế văn bản khi bạn gõ bị tắt.
+
+Để bật hoặc tắt tùy chọn Thay thế văn bản khi bạn gõ, hãy làm theo các bước sau:
+
+– Chọn Nút `Office`, chọn `Word Options`, chọn `Proofing`, sau đó chọn Tùy chọn `AutoCorrect Options`.
+
+– Nhấp để chọn hoặc bỏ chọn hộp kiểm `Replace text as you type` khi bạn gõ.
+
+Dưới đây là một bài viết được tạo ra hoàn toàn từ lorem ipsum để bạn tham khảo và sử dụng.
 
 ## Lorem ipsum dolor sit amet
 
