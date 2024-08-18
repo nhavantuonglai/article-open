@@ -23,12 +23,12 @@ const { Content } = post;
 
 		<header class={post.image ? '' : ''}>
 			<h1
-				class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading"
+				class="mb-6 md:mb-12 px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading"
 			>
 				{post.title}
 			</h1>
 			<p
-				class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
+				class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
 			>
 				{post.description}
 			</p>
@@ -51,7 +51,7 @@ const { Content } = post;
 				post.image ? (
 					<Image
 						src={post.image}
-						class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6"
+						class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6"
 						widths={[400, 900]}
 						sizes="(max-width: 900px) 400px, 900px"
 						alt={post?.description || ''}

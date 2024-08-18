@@ -48,6 +48,10 @@
 	box-shadow: none;
 }
 
+p {
+  line-height: 1.75;
+}
+
 #header.expanded nav {
 	position: fixed;
 	top: 70px;
