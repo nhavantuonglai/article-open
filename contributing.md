@@ -1,7 +1,5 @@
 # Đóng góp cho Github @nhavantuonglai
 
-_**github/nhavantuonglai** là cơ sở dữ liệu cho các dự án, hoạt động nghiên cứu và phát triển công nghệ của nhavantuonglai. Thông qua các repositories công khai, nhavantuonglai kỳ vọng sẽ đóng góp, tạo ra những giá trị hữu ích, thiết thực với những ai có nhu cầu, tìm hiểu và tiếp cận._
-
 ## Quy tắc ứng xử
 
 Khi tham gia đóng góp vào các dự án của @nhavantuonglai, **github/nhavantuonglai** mong muốn mọi người tuân thủ các quy tắc ứng xử sau để tạo ra một môi trường thân thiện, tôn trọng và hiệu quả:

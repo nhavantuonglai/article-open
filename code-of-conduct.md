@@ -1,4 +1,4 @@
-_**github/nhavantuonglai** là cơ sở dữ liệu cho các dự án, hoạt động nghiên cứu và phát triển công nghệ của nhavantuonglai. Thông qua các repositories công khai, nhavantuonglai kỳ vọng sẽ đóng góp, tạo ra những giá trị hữu ích, thiết thực với những ai có nhu cầu, tìm hiểu và tiếp cận._
+_**github/nhavantuonglai** là một dự án tiên phong trong việc thúc đẩy phát triển bền vững và cải thiện chất lượng cuộc sống thông qua việc ứng dụng công nghệ và giáo dục. **github/nhavantuonglai** tin rằng việc sử dụng công nghệ hiện đại không chỉ giúp nâng cao hiệu suất mà còn tạo ra những giá trị tích cực cho cộng đồng và môi trường._
 
 ## Khai thác, sử dụng tài nguyên của các repositories public
 

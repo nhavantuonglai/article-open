@@ -1,4 +1,4 @@
-_**github/nhavantuonglai** là cơ sở dữ liệu cho các dự án, hoạt động nghiên cứu và phát triển công nghệ của nhavantuonglai. Thông qua các repositories công khai, nhavantuonglai kỳ vọng sẽ đóng góp, tạo ra những giá trị hữu ích, thiết thực với những ai có nhu cầu, tìm hiểu và tiếp cận._
+_**github/nhavantuonglai** là một dự án tiên phong trong việc thúc đẩy phát triển bền vững và cải thiện chất lượng cuộc sống thông qua việc ứng dụng công nghệ và giáo dục. **github/nhavantuonglai** tin rằng việc sử dụng công nghệ hiện đại không chỉ giúp nâng cao hiệu suất mà còn tạo ra những giá trị tích cực cho cộng đồng và môi trường._
 
 ## Tìm hiểu về dự án
 
@@ -6,9 +6,9 @@ Trước khi bắt đầu đóng góp, hãy dành thời gian để tìm hiểu 
 
 ### Đọc tài liệu dự án
 
-– **readme:** Đây là tài liệu quan trọng giúp các lập trình viên hiểu rõ mục tiêu, cách sử dụng và cách đóng góp vào dự án.
+– **README:** Đây là tài liệu quan trọng giúp các lập trình viên hiểu rõ mục tiêu, cách sử dụng và cách đóng góp vào dự án.
 
-– **contributing:** Tài liệu này sẽ cung cấp hướng dẫn cụ thể về quy trình đóng góp, bao gồm cách gửi pull request và yêu cầu của dự án.
+– **CONTRIBUTING:** Tài liệu này sẽ cung cấp hướng dẫn cụ thể về quy trình đóng góp, bao gồm cách gửi pull request và yêu cầu của dự án.
 
 ### Khám phá mã nguồn
 
@@ -31,7 +31,7 @@ Trước khi bắt đầu đóng góp, hãy dành thời gian để tìm hiểu 
 – **Clone:** Sử dụng lệnh `git clone` để sao chép repository về máy tính của các lập trình viên.
 
 ```
-git clone https://github.com/nhavantuonglai/nhavantuongla-vn.git
+sh git clone https://github.com/nhavantuonglai/firebase-public.git
 ```
 
 ### Bước 2: Tạo branch mới
