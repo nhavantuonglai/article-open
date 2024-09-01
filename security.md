@@ -2,7 +2,7 @@ _**github/nhavantuonglai** is a resource storage system that supports the projec
 
 **github/nhavantuonglai** is a code storage space that serves the projects and research activities of @nhavantuonglai.
 
-**nhavantuonglai/article-open** is the open-source project for the design and development of the website nhavantuonglai.com. The source code for this project is inherited from **Astrowind** – an open template that helps build websites quickly and easily in just 5 minutes.
+**nhavantuonglai/article** is the open-source project for the design and development of the website nhavantuonglai.com. The source code for this project is inherited from **Astrowind** – an open template that helps build websites quickly and easily in just 5 minutes.
 
 ## Contact Information
 
