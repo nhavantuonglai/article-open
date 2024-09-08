@@ -17,6 +17,8 @@ import ToBlogLink from '~/components/blog/to-blog-link.astro';
 import RelatedPosts from '~/components/blog/related-post.astro';
 import CTA from '~/components/content/call-to-action.astro';
 
+import Soundcloud from '~/components/widgets/soundcloud.astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async () =>{
@@ -59,5 +61,7 @@ const metadata = merge(
 	<RelatedPosts post={post}/>
 
 	<CTA/>
+
+	<Soundcloud/>
 
 </Layout>

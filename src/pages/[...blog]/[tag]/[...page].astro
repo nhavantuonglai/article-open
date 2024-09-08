@@ -9,6 +9,8 @@ import Headline from '~/components/blog/headline.astro';
 import BlogList from '~/components/blog/list.astro';
 import Pagination from '~/components/blog/pagination.astro';
 
+import Soundcloud from '~/components/widgets/soundcloud.astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) =>{
@@ -42,5 +44,7 @@ const metadata = {
 
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
 	</section>
+
+	<Soundcloud/>
 
 </Layout>

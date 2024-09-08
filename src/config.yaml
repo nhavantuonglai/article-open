@@ -22,10 +22,12 @@ metadata:
   twitter:
     handle: '@nhavantuonglai'
     site: '@nhavantuonglai'
-    cardType: summary_large_image
-    image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0746.jpg
+    card: summary_large_image
+    image:
+      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0746.jpg'
     title: Đọc nhiều, hiểu sâu, viết hay cùng nhavantuonglai.
     description: nhavantuonglai là website cá nhân, thông qua kỹ năng viết lách và vốn hiểu biết xã hội để phán ánh góc nhìn cá nhân thông qua hình ảnh và câu từ, tập trung thể hiện chủ yếu dưới hình thức đoản văn và nghiên cứu.
+
 i18n:
   language: vi
   textDirection: ltr
@@ -69,9 +71,9 @@ ui:
         heading: rgb(234 237 243)
         muted: rgb(33 39 55 / 66%)
         bgPage: rgb(234 237 243)
-        primary: rgb(22 163 74)
-        secondary: rgb(22 163 74)
-        accent: rgb(22 163 74)
+        primary: rgb(255 114 94)
+        secondary: rgb(255 114 94)
+        accent: rgb(255 114 94)
     dark:
       fonts: {}
       colors:
@@ -79,6 +81,6 @@ ui:
         heading: rgb(33 39 55)
         muted: rgb(229 236 246 / 66%)
         bgPage: rgb(33 39 55)
-        primary: rgb(22 163 74)
-        secondary: rgb(22 163 74)
-        accent: rgb(22 163 74)
+        primary: rgb(255 114 94)
+        secondary: rgb(255 114 94)
+        accent: rgb(255 114 94)
