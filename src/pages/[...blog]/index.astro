@@ -3,21 +3,21 @@ import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 
 import merge from 'lodash.merge';
 import type { ImageMetadata } from 'astro';
-import Layout from '~/layouts/page-layout.astro';
+import Layout from './layouts/page-layout.astro';
 
-import { getCanonical, getPermalink } from '~/utils/permalinks';
-import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
-import { findImage } from '~/utils/images';
-import type { MetaData } from '~/types';
+import { getCanonical, getPermalink } from './utils/permalinks';
+import { getStaticPathsBlogPost, blogPostRobots } from './utils/blog';
+import { findImage } from './utils/images';
+import type { MetaData } from './types';
 
-import Progress from '~/components/blog/progress.astro';
-import SinglePost from '~/components/blog/single-post.astro';
+import Progress from './components/blog/progress.astro';
+import SinglePost from './components/blog/single-post.astro';
 
-import ToBlogLink from '~/components/blog/to-blog-link.astro';
-import RelatedPosts from '~/components/blog/related-post.astro';
-import CTA from '~/components/content/call-to-action.astro';
+import ToBlogLink from './components/blog/to-blog-link.astro';
+import RelatedPosts from './components/blog/related-post.astro';
+import CTA from './components/content/call-to-action.astro';
 
-import Soundcloud from '~/components/widgets/soundcloud.astro';
+import Soundcloud from './components/widgets/soundcloud.astro';
 
 export const prerender = true;
 
