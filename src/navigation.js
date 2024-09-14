@@ -31,7 +31,6 @@ export const headerData = {
 export const footerData = {
 	links: [
 		{
-		{
 			title: 'Công cụ',
 			links: [
 				{
@@ -52,6 +51,7 @@ export const footerData = {
 				},
 			],
 		},
+		{
 			title: 'Danh mục',
 			links: [
 				{
