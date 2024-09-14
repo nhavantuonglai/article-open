@@ -31,6 +31,27 @@ export const headerData = {
 export const footerData = {
 	links: [
 		{
+		{
+			title: 'Công cụ',
+			links: [
+				{
+					text: 'Sao kê từ thiện',
+					href: 'https://nhavantuonglai.com/analytics/sao-ke'
+				},
+				{
+					text: 'Chuyển đổi chữ thường',
+					href: 'https://nhavantuonglai.com/analytics/lower'
+				},
+				{
+					text: 'Chuẩn hóa văn bản',
+					href: 'https://nhavantuonglai.com/analytics/normalize'
+				},
+				{
+					text: 'Thống kê văn bản',
+					href: 'https://nhavantuonglai.com/analytics/count'
+				},
+			],
+		},
 			title: 'Danh mục',
 			links: [
 				{
@@ -46,31 +67,10 @@ export const footerData = {
 					href: 'https://info.nhavantuonglai.com/thu-vien'
 				},
 				{
-					text: 'Lập trình',
-					href: 'https://info.nhavantuonglai.com/developer'
+					text: 'Truyện tranh',
+					href: 'https://info.nhavantuonglai.com/manga'
 				},
 				],
-		},
-		{
-			title: 'Thư mục',
-			links: [
-				{
-					text: 'Tôn giáo',
-					href: 'https://nhavantuonglai.com/tags/ton-giao'
-				},
-				{
-					text: 'SEO',
-					href: 'https://nhavantuonglai.com/tags/seo'
-				},
-				{
-					text: 'Âm thanh',
-					href: 'https://nhavantuonglai.com/tags/audiophile'
-				},
-				{
-					text: 'Kỹ năng viết',
-					href: 'https://nhavantuonglai.com/tags/ky-nang-viet'
-				},
-			],
 		},
 		{
 			title: 'Tác giả',
@@ -105,12 +105,12 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/tags/nien-lich-mien-gio-cat'
 				},
 				{
-					text: 'Chim vặn dây cót',
-					href: 'https://nhavantuonglai.com/tags/bien-nien-ky-chim-van-day-cot'
+					text: 'Giếng thở than',
+					href: 'https://nhavantuonglai.com/tags/gieng-tho-than'
 				},
 				{
-					text: 'Thần điêu hiệp lữ',
-					href: 'https://nhavantuonglai.com/tags/than-dieu-hiep-lu'
+					text: 'Chim lửa',
+					href: 'https://nhavantuonglai.com/tags/chim-lua'
 				},
 			],
 		},
