@@ -16,6 +16,7 @@ import SinglePost from '~/components/blog/single-post.astro';
 import ToBlogLink from '~/components/blog/to-blog-link.astro';
 import RelatedPosts from '~/components/blog/related-post.astro';
 import CTA from '~/components/content/call-to-action.astro';
+import Anticopy from '~/components/widgets/anti-copy.astro';
 
 import Soundcloud from '~/components/widgets/soundcloud.astro';
 
@@ -53,6 +54,8 @@ const metadata = merge(
 <Layout metadata={metadata}>
 
 	<Progress/>
+
+	<Anticopy/>
 
 	<SinglePost post={{ ...post, image: image }} url={url}/>
 

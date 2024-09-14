@@ -1,0 +1,79 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import FAQ from '~/components/widgets/faq.astro';
+
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					callToAction={{
+						text: 'Hỗ trợ',
+						href: 'https://info.nhavantuonglai.com/instagram',
+					}}
+
+					items={[
+						{
+						title: 'Tức thời',
+						description:
+							'Bạn có thể gửi và nhận tin nhắn nhanh chóng, trực tiếp, giúp những vấn đề cá nhân của bạn được giải quyết tức thời và hiệu quả hơn.',
+						icon: 'tabler:bell-school',
+						},
+						{
+						title: 'Thân thiện',
+						description:
+							'Vì tính chất là kênh liên lạc nhanh, nên bạn có thể bỏ qua những nghi thức giao tiếp thông thường, chỉ cần lịch sự và tôn trọng thì sẽ nhận được sự phản hồi đầy thân thiện, thoải mái từ tác giả.',
+						icon: 'tabler:brand-codecov',
+						},
+					]}
+
+					image={{
+						src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0640.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+					<Fragment slot="content">
+						Thông qua Instagram, bạn có thể trao đổi trực tiếp và tức thời, cũng như cập nhật những thông tin mới nhất từ nhavantuonglai.
+					</Fragment>
+
+				</CTA>
+		</div>
+</section>
+
+<FAQ
+
+	items={[
+
+		{
+		title: 'Viết có phải là quá trình tự học không?',
+		description: 'Cho dù bạn viết tiểu thuyết, thơ, kịch hay kịch bản, bạn hoàn toàn có thể tự dạy mình cách trở thành một nhà văn sáng tạo. Letter Review tin rằng trong mỗi tác phẩm nghệ thuật tuyệt vời là tất cả các quy tắc và bài học bạn cần để tạo ra một tác phẩm nghệ thuật tuyệt vời.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Các nhà văn có tự học không?',
+		description: `Hầu hết các nhà văn đều tự học. Tôi học bằng cách đọc nhiều, viết nhiều, sau đó phê bình bài viết của người khác. Cuối cùng, tôi quyết định đọc một vài cuốn sách về viết lách sáng tạo.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Kỹ năng viết cơ bản là gì?',
+		description: 'Kỹ năng viết cơ bản: Chúng bao gồm chính tả, viết hoa, dấu câu, chữ viết tay và bàn phím, và cấu trúc câu (ví dụ: học cách loại bỏ các đoạn chạy và các đoạn câu). Kỹ năng viết cơ bản đôi khi được gọi là cơ chế của văn chương.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Kỹ năng viết cơ bản là gì?',
+		description: 'Kỹ năng viết cơ bản: Chúng bao gồm chính tả, viết hoa, dấu câu, chữ viết tay và bàn phím, và cấu trúc câu (ví dụ: học cách loại bỏ các đoạn chạy và các đoạn câu). Kỹ năng viết cơ bản đôi khi được gọi là cơ chế của văn chương.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>
