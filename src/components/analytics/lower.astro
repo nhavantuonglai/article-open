@@ -1,6 +1,6 @@
 ---
-import Button from '../components/ui/button.astro';
-import CTA from '../components/widgets/services.astro';
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
@@ -24,7 +24,7 @@ import CTA from '../components/widgets/services.astro';
 
 			</div>
 
-			<script>
+			<script client:load>
 				document.addEventListener("DOMContentLoaded", function () {
 					const buttonConvert = document.getElementById('convert-btn');
 					const buttonCopy = document.getElementById('copy-btn');
