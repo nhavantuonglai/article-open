@@ -1,7 +1,7 @@
 ---
 import Layout from '~/layouts/page-layout.astro';
 
-import Hero from '~/components/content/hero.astro';
+import Analytics from '~/components/analytics/outdate.astro';
 import Article from '~/components/content/article.astro';
 import Services from '~/components/content/services.astro';
 
@@ -12,25 +12,13 @@ import CTA from '~/components/content/call-to-action.astro';
 import Soundcloud from '~/components/widgets/soundcloud.astro';
 
 const metadata = {
-	title: 'Đọc nhiều, hiểu sâu, viết hay | nhavantuonglai',
+	title: 'Analytics hệ thống | nhavantuonglai',
 	ignoreTitleTemplate: true,
 };
 ---
 
 <Layout metadata={metadata}>
 
-	<Hero/>
-
-	<Article/>
-
-	<Services/>
-
-	<Brands/>
-
-	<Testimonials/>
-
-	<CTA/>
-
-	<Soundcloud/>
+	<Analytics/>
 
 </Layout>
