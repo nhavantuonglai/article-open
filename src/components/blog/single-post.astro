@@ -1,13 +1,13 @@
 ---
 import { Icon } from 'astro-icon/components';
 
-import Image from './components/common/image.astro';
-import PostTags from './components/blog/tags.astro';
-import SocialShare from './components/common/social.astro';
+import Image from '~/components/common/image.astro';
+import PostTags from '~/components/blog/tags.astro';
+import SocialShare from '~/components/common/social.astro';
 
-import { getFormattedDate } from './utils/utils';
+import { getFormattedDate } from '~/utils/utils';
 
-import type { Post } from './types';
+import type { Post } from '~/types';
 
 export interface Props {
 	post: Post;

@@ -1,15 +1,15 @@
 ---
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
-import { blogTagRobots, getStaticPathsBlogTag } from './utils/blog';
+import { blogTagRobots, getStaticPathsBlogTag } from '~/utils/blog';
 
-import Layout from './layouts/page-layout.astro';
+import Layout from '~/layouts/page-layout.astro';
 
-import Hero from './components/content/hero.astro';
-import Headline from './components/blog/headline.astro';
-import BlogList from './components/blog/list.astro';
-import Pagination from './components/blog/pagination.astro';
+import Hero from '~/components/content/hero.astro';
+import Headline from '~/components/blog/headline.astro';
+import BlogList from '~/components/blog/list.astro';
+import Pagination from '~/components/blog/pagination.astro';
 
-import Soundcloud from './components/widgets/soundcloud.astro';
+import Soundcloud from '~/components/widgets/soundcloud.astro';
 
 export const prerender = true;
 
