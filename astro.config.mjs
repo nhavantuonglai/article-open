@@ -15,6 +15,7 @@ import astrowind from './src/integration';
 import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin, lazyImagesRehypePlugin } from './src/utils/frontmatter.mjs';
 
 import { defineConfig } from 'astro/config';
+import vercel from '@astrojs/vercel/serverless';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -28,6 +29,8 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
 	output: 'static',
+	output: 'server',
+	adapter: vercel(),
 
 	integrations: [
 		tailwind({
