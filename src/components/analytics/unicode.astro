@@ -7,11 +7,12 @@ import CTA from '~/components/widgets/services.astro';
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 			<h2 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-				Công cụ chuyển đổi văn bản Unicode
-			</h2>
+					Công cụ chuyển đổi văn bản Unicode
+				</h2>
 
 			<div class="mx-auto max-w-7xl md:px-6 px-4">
-				<textarea id="input" placeholder="Nhập văn bản cần chuyển đổi vào đây." class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<textarea id="input" placeholder="Nhập văn bản cần chuyển đổi văn bản Unicode vào đây." class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
 
 				<button id="convert-btn" class="btn-primary w-auto">Chuyển đổi văn bản</button>
 
@@ -44,7 +45,7 @@ import CTA from '~/components/widgets/services.astro';
 
 			</div>
 
-			<script client:load>
+			<script>
 				document.addEventListener("DOMContentLoaded", function () {
 					const buttonConvert = document.getElementById('convert-btn');
 					const input = document.getElementById('input');
