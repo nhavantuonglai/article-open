@@ -2,9 +2,10 @@
 import Layout from '~/layouts/page-layout.astro';
 
 import Unicode from '~/components/analytics/unicode.astro';
+import Content from '~/components/content/analytics-count.astro';
 
 const metadata = {
-	title: 'Công cụ chuyển đổi chữ hoa thành chữ thường | nhavantuonglai',
+	title: 'Công cụ chuyển đổi văn bản Unicode | nhavantuonglai',
 	ignoreTitleTemplate: true,
 };
 ---
@@ -12,5 +13,7 @@ const metadata = {
 <Layout metadata={metadata}>
 
 	<Unicode/>
+
+	<Content/>
 
 </Layout>
