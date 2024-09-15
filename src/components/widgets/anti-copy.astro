@@ -1,4 +1,4 @@
-<script>
+<script client:load>
 	document.onselectstart = () => false;
 
 	function preventCopy(e) {
@@ -15,7 +15,7 @@
 	}
 </script>
 
-<script type="text/javascript">
+<script client:load type="text/javascript">
 	function preventRightClickIE() {
 		if (document.all) {
 			return false;

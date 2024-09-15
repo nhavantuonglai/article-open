@@ -1,0 +1,70 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<h2 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+					Công cụ chuẩn hóa dữ liệu thô
+				</h2>
+
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<textarea id="input" placeholder="Nhập dữ liệu cần chuẩn hóa vào đây." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<button id="convert-btn" class="btn-primary w-auto mb-6">Chuẩn hóa</button>
+
+				<button id="copy-btn" class="btn-primary w-auto mb-6" disabled>Sao chép</button>
+
+				<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+
+
+			</div>
+
+			<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+					const buttonConvert = document.getElementById('convert-btn');
+					const buttonCopy = document.getElementById('copy-btn');
+					const input = document.getElementById('input');
+					const output = document.getElementById('output');
+					const stats = document.getElementById('stats');
+
+					buttonConvert.addEventListener('click', function() {
+						let inputText = input.value;
+
+					const cleanedText = inputText
+						.toLowerCase()
+						.normalize('NFD')
+						.replace(/[\u0300-\u036f]/g, '')
+						.replace(/[^\w\s]/g, '')
+						.replace(/\s+/g, '-');
+
+
+						output.innerText = cleanedText;
+
+						const totalChars = cleanedText.length;
+
+						if (cleanedText.trim() !== "") {
+							buttonCopy.disabled = false;
+						}
+					});
+
+					buttonCopy.addEventListener('click', function() {
+						const tempTextArea = document.createElement('textarea');
+						const resultText = `Kết quả:\n${output.innerText}\n\nThống kê:\n${stats.innerText}`;
+						tempTextArea.value = resultText;
+						document.body.appendChild(tempTextArea);
+
+						tempTextArea.select();
+						document.execCommand('copy');
+
+						document.body.removeChild(tempTextArea);
+
+						alert('Nội dung đã được sao chép thành công.');
+					});
+				});
+			</script>
+		</div>
+</section>

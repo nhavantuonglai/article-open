@@ -1,0 +1,80 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import FAQ from '~/components/widgets/faq.astro';
+
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					callToAction={{
+						text: 'Nhắn tin',
+						href: 'https://info.nhavantuonglai.com/instagram',
+					}}
+
+
+					items={[
+						{
+						title: 'Chuẩn hóa dữ liệu',
+						description:
+							'Giúp nhanh chóng và dễ dàng chuyển chữ hoa thành chữ thường để sử dụng, đăng lên mạng xã hội.',
+						icon: 'tabler:bell-school',
+						},
+						{
+						title: 'Lọc bỏ ký tự lỗi',
+						description:
+							'Giúp chuẩn hóa dữ liệu đầu ra, để đồng nhất và đảm bảo tính nguyên vẹn của dữ liệu.',
+						icon: 'tabler:brand-codecov',
+						},
+					]}
+
+					image={{
+						src: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0643.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+					<Fragment slot="content">
+						Công cụ chuyển đổi chữ hoa thành chữ thường là công cụ trực tuyến cho phép người dùng nhanh chóng thay văn bản từ chữ hoa sang chữ thường.
+					</Fragment>
+
+				</CTA>
+		</div>
+</section>
+
+<FAQ
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng công cụ chuyển đổi chữ hoa thành chữ thường, bạn có thể nhập, hoặc dán trực tiếp dữ liệu vào ô điền thông tin, sau đó click chọn Chuyển đổi để nhận kết quả ngay lập tức.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ chuyển đổi chữ hoa thành chữ thường không giới hạn số lần sử dụng, tuy nhiên nếu dữ liệu quá lớn thì có thể làm chậm tiến trình đưa ra kết quả.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu chuyển đổi chữ hoa thành chữ thường',
+		description: 'Một số giải pháp thay thế bao gồm các ngôn ngữ lập trình như Python hoặc R, có các thư viện mạnh mẽ hỗ trợ đếm tần suất xuất hiện của giá trị.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm về công cụ chuyển đổi chữ hoa thành chữ thường, đừng ngần ngại liên hệ với nhavantuonglai qua email info@nhavantuonglai.com.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

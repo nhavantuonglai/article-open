@@ -34,15 +34,15 @@ export const footerData = {
 			title: 'Công cụ',
 			links: [
 				{
-					text: 'Sao kê từ thiện',
-					href: 'https://nhavantuonglai.com/analytics/sao-ke'
-				},
-				{
 					text: 'Chuyển đổi chữ thường',
 					href: 'https://nhavantuonglai.com/analytics/lower'
 				},
 				{
-					text: 'Chuẩn hóa văn bản',
+					text: 'Chuẩn hóa Unicode',
+					href: 'https://nhavantuonglai.com/analytics/unicode'
+				},
+				{
+					text: 'Chuẩn hóa dữ liệu',
 					href: 'https://nhavantuonglai.com/analytics/normalize'
 				},
 				{
