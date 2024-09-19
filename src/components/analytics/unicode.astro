@@ -45,7 +45,7 @@ import CTA from '~/components/widgets/services.astro';
 
 			</div>
 
-			<script>
+			<script client:load>
 				document.addEventListener("DOMContentLoaded", function () {
 					const buttonConvert = document.getElementById('convert-btn');
 					const input = document.getElementById('input');

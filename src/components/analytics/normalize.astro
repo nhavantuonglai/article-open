@@ -16,8 +16,6 @@ import CTA from '~/components/widgets/services.astro';
 
 				<button id="convert-btn" class="btn-primary w-auto mb-6">Chuẩn hóa</button>
 
-				<button id="copy-btn" class="btn-primary w-auto mb-6" disabled>Sao chép</button>
-
 				<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
 
 
@@ -26,10 +24,8 @@ import CTA from '~/components/widgets/services.astro';
 			<script client:load>
 				document.addEventListener("DOMContentLoaded", function () {
 					const buttonConvert = document.getElementById('convert-btn');
-					const buttonCopy = document.getElementById('copy-btn');
 					const input = document.getElementById('input');
 					const output = document.getElementById('output');
-					const stats = document.getElementById('stats');
 
 					buttonConvert.addEventListener('click', function() {
 						let inputText = input.value;
@@ -44,26 +40,8 @@ import CTA from '~/components/widgets/services.astro';
 
 						output.innerText = cleanedText;
 
-						const totalChars = cleanedText.length;
-
-						if (cleanedText.trim() !== "") {
-							buttonCopy.disabled = false;
-						}
 					});
 
-					buttonCopy.addEventListener('click', function() {
-						const tempTextArea = document.createElement('textarea');
-						const resultText = `Kết quả:\n${output.innerText}\n\nThống kê:\n${stats.innerText}`;
-						tempTextArea.value = resultText;
-						document.body.appendChild(tempTextArea);
-
-						tempTextArea.select();
-						document.execCommand('copy');
-
-						document.body.removeChild(tempTextArea);
-
-						alert('Nội dung đã được sao chép thành công.');
-					});
 				});
 			</script>
 		</div>
