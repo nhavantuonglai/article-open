@@ -16,8 +16,6 @@ import CTA from '~/components/widgets/services.astro';
 
 				<button id="convert-btn" class="btn-primary w-auto  mb-6">Chuyển đổi</button>
 
-				<button id="copy-btn" class="btn-primary w-auto mb-6" disabled>Sao chép</button>
-
 				<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
 
 			</div>
@@ -25,7 +23,6 @@ import CTA from '~/components/widgets/services.astro';
 			<script client:load>
 				document.addEventListener("DOMContentLoaded", function () {
 					const buttonConvert = document.getElementById('convert-btn');
-					const buttonCopy = document.getElementById('copy-btn');
 					const input = document.getElementById('input');
 					const output = document.getElementById('output');
 
@@ -34,23 +31,8 @@ import CTA from '~/components/widgets/services.astro';
 						const lowerCaseText = inputText.toLowerCase();
 						output.innerText = lowerCaseText;
 
-						if (lowerCaseText.trim() !== "") {
-							buttonCopy.disabled = false;
-						}
 					});
 
-					buttonCopy.addEventListener('click', function() {
-						const tempTextArea = document.createElement('textarea');
-						tempTextArea.value = output.innerText;
-						document.body.appendChild(tempTextArea);
-
-						tempTextArea.select();
-						document.execCommand('copy');
-
-						document.body.removeChild(tempTextArea);
-
-						alert('Nội dung đã được sao chép thành công.');
-					});
 				});
 			</script>
 		</div>

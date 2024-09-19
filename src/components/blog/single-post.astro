@@ -4,6 +4,7 @@ import { Icon } from 'astro-icon/components';
 import Image from '~/components/common/image.astro';
 import PostTags from '~/components/blog/tags.astro';
 import SocialShare from '~/components/common/social.astro';
+import Anticopy from '~/components/widgets/anti-copy.astro';
 
 import { getFormattedDate } from '~/utils/utils';
 
@@ -19,7 +20,10 @@ const { Content } = post;
 ---
 
 <section class="py-20 max-w-7xl mx-auto pb-10">
+
 	<article>
+
+		<Anticopy/>
 
 		<header class={post.image ? '' : ''}>
 			<h1
