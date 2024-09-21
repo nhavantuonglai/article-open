@@ -11,6 +11,9 @@ import Metadata from '~/components/common/metadata.astro';
 import Analytics from '~/components/common/analytics.astro';
 import BasicScripts from '~/components/common/basic-scripts.astro';
 
+import Schema from '~/components/common/schema.astro';
+
+
 import type { MetaData as MetaDataType } from '~/types';
 
 export interface Props {
@@ -23,12 +26,19 @@ const { language, textDirection } = I18N;
 <!doctype html>
 <html lang={language} dir={textDirection} class="2xl:text-[20px]">
 	<head>
-		<script defer src='https://data.nhavantuonglai.com/javascript/floating.js'></script>
+
+		<Schema/>
+
 		<CommonMeta/>
+
 		<Favicons/>
+
 		<CustomStyles/>
+
 		<ApplyColorMode/>
+
 		<Metadata {...metadata}/>
+
 		<Analytics/>
 
 	</head>
