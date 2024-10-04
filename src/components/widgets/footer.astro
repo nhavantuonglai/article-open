@@ -30,13 +30,13 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 ---
 
 <footer class:list={[{ dark: theme === 'dark' }, 'relative border-t border-gray-200 dark:border-slate-800 not-prose']}>
+
 	<div class="bg-white dark:bg-black absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+
 	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 dark:text-slate-300">
 		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
 			<div class="col-span-12 lg:col-span-4">
-				<div class="mb-2">
-					<a class="inline-block font-bold text-xl" href={getHomePermalink()}><img src="https://data.nhavantuonglai.com/image/favicon/favicon.ico" width="50" height="50" alt="nhavantuonglai"></a>
-				</div>
+
 				<div class="text-sm text-muted mb-4">
 					{
 						secondaryLinks.map(({ text, href }) =>(
@@ -112,7 +112,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 		<div class="md:flex md:items-center md:justify-between text-center py-6 md:py-8">
 
 			<div class="text-muted hover:text-gray-700 dark:text-gray-400 transition">
-				Tài sản của nhavantuonglai
+				Tài nguyên của nhavantuonglai 
 			</div>
 
 			<div class="text-muted hover:text-gray-700 dark:text-gray-400 transition">
@@ -120,10 +120,11 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 			</div>
 
 			<div class="text-muted hover:text-gray-700 dark:text-gray-400 transition">
-				Vận hành bởi Astro và Vercel
+				Giấy phép mã nguồn mở
 			</div>
 
 		</div>
 
 	</div>
+
 </footer>
