@@ -156,6 +156,7 @@ const getAppBlog = (config: Config) =>{
 				index: true,
 				follow: true,
 			},
+		},
 		tag: {
 			isEnabled: true,
 			pathname: 'tag',
