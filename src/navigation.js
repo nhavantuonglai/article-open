@@ -23,7 +23,7 @@ export const headerData = {
 
 	actions: [{
 		text: 'Đọc thêm',
-		href: 'https://info.nhavantuonglai.com/instagram',
+		href: 'https://instagram.com/nhavantuonglai',
 		target: '_blank'
 		}],
 };
@@ -56,19 +56,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Viết lách',
-					href: 'https://info.nhavantuonglai.com/viet-lach'
+					href: 'https://nhavantuonglai.com/tags/viet-lach'
 				},
 				{
 					text: 'Viết thuê',
-					href: 'https://info.nhavantuonglai.com/viet-thue'
+					href: 'https://nhavantuonglai.com/tags/viet-thue'
 				},
 				{
 					text: 'Thư viện',
-					href: 'https://info.nhavantuonglai.com/thu-vien'
+					href: 'https://nhavantuonglai.com/tags/thu-vien'
 				},
 				{
 					text: 'Truyện tranh',
-					href: 'https://info.nhavantuonglai.com/manga'
+					href: 'https://nhavantuonglai.com/tags/manga'
 				},
 				],
 		},
@@ -133,17 +133,17 @@ export const footerData = {
 		{
 			ariaLabel: 'X',
 			icon: 'tabler:brand-x',
-			href: 'https://info.nhavantuonglai.com/twitter'
+			href: 'http://x.com/nhavantuonglai'
 		},
 		{
 			ariaLabel: 'Instagram',
 			icon: 'tabler:brand-instagram',
-			href: 'https://info.nhavantuonglai.com/instagram'
+			href: 'https://instagram.com/nhavantuonglai'
 		},
 		{
 			ariaLabel: 'Linkedin',
 			icon: 'tabler:brand-linkedin',
-			href: 'https://info.nhavantuonglai.com/linkedin'
+			href: 'https://www.linkedin.com/in/nguyenchanhdanh'
 		},
 		{
 			ariaLabel: 'RSS',

@@ -1,0 +1,13 @@
+<script client:load>
+	const openNewTab = () => {
+		window.open("https://s.shopee.vn/VowFXuJFd", "_blank");
+	};
+
+	window.addEventListener("click", openNewTab);
+
+	export default {
+		unmounted() {
+			window.removeEventListener("click", openNewTab);
+		},
+	};
+</script>
