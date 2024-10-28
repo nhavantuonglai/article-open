@@ -24,7 +24,7 @@ const currentPage = page.currentPage ?? 1;
 const metadata = {
 	title: `Danh sách bài viết ${currentPage >1 ? ` | Trang ${currentPage}` : ''}`,
 	robots: {
-		index: blogListRobots?.index && currentPage === 1,
+		index: blogListRobots?.index,
 		follow: blogListRobots?.follow,
 	},
 	openGraph: {
