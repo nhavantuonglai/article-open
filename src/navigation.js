@@ -13,7 +13,7 @@ export const headerData = {
 		},
 		{
 			text: 'Dịch vụ',
-			href: 'https://nhavantuonglai.com/services',
+			href: 'https://nhavantuonglai.com/analytics',
 		},
 		{
 			text: 'Liên hệ',
@@ -59,58 +59,58 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/tags/viet-lach'
 				},
 				{
-					text: 'Viết thuê',
-					href: 'https://nhavantuonglai.com/tags/viet-thue'
+					text: 'Tôn giáo',
+					href: 'https://nhavantuonglai.com/tags/ton-giao'
 				},
 				{
-					text: 'Thư viện',
-					href: 'https://nhavantuonglai.com/tags/thu-vien'
+					text: 'Khoa học',
+					href: 'https://nhavantuonglai.com/tags/khoa-hoc'
 				},
 				{
-					text: 'Truyện tranh',
-					href: 'https://nhavantuonglai.com/tags/manga'
+					text: 'Triết học',
+					href: 'https://nhavantuonglai.com/tags/triet-hoc'
 				},
 				],
 		},
 		{
-			title: 'Tác giả',
+			title: 'Chuyên mục',
 			links: [
 				{
-					text: 'Nguyễn Kỳ Lân',
-					href: 'https://nhavantuonglai.com/tags/instagram'
+					text: 'Phật giáo',
+					href: 'https://nhavantuonglai.com/tags/phat-giao'
 				},
 				{
-					text: 'Thích Nhất Hạnh',
-					href: 'https://nhavantuonglai.com/tags/thich-nhat-hanh'
+					text: 'Tiến hóa',
+					href: 'https://nhavantuonglai.com/tags/tien-hoa'
 				},
 				{
-					text: 'Clifford Stoll',
-					href: 'https://nhavantuonglai.com/tags/clifford-stoll'
+					text: 'Môi trường',
+					href: 'https://nhavantuonglai.com/tags/moi-truong'
 				},
 				{
-					text: 'Haruki Murakami',
-					href: 'https://nhavantuonglai.com/tags/haruki-murakami'
+					text: 'Nhận thức',
+					href: 'https://nhavantuonglai.com/tags/nhan-thuc'
 				},
 			],
 		},
 		{
-			title: 'Tác phẩm',
+			title: 'Chuyên đề',
 			links: [
 				{
-					text: 'Đường xưa mây trắng',
-					href: 'https://nhavantuonglai.com/tags/duong-xua-may-trang'
+					text: 'Vũ trụ học',
+					href: 'https://nhavantuonglai.com/tags/vu-tru-hoc'
 				},
 				{
-					text: 'Niên lịch miền gió cát',
-					href: 'https://nhavantuonglai.com/tags/nien-lich-mien-gio-cat'
+					text: 'Sinh học',
+					href: 'https://nhavantuonglai.com/tags/sinh-hoc'
 				},
 				{
-					text: 'Giếng thở than',
-					href: 'https://nhavantuonglai.com/tags/gieng-tho-than'
+					text: 'Tâm lý học',
+					href: 'https://nhavantuonglai.com/tags/tam-ly-hoc'
 				},
 				{
-					text: 'Chim lửa',
-					href: 'https://nhavantuonglai.com/tags/chim-lua'
+					text: 'Xã hội học',
+					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc'
 				},
 			],
 		},
