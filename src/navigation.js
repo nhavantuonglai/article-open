@@ -38,7 +38,7 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/analytics/lower'
 				},
 				{
-					text: 'Chuẩn hóa Unicode',
+					text: 'Chuẩn hóa unicode',
 					href: 'https://nhavantuonglai.com/analytics/unicode'
 				},
 				{
