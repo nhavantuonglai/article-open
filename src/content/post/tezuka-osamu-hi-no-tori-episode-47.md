@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 47
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0001.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0001.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0002.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0002.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0003.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0003.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0121.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0121.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0122.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0122.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0123.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0123.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0124.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0124.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0125.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0125.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0126.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0126.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0127.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0127.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0128.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0128.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0129.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0129.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0130.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0130.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0131.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0131.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0132.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0132.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0133.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0133.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0134.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0134.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0135.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0135.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0136.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0136.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0137.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0137.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0138.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0138.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0139.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0139.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0140.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0140.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0141.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0141.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0142.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0142.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0143.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0143.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0144.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0144.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0145.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0145.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0146.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0146.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0147.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0147.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0148.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0148.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0149.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0149.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0150.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0150.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0151.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0151.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0152.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0152.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0153.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0153.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0154.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0154.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0155.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0155.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0156.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0156.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0157.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0157.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0158.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0158.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0159.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0159.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0160.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0160.jpg" alt="Chim lửa (Hi no Tori) chương 47." title="Chim lửa (Hi no Tori) chương 47." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 47.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 64
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0081.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0081.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0082.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0082.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0083.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0083.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0084.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0084.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0085.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0085.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0086.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0086.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0087.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0087.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0088.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0088.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0089.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0089.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0090.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0090.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0091.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0091.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0092.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0092.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0093.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0093.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0094.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0094.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0095.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0095.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0096.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0096.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0097.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0097.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0098.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0098.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0099.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0099.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0100.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0100.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0101.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0101.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0102.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0102.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0103.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0103.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0104.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0104.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0105.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0105.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0106.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0106.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0107.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0107.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0108.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0108.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0109.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0109.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0110.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0110.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0111.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0111.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0112.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0112.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0113.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0113.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0114.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0114.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0115.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0115.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0116.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0116.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0117.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0117.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0118.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0118.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0119.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0119.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0120.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0120.jpg" alt="Chim lửa (Hi no Tori) chương 64." title="Chim lửa (Hi no Tori) chương 64." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 64.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

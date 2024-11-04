@@ -19,93 +19,93 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 71
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0001.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0001.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0002.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0002.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0003.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0003.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0004.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0004.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0041.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0041.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0042.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0042.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0043.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0043.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0044.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0044.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0045.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0045.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0046.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0046.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0047.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0047.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0048.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0048.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0049.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0049.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0050.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0050.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0051.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0051.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0052.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0052.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0053.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0053.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0054.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0054.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0055.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0055.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0056.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0056.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0057.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0057.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0058.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0058.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0059.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0059.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0060.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0060.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0061.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0061.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0062.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0062.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0063.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0063.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0064.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0064.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0065.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0065.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0066.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0066.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0067.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0067.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0068.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0068.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0069.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0069.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0070.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0070.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0071.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0071.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0072.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0072.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0073.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0073.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0074.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0074.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0075.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0075.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0076.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0076.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0077.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0077.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0078.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0078.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0079.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0079.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-09-0080.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/09-0080.jpg" alt="Chim lửa (Hi no Tori) chương 71." title="Chim lửa (Hi no Tori) chương 71." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 71.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

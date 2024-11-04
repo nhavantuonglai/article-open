@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 76
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0001.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0001.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0002.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0002.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0003.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0003.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0004.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0004.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0005.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0005.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0006.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0006.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0007.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0007.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0008.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0008.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0009.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0009.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0010.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0010.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0011.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0011.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0012.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0012.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0013.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0013.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0014.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0014.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0015.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0015.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0016.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0016.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0017.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0017.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0018.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0018.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0019.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0019.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0020.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0020.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0021.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0021.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0022.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0022.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0023.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0023.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0024.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0024.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0025.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0025.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0026.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0026.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0027.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0027.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0028.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0028.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0029.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0029.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0030.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0030.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0031.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0031.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0032.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0032.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0033.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0033.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0034.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0034.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0035.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0035.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0036.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0036.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0037.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0037.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0038.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0038.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0039.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0039.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0040.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0040.jpg" alt="Chim lửa (Hi no Tori) chương 76." title="Chim lửa (Hi no Tori) chương 76." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 76.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

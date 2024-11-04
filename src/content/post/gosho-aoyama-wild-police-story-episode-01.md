@@ -16,29 +16,29 @@ tags:
   - hoc vien canh sat
 ---
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-01.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-01.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-02.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-02.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-03.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-03.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-04.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-04.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-05.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-05.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-06.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-06.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-07.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-07.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-08.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-08.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-09.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-09.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-10.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-10.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-11.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-11.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-01-12.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/wild-police-story/01-12.jpg" alt="Wild police story chương 01" title="Wild police story chương 01" height=100% width=100%><figcaption><p>Wild police story chương 01</p></figcaption></figure>
 
 ## Giới thiệu truyện tranh Gosho Aoyama | Wild police story (Học viện cảnh sát)
 

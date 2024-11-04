@@ -19,111 +19,111 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 35
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0001.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0001.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0002.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0002.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0003.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0003.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0004.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0004.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0005.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0005.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0006.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0006.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0321.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0321.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0322.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0322.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0323.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0323.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0324.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0324.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0325.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0325.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0326.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0326.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0327.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0327.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0328.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0328.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0329.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0329.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0330.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0330.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0331.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0331.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0332.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0332.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0333.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0333.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0334.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0334.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0335.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0335.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0336.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0336.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0337.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0337.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0338.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0338.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0339.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0339.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0340.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0340.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0341.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0341.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0342.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0342.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0343.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0343.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0344.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0344.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0345.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0345.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0346.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0346.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0347.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0347.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0348.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0348.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0349.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0349.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0350.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0350.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0351.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0351.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0352.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0352.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0353.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0353.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0354.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0354.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0355.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0355.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0356.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0356.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0357.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0357.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0358.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0358.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0359.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0359.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0360.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0360.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0361.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0361.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0362.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0362.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0363.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0363.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0364.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0364.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0365.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0365.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0366.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0366.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-04-0367.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0367.jpg" alt="Chim lửa (Hi no Tori) chương 35." title="Chim lửa (Hi no Tori) chương 35." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 35.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

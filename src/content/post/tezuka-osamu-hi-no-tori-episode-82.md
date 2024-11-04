@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 82
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0001.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0001.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0002.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0002.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0003.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0003.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0241.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0241.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0242.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0242.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0243.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0243.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0244.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0244.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0245.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0245.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0246.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0246.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0247.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0247.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0248.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0248.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0249.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0249.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0250.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0250.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0251.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0251.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0252.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0252.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0253.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0253.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0254.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0254.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0255.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0255.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0256.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0256.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0257.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0257.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0258.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0258.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0259.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0259.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0260.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0260.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0261.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0261.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0262.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0262.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0263.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0263.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0264.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0264.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0265.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0265.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0266.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0266.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0267.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0267.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0268.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0268.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0269.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0269.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0270.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0270.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0271.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0271.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0272.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0272.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0273.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0273.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0274.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0274.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0275.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0275.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0276.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0276.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0277.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0277.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0278.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0278.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0279.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0279.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-10-0280.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0280.jpg" alt="Chim lửa (Hi no Tori) chương 82." title="Chim lửa (Hi no Tori) chương 82." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 82.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
