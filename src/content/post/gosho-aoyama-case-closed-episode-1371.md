@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1371
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-01.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-01.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-02.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-02.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-03.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-03.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-04.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-04.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-05.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-05.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-06.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-06.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-07.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-07.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-08.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-08.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-09.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-09.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-10.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-10.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-11.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-11.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-12.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-12.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-13.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-13.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-14.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-14.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-15.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-15.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-16.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-16.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-17.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-17.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1371-18.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1371-18.jpg" alt="Conan chương 1371." title="Conan chương 1371." height=100% width=100%><figcaption></p>Conan chương 1371.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

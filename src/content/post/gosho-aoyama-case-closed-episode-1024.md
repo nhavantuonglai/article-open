@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1024
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-01.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-01.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-02.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-02.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-03.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-03.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-04.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-04.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-05.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-05.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-06.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-06.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-07.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-07.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-08.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-08.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-09.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-09.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-10.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-10.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-11.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-11.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-12.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-12.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-13.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-13.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-14.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-14.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-15.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-15.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-16.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-16.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-17.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-17.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1024-18.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1024-18.jpg" alt="Conan chương 1024." title="Conan chương 1024." height=100% width=100%><figcaption></p>Conan chương 1024.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1383
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-01.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-01.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-02.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-02.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-03.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-03.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-04.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-04.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-05.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-05.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-06.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-06.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-07.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-07.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-08.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-08.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-09.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-09.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-10.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-10.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-11.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-11.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-12.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-12.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-13.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-13.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-14.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-14.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-15.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-15.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-16.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-16.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-17.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-17.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1383-18.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1383-18.jpg" alt="Conan chương 1383." title="Conan chương 1383." height=100% width=100%><figcaption></p>Conan chương 1383.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

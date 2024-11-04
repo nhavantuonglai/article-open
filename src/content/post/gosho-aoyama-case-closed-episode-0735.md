@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0735
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-01.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-01.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-02.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-02.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-03.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-03.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-04.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-04.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-05.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-05.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-06.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-06.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-07.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-07.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-08.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-08.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-09.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-09.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-10.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-10.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-11.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-11.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-12.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-12.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-13.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-13.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-14.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-14.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-15.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-15.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-16.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-16.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-17.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-17.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0735-18.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0735-18.jpg" alt="Conan chương 0735." title="Conan chương 0735." height=100% width=100%><figcaption></p>Conan chương 0735.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

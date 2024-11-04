@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0239
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-01.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-01.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-02.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-02.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-03.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-03.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-04.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-04.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-05.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-05.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-06.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-06.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-07.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-07.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-08.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-08.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-09.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-09.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-10.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-10.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-11.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-11.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-12.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-12.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-13.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-13.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-14.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-14.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-15.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-15.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-16.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-16.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-17.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-17.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0239-18.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0239-18.jpg" alt="Conan chương 0239." title="Conan chương 0239." height=100% width=100%><figcaption></p>Conan chương 0239.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

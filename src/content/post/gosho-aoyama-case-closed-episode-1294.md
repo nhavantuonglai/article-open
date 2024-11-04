@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1294
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-01.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-01.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-02.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-02.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-03.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-03.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-04.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-04.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-05.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-05.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-06.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-06.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-07.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-07.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-08.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-08.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-09.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-09.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-10.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-10.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-11.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-11.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-12.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-12.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-13.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-13.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-14.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-14.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-15.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-15.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-16.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-16.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-17.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-17.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1294-18.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1294-18.jpg" alt="Conan chương 1294." title="Conan chương 1294." height=100% width=100%><figcaption></p>Conan chương 1294.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

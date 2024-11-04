@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0168
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-01.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-01.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-02.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-02.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-03.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-03.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-04.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-04.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-05.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-05.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-06.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-06.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-07.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-07.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-08.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-08.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-09.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-09.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-10.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-10.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-11.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-11.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-12.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-12.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-13.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-13.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-14.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-14.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-15.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-15.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-16.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-16.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-17.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-17.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0168-18.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0168-18.jpg" alt="Conan chương 0168." title="Conan chương 0168." height=100% width=100%><figcaption></p>Conan chương 0168.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

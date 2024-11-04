@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0571
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-01.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-01.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-02.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-02.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-03.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-03.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-04.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-04.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-05.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-05.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-06.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-06.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-07.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-07.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-08.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-08.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-09.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-09.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-10.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-10.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-11.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-11.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-12.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-12.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-13.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-13.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-14.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-14.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-15.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-15.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-16.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-16.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-17.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-17.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0571-18.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0571-18.jpg" alt="Conan chương 0571." title="Conan chương 0571." height=100% width=100%><figcaption></p>Conan chương 0571.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

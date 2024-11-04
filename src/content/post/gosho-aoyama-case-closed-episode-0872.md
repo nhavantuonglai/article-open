@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0872
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-01.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-01.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-02.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-02.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-03.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-03.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-04.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-04.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-05.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-05.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-06.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-06.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-07.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-07.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-08.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-08.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-09.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-09.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-10.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-10.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-11.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-11.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-12.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-12.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-13.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-13.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-14.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-14.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-15.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-15.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-16.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-16.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-17.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-17.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0872-18.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0872-18.jpg" alt="Conan chương 0872." title="Conan chương 0872." height=100% width=100%><figcaption></p>Conan chương 0872.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

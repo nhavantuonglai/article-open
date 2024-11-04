@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1038
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-01.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-01.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-02.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-02.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-03.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-03.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-04.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-04.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-05.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-05.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-06.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-06.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-07.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-07.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-08.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-08.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-09.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-09.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-10.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-10.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-11.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-11.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-12.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-12.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-13.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-13.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-14.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-14.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-15.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-15.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-16.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-16.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-17.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-17.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1038-18.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1038-18.jpg" alt="Conan chương 1038." title="Conan chương 1038." height=100% width=100%><figcaption></p>Conan chương 1038.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

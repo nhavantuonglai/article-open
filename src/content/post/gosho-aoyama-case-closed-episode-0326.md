@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0326
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-01.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-01.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-02.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-02.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-03.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-03.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-04.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-04.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-05.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-05.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-06.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-06.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-07.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-07.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-08.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-08.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-09.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-09.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-10.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-10.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-11.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-11.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-12.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-12.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-13.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-13.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-14.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-14.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-15.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-15.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-16.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-16.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-17.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-17.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0326-18.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0326-18.jpg" alt="Conan chương 0326." title="Conan chương 0326." height=100% width=100%><figcaption></p>Conan chương 0326.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

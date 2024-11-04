@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0786
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-01.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-01.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-02.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-02.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-03.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-03.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-04.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-04.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-05.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-05.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-06.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-06.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-07.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-07.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-08.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-08.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-09.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-09.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-10.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-10.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-11.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-11.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-12.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-12.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-13.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-13.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-14.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-14.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-15.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-15.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-16.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-16.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-17.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-17.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0786-18.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0786-18.jpg" alt="Conan chương 0786." title="Conan chương 0786." height=100% width=100%><figcaption></p>Conan chương 0786.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

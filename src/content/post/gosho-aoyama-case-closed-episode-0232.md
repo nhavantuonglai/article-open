@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0232
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-01.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-01.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-02.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-02.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-03.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-03.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-04.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-04.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-05.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-05.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-06.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-06.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-07.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-07.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-08.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-08.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-09.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-09.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-10.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-10.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-11.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-11.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-12.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-12.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-13.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-13.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-14.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-14.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-15.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-15.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-16.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-16.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-17.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-17.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0232-18.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0232-18.jpg" alt="Conan chương 0232." title="Conan chương 0232." height=100% width=100%><figcaption></p>Conan chương 0232.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

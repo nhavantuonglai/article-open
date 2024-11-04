@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1020
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-01.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-01.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-02.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-02.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-03.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-03.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-04.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-04.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-05.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-05.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-06.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-06.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-07.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-07.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-08.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-08.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-09.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-09.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-10.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-10.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-11.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-11.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-12.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-12.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-13.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-13.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-14.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-14.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-15.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-15.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-16.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-16.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-17.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-17.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1020-18.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1020-18.jpg" alt="Conan chương 1020." title="Conan chương 1020." height=100% width=100%><figcaption></p>Conan chương 1020.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

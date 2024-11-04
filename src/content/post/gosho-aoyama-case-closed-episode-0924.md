@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0924
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-01.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-01.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-02.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-02.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-03.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-03.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-04.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-04.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-05.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-05.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-06.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-06.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-07.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-07.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-08.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-08.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-09.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-09.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-10.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-10.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-11.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-11.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-12.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-12.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-13.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-13.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-14.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-14.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-15.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-15.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-16.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-16.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-17.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-17.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0924-18.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0924-18.jpg" alt="Conan chương 0924." title="Conan chương 0924." height=100% width=100%><figcaption></p>Conan chương 0924.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

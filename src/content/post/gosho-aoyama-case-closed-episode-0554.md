@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0554
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-01.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-01.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-02.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-02.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-03.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-03.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-04.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-04.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-05.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-05.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-06.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-06.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-07.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-07.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-08.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-08.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-09.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-09.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-10.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-10.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-11.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-11.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-12.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-12.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-13.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-13.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-14.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-14.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-15.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-15.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-16.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-16.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-17.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-17.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0554-18.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0554-18.jpg" alt="Conan chương 0554." title="Conan chương 0554." height=100% width=100%><figcaption></p>Conan chương 0554.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

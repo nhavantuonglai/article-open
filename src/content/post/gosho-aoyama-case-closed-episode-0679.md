@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0679
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-01.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-01.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-02.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-02.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-03.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-03.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-04.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-04.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-05.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-05.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-06.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-06.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-07.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-07.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-08.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-08.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-09.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-09.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-10.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-10.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-11.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-11.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-12.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-12.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-13.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-13.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-14.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-14.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-15.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-15.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-16.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-16.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-17.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-17.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0679-18.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0679-18.jpg" alt="Conan chương 0679." title="Conan chương 0679." height=100% width=100%><figcaption></p>Conan chương 0679.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

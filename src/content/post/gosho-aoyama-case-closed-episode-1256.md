@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1256
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-01.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-01.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-02.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-02.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-03.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-03.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-04.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-04.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-05.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-05.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-06.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-06.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-07.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-07.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-08.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-08.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-09.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-09.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-10.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-10.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-11.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-11.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-12.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-12.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-13.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-13.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-14.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-14.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-15.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-15.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-16.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-16.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-17.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-17.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1256-18.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1256-18.jpg" alt="Conan chương 1256." title="Conan chương 1256." height=100% width=100%><figcaption></p>Conan chương 1256.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

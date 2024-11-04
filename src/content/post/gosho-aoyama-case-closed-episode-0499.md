@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0499
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-01.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-01.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-02.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-02.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-03.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-03.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-04.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-04.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-05.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-05.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-06.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-06.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-07.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-07.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-08.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-08.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-09.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-09.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-10.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-10.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-11.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-11.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-12.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-12.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-13.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-13.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-14.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-14.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-15.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-15.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-16.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-16.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-17.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-17.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0499-18.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0499-18.jpg" alt="Conan chương 0499." title="Conan chương 0499." height=100% width=100%><figcaption></p>Conan chương 0499.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

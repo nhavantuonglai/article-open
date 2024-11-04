@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0734
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-01.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-01.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-02.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-02.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-03.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-03.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-04.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-04.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-05.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-05.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-06.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-06.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-07.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-07.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-08.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-08.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-09.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-09.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-10.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-10.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-11.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-11.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-12.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-12.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-13.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-13.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-14.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-14.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-15.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-15.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-16.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-16.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-17.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-17.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-0734-18.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/0734-18.jpg" alt="Conan chương 0734." title="Conan chương 0734." height=100% width=100%><figcaption></p>Conan chương 0734.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

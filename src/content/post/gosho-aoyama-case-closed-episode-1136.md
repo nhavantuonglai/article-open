@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1136
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-01.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-01.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-02.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-02.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-03.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-03.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-04.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-04.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-05.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-05.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-06.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-06.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-07.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-07.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-08.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-08.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-09.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-09.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-10.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-10.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-11.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-11.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-12.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-12.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-13.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-13.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-14.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-14.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-15.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-15.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-16.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-16.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-17.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-17.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1136-18.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1136-18.jpg" alt="Conan chương 1136." title="Conan chương 1136." height=100% width=100%><figcaption></p>Conan chương 1136.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1103
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-01.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-01.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-02.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-02.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-03.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-03.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-04.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-04.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-05.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-05.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-06.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-06.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-07.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-07.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-08.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-08.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-09.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-09.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-10.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-10.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-11.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-11.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-12.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-12.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-13.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-13.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-14.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-14.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-15.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-15.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-16.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-16.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-17.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-17.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1103-18.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1103-18.jpg" alt="Conan chương 1103." title="Conan chương 1103." height=100% width=100%><figcaption></p>Conan chương 1103.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

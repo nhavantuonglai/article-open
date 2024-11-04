@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1004
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-01.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-01.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-02.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-02.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-03.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-03.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-04.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-04.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-05.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-05.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-06.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-06.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-07.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-07.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-08.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-08.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-09.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-09.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-10.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-10.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-11.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-11.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-12.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-12.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-13.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-13.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-14.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-14.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-15.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-15.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-16.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-16.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-17.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-17.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1004-18.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1004-18.jpg" alt="Conan chương 1004." title="Conan chương 1004." height=100% width=100%><figcaption></p>Conan chương 1004.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

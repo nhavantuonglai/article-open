@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1069
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-01.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-01.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-02.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-02.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-03.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-03.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-04.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-04.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-05.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-05.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-06.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-06.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-07.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-07.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-08.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-08.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-09.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-09.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-10.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-10.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-11.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-11.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-12.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-12.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-13.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-13.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-14.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-14.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-15.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-15.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-16.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-16.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-17.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-17.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-case-closed-1069-18.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/gosho-aoyama/case-closed/1069-18.jpg" alt="Conan chương 1069." title="Conan chương 1069." height=100% width=100%><figcaption></p>Conan chương 1069.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 
