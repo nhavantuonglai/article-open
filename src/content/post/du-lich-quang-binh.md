@@ -3,7 +3,7 @@ pubDatetime: 2021-10-04T10:10:00Z
 title: Cẩm nang du lịch Quảng Bình
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0669.jpg
+image: https://nhavantuonglai.com/image/cover/001-669.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -17,7 +17,7 @@ Khí hậu Quảng Bình chia làm hai mùa rõ rệt, mùa mưa từ tháng 9 �
 
 Du lịch vào mùa mưa, bạn sẽ gặp hạn chế khi di chuyển, ngoài ra các hoạt động tắm biển, khám phá hang động cũng khó thực hiện. Tuy nhiên, với những người ưa khám phá, Quảng Bình mùa mưa lại có nét thú vị riêng. Bạn có thể lội sông suối, chèo kayak và SUP ở huyện Minh Hóa, từ tháng 8 đến 11.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-520.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-520.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -55,7 +55,7 @@ Vườn quốc gia Phong Nha – Kẻ Bàng
 
 Vườn Quốc gia Phong Nha – Kẻ Bàng được UNESCO công nhận là Di sản thiên nhiên thế giới. Nơi đây có hơn 400 hang động có tổng chiều dài 220 km, ba sông chính là sông Chày, sông Son và sông Troóc. Vườn quốc gia thuộc huyện Bố Trạch và Minh Hóa, cách Thành phố Đồng Hới khoảng 50 km.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-521.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-521.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Vườn thực vật là nơi nơi du khách có thể tìm hiểu thông tin về các loài động thực vật đặc hữu. Vườn trưng bày và lưu mẫu những loài nằm trong danh mục nguy cấp, quý hiếm, cần được ưu tiên bảo vệ ở Việt Nam. Mọi người sẽ đi bộ một chuyến ngắn xung quanh vườn thực vật, tham quan thác Gió và các khu chăm sóc động vật hoang dã.
 
@@ -89,7 +89,7 @@ Tú Làn là hệ thống được hình thành theo sông Rào Nan, nằm ngoà
 
 _Hang Én_
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-522.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-522.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Hang Én lớn thứ ba thế giới, dài 1,6 km, xuyên qua khối đá vôi khổng lồ. Có 3 lối vào hang, trong đó cửa hang lớn và nổi tiếng nhất có chiều cao 120 m và rộng 110 m, trần hang có nơi cao 145 m và hành lang đoạn rộng nhất 200 m. Trong lòng hang là suối chảy quanh co dẫn đến hang Sơn Đoòng. Bộ phim Peter Pan của Hollywood đã có những cảnh quay tại đây.
 
@@ -101,7 +101,7 @@ Pygmy là hang lớn thứ tư thế giới, nằm sâu trong Vườn quốc gia
 
 Trong hang Pygmy có nước chảy từ trên trần, được sử dụng làm nước uống, nấu ăn và sinh hoạt. Ánh sáng chiếu vào khá sâu trong hang giúp nhiều cây dương xỉ mọc xanh tốt. Tại cửa ra, du khách có thể thấy nhiều dây rừng và tre được người địa phương buộc lại để đu lên thành hang khai thác tổ yến, mật ong.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-523.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-523.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 _Hố sụt Kong (Kong Collapse)_
 
@@ -117,7 +117,7 @@ Sông Gianh được xem là biểu tượng địa lý của tỉnh Quảng Bì
 
 _Sông Son_
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-524.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-524.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Sông Son, còn gọi là Nguồn Son, Rào Son, sông Troóc. Sông chảy hoàn toàn trên địa phận tỉnh Quảng Bình. Một phần thượng nguồn của sông dài hơn 7.700 m, chảy ngầm trong các núi đá vôi ở phía tây Quảng Bình. Sông Son chảy ra từ cửa động Phong Nha, hợp lưu với sông Gianh tại thị xã Ba Đồn. Hiện có tour ngồi thuyền vãn cảnh sông Son và sông Gianh trong ngày, đưa du khách qua những vùng làng quê mộc mạc, núi rừng hùng vĩ.
 
@@ -131,7 +131,7 @@ _Biển Nhật Lệ_
 
 Từng là một trong 10 thắng cảnh du lịch biển hấp dẫn nhất Việt Nam do Tổng cục Du lịch bình chọn, biển Nhật Lệ trải dài ven Thành phố Đồng Hới, cách trung tâm khoảng 2 km. Bãi cát trắng, nước trong xanh và sóng êm là những nét đẹp thu hút khách đến với ba bãi tắm chính của biển Nhật Lệ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-525.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-525.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 _Bán đảo Bảo Ninh_
 
@@ -163,7 +163,7 @@ Mẹ Suốt là anh hùng Nguyễn Thị Suốt, sinh năm 1906 tại Bảo Ninh
 
 Đèo Ngang
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-526.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-526.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Là ranh giới tự nhiên giữa hai tỉnh Hà Tĩnh và Quảng Bình, đèo Ngang vắt qua dãy Hoành Sơn, là một chốt hiểm yếu trên quốc lộ 1A. Con đèo nổi tiếng trong bài thơ Qua Đèo Ngang của Bà Huyện Thanh Quan. Đèo dài 6 km, đỉnh cao khoảng 250 m. Trên đỉnh đèo hiện còn _Cổng Trời_ – di tích của cửa ải Hoành Sơn Quan được xây vào năm 1833. Từ năm 2004 hầm đường bộ Đèo Ngang được xây dựng, thay thế đoạn đường đèo vượt núi.
 
@@ -173,7 +173,7 @@ Vũng Chùa – Đảo Yến
 
 Sông Chày – Hang Tối
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-527.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-527.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Sông Chày bắt nguồn từ khối núi đá vôi chảy quanh qua các làng, kết hợp với hang Tối, hang có hệ thống thạch nhũ cổ tiêu biểu cho quá trình kiến tạo địa chất của khu vực Phong Nha – Kẻ Bàng tạo thành một tuyến du lịch khám phá thiên nhiên. Hiện Sông Chày – Hang Tối đang được khai thác theo loại hình thám hiểm với nhiều dịch vụ như zipline tắm sông, zipline khám phá hang động, chèo thuyền kayak khám phá sông Chày, bơi qua hồ Thủy Tiên trong hang Tối và tắm bùn non tốt cho sức khỏe…
 
@@ -183,7 +183,7 @@ Khu du lịch suối nước Moọc thuộc huyện Bố Trạch, cách Thành p
 
 Xe địa hình xuyên rừng (ATV)
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-528.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-528.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Tour _Khám phá rừng lim – Ngôi nhà của Kong_ bằng xe địa hình 4 bánh (ATV) hoạt động tại xã Tân Hóa, huyện Minh Hoá. Đây là nơi đạo diễn Jordan Vogt-Roberts chọn làm bối cảnh cho bộ phim bom tấn Hollywood _Kong: Skull Island_ năm 2016. ATV là dòng xe địa hình đa chức năng, có thể di chuyển trên nhiều loại địa hình đèo dốc, rừng, đồi cát hay nhiều vật cản. Trong tour 2 tiếng, du khách tự làm chủ cung đường, lái xe chạy xuyên rừng, đồng thời chinh phục từng khúc cua, con dốc, băng suối và chạy trong hầm tối.
 
@@ -191,7 +191,7 @@ Tour _Khám phá rừng lim – Ngôi nhà của Kong_ bằng xe địa hình 4 
 
 Bánh bột lọc là món ngon không thể bỏ lỡ khi ghé Đồng Hới. Món bánh có vỏ làm từ tinh bột sắn, nhân tôm, thịt mỡ, gói trong lá chuối. Khi được hấp chín, vỏ bánh trong suốt, hương vị đậm đà. Bánh bột lọc tại Quảng Bình còn có loại nhân đậu xanh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-529.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-529.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Bánh mì bột lọc là một thức quà sáng này kết hợp giữa bánh mì nóng kẹp khoảng 7-8 chiếc bánh bột lọc, chan thêm nước sốt và hành lá. Món ăn được bán trong chợ Đồng Hới hoặc hàng quán ven đường với giá khoảng 10.000-15.000 đồng một chiếc.
 
@@ -207,7 +207,7 @@ Bánh khoái là món không thể bỏ qua khi tới Quảng Bình. Bánh giố
 
 Hải sản ở Quảng Bình rất phong phú và giá cả hợp lý, có cách chế biến riêng biệt như lẩu cá khoai, gỏi cá, cua hấp, ram đẻn, mắm lẹp… Gỏi cá thường là cá mú hoặc cá mai. Cá được nhúng vào nước cốt chanh, cuốn bánh tráng kèm các loại. Gỏi cá được bán nhiều ở các quán hải sản trong trung tâm Thành phố Đồng Hới, quán ăn trên thuyền ở sông Nhật Lệ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-530.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-binh-530.jpg" alt="cam-nang-du-lich-quang-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-binh-nhavantuonglai</p></figcaption></figure>
 
 Lẩu cá khoai hay còn gọi là cá cháo cũng là đặc sản được bán tại nhiều quán ăn ở Thành phố Đồng Hới. Nồi lẩu dân dã với cà chua, khế, lá me, măng chua, dưa cải làm nên vị ngon cho những khúc cá khoai mềm như tan trong miệng. Thực khách có thể gọi kèm hải sản.
 
@@ -223,4 +223,4 @@ Các điểm du lịch/vui chơi tại Quảng Bình tập trung theo khu vực 
 
 Thời tiết Quảng Bình khá khắc nghiệt, nắng nóng vào mùa hè và mưa lũ vào cuối năm. Cần lưu ý chọn thời điểm phù hợp và chuẩn bị kỹ cho trẻ nhỏ hay người lớn tuổi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

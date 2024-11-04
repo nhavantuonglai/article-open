@@ -3,7 +3,7 @@ pubDatetime: 2021-10-17T10:10:00Z
 title: Cẩm nang du lịch Thanh Hóa
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0681.jpg
+image: https://nhavantuonglai.com/image/cover/001-681.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -11,7 +11,7 @@ tags:
 
 _Thanh Hóa có diện tích hơn 11.000 km2, lớn thứ 5 cả nước, đường bờ biển dài 102 km với nhiều vùng sinh thái khác nhau. Đây là khu vực phát triển nhiều loại hình du lịch như khám phá, nghỉ dưỡng, tâm linh._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-634.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-634.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 ## Mùa đẹp
 
@@ -41,7 +41,7 @@ Các khách sạn, nhà nghỉ tại một số bãi biển và khu du lịch c�
 
 Ngoài ra, du khách cũng có thể lựa chọn các nhà nghỉ bình dân ở trung tâm thành phố hoặc các huyện, đầy đủ tiện nghi cơ bản. Giá nhà nghỉ tại Thanh Hóa khoảng 300.000 đồng một đêm trở lên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-635.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-635.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -65,13 +65,13 @@ Biển Hải Hòa cách thành phố Thanh Hóa khoảng 45 km về phía nam, g
 
 Vườn quốc gia Bến En
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-636.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-636.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Được mệnh danh là _Hạ Long xứ Thanh,_ Vườn quốc gia Bến En có nhiều hoạt động để du khách lựa chọn trải nghiệm như chèo thuyền, bơi lội, lặn khám phá đáy sông, cắm trại dã ngoại trên bờ, câu cá, khám phá hang Ngọc với nhiều trầm tích đá vôi, thạch nhũ hay tham quan Viện bảo tàng Bến En với nhiều cổ vật, di tích lịch sử được bảo tồn. Vườn quốc gia Bến En cũng sở hữu hệ sinh thái đa dạng, với 300 loại dược liệu giá trị và nhiều loài động vật quý hiếm như khỉ mắt đỏ, phượng hoàng đất.
 
 Khu bảo tồn thiên nhiên Pù Luông
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-637.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-637.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Là khu bảo tồn thiên nhiên với tổng diện tích hơn 17.500 ha, Pù Luông nằm ở độ cao 1.700 m, thời tiết mát mẻ, không khí trong lành và cảnh quan gần gũi với thiên nhiên. Pù Luông có hai mùa lúa chín là tháng 5 và tháng 10 hằng năm, thu hút nhiều du khách. Tới Pù Luông, du khách có thể chinh phục đỉnh Pù Luông, thăm bản Hiêu nổi tiếng với suối Hiêu, nơi những bộ rễ cây nằm trong lòng suối bị vôi hóa thành đá, khu làng Tôm, bản Đôn, hang Dơi…
 
@@ -85,7 +85,7 @@ Khu du lịch sinh thái suối cá thần Cẩm Lương nằm ở phía tây, c
 
 Thành nhà Hồ
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-638.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-638.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Cách trung tâm Thành phố Thanh Hóa khoảng 45 km, Thành nhà Hồ là kinh đô nước Đại Ngu (quốc hiệu Việt Nam thời nhà Hồ) được xây dựng bởi Hồ Quý Ly từ năm 1397. Du khách có thể chiêm ngưỡng tòa thành đồ sộ, toàn bộ được xây dựng bằng đá khối, trong đó có những phiến nặng tới hơn hai tấn. Thành đá được UNESCO công nhận là di sản văn hóa thế giới, là một trong rất ít những thành lũy bằng đá còn lại trên thế giới.
 
@@ -95,7 +95,7 @@ Khu di tích Lam Kinh thuộc không gian văn hóa Lam Sơn, vùng đất cổ,
 
 Thái miếu nhà Lê
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-639.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-639.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Nằm cách trung tâm thành phố 2 km, tại phường Đông Vệ, Thành phố Thanh Hóa là Thái miếu nhà Hậu Lê (hay còn gọi là Đền Nhà Lê), nơi thờ cúng 27 vị Hoàng đế thời Lê, Hoàng Thái Hậu cùng các Vương công nhà Hậu Lê, trong đó có hai bậc công thần khai quốc là Nguyễn Trãi và Lê Lai. Thái miếu hiện còn lưu giữ nhiều hiện vật gốc có giá trị.
 
@@ -105,11 +105,11 @@ Thái miếu nhà Hậu Lê vốn được xây dựng tại Lam Kinh (huyện T
 
 Nem chua
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-640.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-640.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Chả tôm
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-641.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-641.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Chả tôm là món ăn dân dã của xứ Thanh. Nhân chả được làm từ tôm bột tươi giã nhuyễn, thịt ba chỉ băm, hành khô và bánh phở cắt nhỏ, nêm gia vị và dầu gấc để tạo màu. Phần nhân sau khi sơ chế xong được gói bằng bánh phở nhỏ bằng lòng bàn tay, kẹp vào nẹp tre tươi hoặc xếp trên vỉ nướng bằng than hoa.
 
@@ -121,7 +121,7 @@ Bánh khoái Thanh Hóa được làm từ các nguyên liệu như bột tẻ, 
 
 Bánh cuốn Thanh Hóa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-642.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-642.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Gỏi cá nhệch Nga Sơn
 
@@ -131,7 +131,7 @@ Linh hồn của món gỏi cá nhệch là chẻo làm từ xương cá đã đ
 
 Bánh răng bừa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-643.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thanh-hoa-643.jpg" alt="cam-nang-du-lich-thanh-hoa" height=100% width=100%><figcaption><p>cam-nang-du-lich-thanh-hoa-nhavantuonglai</p></figcaption></figure>
 
 Bánh răng bừa được biết đến là đặc sản tiến vua ở nhiều huyện như Vĩnh Lộc, Thọ Xuân. Bánh được gói bằng lá dong hoặc lá chuối, vỏ làm từ bột gạo tẻ, bọc lấy nhân có thịt vai lợn, mộc nhĩ, hành củ, hạt tiêu. Bánh được làm chín bằng cách luộc hoặc hấp, ăn kèm nước mắm nguyên chất pha chanh, ớt hoặc tiêu bắc. Bánh răng bừa ngon nhất khi ăn nóng. Bóc lớp lá, để lộ ra màu xanh từ lá phai ngấm tự nhiên vào lớp bột vỏ ngoài bánh. Bánh nóng sẽ dậy mùi thơm của hành mỡ, vị ngọt bùi quyện với vị béo ngậy của nhân.
 
@@ -139,4 +139,4 @@ Bánh gai tứ trụ
 
 Nguyên liệu tạo nên hương vị riêng cho bánh chính là lá gai, cùng với bột gạo nếp và mật mía, thành vỏ bánh màu đen đặc trưng. Nhân bánh được làm từ các nguyên liệu chính là đường, đậu xanh, dừa nạo và dầu chuối. Lá chuối dùng để gói bánh gai là lá chuối tiêu khô để già tự nhiên trên cây, có độ dai và mang đến mùi thơm cho bánh. Sự kết hợp từ vị dẻo mềm của gạo nếp, vị bùi thơm của nhân đậu xanh và vị ngọt của mật mía đã tạo nên hương vị đặc trưng cho món bánh này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

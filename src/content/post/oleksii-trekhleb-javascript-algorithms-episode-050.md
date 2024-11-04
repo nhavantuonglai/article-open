@@ -3,7 +3,7 @@ pubDatetime: 2018-07-01T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (k-Means algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0550.jpg
+image: https://nhavantuonglai.com/image/cover/001-550.jpg
 tags:
   - developer
   - github
@@ -41,4 +41,4 @@ Here is a visualization of k-Means clustering for better understanding.
 
 The centroids are moving continuously in order to create better distinction between the different set of data points. As we can see, after a few iterations, the difference in centroids is quite low between iterations. For example between iterations `13` and `14` the difference is quite small because there the optimizer is tuning boundary cases.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

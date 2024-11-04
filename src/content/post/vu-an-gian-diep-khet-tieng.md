@@ -3,7 +3,7 @@ pubDatetime: 2024-03-21T10:10:00Z
 title: Đòn tâm lý của FBI hóa giải vụ án gián điệp khét tiếng thế kỷ
 description: Marian Zacharski, điệp viên huyền thoại của Ba Lan, sa lưới chỉ vì đồng phạm vội khai mọi chuyện khi FBI mới dọa biết cả rồi.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0513.jpg
+image: https://nhavantuonglai.com/image/cover/001-513.jpg
 tags:
   - thu vien
   - ngan hang
@@ -99,4 +99,4 @@ Trở về Ba Lan, Zacharski nhanh chóng chứng tỏ tài năng trong mọi l�
 
 Từ 1995, ông rời Ba Lan, sống ở nhiều nước, viết 7 cuốn sách về lịch sử và hoạt động tình báo. Một số bộ phim đã được dựng trên vụ án và cuộc đời của huyền thoại tình báo này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0513.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-513.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-08-07T10:10:00Z
 title: Các thủ tục pháp lý về cấp phép xây dựng nhà ở Đà Nẵng
 description: Việc hiểu rõ quy trình xin phép xây dựng Đà Nẵng là vô cùng quan trọng đối với bất kỳ dự án xây dựng nào. Quy trình này không chỉ đảm bảo tính hợp pháp của công trình mà còn giúp bạn tránh được những rắc rối pháp lý sau này.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0113.jpg
+image: https://nhavantuonglai.com/image/cover/001-113.jpg
 tags:
   - viet thue
   - marketing
@@ -19,7 +19,7 @@ tags:
 
 _Việc nắm vững các thủ tục pháp lý xây dựng Đà Nẵng là điều cần thiết để đảm bảo quá trình xây dựng diễn ra suôn sẻ và hợp pháp. Bài viết này sẽ trình bày chi tiết các quy định về cấp phép xây dựng nhà ở, các văn bản pháp luật liên quan, các trường hợp miễn cấp phép và hồ sơ pháp lý cần thiết cho công trình xây dựng tại Đà Nẵng._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-006.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-006.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Các quy định về cấp phép xây dựng nhà ở
 
@@ -53,7 +53,7 @@ Quận Ngũ Hành Sơn cũng có những quy định riêng về xin phép xây 
 
 – Kiểm tra và giám sát: Công trình xây dựng phải được kiểm tra, giám sát thường xuyên để đảm bảo tuân thủ các quy định về an toàn và vệ sinh môi trường.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-007.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-007.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Quy định xây dựng nhà ở Đà Nẵng
 
@@ -71,7 +71,7 @@ Tại Đà Nẵng, quy định xây dựng nhà ở có một số điểm quan 
 
 Luật Xây dựng là văn bản pháp lý chính điều chỉnh mọi hoạt động xây dựng tại Việt Nam. Luật này quy định về quyền và nghĩa vụ của các bên liên quan, quy trình cấp phép và quản lý chất lượng công trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-010.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-010.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Nghị định và thông tư hướng dẫn
 
@@ -97,7 +97,7 @@ Một số công trình tạm có thể được miễn cấp phép xây dựng 
 
 – Công trình trong khu công nghiệp: Một số công trình tạm trong khu công nghiệp, khu chế xuất, khu công nghệ cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-008.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-008.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Công trình phục vụ nông nghiệp
 
@@ -135,7 +135,7 @@ Hồ sơ pháp lý công trình xây dựng bao gồm nhiều loại giấy tờ
 
 – Nộp hồ sơ và chờ xét duyệt: Sau khi nộp hồ sơ tại cơ quan chức năng, chủ đầu tư cần theo dõi tiến trình xét duyệt và sẵn sàng bổ sung hoặc chỉnh sửa hồ sơ nếu được yêu cầu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-009.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-009.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Lưu ý khi chuẩn bị hồ sơ
 
@@ -149,4 +149,4 @@ Hồ sơ pháp lý công trình xây dựng bao gồm nhiều loại giấy tờ
 
 Hiểu rõ thủ tục pháp lý xây dựng Đà Nẵng là yếu tố then chốt giúp chủ đầu tư và người dân đảm bảo quá trình xây dựng diễn ra suôn sẻ và hợp pháp. Bài viết đã cung cấp cái nhìn tổng quan về quy định cấp phép, các văn bản pháp luật liên quan, những trường hợp miễn cấp phép và hồ sơ pháp lý cần thiết. Việc nắm vững và tuân thủ những quy định này không chỉ giúp bảo vệ quyền lợi của chủ đầu tư mà còn góp phần vào sự phát triển bền vững của thành phố Đà Nẵng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

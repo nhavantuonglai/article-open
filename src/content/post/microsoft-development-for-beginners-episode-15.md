@@ -3,7 +3,7 @@ pubDatetime: 2006-04-18T10:10:00Z
 title: Microsoft | Development for beginners (Episode 32)
 description: This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0415.jpg
+image: https://nhavantuonglai.com/image/cover/001-415.jpg
 tags:
   - developer
   - github
@@ -148,7 +148,7 @@ Notice that each plant in the HTML markup has a combination of ids and classes. 
 
 ```html
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant1" src="https://data.nhavantuonglai.com/image/plant1.png" />
+<img class="plant" alt="plant" id="plant1" src="https://nhavantuonglai.com/image/plant1.png" />
 </div>
 ```
 

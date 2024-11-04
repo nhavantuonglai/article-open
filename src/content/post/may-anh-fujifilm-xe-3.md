@@ -3,7 +3,7 @@ pubDatetime: 2022-10-25T10:10:00Z
 title: Giới thiệu máy ảnh Fujifilm XE 3
 description: Máy ảnh Mirrorless Digital Fujifilm XE 3 sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim XE 3 được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0393.jpg
+image: https://nhavantuonglai.com/image/cover/001-393.jpg
 tags:
   - affiliate
   - may anh
@@ -20,23 +20,23 @@ _Máy ảnh Mirrorless Digital Fujifilm XE 3 sở hữu con chip cảm biến X-
 
 ## Máy ảnh Fujifilm XE 3
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-01.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-01.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-02.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-02.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-03.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-03.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-04.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-04.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-05.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-05.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-06.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-06.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-07.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-07.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-08.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-08.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-09.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xe-4-09.jpg" alt="Fujifilm XE3" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 Máy ảnh Mirrorless Digital Fujifilm XE 3 là dòng máy ảnh đáp ứng nhu cầu chụp hình đa dạng nhờ sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP và Bộ xử lý hình ảnh EXR II. Fujifilm XE 3 hỗ trợ ghi hình tối đa lên tới 8 khung hình/giây với dải nhạy sáng có thể mở rộng ISO 100-51200. Cảm biến X-Trans độc quyền của nhà Fujifilm sử dụng mảng pixel ngẫu nhiên, độc đáo để tránh sử dụng bộ lọc quang học low-pass làm giảm độ phân giải, nhờ đó cung cấp hình ảnh với độ sắc nét và chi tiết cao nhất.
 
@@ -180,4 +180,4 @@ Ngoài ra với kết nối không dây, Fujifilm XE 3 cho phép điều khiển
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0632.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-632.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

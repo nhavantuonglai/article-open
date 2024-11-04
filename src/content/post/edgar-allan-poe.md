@@ -3,7 +3,7 @@ pubDatetime: 2006-01-18T10:10:00Z
 title: Tiểu sử Edgar Allan Poe
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0269.jpg
+image: https://nhavantuonglai.com/image/cover/001-269.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -75,4 +75,4 @@ Poe không chỉ là một nhà văn với những tác phẩm đặc sắc, mà
 
 Tài năng của Edgar Allan Poe được nhìn nhận qua khả năng sáng tạo không gian kỳ bí và đầy ám ảnh trong tác phẩm. Ông không chỉ là một bậc thầy kể chuyện với ngôn ngữ sắc bén, mà còn là một người có tư duy đột phá trong việc khai thác những chủ đề tâm lý phức tạp như tội lỗi, sự mất trí, và nỗi sợ hãi vô hình. Sự kết hợp giữa phong cách văn học u ám và khả năng phân tích sâu sắc tâm lý con người đã tạo nên dấu ấn riêng biệt cho Poe. Nhiều nhà phê bình và độc giả coi ông là một trong những tác giả vĩ đại nhất mọi thời đại, và di sản của ông vẫn còn sống mãi trong nền văn học thế giới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0259.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-259.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

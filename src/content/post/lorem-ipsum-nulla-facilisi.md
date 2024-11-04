@@ -3,7 +3,7 @@ pubDatetime: 2022-09-25T10:10:00Z
 title: Bí mật và nguồn gốc của đoạn văn bản được sử dụng nhiều nhất trên internet
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0469.jpg
+image: https://nhavantuonglai.com/image/cover/001-469.jpg
 tags:
   - lorem ipsum
   - lorem
@@ -333,4 +333,4 @@ Pellentesque convallis bibendum scelerisque. Donec sit amet ultrices diam. Integ
 
 Nunc ac felis nulla. Suspendisse fermentum ex ut lectus tincidunt condimentum. Vestibulum dictum justo in bibendum fermentum. Integer scelerisque quis felis ut tincidunt. Etiam consectetur libero dui, iaculis iaculis dolor suscipit sit amet. Integer vehicula nisl quis augue dapibus ullamcorper. Nulla iaculis leo vitae mi egestas, at vehicula ex convallis. Nam laoreet faucibus suscipit. Proin et quam mollis, rutrum metus a, sodales lectus. Maecenas eu ante euismod tellus viverra.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

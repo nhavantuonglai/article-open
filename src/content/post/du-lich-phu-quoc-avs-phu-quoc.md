@@ -3,7 +3,7 @@ pubDatetime: 2021-09-18T10:10:00Z
 title: Top 5 dịch vụ nên trải nghiệm tại khách sạn 4 sao AVS Phú Quốc
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0658.jpg
+image: https://nhavantuonglai.com/image/cover/001-658.jpg
 tags:
   - viet thue
   - marketing
@@ -47,4 +47,4 @@ Quá trình này được kết hợp cùng các tinh dầu thiên nhiên đảm
 
 Nếu bạn có dịp đến du lịch Phú Quốc hãy đến AVS Hotel Phú Quốc để trải nghiệm những dịch vụ đẳng cấp tại khách sạn nhé! Bên cạnh đó nhân viên tại khách sạn luôn niềm nở với du khách. Đội ngũ nhân viên chuyên nghiệp và tận tâm trong từng khâu chăm sóc khách khách hàng để lại ấn tượng tốt cho khách du lịch nghỉ ngơi tại đây. AVS Hotel chúc bạn có một kỳ nghỉ tuyệt vời tại Phú Quốc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

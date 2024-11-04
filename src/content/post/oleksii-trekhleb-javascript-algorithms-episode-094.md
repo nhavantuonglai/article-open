@@ -3,7 +3,7 @@ pubDatetime: 2018-05-01T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Sieve of eratosthenes)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0594.jpg
+image: https://nhavantuonglai.com/image/cover/001-594.jpg
 tags:
   - developer
   - github
@@ -41,4 +41,4 @@ An improvement of this algorithm is, in step 4, start marking multiples of `p` f
 
 The algorithm has a complexity of `O(n log(log n))`.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

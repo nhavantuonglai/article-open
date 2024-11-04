@@ -3,7 +3,7 @@ pubDatetime: 2024-03-16T10:10:00Z
 title: FBI tổ chức đám cưới xa hoa để bẫy nhiều trùm tội phạm quốc tế
 description: Hè 2005, hàng chục tội phạm sừng sỏ khắp thế giới cùng nhận được thiệp mời cưới trên du thuyền xa xỉ, được bao trọn gói phòng khách sạn 5 sao mà không biết đó là bẫy của FBI.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0713.jpg
+image: https://nhavantuonglai.com/image/cover/001-713.jpg
 tags:
   - thu vien
   - ngan hang
@@ -109,4 +109,4 @@ Tổng số 87 người từ 8 quốc tịch đã bị xét xử, lĩnh án 4 �
 
 Nhà chức trách Mỹ cho biết nhìn lại vụ án vẫn _giật mình_ trước tham vọng trắng trợn và mức độ tinh vi của tổ chức này. Chiến dịch thành công đã _chặt đầu_ một trong những tập đoàn tội phạm châu Á lớn nhất hoạt động tại Mỹ, nhưng những băng đảng tinh vi khác đã tiếp tục mọc lên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0713.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-713.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-12-07T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7C Mark II
 description: Năm nay, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7C Mark II với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0459.jpg
+image: https://nhavantuonglai.com/image/cover/001-459.jpg
 tags:
   - affiliate
   - may anh
@@ -182,4 +182,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0345.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-345.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-01-04T10:10:00Z
 title: Thu Giang | Để trở thành nhà văn (Chương 04)
 description: Thu Giang là hiệu của Nguyễn Duy Cần, một học giả, nhà văn, nhà biên khảo và trước tác kỳ cựu vào bậc nhất Việt Nam giữa thế kỷ 20. Ông sinh năm 1907 tại Mỹ Tho, Tiền Giang và mất năm 1998 tại TP.Hồ Chí Minh…
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0134.jpg
+image: https://nhavantuonglai.com/image/cover/001-134.jpg
 tags:
   - thu vien
   - van hoc
@@ -194,6 +194,6 @@ Trường hợp của Corneille: ông đã bỏ ba năm không thèm cầm bút 
 
 Đọc [Để trở thành nhà văn, chương 06](https://nhavantuonglai.com/article/thu-giang-de-tro-thanh-nha-van-chuong-06) tại đây.
 
-Đọc [Để trở thành nhà văn, toàn tập](https://data.nhavantuonglai.com/ebook/thu-giang-de-tro-thanh-nha-van.pdf) tại đây.
+Đọc [Để trở thành nhà văn, toàn tập](https://nhavantuonglai.com/ebook/thu-giang-de-tro-thanh-nha-van.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

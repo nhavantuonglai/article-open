@@ -3,7 +3,7 @@ pubDatetime: 2022-05-15T10:10:00Z
 title: Thích Nhất Hạnh | Sợ hãi (Chương 05)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0551.jpg
+image: https://nhavantuonglai.com/image/cover/001-551.jpg
 tags:
   - thu vien
   - van hoc
@@ -137,6 +137,6 @@ Nỗi sợ không biến mất hoàn toàn. Cho nên khi ta có một phút yên
 
 Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/thich-nhat-hanh-so-hai-chuong-20) tại đây.
 
-Đọc [Sợ hãi, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-so-hai.pdf) tại đây.
+Đọc [Sợ hãi, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-so-hai.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

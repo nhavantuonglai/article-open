@@ -3,7 +3,7 @@ pubDatetime: 2022-12-15T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7R Mark IV
 description: Năm nay, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7R Mark IV với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0413.jpg
+image: https://nhavantuonglai.com/image/cover/001-413.jpg
 tags:
   - affiliate
   - may anh
@@ -28,19 +28,19 @@ Sony A7R Mark IV giữ lại thiết kế cơ bản của dòng A7, nhưng với
 
 Các nút điều khiển trên A7R Mark IV được bố trí khoa học, với nhiều phím tùy chỉnh cho phép người dùng dễ dàng điều chỉnh các thông số mà không cần rời mắt khỏi kính ngắm. Kính ngắm điện tử OLED Tru-Finder với độ phân giải 5.76 triệu điểm ảnh là một điểm nhấn của thiết kế, mang lại hình ảnh rõ nét, sáng đẹp và chính xác về màu sắc, giúp người dùng có trải nghiệm chụp ảnh tốt hơn. Cùng với đó, màn hình LCD cảm ứng phía sau có thể lật xoay, hỗ trợ tối đa cho việc chụp ảnh từ các góc độ khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="sony alpha a7 mark iii" title="sony alpha a7 mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
 ## Cấu hình Sony A7R Mark IV
 
@@ -154,8 +154,8 @@ Trên YouTube, một vlogger chuyên về nhiếp ảnh cũng đã bày tỏ s�
 
 Trong năm 2024, Sony A7R Mark IV vẫn giữ được giá trị của mình như một trong những máy ảnh không gương lật full-frame hàng đầu. Với độ phân giải 61 megapixel, hệ thống lấy nét tự động tiên tiến, và khả năng quay video 4K chất lượng cao, A7R Mark IV vẫn là lựa chọn lý tưởng cho nhiều nhiếp ảnh gia chuyên nghiệp và những người đam mê nhiếp ảnh. Máy vẫn phù hợp cho các thể loại nhiếp ảnh như phong cảnh, chân dung, và nhiếp ảnh thương mại, nơi mà chất lượng ảnh và chi tiết là yếu tố quyết định.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark iii</p></figcaption></figure>
 
 Tuy nhiên, nếu bạn cần một chiếc máy ảnh với hiệu suất video cao hơn, tốc độ chụp nhanh hơn, hoặc những tính năng mới nhất trong công nghệ máy ảnh, bạn có thể cân nhắc các mẫu máy mới hơn như Sony A7R V hoặc Sony A1. Những mẫu máy này không chỉ cung cấp các tính năng tiên tiến hơn mà còn cải thiện về thời lượng pin, khả năng xử lý và nhiều yếu tố khác mà A7R Mark IV có thể chưa đáp ứng đầy đủ. Tuy vậy, A7R Mark IV vẫn là một lựa chọn xuất sắc và đáng giá trong năm 2024, đặc biệt nếu bạn đang tìm kiếm một chiếc máy ảnh với độ phân giải cao và chất lượng ảnh tuyệt vời.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

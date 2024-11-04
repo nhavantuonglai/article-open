@@ -3,7 +3,7 @@ pubDatetime: 2018-08-18T10:10:00Z
 title: Akutagawa Ryunosuke | Xin chịu khó đọc là Kappa
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -961,4 +961,4 @@ Trước phông rạp hát , thảnh thơi cứ nằm .
 
 Nhưng tôi cũng không quá bi quan như thi sĩ Tốc . Khi mà những kappa còn đến viếng thăm tôi thường xuyên … À quên , quý vị còn nhớ ông quan toà Pep , bạn tôi . Ông này sau khi bị mất chức , trở lên điên khùng . Tôi được nghe tin cho hay ông ta đang ở trong một bệnh viện tâm thần của xứ kappa . Tôi rất muốn đi thăm ông ta , nếu bác sĩ S … cho phép tôi .
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

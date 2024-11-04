@@ -3,7 +3,7 @@ pubDatetime: 2021-10-13T10:10:00Z
 title: Cẩm nang du lịch Sóc Sơn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0677.jpg
+image: https://nhavantuonglai.com/image/cover/001-677.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -45,7 +45,7 @@ Hồ nước này tọa lạc ở thôn Minh Tân, xã Minh Trí, huyện Sóc S
 
 Bạn có thể mang lều trại và đồ ăn để tự chế biến, vừa thưởng thức bữa ăn vừa ngắm cảnh hồ thanh bình. Nhóm đông người có thể thuê thêm lều trại, hoặc nghỉ tại homestay, khách sạn, biệt thự để tổ chức vui chơi, tiệc nướng ngoài trời. Chi phí thuê điểm [cắm trại](https://info.nhavantuonglai.com/topick) là 25.000 đồng/người trong ngày, 50.000 đồng/người qua đêm, bao gồm phí dọn dẹp, điện, nước và khu vực vệ sinh. Ngoài ra, bạn có thể thuê cần câu cá, thuyền phao, kayak, SUP… hoặc đơn giản hơn là đạp xe, chạy bộ quanh khu vực hồ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-609.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-609.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
 _Hồ Đồng Quan_
 
@@ -53,7 +53,7 @@ Nằm ngay gần Đền Gióng, khu sinh thái hồ Đồng Quan thích hợp ch
 
 Nếu nhóm đi dưới 15 người, các bạn có thể dựng lều tại chòi bên hồ, đêm xuống có thể mở tiệc BBQ, hàn huyên bên đống lửa. Nếu đông hơn, khoảng 15-25 người, bạn có thể dựng lều bên hồ hoặc trong rừng tùy thích. Khu nghỉ còn có homestay, khu vui chơi cho trẻ em…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-610.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-610.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
 _Núi Hàm Lợn_
 
@@ -63,7 +63,7 @@ Với hồ nước xanh thẳm giữa núi rừng, Hàm Lợn cao 426 m được
 
 Có hai con đường lên đỉnh núi. Đường thứ nhất là đường mòn an toàn, ít bụi rậm và thời gian chinh phục chưa đầy hai tiếng. Con đường thứ hai nhiều thử thách, băng qua những đoạn đường dốc, vượt qua bụi rậm… trong 3 đến 4 tiếng. Cung này thích hợp nhất vào mùa khô. Hãy chuẩn bị giầy ma sát tốt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-611.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-611.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
 _Bản Rõm_
 
@@ -71,15 +71,15 @@ Bản Rõm ở xã Quang Tiến, huyện Sóc Sơn, cách trung tâm thành ph�
 
 Giá vé vào cổng là 50.000 đồng/người (gồm phí vệ sinh, an ninh, làm bánh), lều trại hoặc chòi 4-6 người nghỉ có giá từ 150.000 đồng/chiếc nếu sử dụng trong ngày, nếu qua đêm tính phụ phí 100.000 đồng. Đồ ăn bạn có thể tự đem theo để nấu tại chỗ hoặc đặt cơm ngay trong khu nghỉ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-612.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-612.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
 _Hồ Chòm Núi_
 
 Hồ Chòm Núi còn có tên là hồ Hoa Sơn, đẹp nhất từ tháng 9 đến tháng 11. Từ nội thành Hà Nội đến hồ khoảng một tiếng, du khách chỉ cần đi theo ứng dụng Google Maps. Bạn có thể vui chơi, cắm trại miễn phí ven hồ. Nhà dân cách hồ khoảng một km, với nhiều cửa hàng tạp hóa. Du khách lưu ý mang theo quần áo, chăn ấm vì ban đêm khá lạnh. Bạn hãy chuẩn bị tinh thần ngắt kết nối để hòa vào thiên nhiên, vì sóng điện thoại ở khu vực này rất kém.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-613.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-613.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-614.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-soc-son-614.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 
 ## Nghỉ ở đâu
 
@@ -89,4 +89,4 @@ Một số địa chỉ gợi ý cho các gia đình, nhóm bạn là Luxury Vil
 
 Nếu muốn không gian riêng tư và yên tĩnh hơn, bạn có thể tham khảo Hidden Villa, Nhà Bên Rừng – U Lesa, Ao Garden, Pond Villa – Nhà Ao… giá trung bình 2.500.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

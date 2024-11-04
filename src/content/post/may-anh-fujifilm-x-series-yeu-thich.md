@@ -3,7 +3,7 @@ pubDatetime: 2022-11-01T10:10:00Z
 title: Tại sao Fujifilm X Series lại được yêu thích đến vậy?
 description: Fujifilm đem đến hệ sinh thái X Series với loạt máy ảnh và ống kính cho những trải nghiệm sử dụng riêng biệt, bài viết này sẽ được dịch thuật từ một cây bút tại Fujilove.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0543.jpg
+image: https://nhavantuonglai.com/image/cover/001-543.jpg
 tags:
   - thu vien
   - doan van
@@ -36,4 +36,4 @@ Cuối cùng là tại sao tôi không chọn GFX? Tôi cũng đã thử nghiệ
 
 Tổng kết lại, tôi rất hạnh phúc với hệ sinh thái của X Series mà tôi đang sở hữu. Dù có thể hiện tại Canon, Nikon, Sony và cả Leica đang có nhiều thứ hấp dẫn nhưng tôi vẫn thích chứng kiến sự đi lên và phát triển với Fujifilm, đặc biệt là từ bây giờ là cùng nhìn sự phát triển của hệ máy GFX nữa. Nhưng việc tôi chọn X Series vẫn chưa bao giờ làm tôi hối hận, cũng như đề cập ở trên là tôi không đổi hệ máy, tôi là một người gắn bó và sử dụng tối đa thiết bị của mình. Khi tôi quyết định chọn Fujifilm khoảng hơn 10 năm trước, tôi cũng đã quyết định gắn bó với hệ máy này vì những yếu tố thiết kế, hiệu năng cùng với trải nghiệm sử dụng. Cảm ơn bạn đã dành thời gian cho bài viết này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0336.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-336.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-08-07T10:10:00Z
 title: Cẩm nang du lịch Đại Lải
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0611.jpg
+image: https://nhavantuonglai.com/image/cover/001-611.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -13,7 +13,7 @@ Hồ Đại Lải được đào năm 1959 để lấy nước tưới tiêu ph�
 
 Hồ Đại Lải là một điểm đến nghỉ dưỡng cuối tuần khá phổ biến của người Hà Nội vì thuận tiện di chuyển, có thể đi trong ngày hoặc qua đêm, tùy nhu cầu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-172.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-172.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
 
 ## Thời điểm đẹp
 
@@ -29,7 +29,7 @@ Nếu đi xe buýt, từ Hà Nội bạn bắt xe 58 đến đường Nguyễn T
 
 Dịch vụ lưu trú tại hồ Đại Lải khá phong phú, từ nhà nghỉ bình dân đến resort 5 sao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-173.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-173.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
 
 Flamingo Đại Lải là khu resort lớn nhất và sang trọng nhất tại khu vực này. Giá phòng dao động từ khoảng 2 triệu tới 10 triệu đồng một đêm, tùy loại khách sạn hay biệt thự và số lượng phòng ngủ. Flamingo Đại Lải có nhiều dịch vụ đi kèm như bể bơi bốn mùa, sân tennis, câu lạc bộ thể thao, massage, khu game, rạp chiếu phim, karaoke, các nhà hàng, khu tổ chức hội thảo, hội nghị. Flamingo có hai hình thức cho thuê: của chủ đầu tư hoặc của các nhà đầu tư cá nhân.
 
@@ -47,7 +47,7 @@ Nếu không lưu trú, du khách phải mua vé để vào Flamingo Đại Lả
 
 Đảo Ngọc
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-173.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-173.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
 
 Đảo Ngọc (hay đảo Chim) nằm giữa hồ Đại Lải. Nơi đây từng là một đảo chim hoang sơ, nay được đầu tư quy mô lớn, thành một resort với nhiều hạng mục kiến trúc và dịch vụ du lịch. Điểm nhấn của đảo là chùa Linh Thông được phục dựng lại trên nền ngôi chùa cổ. Nơi đây còn có khu vui chơi cho trẻ em, khu cắm trại, đường dạo, bể bơi ngoài trời diện tích 900 m2.
 
@@ -55,7 +55,7 @@ Nếu không lưu trú, du khách phải mua vé để vào Flamingo Đại Lả
 
 ## Ăn uống
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-174.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dai-lai-174.jpg" alt="cam-nang-du-lich-dai-lai" height=100% width=100%><figcaption><p>cam-nang-du-lich-dai-lai-nhavantuonglai</p></figcaption></figure>
 
 Khu vực gần Flamingo, sân golf và quanh hồ Đại Lải phía hướng đường tỉnh 302B (DT302B) có nhiều nhà hàng phục vụ đa dạng các món ăn địa phương. Thịt trâu là một trong những món ăn nổi bật nhất. Các nhà hàng thường chế biến thịt trâu thành các món nhậu, ăn kèm cơm như thịt trâu khô, thịt trâu xào rau muốn, thịt trâu nhúng mẻ…
 
@@ -67,4 +67,4 @@ Lái xe vào khu vực hồ Đại Lải lưu ý giữ đúng tốc độ quy đ
 
 Các khu vực công cộng xung quanh hồ cần giữ vệ sinh chung.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

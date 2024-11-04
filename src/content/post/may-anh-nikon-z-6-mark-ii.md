@@ -3,7 +3,7 @@ pubDatetime: 2022-11-19T10:10:00Z
 title: Giới thiệu và đánh giá máy ảnh Nikon Z6 Mark II
 description: Nikon Z6 Mark II là một thiết bị cao cấp được thiết kế để đáp ứng nhu cầu của những người sáng tạo nội dung hiện đại. Với cảm biến full-frame 24,5MP và bộ xử lý hình ảnh EXPEED 7 mạnh mẽ, máy ảnh này mang lại chất lượng hình ảnh xuất sắc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - affiliate
   - may anh
@@ -67,4 +67,4 @@ Mặc dù đã có các model mới hơn ra mắt, như Nikon Z7II hoặc các m
 
 Trong bối cảnh công nghệ máy ảnh ngày càng phát triển, Nikon Z6II vẫn giữ được vị thế của mình nhờ vào chất lượng ảnh tuyệt vời và thiết kế tiện dụng. Điều này chứng minh rằng, ngay cả khi đối mặt với sự cạnh tranh gay gắt, Nikon Z6II vẫn là một trong những máy ảnh không gương lật full-frame đáng giá nhất trong phân khúc của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

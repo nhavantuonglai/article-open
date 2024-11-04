@@ -3,7 +3,7 @@ pubDatetime: 2024-03-23T10:10:00Z
 title: Mẹ gánh nỗi oan giết con từ tội ác của đàn chó dữ
 description: Được ra tù sau 10 năm mang tiếng giết con, Lindy kêu gọi chính phủ kiểm soát dingo, loài chó hoang cướp sinh mạng con gái 10 tháng tuổi, khiến mình bị kết tội oan.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0225.jpg
+image: https://nhavantuonglai.com/image/cover/001-225.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -91,4 +91,4 @@ Ngay cả khi nguyên nhân cái chết trong giấy chứng tử của Azaria �
 
 Sau vụ án oan, nhiều tác phẩm điện ảnh đã ra đời, nổi tiếng nhất là Evil Angels, năm 1988. Bộ phim giúp minh tinh Meryl Streep, vào vai Lindy, được đề cử Oscar cho Nữ diễn viên chính xuất sắc nhất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

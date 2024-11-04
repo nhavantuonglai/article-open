@@ -3,7 +3,7 @@ pubDatetime: 2022-11-09T10:10:00Z
 title: Giới thiệu máy ảnh Fujifilm XT 30
 description: Máy ảnh Mirrorless Digital Fujifilm XT 30 sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim XT 30 được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0393.jpg
+image: https://nhavantuonglai.com/image/cover/001-393.jpg
 tags:
   - affiliate
   - may anh
@@ -24,17 +24,17 @@ Máy ảnh Mirrorless Digital Fujifilm XT 30 là dòng máy ảnh đáp ứng nh
 
 Fujfilim XT 30 được cấu tạo bằng hợp kim magie nhẹ và bền, có khả năng chống chịu được thời tiết. Kính ngắm OLED 0,5 inch 2,36 triệu điểm độ phóng đại lên tới 0,77x cùng màn hình nghiêng LCD cho phép người dùng có thêm nhiều góc chụp sáng tạo cũng như dễ dàng theo dõi thông số và có sự điều chỉnh tốt nhất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-01.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-01.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-02.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-02.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-03.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-03.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-04.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-04.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-05.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-05.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-06.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-fujifilm-xt-30-06.jpg" alt="Fujifilm XT30" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Thiết kế classic
 
@@ -174,4 +174,4 @@ Ngoài ra với kết nối không dây, Fujifilm XT 30 cho phép điều khiể
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0391.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-391.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

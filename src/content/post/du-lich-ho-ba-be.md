@@ -3,7 +3,7 @@ pubDatetime: 2021-08-21T10:10:00Z
 title: Cẩm nang du lịch Ba Bể
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0626.jpg
+image: https://nhavantuonglai.com/image/cover/001-626.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -15,7 +15,7 @@ Hồ Ba Bể nằm cách thành phố Bắc Kạn 70 km về phía tây bắc, t
 
 Năm 1995, hồ Ba Bể đã được Hội nghị Hồ nước ngọt thế giới tại Mỹ công nhận là một trong 20 hồ nước ngọt đặc biệt cần được bảo vệ. Năm 1996, hồ được công nhận di tích lịch sử văn hóa quốc gia. Năm 2011, Ba Bể được công nhận là khu Ramsar – khu bảo tồn đất ngập nước có tầm quan trọng của thế giới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-319.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-319.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -37,7 +37,7 @@ Tuy vậy, thời tiết đẹp nhất để du lịch hồ Ba Bể là từ th�
 
 Có rất nhiều khách sạn và homestay ở khu vực quanh hồ Ba Bể với giá dao động cho phòng hai người từ 150.000 đồng đến 1,2 triệu đồng. Các nhà cộng đồng có giá 70.000-100.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-320.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-320.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 Các khu lưu trú sát hồ Ba Bể, có ban công hay cửa phòng nhìn ra hồ đều là những homestay của người địa phương, thường bao gồm cả những phòng cộng đồng. Các tiện nghi ở đây đều chỉ ở mức cơ bản. Nếu du khách muốn ở nơi được trang bị đầy đủ hơn, sẽ phải chọn nơi lưu trú xa ven hồ 1 đến 2 km, ở khu vực cổng vườn quốc gia.
 
@@ -51,17 +51,17 @@ Tham quan hồ Ba Bể
 
 Tham quan hồ Ba Bể, du khách có thể chọn hình thức thuê xuồng, kayak, SUP (ván chèo đứng) hoặc thuyền độc mộc. Thường có hai bến xuất phát: hồ Ba Bể và sông Năng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-321.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-321.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 – Xuồng máy: 12 người một xuồng (khách Việt) và 10 người một xuồng (khách nước ngoài). Giá thuê dao động từ 300.000 đồng đến 1 triệu đồng tùy thời gian (2 đến 8 tiếng) và tuyến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-322.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-322.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 – Kayak và SUP: Đây là những dịch vụ mới 2-3 năm gần đây. Giá thuê khoảng 1,2 đến 1,5 triệu đồng cho một nhóm 3 thuyền trong một ngày. Du khách sẽ được trang bị áo phao để bảo đảm an toàn. Số lượng tối đa cho 3 thuyền là 6 người.
 
 Ngoài việc đến tận nơi thuê các dịch vụ, du khách có thể chọn tour khởi hành từ Hà Nội kết hợp chèo SUP, kayak và trekking xuyên rừng quốc gia, chinh phục thiên nhiên ở một trong những nơi đẹp của miền Bắc. Giá tour trọn gói dao động từ 2 đến 3 triệu đồng một người, đi vào hai ngày cuối tuần.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-323.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-323.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 – Thuyền độc mộc: Đây là phương tiện di chuyển lâu đời của người dân tộc Tày quanh hồ. Phương tiện này mang nét văn hoá truyền thống. Thuyền được tạo từ một cây gỗ lớn chiều rộng khoảng 50 cm, chiều dài từ 5 đến 10 m, sử dụng một mái chèo. Thuyền độc mộc thường chỉ đi được 2-3 người.
 
@@ -69,7 +69,7 @@ Các điểm đến trên hành trình khám phá hồ Ba Bể gồm có:
 
 Bản Pác Ngòi
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-325.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-325.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 Bản Pác Ngòi hay khu du lịch văn hóa Pác Ngòi, xã Nam Mẫu, là nơi sinh sống của đồng bào dân tộc Tày nằm sát bờ sông Lèng và hồ Ba Bể, với khoảng 40 nhân khẩu. Hầu hết các khu lưu trú nằm ở bản này. Bản có những ngôi nhà sàn cổ, lợp ngói máng âm dương, kiến trúc đặc trưng người Tày. Dân bản chủ yếu sống bằng nghề trồng trọt và chăn nuôi, đánh bắt thủy hải sản từ hồ Ba Bể. Tại đây du khách sẽ được thưởng thức đặc sản địa phương như cơm lam, cá nướng thịt chua, xôi ngũ sắc, tham gia các hoạt động cùng bà con như đánh cá, chèo thuyền độc mộc, xem các thiếu nữ Tày hát then.
 
@@ -87,7 +87,7 @@ Ao Tiên là một hồ nước nhỏ rộng chừng 3 ha, có những mạch n�
 
 ## Ăn gì
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-324.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ho-ba-be-324.jpg" alt="cam-nang-du-lich-ho-ba-be" height=100% width=100%><figcaption><p>cam-nang-du-lich-ho-ba-be-nhavantuonglai</p></figcaption></figure>
 
 Cá nướng
 
@@ -109,4 +109,4 @@ Trong bản không có nhiều đồ ăn và cửa hàng tạp hóa, du khách n
 
 Nếu du khách muốn ở trong bản Pác Ngòi thì có thể bắt xe ôm ở cổng vườn quốc gia hoặc nhờ homestay bố trí người ra đón.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

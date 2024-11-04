@@ -3,7 +3,7 @@ pubDatetime: 2006-02-02T10:10:00Z
 title: Edgar Allan Poe | The facts in the case of M. Valdemar
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0139.jpg
+image: https://nhavantuonglai.com/image/cover/001-139.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -122,4 +122,4 @@ For what really occurred, however, it is quite impossible that any human being c
 
 As I rapidly made the mesmeric passes, amid ejaculations of _dead! dead!_ absolutely bursting from the tongue and not from the lips of the sufferer, his whole frame at once – within the space of a single minute, or even less, shrunk – crumbled – absolutely rotted away beneath my hands. Upon the bed, before that whole company, there lay a nearly liquid mass of loathsome – of detestable putridity.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

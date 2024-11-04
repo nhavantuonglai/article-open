@@ -3,7 +3,7 @@ pubDatetime: 2021-08-27T10:10:00Z
 title: Cẩm nang du lịch Lăng Cô
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0633.jpg
+image: https://nhavantuonglai.com/image/cover/001-633.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -11,7 +11,7 @@ tags:
 
 _Vịnh Lăng Cô có chiều dài 42,5 km, với nước biển xanh trong, cát trắng mịn, hệ sinh thái đa dạng. Đây là một trong những thắng cảnh, địa danh du lịch nổi tiếng của tỉnh Thừa Thiên – Huế, được Vua Khải Định xem là chốn _bồng lai tiên cảnh._ Năm 2009, vịnh Lăng Cô được bình chọn vào danh sách _Vịnh đẹp nhất thế giới_ của Worldbays._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-364.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-364.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
 
 ## Mùa đẹp
 
@@ -21,7 +21,7 @@ Nằm gần Đà Nẵng nhưng Lăng Cô vẫn ở phía bắc đèo Hải Vân,
 
 Lăng Cô còn có mùa mưa từ tháng 9 đến tháng 12, trong đó hai tháng mưa nhiều nhất là 10 và 11.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-365.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-365.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -63,7 +63,7 @@ Hải Vân Quan được xây dựng năm 1826, là đồn lũy quân sự trấ
 
 Cầu vòm Đồn Cả
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-366.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-366.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
 
 Cầu vòm Đồn Cả nằm dưới chân đèo Hải Vân. Vào khoảng năm 1881-1885, tuyến đường sắt đầu tiên ở Việt Nam dài 70 km nối liền Sài Gòn – Mỹ Tho được người Pháp khởi công. Đến đầu thế kỷ 20, tuyến đường tiếp tục được xây dựng qua đèo Hải Vân với tổng chiều dài 28 km, với 18 cây cầu, trong đó có cầu vòm Đồn Cả. Cầu được khánh thành khoảng năm 1906, với kiến trúc gồm 4 vòm, xây chủ yếu bằng đá, độ cao 20 m với chiều dài khoảng 100 m. Hiện cầu có ý nghĩa quan trọng trong tuyến đường sắt Bắc-Nam và là địa điểm check-in hút giới trẻ.
 
@@ -71,7 +71,7 @@ Không nằm trên quốc lộ, nhưng cầu khá dễ tìm. Từ trung tâm th�
 
 Các bãi tắm
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-367.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-co-367.jpg" alt="cam-nang-du-lich-lang-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-co-nhavantuonglai</p></figcaption></figure>
 
 Vịnh Lăng Cô có nhiều bãi tắm đẹp, trong đó bãi Cảnh Dương, Lăng Cô và Bình An là ba nơi nổi bật nhất. Ở bãi Cảnh Dương, bình minh là thời điểm đẹp nhất trong ngày. Du khách có thể ngắm nhìn khung cảnh mặt trời dần nhô lên từ phía đường chân trời, ôm lấy bãi biển hình vòng cung, tia nắng rọi xuống mặt biển tạo hiệu ứng lấp lánh. Tại đây cũng có nhiều dịch vụ cắm trại, thuê lều bên bãi biển. Du khách có thể thuê thuyền của ngư dân khám phá vùng biển dưới chân đèo Hải Vân.
 
@@ -89,4 +89,4 @@ Một số bãi tắm ở Lăng Cô chưa có biển cảnh báo và đội cứ
 
 Buổi tối ở Lăng Cô không có quá nhiều hoạt động vui chơi giải trí do nằm khá xa trung tâm thành phố.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

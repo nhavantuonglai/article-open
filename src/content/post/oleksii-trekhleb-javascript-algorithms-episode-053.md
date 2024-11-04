@@ -3,7 +3,7 @@ pubDatetime: 2018-07-04T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (k-Nearest neighbors algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0553.jpg
+image: https://nhavantuonglai.com/image/cover/001-553.jpg
 tags:
   - developer
   - github
@@ -53,4 +53,4 @@ Here, as we can see, the classification of unknown points will be judged by thei
 
 It is important to note that `K` is preferred to have odd values in order to break ties. Usually `K` is taken as `3` or `5`.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

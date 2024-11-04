@@ -3,7 +3,7 @@ pubDatetime: 2018-08-19T10:10:00Z
 title: Abe Kôbô | Bọn chiếm đóng
 description: Abe Kôbô là một trong những nhà văn hậu chiến Nhật Bản thế hệ Shôwa 30 (từ năm 1955 trở đi) có khuynh hướng đi tìm một thủ pháp mới.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0023.jpg
+image: https://nhavantuonglai.com/image/cover/001-023.jpg
 tags:
   - thu vien
   - van hoc
@@ -800,4 +800,4 @@ Tôi bị họ lôi kéo mạnh bạo trên cả mức cần thiết về đến
 Rồi mỗi đêm, gặp hôm trời nổi gió, từ kẻ hở trên nóc nhà của anh K trong khu chung cư, lúc nào cũng có những tấm truyền đơn bươm bướm bay ra. Vài mươi bức, vài trăm bức, rồi con số lên đến vài nghìn bức. Chúng nương theo làn gió, bay tán loạn khắp thành phố. Không ai biết những tấm truyền đơn ấy từ đâu bay đến. Thế nhưng hàng chục, hàng trăm rồi hàng nghìn nạn nhân đã đọc những tấm truyền đơn ấy.
 Bọn người chiếm đóng một hôm đã làm việc lạ lùng: đâm đơn kiện những tấm truyền đơn ấy. Cái cớ của họ là những tấm truyền đơn ấy đều nhiễm vi trùng. Cục vệ sinh trong thành phố sau khi tiến hành kiểm tra, đã xác nhận quả là trong những tấm truyền đơn ấy có một loại vi trùng nguy hiểm thật. Cho dù ông luật sư có lương tâm của chúng ta đã lên tiếng rằng bất cứ đồ vật nào không được trang bị khử trùng cũng đều có khả năng bị nhiễm thứ vi trùng này thôi nhưng người ta đã làm ngơ trước lập luận của ông. Thế rồi đạo luật cấm lưu hành loại truyền đơn ấy đã được phê chuẩn. Nhưng dù sao, trước khi đạo luật được chính thức bố cáo thì từ cái mái căn hộ trong khu chung cư, không ai còn thấy những tấm truyền đơn đó bay ra nữa. Kiệt quệ vì bị hiếp đáp và đói khát, rốt cuộc anh K đã _yên nghỉ_ . Cổ treo lên cái rường quá thấp, chân anh phải gập lên ngang tầm đầu gối.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

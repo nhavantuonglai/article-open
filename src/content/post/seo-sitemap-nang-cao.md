@@ -3,7 +3,7 @@ pubDatetime: 2023-05-28T10:10:00Z
 title: Mở rộng Sitemaps
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0150.jpg
+image: https://nhavantuonglai.com/image/cover/001-150.jpg
 tags:
   - google
   - google console
@@ -327,4 +327,4 @@ Ví dụ: cách thêm phần mở rộng cho tin tức, video và xhtml (`hrefla
 
 Sau thẻ `<loc>`, thứ tự của phần mở rộng Sitemaps là không quan trọng. Hãy lưu ý các phương pháp chung hay nhất về Sitemaps, đặc biệt là về giới hạn kích thước tệp. Việc kết hợp các phần mở rộng Sitemaps sẽ làm tăng đáng kể kích thước tệp của Sitemaps.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

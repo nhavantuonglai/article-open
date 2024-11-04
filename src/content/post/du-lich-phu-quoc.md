@@ -3,7 +3,7 @@ pubDatetime: 2021-09-12T10:10:00Z
 title: Cẩm nang du lịch Phú Quốc
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0648.jpg
+image: https://nhavantuonglai.com/image/cover/001-648.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -19,7 +19,7 @@ Thời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoả
 
 Từ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-471.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-471.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -35,7 +35,7 @@ Nếu tự lái ôtô, bạn nên đi vào ban đêm để kịp lên phà vào 
 
 Nếu đi xe khách, bạn có thể xuất phát từ trung tâm Thành phố Hồ Chí Minh. Có nhiều chuyến chất lượng cao đi Hà Tiên, giá vé khoảng 150.000 đồng đến 230.000 đồng một người, tuỳ nhà xe. Một số nhà xe chất lượng cao bạn có thể tham khảo là: Phương Trang, Mai Linh, Kumho.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-472.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-472.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Phương tiện đi lại phổ biến nhất trên đảo Phú Quốc là taxi và xe máy. Thông thường, các hãng taxi và dịch vụ thuê xe cung cấp gói khám phá nam đảo, bắc đảo trong nửa ngày hoặc một ngày với giá từ 500.000 – 700.000 đồng. Tài xế sẽ đưa khách tới các điểm tham quan nổi tiếng nhất
 
@@ -55,19 +55,19 @@ Bạn có thể chọn [khu nghỉ đẹp theo vị trí](https://info.nhavantuo
 
 Ở giữa khu Bắc đảo và trung tâm là Movenpick Resort Waverly Phu Quoc và Mango Bay Resort trên bãi Ông Lang. Giữa thị trấn Dương Đông có Lahana Resort Phu Quoc, L_Azure Resort & Spa Phu Quoc, Anja Beach Resort, Pullman Phú Quốc hay InterContinental Phu Quoc Long Beach Resort. JW Marriott Phu Quoc Emerald Bay tọa lạc trên bãi Khem hoặc Premier Village Phu Quoc là những điểm lưu trú nổi bật ở Nam đảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-473.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-473.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
 Các điểm du lịch trên Phú Quốc được chia làm 4 khu chính là: Khu trung tâm ở thị trấn Dương Đông, Nam đảo, Bắc đảo và Đông đảo. Tuỳ lịch trình, bạn nên dành ít nhất hai ngày nếu muốn khám phá hết các điểm vui chơi trên đảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-474.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-474.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Bắc đảo Phú Quốc mang vẻ đẹp trù phú với rừng nguyên sinh. Ở đây cũng có những bãi biển, làng chài hoang sơ, chưa bị ảnh hưởng nhiều bởi thương mại. Dưới đây là một số điểm tham quan.
 
 Vườn quốc gia Phú Quốc có diện tích hơn 31.400 ha, là nơi sinh sống của hàng trăm loài động, thực vật và đa dạng hệ sinh thái núi, rừng, biển, thác, suối. Ở đây, bạn sẽ được khám phá thảm thực vật tươi tốt, chiêm ngưỡng những con suối tinh khiết như suối Tranh, suối Đá Bàn, suối Đá Ngọn. Nếu tham gia tour 4 tiếng, du khách sẽ chinh phục đỉnh Núi Chúa, với độ cao 565 m và chiêm ngưỡng cảnh vật mênh mông, nhiều màu sắc của công viên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-475.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-475.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Nằm cách thị trấn Dương Đông khoảng 15 km, làng chài Rạch Vẹm hay _vương quốc sao biển_ là một trong những điểm chụp ảnh yêu thích của du khách. Ngoài làn nước biển trong xanh, nơi đây còn ghi điểm bởi có nhiều sao biển. Từ tháng 12 đến tháng 4 là thời điểm biển lặng sóng, nước trong nên dễ nhìn thấy sao biển nhất. Vào mùa mưa, đường tới [Rạch Vẹm](https://info.nhavantuonglai.com/topick) khó đi và nước đục.
 
@@ -103,13 +103,13 @@ Chợ đêm Phú Quốc nằm tại đường Bạch Đằng, cách Dinh Cậu k
 
 Ngoài những địa điểm kể trên, nam đảo còn một số điểm tham quan như cơ sở sản xuất nước mắm, trang trại cấy ngọc trai và cơ sở rượu sim.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-479.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-479.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Đến với Phú Quốc, một trong những trải nghiệm hấp dẫn nhất là tham quan các hòn đảo như Hòn Thơm, Móng Tay, Gầm Ghì, Mây Rút.
 
 Hòn Thơm là hòn đảo được khai thác du lịch nhiều nhất, với các bãi biển đẹp, hoạt động lặn san hô, câu cá, câu mực, chèo thuyền kayak, lái môtô nước. Đặc biệt, ở đây có công viên nước với 20 trò chơi cảm giác mạnh Aquatopia Water Park để du khách vui chơi cùng gia đình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-480.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-480.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Nếu du khách yêu thích lặn biển có thể đến khu ECO Beach trên đảo. Ở đây có gói 950.000 đồng một người, trải nghiệm trong 20 phút với mũ kín. Nếu chọn bình khí như thợ lặn, giá dịch vụ là 650.000 đồng một người. Một số dịch vụ khác du khách có thể đăng ký là quay video dưới nước 600.000 đồng, chụp ảnh 300.000 đồng.
 
@@ -123,7 +123,7 @@ Khách sẽ được đón tại khách sạn trong thị trấn Dương Đông 
 
 Nếu muốn phiêu lưu hơn, bạn có thể khám phá Hòn Dăm, nơi được mệnh danh là [đảo Robinson của Phú Quốc](https://info.nhavantuonglai.com/topick). Hòn Dăm không có internet, điện chạy từ năng lượng mặt trời, cả đảo chỉ có vài căn bungalow làm từ tre và gỗ, mặt sau hướng ra biển.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-481.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-481.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản Phú Quốc
 
@@ -135,11 +135,11 @@ Ghẹ Hàm Ninh: Ghẹ ở đây không to nhưng được thực khách đánh 
 
 Còi biên mai nướng: Những người sành ăn thường rất thích món còi biên mai nướng muối ớt. Vị mặn của muối, vị cay của ớt và vị ngọt của còi biên mai trộn lẫn tạo nên một hương vị vô cùng đặc biệt. So với các món xào, luộc, còi biên mai nướng còn giữ được độ giòn, dai nên được người địa phương yêu thích hơn cả.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-482.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-482.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Hải sâm: Là một trong những đặc sản nổi tiếng ở Phú Quốc. Đây là món được thực khách ư chuộng vì có độ dinh dưỡng cao và xem là loại thực phẩm cao cấp. Hải sâm tươi thường được chế biến thành các món xào với mướp đắng, ớt ngọt hoặc hầm với thịt dê, thịt heo. Nhiều người cũng dùng hải sâm để nấu cháo, bồi bổ sức khoẻ. Vì là loại thực phẩm cao cấp nên giá Hải sâm cũng khá đắt, giá thường trên dưới một triệu đồng một ký.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-483.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-483.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Bún Kèn: Không phải ở đâu cũng có bún kèn, không chỉ tên gọi mà hương vị của loại bún này cũng rất lạ. Bún kèn thường dùng bún gạo, sợi nhỏ ăn kèm rau thơm, rau răm, dưa leo, đu đủ bào… Địa chỉ tham khảo là bún Kèn Út Lượm đường 30/4.
 
@@ -147,7 +147,7 @@ Nấm tràm: Loại nấm này thường mọc sau những cơn mưa đầu mùa
 
 Nhum biển: Ở miền Trung, ngư dân thường lấy thịt và trứng nhum tẩm gia vị rồi xào sơ trước khi cho vào nồi cháo. Còn ở Phú Quốc, nhum biển vừa bắt được sẽ được cắt gai, tách đôi ra, rửa sạch rồi đặt lên bếp than hồng nướng, cho thêm mỡ hành là có thể ăn luôn. Ngoài ra du khách còn có thể thưởng thức một số món khác như nhum tái chanh, nhum nướng, cháo nhum.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-484.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-484.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Bào ngư: Bảo ngư Phú Quốc nổi tiếng về giá trị dinh dưỡng và được xem là một bài thuốc trong đông y. Bào ngư tươi có thể chế biến được nhiều món ăn dân dã như luộc, nướng, xào, nấu cháo…
 
@@ -171,7 +171,7 @@ Ngọc trai Phú Quốc có giá khá cao, tuỳ theo chất lượng, màu sắ
 
 Nước mắm Phú Quốc nổi tiếng với hương vị thơm ngon, nguyên chất. Một số cơ sở sản xuất uy tín bạn có thể tham khảo là: nhà thùng nước mắm Phụng Hưng, cơ sở sản xuất Khải Hoàn, Thịnh Phát, Hưng Thịnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-485.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-485.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Hồ tiêu Phú Quốc có vị cay và thơm nồng, hạt chắc. Bạn có thể mua hạt tiêu ngay tại vườn tiêu Khu Tượng hoặc vườn tiêu Suối Đá là những địa chỉ nổi tiếng.
 
@@ -181,7 +181,7 @@ Hải sản du khách thường mua về làm quà là hải sâm, mực và cá
 
 ## Lưu ý
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-486.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-quoc-486.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
 Không nên đi Phú Quốc vào mùa mưa bão.
 
@@ -195,4 +195,4 @@ Nếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phả
 
 Nếu đi xe máy xuyên rừng, bạn nên tìm một chiếc bản đồ Phú Quốc phòng trường hợp lạc đường.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

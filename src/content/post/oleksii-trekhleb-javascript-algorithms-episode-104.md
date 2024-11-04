@@ -3,7 +3,7 @@ pubDatetime: 2018-05-09T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Unique Paths Problem)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0104.jpg
+image: https://nhavantuonglai.com/image/cover/001-104.jpg
 tags:
   - developer
   - github
@@ -112,4 +112,4 @@ This question is actually another form of Pascal Triangle.
 
 The corner of this rectangle is at `m + n   - 2` line, and at `min(m, n)   - 1` position of the Pascal's Triangle.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

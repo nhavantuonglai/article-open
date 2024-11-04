@@ -3,7 +3,7 @@ pubDatetime: 2021-09-30T10:10:00Z
 title: Top địa điểm du lịch Phú Quốc nên trải nghiệm khi du lịch
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0665.jpg
+image: https://nhavantuonglai.com/image/cover/001-665.jpg
 tags:
   - viet thue
   - marketing
@@ -94,4 +94,4 @@ Khi ghé thăm, cũng đừng quên thưởng thức hải sản, vì tại đâ
 
 Trên đây là những địa điểm du lịch Phú Quốc để checkin mà bạn không nên bỏ qua, chúng sẽ đem lại cho bạn những trải nghiệm thú vị và những khoảnh khắc đáng nhớ, bên cạnh những tấm hình xinh lung linh tuyệt vời không nơi nào có được và cũng đừng quên đặt phòng tại AVS Hotel Phú Quốc để tận hưởng những dịch vụ tốt nhất nhé.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

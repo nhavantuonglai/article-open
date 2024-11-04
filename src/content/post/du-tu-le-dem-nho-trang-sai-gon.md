@@ -3,7 +3,7 @@ pubDatetime: 2006-01-10T10:10:00Z
 title: Du Tử Lê | Đêm, nhớ trăng Sài Gòn
 description: Du Tử Lê sinh năm 1942 tại Hà Nam. Sau khi vào Sài Gòn, ông bắt đầu sáng tác nhiều tác phẩm dưới nhiều bút hiệu khác nhau. Bút hiệu Du Tử Lê được dùng lần đầu tiên vào năm 1958.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -43,4 +43,4 @@ Nhớ pho tượng lính buồn se bụi đường
 
 Tôi trăng viễn xứ sầu em bến nào?
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-578.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

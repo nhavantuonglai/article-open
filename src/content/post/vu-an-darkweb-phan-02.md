@@ -3,7 +3,7 @@ pubDatetime: 2024-03-18T10:10:00Z
 title: Trùm giấu mặt của darkweb tỷ đô thách thức tài phá án FBI | Phần 2
 description: Xoá sổ website Silk Road, sàn giao dịch online mua bán ma túy, vũ khí, giao kết hợp đồng giết người thuê… là chiến dịch khó nhằn bậc nhất của FBI trên không gian mạng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0513.jpg
+image: https://nhavantuonglai.com/image/cover/001-513.jpg
 tags:
   - thu vien
   - ngan hang
@@ -107,4 +107,4 @@ _Ross Ulbricht, ai đó đã gửi những giấy tờ tùy thân này cho anh v
 
 Các nhân viên hải quan tất nhiên không mảy may biết gì về chiến dịch của FBI, cũng không hiểu gì về Con đường tơ lụa. Nhưng họ đã rất trách nhiệm khi ghi lại toàn bộ thông tin. Sau cuộc thình lình gõ cửa này, Ulbricht lập tức chuyển nơi trọ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

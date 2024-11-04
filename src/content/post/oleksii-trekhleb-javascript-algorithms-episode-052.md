@@ -3,7 +3,7 @@ pubDatetime: 2018-07-03T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Knight's tour)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0552.jpg
+image: https://nhavantuonglai.com/image/cover/001-552.jpg
 tags:
   - developer
   - github
@@ -32,4 +32,4 @@ An open knight's tour of a chessboard.
 
 An animation of an open knight's tour on a 5 by 5 board.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

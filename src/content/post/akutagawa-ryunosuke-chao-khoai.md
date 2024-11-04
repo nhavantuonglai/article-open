@@ -3,7 +3,7 @@ pubDatetime: 2018-08-23T10:10:00Z
 title: Akutagawa Ryunosuke | Cháo khoai
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0232.jpg
+image: https://nhavantuonglai.com/image/cover/001-232.jpg
 tags:
   - thu vien
   - van hoc
@@ -235,4 +235,4 @@ Bọn thủ hạ tuân lệnh Toshihito. Con chồn bèn phóng từ hiên ra ng
 
 Ngũ-vị ngắm con chồn ăn cháo ngon lành, lòng bỗng đâm ra thương nhớ bản thân mình lúc chưa đến chốn này. Đó là cái thằng tôi ngày ở Kyoto bị bọn đồng liêu đem ra làm trò cười, cái thằng tôi thất tha thất thểu như con chó vô chủ trên đại lộ Suzaku trong chiếc áo khoác vải bô và cái quần đã ngả màu, cô độc đến thương tâm. Tuy nhiên cái thằng tôi đó còn có mục đích ở đời là đợi cái ngày đạt được niềm hạnh phúc: ăn một bữa cháo khoai thỏa thuê… Giờ đây, an tâm là không ăn thêm cháo nữa thì cũng không ai ép uổng, mồ hôi đầm đìa trên mặt ngũ-vị đã dần dần khô, bắt đầu từ sống mũi trở đi. Dù trời tạnh ráo, buổi sáng ở Tsuruga cũng có chút gió lạnh đủ rùng mình. Ngũ-vị lật đật đưa tay lên chận mũi, nhìn về hướng liễn cháo và hắt hơi một tiếng rõ to (10).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

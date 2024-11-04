@@ -3,7 +3,7 @@ pubDatetime: 2018-05-04T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Strongly connected component)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0598.jpg
+image: https://nhavantuonglai.com/image/cover/001-598.jpg
 tags:
   - developer
   - github
@@ -23,4 +23,4 @@ A directed graph is called strongly connected if there is a path in each directi
 
 Graph with strongly connected components marked
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

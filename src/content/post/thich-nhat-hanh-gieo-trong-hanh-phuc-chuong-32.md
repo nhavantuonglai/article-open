@@ -3,7 +3,7 @@ pubDatetime: 2011-07-02T10:10:00Z
 title: Thích Nhất Hạnh | Gieo trồng hạnh phúc (Chương 33)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0293.jpg
+image: https://nhavantuonglai.com/image/cover/001-293.jpg
 tags:
   - thu vien
   - van hoc
@@ -197,6 +197,6 @@ Con mở rộng lòng ra để truyền đi năng lượng hiểu biết và lò
 
 Đọc [Gieo trồng hạnh phúc, chương 50](https://nhavantuonglai.com/article/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-50) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-gieo-trong-hanh-phuc.pdf) tại đây.
+Đọc [Gieo trồng hạnh phúc, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-gieo-trong-hanh-phuc.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

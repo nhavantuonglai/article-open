@@ -3,7 +3,7 @@ pubDatetime: 2018-06-07T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Euclidean distance)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0526.jpg
+image: https://nhavantuonglai.com/image/cover/001-526.jpg
 tags:
   - developer
   - github
@@ -47,4 +47,4 @@ In general, for points given by Cartesian coordinates in `n`-dimensional Euclide
 
 ![n-dimensional formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/a0ef4fe055b2a51b4cca43a05e5d1cd93f758dcc)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-07-25T10:10:00Z
 title: Cẩm nang du lịch Bến Tre
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0693.jpg
+image: https://nhavantuonglai.com/image/cover/001-693.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -15,7 +15,7 @@ _Bến Tre là tỉnh thuộc vùng Đồng bằng sông Cửu Long, giáp Tiề
 
 Bến Tre thuộc miền Tây Nam Bộ, với khí hậu quanh năm nắng ấm. Du khách có thể ghé thăm bất cứ mùa nào trong năm, nhưng lý tưởng nhất là vào những tháng hè 6, 7 và 8. Đây là thời điểm bạn vừa được ngưỡng bức tranh thiên nhiên đa sắc màu, vừa được thưởng thức trái cây tươi hái ngay trên cây như măng cụt, sầu riêng, chôm chôm…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-065.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-065.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -29,7 +29,7 @@ Bạn cũng có thể chọn tour theo ý thích của các công ty lữ hành 
 
 Những năm gần đây homestay khá phát triển tại Bến Tre. Bạn có thể cùng ăn, ở và trò chuyện với chủ nhà, tìm hiểu lối sống người dân địa phương và thưởng thức những món đặc sản đậm chất miền quê sông nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-066.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-066.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Ngoài ra có nhiều nhà nghỉ, khách sạn trong nội thành cho bạn dễ dàng lựa chọn như: khách sạn Công Đoàn, khách sạn Hàm Luông, khách sạn Cửu Long, nhà nghỉ Thư Thư, nhà nghỉ Quê Hương… Bạn có thể lên sân thượng các khách sạn này để uống cà phê đêm và ngắm nhìn đường phố dọc bờ sông.
 
@@ -39,13 +39,13 @@ Cồn Quy thuộc huyện Châu Thành với đặc sản là trái cây ngon v�
 
 Cồn Phụng nằm trên một cù lao nổi giữa sông Tiền thuộc địa bàn xã Tân Thạch, huyện Châu Thành. Đến đây du khách có thể đi xuồng máy dọc cồn để tham quan các cơ sở chế biến kẹo dừa, đồ lưu niệm từ dừa hay lên xe ngựa thăm vườn cây ăn trái, dừng chân bên ngôi nhà lợp lá dừa để uống trà với mật ong và quất, thưởng thức trái cây miền nhiệt đới. Trải nghiệm hút khách là [câu cá sấu](https://info.nhavantuonglai.com/topick), cho cá chép bú bình…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-067.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-067.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Vườn cây ăn trái có hai nơi để bạn tìm đến là vườn cây Cái Mơn ở Chợ Lách và vùng Tiên Long, Tân Phú ở huyện Châu Thành. Bạn có thể vừa tận hưởng không gian xanh mát của vườn cây, thưởng thức các loại trái cây tươi do chính tay mình hái và ăn ngay tại chỗ. Giá vé bao gồm cho một lần vào vườn và thưởng thức thoải mái bất kỳ loại trái cây nào, còn quà mang về sẽ phải mua.
 
 Vườn dừa: Bến Tre có hơn 200.000 hộ trồng dừa, chiếm khoảng hai phần ba tổng số hộ dân toàn tỉnh. Du khách nên thử đạp xe vài km loanh quanh các vườn dừa, tận hưởng không gian bình yên và mát lành. Vừa đạp xe du khách còn được trò chuyện cùng người dân địa phương để hiểu thêm về cuộc sống ở vùng quê.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-068.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-068.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Sân chim Vàm Hồ là nơi du khách quan sát hơn 100 loài chim khác nhau. Có những cá thể gần như tiệt chủng nhưng chúng đang trú ngụ tại đây.
 
@@ -57,7 +57,7 @@ Biển Bình Đại thuộc huyện Bình Đại, nằm trên bờ sông cửa �
 
 Làng du kích Đồng Khởi thuộc điạ phận xã Định Thủy, huyện Mỏ Cày. Đến đây du khách có thể ghé qua khu nhà triển lãm, nơi trưng bày các loại vũ khí thô sơ mà người dân Bến Tre năm xưa đã dùng để chống lại quân xâm lược.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-069.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-069.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 [Làng nghề Phú Lễ](https://info.nhavantuonglai.com/topick) ở huyện Ba Tri. Đến với làng nghề này, du khách sẽ nghe người dân hát sắc bùa khi đan lát, tìm hiểu về nghề nấu rượu nếp…
 
@@ -65,15 +65,15 @@ Một điểm tham quan tại làng là đình Phú Lễ được xây dựng v�
 
 Làng nghề bánh tráng Mỹ Lồng là nơi du khách ngoài xem người dân làm bánh. Bánh tráng được phơi rồi mang đi nướng trên bếp than nên bánh đến tay du khách luôn nóng hổi và giòn rụm, béo ngậy mùi nước cốt dừa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-070.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-070.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Làng nghề bánh phồng Sơn Đốc ở xã Hưng Nhượng, tuổi đời hơn 100 năm. Tại đây du khách có thể tham quan, tìm hiểu quy trình làm ra một chiếc bánh phồng nếp. Bánh đạt yêu cầu là sau khi nướng phải xốp, giòn tan và nở to gấp hai lần so với lúc chưa nướng. Làng nghề bán nhiều loại cho khách mua về làm quà, như bánh phồng nếp hột gà, bánh phồng nếp mít, bánh phồng nếp sầu riêng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-071.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-071.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Làng nghề đan lát ở Phước Tuy, Ba Tri cách thành phố Bến Tre khoảng 40 km về hướng đông. Đây là làng nghề đã có từ lâu đời. Người dân làm tất cả vật dụng trong đời sống sinh hoạt hàng ngày đều bằng tre.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-072.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-072.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Mỗi nhà chia nhau làm bung, lờ bắt cá hoặc rế, nia. Du khách đến đây vừa được xem người dân địa phương làm ra sản phẩm, học cách thức và trải nghiệm cùng người dân.
 
@@ -83,7 +83,7 @@ Mỗi nhà chia nhau làm bung, lờ bắt cá hoặc rế, nia. Du khách đế
 
 Chuối đập: chuối được đập dẹt rồi nướng trên lửa than, ăn kèm với nước cốt dừa. Vị nóng giòn thơm của chuối thêm vị béo ngậy của nước cốt dừa sẽ làm bạn thích thú.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-073.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-073.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Bánh canh bột xắt: bánh được làm từ bột gạo, nước dùng sền sệt nấu với thịt vịt chấm nước mắm gừng. Đây là một đặc sản đậm chất miền Tây.
 
@@ -91,7 +91,7 @@ Chè bưởi: được chế biến từ vỏ bưởi gọt hết phần vỏ xa
 
 Thịt chuột dừa: loài vật sống trên cây dừa được chế biến thành món ăn ưa chuộng của người dân địa phương. Bạn có thể thưởng thức nhiều món như: nướng, hấp, nấu cà ri và đặc biệt nhất là chuột hấp trong nồi cơm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-074.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-074.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Bánh xèo ốc gạo: Tại vùng đồng bằng sông Cửu Long, cồn Phú Đa của Chợ Lách có ốc gạo ngon nhất. Mùa ốc chỉ từ tháng 4 đến tháng 7 âm lịch là hết. Vỏ bánh đổ từ bột pha nước cốt dừa thơm ngậy, ăn với nhân gồm củ sắn xắt sợi, giá đỗ, ốc gạo bùi bùi sẽ gây ấn tượng với thực khách.
 
@@ -103,8 +103,8 @@ Nấm mối mọc trên những gò mối đùn đất, xuất hiện từ kho�
 
 ## Mua gì làm quà
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-075.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ben-tre-075.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
 Nếu di chuyển đường gần bạn có thể mua các loại trái cây đặc sản như măng cụt, sầu riêng Cái Mơn, bưởi da xanh, bưởi năm roi… Muốn để quà lâu ngày, hãy chọn bánh tráng Mỹ Lồng, bánh phồng Sơn Đốc, mứt dừa, kẹo dừa, rượu dừa… và một số đồ vật mỹ nghệ đẹp mắt từ dừa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

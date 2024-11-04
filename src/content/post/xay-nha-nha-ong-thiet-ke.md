@@ -3,7 +3,7 @@ pubDatetime: 2024-06-03T10:10:00Z
 title: Hướng dẫn tư vấn thiết kế nhà ở tại Đà Nẵng
 description: Thiết kế nhà ống là một trong những giải pháp kiến trúc phổ biến nhất ở các thành phố lớn và khu đô thị tại Việt Nam.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0321.jpg
+image: https://nhavantuonglai.com/image/cover/001-321.jpg
 tags:
   - viet thue
   - marketing
@@ -108,4 +108,4 @@ Thiết kế nhà ống là giải pháp tối ưu cho các khu vực đô thị
 Tuy nhiên, khi thiết kế nhà ống, gia chủ cần lưu ý đến các yếu tố như ánh sáng, thông gió, vật liệu xây dựng và phong cách thiết kế để đảm bảo ngôi nhà không chỉ đẹp mà còn tiện nghi và an toàn. Qua bài viết này, hy vọng bạn đọc đã có cái nhìn tổng quan về thiết kế nhà ống và có thể áp dụng những kiến thức này vào thực tế xây dựng ngôi nhà mơ ước của mình.
 
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-12-21T10:10:00Z
 title: Mishima Yukio | Hồn bướm
 description: Chưa chịu bỏ công khảo chứng gì cả mà đã bắt đầu vào chuyện, tôi xin chịu mang tiếng là người không chuẩn bị kỹ càng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -210,4 +210,4 @@ Thế rồi, Kiyohara lại chăm chú nhìn quang cảnh mặt biển buồn b�
 
 Chỉ được hơn tháng, vào một buổi sáng giữa mùa hạ, Kiyohara nghe tin cấp báo cái chết đột ngột của Kawaramachi Hanako (con người đang độ tràn trề sức sống và linh hoạt không ai bằng). Sau khi trầm ngâm suy nghĩ, Kiyohara mới thấm thía một điều là cái ham muốn giữ cho bằng được trong ký ức hình ảnh của mặt biển vắng ngắt kia chỉ là cách anh dối lòng khi đã có linh cảm về một chuyện bi đát mà mình không thể biết lý do.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

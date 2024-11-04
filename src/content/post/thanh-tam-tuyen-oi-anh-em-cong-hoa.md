@@ -3,7 +3,7 @@ pubDatetime: 2013-09-29T10:10:00Z
 title: Thanh Tâm Tuyền | Ôi người anh em Cộng Hòa
 description: Thanh Tâm Tuyền (1936 – 2006), tên thật là Dzư Văn Tâm, là một nhà thơ, nhà văn người Việt nổi tiếng, được biết đến với những cách tân thơ ca táo bạo.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0229.jpg
+image: https://nhavantuonglai.com/image/cover/001-229.jpg
 tags:
   - thu vien
   - van hoc
@@ -79,4 +79,4 @@ dưới trời sao tím đợi bình minh
 
 ôi anh em Cộng Hoà
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

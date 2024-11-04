@@ -3,7 +3,7 @@ pubDatetime: 2021-10-11T10:10:00Z
 title: Cẩm nang du lịch Sầm Sơn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0675.jpg
+image: https://nhavantuonglai.com/image/cover/001-675.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -13,7 +13,7 @@ _Sầm Sơn là bãi biển nổi tiếng nhất của Thanh Hóa, cách Hà N�
 
 Nước biển Sầm Sơn có độ mặn và nhiệt độ thích hợp, có lợi cho sức khỏe, rất thích hợp để du khách nghỉ ngơi, an dưỡng. Học giả người Pháp Le Breton nhận định: _Đây là bãi tắm tốt nhất để phục hồi sức khoẻ._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-596.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-596.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 ## Sầm Sơn mùa nào đẹp
 
@@ -25,7 +25,7 @@ Quãng đường từ Hà Nội đến Sầm Sơn gần 180 km, thời gian di c
 
 Đi cùng gia đình, bạn có thể lựa chọn tàu hỏa, giá vé từ khoảng 160.000 đến 280.000 đồng tùy hạng ghế. Một lựa chọn khác là đi ôtô khách tuyến Hà Nội – Sầm Sơn từ bến xe Giáp Bát, với giá từ khoảng 100.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-597.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-597.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 Nếu muốn đi tour, bạn có thể liên hệ với các công ty lữ hành tại Hà Nội. Giá trọn gói khoảng 1.600.000 đồng một người cho 3 ngày 2 đêm. Tuy nhiên, bạn nên đọc kỹ lịch trình tour và hỏi xem phần giá đã bao gồm tiền ăn và tiền phòng khách sạn hay chưa.
 
@@ -41,7 +41,7 @@ Giá cả dịch vụ tại bãi A, B thường cao hơn bãi C, D nên với ng
 
 Tuy nhiên, lựa chọn về các cơ sở lưu trú cao cấp không đa dạng. Hiện FLC Sầm Sơn là khu nghỉ dưỡng cao cấp 5 sao theo tiêu chuẩn quốc tế đầu tiên trong tổng số hơn 600 cơ sở lưu trú tại Thanh Hóa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-598.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-598.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu ý khi tắm biển
 
@@ -51,7 +51,7 @@ _Bãi tắm A_ là đông du khách nhất, có độ dốc thoải và sóng m�
 
 _Bãi tắm B_ có sóng vừa phải hơn, thích hợp với đoàn khách có người già, trẻ nhỏ. Khu vực này tập trung nhiều quán ăn vặt ở bờ biển.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-599.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-599.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 _Bãi tắm C_ sóng lớn, đông khách, sạch sẽ. Dọc bờ biển có nhiều nhà hàng, quán cafe, quán karaoke. Độ dốc bằng phẳng và thường là nơi tổ chức các hoạt động vui chơi.
 
@@ -59,13 +59,13 @@ _Bãi tắm D_ vắng hơn, gần khu vực thuyền chài, phù hợp với nh�
 
 Bãi tắm Sầm Sơn luôn có đội cứu hộ thường trực. Nếu không may gặp sự cố đuối nước, say sóng, chuột rút… tốt nhất bạn nên ngậm miệng, nín thở, tay, chân làm mái chèo, quạt đẩy đầu nhô khỏi mặt nước và ra hiệu để chờ người tới cứu. Thời gian buổi trưa và từ 17h trở đi là thời gian quy định khách du lịch không được tắm biển, đội cứu hộ không làm việc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-600.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-600.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 Biển Sầm Sơn không êm dịu, bình lặng như các biển khác. Sóng ở đây mạnh, ập lên đến bờ liên tục. Vì vậy, trước khi xuống biển bạn nên tập một vài động tác thể dục nhẹ nhàng để tránh bị chuột rút.
 
 Vào những ngày biển động, Sầm Sơn thường hình thành một số dòng chảy xa bờ rất nguy hiểm. Trước khi xuống tắm, du khách nên dành một vài phút để quan sát, tránh xa khu vực nguy hiểm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-601.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-601.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -79,13 +79,13 @@ Danh thắng này thuộc cụm di tích lịch sử văn hoá danh thắng núi
 
 Khi Thiên Lôi tới thì chỉ thấy một bãi đá. Với tình yêu chung thuỷ, đôi vợ chồng trẻ đã biến thành đá để được vĩnh viễn bên nhau. Hòn đá lớn là người chồng, hòn đá nhỏ hơn là người vợ. Xung quanh còn thấy nhiều hòn đá nhỏ khác, hình thù giống đàn lợn, con mèo, chiếc mâm, bếp núc…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-601.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-601.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 Đền Độc Cước
 
 Đây là một trong những địa điểm tâm linh nổi tiếng của Thanh Hóa, nên mỗi dịp đầu xuân thu hút nhiều du khách đến tham quan. Đền Độc Cước nằm trên đỉnh Cổ Giải, dãy núi Trường Lệ. Nơi đây gắn liền với truyền thuyết người khổng lồ xả thân đánh quỷ biển khơi, với đánh giặc cứu đất liền. Để ghi nhớ công ơn to lớn này, người dân đã lập đền thờ ở ngay bên tảng đá có vết lõm, như dấu tích của bước chân người khổng lồ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-602.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sam-son-602.jpg" alt="cam-nang-du-lich-sam-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-sam-son-nhavantuonglai</p></figcaption></figure>
 
 Đền Cô Tiên
 
@@ -107,4 +107,4 @@ Biển Sầm Sơn có gần 1.000 loại tôm, cua, cá và nhiều hải sản 
 
 Bạn có thể mặc cả giá để mua những viên đá biển đủ màu, chiếc móc chìa khóa nhỏ xinh làm từ vỏ ốc, hay chiếc chuông gió vỏ sò được bày bán trên bờ biển để làm kỷ niệm sau chuyến du lịch. Ngoài ra, bạn nên ghé qua chợ Sầm Sơn, Điện Biên để mua hải sản tươi, khô hoặc nem chua với giá tốt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

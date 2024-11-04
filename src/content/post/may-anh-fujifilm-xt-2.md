@@ -3,7 +3,7 @@ pubDatetime: 2022-11-03T10:10:00Z
 title: Giới thiệu máy ảnh Fujifilm XT 2
 description: Máy ảnh Mirrorless Digital Fujifilm XT 2 sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim XT 2 được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0543.jpg
+image: https://nhavantuonglai.com/image/cover/001-543.jpg
 tags:
   - affiliate
   - may anh
@@ -162,4 +162,4 @@ Ngoài ra với kết nối không dây, Fujifilm XT 2 cho phép điều khiển
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

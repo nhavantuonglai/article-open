@@ -3,7 +3,7 @@ pubDatetime: 2021-07-18T10:10:00Z
 title: Cẩm nang du lịch An Giang
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0686.jpg
+image: https://nhavantuonglai.com/image/cover/001-686.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -33,19 +33,19 @@ An Giang cách Thành phố Hồ Chí Minh khoảng 250 km, du khách có thể 
 
 Các điểm tham quan đẹp ở An Giang cách xa nhau. Sau đây là các điểm đến gợi ý cho du khách khám phá trong hai ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-001.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-001.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Chợ nổi Long Xuyên_
 
 Nằm gần trung tâm thành phố Long Xuyên, chợ nổi có từ xa xưa vẫn còn giữ nguyên nếp sinh hoạt. Du khách có thể thuê thuyền với giá từ 200.000 đồng để khám phá chợ, thưởng thức bữa sáng trên sông.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-002.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-002.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Rừng tràm Trà Sư_
 
 Đây là một trong những rừng tràm lớn và đẹp nhất miền Tây. Trải nghiệm thú vị ở rừng tràm là đi thuyền xuyên rừng được phủ xanh hút tầm mắt bởi thảm thực vật. Vé tham quan rừng tràm có giá 190.000 đồng một khách lẻ. Nếu đi theo đoàn từ 7 người trở lên, giá vé còn 95.000 đồng mỗi người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-003.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-003.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Hồ Ô Thum_
 
@@ -63,7 +63,7 @@ Chùa Tây An
 
 Chùa Tây An nằm ở chân núi Sam (xã Vĩnh Tế, thành phố Châu Đốc) xây dựng vào năm 1847, mang dáng dấp của một công trình kiến trúc Ấn Độ. Ngôi cổ tự đã được Bộ Văn hóa xếp hạng là di tích kiến trúc nghệ thuật cấp quốc gia. Đây cũng là ngôi chùa mang kiến trúc Việt kết hợp với Ấn Độ đầu tiên ở Việt Nam.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-004.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-004.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Chợ Châu Đốc_
 
@@ -73,7 +73,7 @@ _Chợ Tịnh Biên_
 
 Khu chợ có bán nhiều đặc sản miền Tây mùa nước nổi, một số mặt hàng của Thái Lan, Campuchia. Chợ Tịnh Biên còn mang nét giao lưu văn hóa của người Việt, người Khmer.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-005.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-005.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Búng Bình Thiên_
 
@@ -83,7 +83,7 @@ _Làng người Chăm_
 
 [Làng Châu Giang](https://info.nhavantuonglai.com/topick) là nơi người Chăm tập trung sinh sống, cách thành phố Châu Đốc khoảng 10 phút đi phà. Tại đây, du khách hãy đến tham quan các thánh đường Hồi giáo, những ngôi nhà truyền thống và thưởng thức các món ăn độc đáo của người địa phương.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-006.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-006.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Cánh đồng Tà Pạ_
 
@@ -97,7 +97,7 @@ Còn gọi là Vùng Bảy Núi, Thất Sơn là 7 ngọn núi tiêu biểu tron
 
 Khách sạn, nhà nghỉ ở An Giang chủ yếu tập trung ở núi Sam, khu vực chợ Châu Đốc và Long Xuyên. Khu vực núi Sam khách sạn, nhà nghỉ giá khá cao, thường chỉ có khách hành hương lưu lại. Nếu đi du lịch, bạn nên ở khu vực chợ Châu Đốc, để tiện tới các điểm tham quan vào ban ngày cũng như vui chơi và ăn uống buổi tối.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-007.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-007.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản An Giang
 
@@ -107,10 +107,10 @@ Vào mùa nước nổi, rau đồng được xem là đặc sản của miền 
 
 Đặc biệt, du khách chưa ăn cá linh thì coi như chưa đến vùng nước nổi An Giang. Cá linh non đầu mùa thì làm món nhúng giấm, cá linh cuối mùa đã lớn thì làm mắm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-008.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-an-giang-008.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 ## Mua gì làm quà
 
 Nếu mua đặc sản về làm quà, một số món dễ mang đi là đường thốt nốt, cốm dẹp, [tung lò mò](https://info.nhavantuonglai.com/topick), các loại mắm cá, bánh phồng cá linh, bánh ngọt người Chăm, cà na đập, các món cá khô…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

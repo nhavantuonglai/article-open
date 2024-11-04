@@ -3,7 +3,7 @@ pubDatetime: 2006-01-26T10:10:00Z
 title: Edgar Allan Poe | Silence
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0144.jpg
+image: https://nhavantuonglai.com/image/cover/001-144.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -45,4 +45,4 @@ _And mine eyes fell upon the countenance of the man, and his countenance was wan
 
 Now there are fine tales in the volumes of the Magi – in the iron-bound, melancholy volumes of the Magi. Therein, I say, are glorious histories of the Heaven, and of the Earth, and of the mighty Sea – and of the Genii that over-ruled the sea, and the earth, and the lofty heaven. There was much lore too in the sayings which were said by the sybils; and holy, holy things were heard of old by the dim leaves that trembled around Dodona – but, as Allah liveth, that fable which the Demon told me as he sat by my side in the shadow of the tomb, I hold to be the most wonderful of all! And as the Demon made an end of his story, he fell back within the cavity of the tomb and laughed. And I could not laugh with the Demon, and he cursed me because I could not laugh. And the lynx which dwelleth forever in the tomb, came out therefrom, and lay down at the feet of the Demon, and looked at him steadily in the face.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-07-16T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 16
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 16 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0466.jpg
+image: https://nhavantuonglai.com/image/cover/001-466.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,77 +19,77 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 16
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0001.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0001.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0002.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0002.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0003.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0003.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0004.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0004.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0005.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0005.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0006.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0006.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0241.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0241.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0242.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0242.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0243.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0243.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0244.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0244.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0245.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0245.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0246.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0246.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0247.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0247.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0248.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0248.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0249.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0249.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0250.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0250.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0251.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0251.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0252.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0252.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0253.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0253.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0254.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0254.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0255.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0255.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0256.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0256.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0257.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0257.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0258.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0258.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0259.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0259.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0260.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0260.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0261.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0261.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0262.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0262.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0263.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0263.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0264.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0264.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0265.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0265.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0266.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0266.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0267.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0267.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0268.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0268.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0269.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0269.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0270.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0270.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -365,6 +365,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 02](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-02.pdf) tại đây.
+Đọc [Chim lửa, tập 02](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-02.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 16." title="Chim lửa (Hi no Tori) chương 16." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 16.</p></figcaption></figure>

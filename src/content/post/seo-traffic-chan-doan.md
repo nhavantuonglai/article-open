@@ -3,7 +3,7 @@ pubDatetime: 2023-06-01T10:10:00Z
 title: Hướng dẫn chẩn đoán giảm traffic organic website
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0689.jpg
+image: https://nhavantuonglai.com/image/cover/001-689.jpg
 tags:
   - google
   - google console
@@ -127,4 +127,4 @@ Hy vọng rằng, hướng dẫn này đã giúp chẩn đoán lý do tại sao 
 
 Điều quan trọng là không phản ứng thái quá, vứt bỏ nội dung hữu ích hoặc hữu ích hoặc mất dấu người dùng và ý định SERP trong suốt quá trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

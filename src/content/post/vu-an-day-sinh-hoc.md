@@ -3,7 +3,7 @@ pubDatetime: 2024-03-19T10:10:00Z
 title: Cuộc chiến thế kỷ đòi quyền dạy sinh học của giáo viên Mỹ
 description: Năm 1925, một trong những phiên tòa nổi tiếng nhất lịch sử Mỹ diễn ra tại thị trấn nhỏ bang Tennessee. Bị cáo là một giáo viên sinh học, bị xét xử vì giảng dạy thuyết tiến hóa.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0399.jpg
+image: https://nhavantuonglai.com/image/cover/001-399.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -87,4 +87,4 @@ Sau vụ kiện, cô Susan Epperson vẫn tiếp tục giảng dạy tại Đạ
 
 Nhìn lại vụ kiện lịch sử nửa thế kỷ trước, bà Susan Epperson cho rằng: _Tôi, cũng như rất nhiều người trong cộng đồng khoa học, đều coi khoa học và đức tin luôn bổ sung cho nhau._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

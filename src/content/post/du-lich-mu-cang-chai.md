@@ -3,7 +3,7 @@ pubDatetime: 2021-09-04T10:10:00Z
 title: Cẩm nang du lịch Mù Cang Chải
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0640.jpg
+image: https://nhavantuonglai.com/image/cover/001-640.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -25,7 +25,7 @@ Mù Cang Chải, Văn Chấn, Trạm Tấu, thị xã Nghĩa Lộ là 4 huyện 
 
 _Xe khách_
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-413.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-413.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Cách thứ nhất: Nếu di chuyển từ Hà Nội, bạn có thể đón xe ở bến xe Mỹ Đình, xe khách đi Mù Cang Chải chủ yếu đi qua thị xã Nghĩa Lộ. Một số ít sẽ chạy theo đường cao tốc Nội Bài – Lào Cai để _vợt_ khách tỉnh, nhưng chủ yếu theo đường 32.
 
@@ -41,7 +41,7 @@ Lộ trình từ Hà Nội đi theo cao tốc Nội Bài – Lào Cai – QL 279
 
 Mù Cang Chải chủ yếu có các khách sạn bình dân, [homestay](https://info.nhavantuonglai.com/topick) kiểu phòng trọ, nhà sàn và không nhiều sự lựa chọn cao cấp. Trong đó, nhà sàn và homestay của người dân là loại hình lưu trú phổ biến nhất ở Mù Cang Chải. Các nhà sàn có phòng ngủ tập thể cho từ 10 đến 30 người. Du khách có thể dễ dàng tìm một nhà sàn xung quanh các điểm du lịch nổi tiếng như: Bản Thái, khu ruộng bậc thang La Pán Tẩn, Tú Lệ… Tại đây đều có dịch vụ ăn nghỉ và bán hàng tạp hoá ngay dưới chân nhà.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-414.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-414.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Khách sạn chủ yếu tập trung ở thị trấn Mù Cang Chải. Các khách sạn bình dân từ một sao đến 3 sao, phòng nghỉ có các tiện ích cơ bản như giường ngủ, phòng tắm, tivi, tủ lạnh…
 
@@ -51,7 +51,7 @@ Ngoài ra, du khách có thể nghỉ ở Hello Mu Cang Chai, Vu Linh Family, Th
 
 ## Chơi đâu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-415.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-415.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Đèo Khau Phạ là nơi diễn ra hoạt động [dù lượn](https://info.nhavantuonglai.com/topick) hàng năm với tên gọi lễ hội Bay trên mùa vàng. Từ đây, phi công và du khách vừa nhảy dù trải nghiệm cảm giác mạnh vừa có thể ngắm nhìn toàn cảnh thung lũng Lìm Mông trong mùa lúa chín. Nếu yêu thích du khách nên đặt tour trước để có suất nhảy dù.
 
@@ -61,7 +61,7 @@ Thung lũng Lìm Mông, Lìm Thái là nơi có những bản làng người Th�
 
 Du khách có thể chạy xe giữa những thửa ruộng chín vàng, ngắm bản làng yên bình vào mùa gặt, gặp gỡ từ trẻ nhỏ tới người già hoặc vui chơi bên những dòng suối mát lạnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-416.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-416.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Ruộng bậc thang bao phủ hơn 2.200 ha đất ở Mù Cang Chải. Trong đó, 500 ha được Bộ Văn hóa, Thể thao và Du lịch công nhận là di sản quốc gia thuộc ba ngôi làng La Pán Tẩn, Chế Cu Nha và Dế Xu Phình.
 
@@ -69,7 +69,7 @@ Xã Tú Lệ, huyện Văn Chấn, tỉnh Yên Bái, cách đèo Khau Phạ 3 km
 
 Bạn có thể nghỉ chân ở Tú Lệ một đêm hoặc chạy thẳng từ Tú Lệ về thị trấn Mù Cang Chải. Các nhà nghỉ cộng đồng, homestay nhà dân ở Mù Cang Chải cho thuê 100.000 – 400.000 đồng một người một đêm. Nếu tối ở Mù Cang Chải du khách có thể đi chợ thưởng thức đồ ăn của người dân tộc Thái và có nhiều quán ăn hơn để lựa chọn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-417.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-417.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Đồi Mâm Xôi là hình ảnh biểu tượng của mùa vàng Mù Cang Chải nhiều năm qua. Đồi nằm ở La Pán Tẩn cách trung tâm thị trấn hơn 8 km, đường đi khó khăn nên dừng và gửi xe rồi thuê xe ôm của người dân địa phương đưa lên tận nơi. Ngoài ra, gần đồi có thêm vườn hoa tam giác mạch và dịch vụ cho thuê váy áo dân tộc phục vụ du khách chụp ảnh. Tại đồi Mâm Xôi lớn, nếu bạn lên lán chụp ảnh tốn thêm 5.000 đồng một người. Đi vào ruộng lúa thêm 10.000 đồng một người.
 
@@ -79,13 +79,13 @@ Rừng Trúc bản Nả Háng Tủa
 
 [Rừng trúc 60 năm tuổi](https://info.nhavantuonglai.com/topick) nằm cách trung tâm thị trấn Mù Cang Chải 20 km. Đây cũng là nơi cung cấp đặc sản măng trúc cho vùng. Đường tới đây ngày mưa rất lầy lội, dốc dựng đứng. Du khách thường phải đi bộ hoặc thuê dân địa phương chở xe máy lên tận điểm tham quan do đường đất nhỏ hẹp, dốc và trơn không thể đi ôtô.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-418.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-418.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Đu zipline
 
 Tuyến zipline dài bậc nhất Việt Nam nằm trong khu trò chơi mạo hiểm Aeris Hill tại thôn Nước Nóng, xã Tú Lệ, huyện Văn Chấn. Zipline có 2 chặng với tổng chiều dài là 1,2 km nối liền 2 huyện Văn Chấn và Mù Cang Chải.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-419.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-419.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Chặng một dài gần 1 km cho du khách cơ hội thu vào tầm mắt toàn cảnh thung lũng Tú Lệ, núi non trùng điệp. Chặng 2 sẽ đưa khách xuống điểm đón xe trở về khu vui chơi.
 
@@ -93,7 +93,7 @@ Hiện khu trò chơi mạo hiểm Aeris Hill đón khách cả tuần (trừ th
 
 Suối khoáng nóng Trạm Tấu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-420.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-420.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 [Trạm Tấu](https://nhavantuonglai.com/article/du-lich-tram-tau) cách Mù Cang Chải khoảng gần 100 km, nhưng là điểm đến thích hợp nếu bạn quyết định khám phá Yên Bái mùa lúa chín. Tại đây có suối khoáng nóng từ mạch ngầm tự nhiên rất tốt cho sức khỏe đặc biệt là người đau nhức xương khớp. Nơi đây kiêm cả homestay nên du khách muốn nghỉ qua đêm cần phải đặt trước. Cách khu tắm khoáng nóng không xa có điểm tắm suối của người dân địa phương không mất phí như ở bản Cọi, bản Hốc…
 
@@ -117,7 +117,7 @@ Tổng chi phí khoảng 3.000.000 đồng một người.
 
 ## Ăn gì
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-421.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-421.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Mù Cang Chải, du khách đừng quên các [đặc sản](https://info.nhavantuonglai.com/topick) như xôi nếp nương, nhộng ong rừng, măng đắng xào, thịt lợn đen nướng, cá suối nướng (pa pỉnh tộp), cá hồi, cá tầm Khau Phạ, cải mèo…
 
@@ -129,8 +129,8 @@ Hãy chú ý hành động có trách nhiệm, không xả rác.
 
 Không chen lấn chụp ảnh, không cho trẻ con dọc đường tiền hay quà bánh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-422.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mu-cang-chai-422.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
 Thời tiết Mù Cang Chải thất thường, ban ngày nắng nóng, nhưng đêm xuống trời lại se lạnh. Du khách hãy chuẩn bị áo khoác mỏng để tránh bị cảm lạnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-10-10T10:10:00Z
 title: Cẩm nang du lịch Sài Gòn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0674.jpg
+image: https://nhavantuonglai.com/image/cover/001-674.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -11,7 +11,7 @@ tags:
 
 _Sài Gòn là nơi hội tụ nhiều nền văn hóa, với các sản phẩm du lịch đa dạng, là _thành phố không ngủ_ với những hoạt động vui chơi, giải trí sôi động cả ngày lẫn đêm._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-586.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-586.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 ## Mùa đẹp
 
@@ -59,7 +59,7 @@ Du lịch Sài Gòn định hướng mỗi quận, huyện có một sản phẩ
 
 Đi buýt đường sông
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-587.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-587.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Các trải nghiệm trên sông là một đặc trưng của du lịch Sài Gòn. Du khách được ngắm thành phố từ một góc nhìn khác, qua nhiều địa danh nổi tiếng như bến Nhà Rồng, cảng Bến Nghé, cầu Phú Mỹ, mũi Đèn Đỏ, bến phà Bình Khánh.
 
@@ -105,7 +105,7 @@ Không chỉ là thành phố trẻ năng động, Sài Gòn còn là nơi lưu 
 
 Dinh Độc Lập
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-588.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-588.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 [Dinh Độc Lập](https://info.nhavantuonglai.com/topick) hay Dinh Thống Nhất là một trong những địa điểm tham quan không thể bỏ qua khi ghé thăm Sài Gòn. Tọa lạc tại trung tâm quận 1, Dinh Độc Lập vừa cổ kính, vừa hiện đại, từ lâu đã trở thành một trong những biểu tượng của thành phố. Vào các ngày cuối tuần hoặc dịp lễ lớn như 30/4, Dinh Độc Lập thường kín khách tham quan.
 
@@ -125,7 +125,7 @@ Giờ tham quan: từ 7h đến 22h các ngày trong tuần, miễn vé vào c�
 
 Bảo tàng lịch sử Sài Gòn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-589.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-589.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Bảo tàng nằm ở số 2 đường Nguyễn Bỉnh Khiêm, quận 1, được xây dựng theo thiết kế đối xứng của kiến trúc sư Auguste Delaval và khánh thành năm 1929. Hệ thống hành lang rộng, ánh sáng tự nhiên từ sân và kiểu cửa sổ sát mái tránh khí hậu nóng ẩm. Tháp bát giác ở giữa phủ sơn vàng, lợp ngói ốp có gắn vật trang trí phong cách Á Đông. Bảo tàng trưng bày khoảng 36.000 hiện vật phản ánh lịch sử của dân tộc Việt Nam từ thời nguyên thủy đến năm 1945. Ngoài ra, bảo tàng còn trưng bày nền văn hóa cổ tại Việt Nam như Óc Eo, Champa, Khmer.
 
@@ -143,7 +143,7 @@ Giờ tham quan: từ 8h đến 17h các ngày trong tuần.
 
 Bưu điện thành phố
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-590.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-590.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Toạ lạc tại Công trường Paris, quận 1, Bưu điện thành phố được xây dựng từ năm 1886 đến 1891. Công trình do hai kiến trúc sư người Pháp Alfred Foulhoux và Henri Auguste Vildieu thiết kế. Trải qua hơn 100 năm tồn tại, đây hiện là bưu điện lớn nhất Việt Nam vẫn được giữ nguyên thiết kế ban đầu. Trần nhà vòm cung, ở giữa đắp nổi chân dung thần Mercury với vòng nguyệt quế bao quanh, là vị thần tượng trưng cho sự liên lạc của loài người. Bưu điện gợi nhớ đến hình ảnh ga tàu Orsay tại Paris, toạ lạc song hành cùng Nhà thờ Đức Bà tạo thành cụm kiến trúc đặc biệt của thành phố.
 
@@ -165,7 +165,7 @@ Thời gian tham quan: từ 8h đến 11h và từ 14h đến 16h. Tuy nhiên, t
 
 Cần Giờ
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-591.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-591.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Cần Giờ nằm cách trung tâm thành phố khoảng 50 km, có đa dạng địa hình gồm rừng, núi và biển, diện tích xấp xỉ Singapore, nhiều hoạt động du lịch sinh thái có thể trải nghiệm trong ngày. Cần Giờ là huyện duy nhất ở Sài Gòn giáp biển và cũng là địa phương có rừng ngập mặn đầu tiên ở Việt Nam được công nhận khu Dự trữ sinh quyển thế giới.
 
@@ -185,7 +185,7 @@ Di chuyển: xe buýt số 13 xuất phát từ chợ Bến Thành tới thẳng
 
 Chợ Bến Thành
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-592.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-592.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Hoạt động từ năm 1914 nằm ngay trung tâm thành phố, không chỉ là nơi mua bán sầm uất mà còn là chứng nhân lịch sử chứng kiến bao đổi thay, thăng trầm của thành phố và là điểm giao hòa giữa Sài Gòn xưa và nay. Nơi đây tập trung nhiều mặt hàng, từ quần áo, dày dép, vải vóc, đồ thủ công mỹ nghệ, hàng thổ cẩm, trang sức đến các món ăn đặc sản.
 
@@ -195,7 +195,7 @@ Xây dựng vào năm 1926, cổng chính của chợ có thiết kế độc đ
 
 Chợ Bình Tây (Chợ Lớn)
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-593.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-593.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Chợ nằm ở cửa ngõ phía tây thành phố, trong khu phố Tàu, luôn là một trong các điểm đến được đánh dấu trên bản đồ du lịch của nhiều du khách. Hoạt động từ năm 1930, chợ được xây dựng với kiến trúc đậm phong cách Á Đông. Các góc mái uốn lượn theo kiểu đình chùa, lợp ngói âm dương vừa cổ kính, vừa thông thoáng. Chợ Bình Tây còn là trung tâm đầu mối với nhiều mặt hàng.
 
@@ -211,7 +211,7 @@ Các phố ẩm thực dưới đây là gợi ý cho những người lần đ�
 
 Phố ốc Vĩnh Khánh
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-594.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-594.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 Các món ốc là đặc sản của Sài Gòn. Bất kỳ ở đâu trong thành phố đều có thể bắt gặp các hàng ốc, trong đó dọc con phố Vĩnh Khánh, quận 4, tập trung nhiều hàng ốc, hải sản nổi tiếng nhất thành phố. Các cửa tiệm thường mở đến nửa đêm, tấp nập khách. Các món ốc có giá từ 80.000 đến 150.000 đồng một phần tùy loại ốc. Khác với ốc Hà Nội thường có kiểu chế biến đặc trưng là hấp sả, chấm nước mắm ớt, ốc ở Sài Gòn chế biến đa dạng từ sốt trứng muối, đến xào me, nướng muối ớt, xào sa tế.
 
@@ -221,7 +221,7 @@ Phố ẩm thực Hồ Thị Kỷ
 
 Phố ẩm thực Nguyễn Thượng Hiền
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-595.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sai-gon-595.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
 [Phố ẩm thực Nguyễn Thượng Hiền ](https://info.nhavantuonglai.com/topick)(từ đường Điện Biên Phủ đến Nguyễn Đình Chiểu, quận ) hoạt động từ 19h đến 23h mỗi ngày. Trên tuyến có hơn 90 điểm kinh doanh ăn uống cùng hơn 50 cửa hàng buôn bán quần áo, giày dép, làm đẹp. Con phố nổi tiếng với những món ăn như bánh tráng trộn, tré trộn, nước ép bưởi. Một số cửa tiệm cũng phục vụ món ăn kiểu Campuchia.
 
@@ -239,4 +239,4 @@ Nên kiểm tra đường đi theo bản đồ để tránh các đường một
 
 Sài Gòn có nhiều hẻm nhỏ thông nhau, du khách không nên đi vào các hẻm nếu không thạo đường.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0117.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-117.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

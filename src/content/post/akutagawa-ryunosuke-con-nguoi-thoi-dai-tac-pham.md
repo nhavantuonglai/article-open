@@ -3,7 +3,7 @@ pubDatetime: 2018-08-26T10:10:00Z
 title: Akutagawa Ryunosuke | Con người, thời đại, tác phẩm
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -169,4 +169,4 @@ Akutagawa có phải muốn từ giã cuộc đời này để đi tìm một x�
 
 Cái chết bằng tự sát của ông có nhiều lý do, từ cảnh ngộ gia đình đến bệnh hoạn, chứ không riêng mỗi lý do tinh thần.Có người còn cho những lý do tinh thần ông nêu ra chỉ là để "làm dáng, điểm trang cho cái chết". Thế nhưng, văn chương ông tự buổi đầu đã nặng tính hoài nghi yếm thế. Sau khi Akutagawa mất, cả hai cánh tả và hữu đều gán cho ông nhãn hiệu như là người của họ nhưng bản thân ông không bao giờ đặt vấn đề chính trị. Có lẽ trong ông tiềm ẩn nỗi khổ tâm của một nhà nghệ sĩ "nhân bản"", đầy lòng yêu cuộc sống (yêu quá hóa hờn), phải đứng trước một lựa chọn có tính bức bách mà không tìm được lời giải thỏa đáng : nghệ thuật vị nghệ thuật hay nghệ thuật vị nhân sinh?
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

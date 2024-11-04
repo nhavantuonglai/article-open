@@ -3,7 +3,7 @@ pubDatetime: 2021-08-05T10:10:00Z
 title: Cẩm nang du lịch Phú Quý
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0617.jpg
+image: https://nhavantuonglai.com/image/cover/001-617.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -15,7 +15,7 @@ _Phú Quý hay còn gọi là cù lao Thu, cù lao Khoai Xứ là một đảo n
 
 Khí hậu trên đảo trong lành, mát mẻ quanh năm. Thời điểm thích hợp để khám phá đảo Phú Quý là từ khoảng tháng 12 đến tháng 6 năm sau, do mùa bão thường rơi vào tháng 9 đến tháng 11. Mùa xuân hè biển êm, trong xanh, gió nhẹ, dễ dàng di chuyển ra các đảo nhỏ. Tuy nhiên thỉnh thoảng sẽ có biển động, bạn nên xem dự báo thời tiết trước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-233.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-233.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -47,7 +47,7 @@ Gành Hang
 
 Cách bãi Nhỏ khoảng 650m, Gành Hang là vách đá lớn dựng đứng sát biển, nước biển tràn vào tạo thành _Khe Sung Sướng_ và _Hồ bơi vô cực_ tự nhiên thu hút nhiều du khách bơi lội. Bạn nên đem theo giày leo núi chắc chắn để đảm bảo an toàn. Khi chụp ảnh, lưu ý không nên ra gần rìa _hồ bơi vô cực_ để tránh bị sóng kéo ra ngoài biển và nên đi cùng người địa phương.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-234.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-234.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Đỉnh Cao Cát
 
@@ -57,7 +57,7 @@ Cách bãi Nhỏ khoảng 650m, Gành Hang là vách đá lớn dựng đứng s
 
 Vào năm 1941, xác của một con cá voi trôi dạt vào đảo Phú Quý, người dân đã phát hiện và mai táng trọng thể. Khi còn sống, con cá voi này có thể dài trên 20 m và bạn có thể nhìn thấy bộ xương khi đến Vạn An Thạnh. Đến đây, bạn sẽ được nghe người dân kể về hiện tượng cá voi giúp đỡ tàu thuyền khi gặp giông bão ngoài khơi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-235.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-235.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Hải đăng Phú Quý
 
@@ -69,7 +69,7 @@ Ngọn hải đăng nằm trên Núi Cấm cao hơn 100 m so với mực nước
 
 Đền thờ do người Chăm xây dựng từ cuối thế kỷ 15. Tương truyền, công chúa Chiêm Thành không chịu bị ép duyên nên nhà vua thả xuống thuyền đày biệt xứ. Thuyền trôi đến đảo, bà quyết định ở lại khai khẩn lập nghiệp, giúp dân đánh đuổi giặc ngoại xâm. Khi mất bà được lập miếu thờ và cúng giỗ hàng năm, tôn xưng là Bà Chúa Xứ hoặc Bà Chúa Đảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-236.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-236.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Dinh Thầy Nại
 
@@ -81,7 +81,7 @@ Cánh đồng điện gió Phú Quý
 
 Nơi đây chỉ có vài cột quạt gió, bạn nên chịu khó tìm các góc khác nhau để chụp hình đẹp hơn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-237.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-237.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Chợ cá Long Hải
 
@@ -91,11 +91,11 @@ Hồ cá Làng Dương
 
 Người dân ghép đá xây bờ tường cao khoanh thành một hồ nuôi hải sản tự nhiên. Điểm đặc biệt là các khe lỗ tròn xếp đều nhau để nước biển tràn vào, nhưng cá tôm không thể thoát ra.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-237.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-237.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Thăm đảo
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-238.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-238.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 Ghé thăm Hòn Đen, Hòn Trứng, Hòn Giữa, Hòn Đỏ, Hòn Tranh. Chỉ khoảng 10 phút đi canô bạn đã có thể đi bộ dưới những tán cây và tìm hiểu cuộc sống ngư dân trên đảo, với nghề truyền thống lặn bắt tôm hùm.
 
@@ -107,7 +107,7 @@ Lặn ngắm san hô
 
 Bạn cũng có thể thuê thuyền lặn ngắm san hô nếu thích. Bên dưới làn nước trong xanh là những rạn san hô đủ màu sắc cùng nhiều đàn cá bơi lội sẽ khiến bạn thích thú.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-239.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-239.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn uống
 
@@ -133,7 +133,7 @@ Nếu muốn cắm trại qua đêm, hãy nhờ chủ nhà nghỉ xin giấy ph�
 
 ## Chi phí tham khảo
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-240.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dao-phu-quy-cu-lao-thu-240.jpg" alt="cam-nang-du-lich-dao-phu-quy-cu-lao-thu" height=100% width=100%><figcaption><p>cam-nang-du-lich-dao-phu-quy-cu-lao-thu-nhavantuonglai</p></figcaption></figure>
 
 – Xe khách Thành phố Hồ Chí Minh – Phan Thiết: 150.000 – 250.000 đồng một người một chiều.
 
@@ -145,4 +145,4 @@ Nếu muốn cắm trại qua đêm, hãy nhờ chủ nhà nghỉ xin giấy ph�
 
 – Ăn uống: 500.000 đồng cho ba ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-13T10:10:00Z
 title: Kinh nghiệm du lịch Phú Quốc 4 ngày 3 đêm và những lưu ý cần thiết
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0649.jpg
+image: https://nhavantuonglai.com/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -102,4 +102,4 @@ Khẩu trang và áo dài tay.
 
 Trên đây là những gợi ý, lưu ý và kinh nghiệm du lịch Phú Quốc mà bạn nên nắm rõ, để hành trình khám phá và trải nghiệm của bản thân thêm phần chất lượng và thú vị, cũng đừng quên đặt phòng tại AVS Hotel Phú Quốc để nhận được nhiều ưu đãi hấp dẫn nhé.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

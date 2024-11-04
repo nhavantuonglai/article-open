@@ -3,7 +3,7 @@ pubDatetime: 2018-08-21T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 61
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 61 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0461.jpg
+image: https://nhavantuonglai.com/image/cover/001-461.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,93 +19,93 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 61
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0001.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0001.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0002.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0002.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0003.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0003.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0281.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0281.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0282.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0282.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0283.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0283.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0284.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0284.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0285.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0285.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0286.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0286.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0287.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0287.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0288.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0288.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0289.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0289.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0290.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0290.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0291.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0291.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0292.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0292.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0293.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0293.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0294.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0294.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0295.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0295.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0296.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0296.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0297.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0297.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0298.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0298.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0299.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0299.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0300.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0300.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0301.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0301.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0302.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0302.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0303.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0303.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0304.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0304.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0305.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0305.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0306.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0306.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0307.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0307.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0308.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0308.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0309.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0309.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0310.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0310.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0311.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0311.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0312.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0312.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0313.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0313.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0314.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0314.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0315.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0315.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0316.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0316.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0317.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0317.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0318.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0318.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0319.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0319.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0320.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0320.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0321.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-07-0321.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -381,6 +381,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 07](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-07.pdf) tại đây.
+Đọc [Chim lửa, tập 07](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-07.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 61." title="Chim lửa (Hi no Tori) chương 61." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 61.</p></figcaption></figure>

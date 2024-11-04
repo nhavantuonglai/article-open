@@ -3,7 +3,7 @@ pubDatetime: 2014-03-03T10:10:00Z
 title: Thích Nhất Hạnh | Đường xưa mây trắng (Chương 01)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0259.jpg
+image: https://nhavantuonglai.com/image/cover/001-259.jpg
 tags:
   - thu vien
   - van hoc viet nam
@@ -254,6 +254,6 @@ Chúng ta đang sống trong một thời đại với biết bao phương tiệ
 
 Đọc [Đường xưa mây trắng, chương 83](https://nhavantuonglai.com/article/thich-nhat-hanh-duong-xua-may-trang-chuong-83) tại đây.
 
-Đọc [Đường xưa mây trắng, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
+Đọc [Đường xưa mây trắng, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

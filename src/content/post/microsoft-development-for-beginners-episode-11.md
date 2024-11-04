@@ -3,7 +3,7 @@ pubDatetime: 2006-04-15T10:10:00Z
 title: Microsoft | Development for beginners (Episode 12)
 description: This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0411.jpg
+image: https://nhavantuonglai.com/image/cover/001-411.jpg
 tags:
   - developer
   - github
@@ -119,7 +119,7 @@ Now that we have a functional UI, the next step is to send the data over to our 
 
 Did you notice the change in your browser's URL section?
 
-![Screenshot of the browser's URL change after clicking the Register button](https://data.nhavantuonglai.com/image/click-register.png)
+![Screenshot of the browser's URL change after clicking the Register button](https://nhavantuonglai.com/image/click-register.png)
 
 The default action for a `<form>` is to submit the form to the current server URL using the [GET method](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.3), appending the form data directly to the URL. This method has some shortcomings though:
 
@@ -242,7 +242,7 @@ console.log('Account created!', result);
 
 That was a bit long but we got there! If you open your [browser developer tools](https://developer.mozilla.org/docs/Learn/Common_questions/What_are_browser_developer_tools), and try registering a new account, you should not see any change on the web page but a message will appear in the console confirming that everything works.
 
-![Screenshot showing log message in the browser console](https://data.nhavantuonglai.com/image/browser-console.png)
+![Screenshot showing log message in the browser console](https://nhavantuonglai.com/image/browser-console.png)
 
 ✅ Do you think the data is sent to the server securely? What if someone what was able to intercept the request? You can read about [HTTPS](https://en.wikipedia.org/wiki/HTTPS) to know more about secure data communication.
 
@@ -288,7 +288,7 @@ html
 
 Now if you press the _Register_ button and a field does not respect a validation rule we defined, you should see something like this:
 
-![Screenshot showing the validation error when trying to submit the form](https://data.nhavantuonglai.com/image/validation-error.png)
+![Screenshot showing the validation error when trying to submit the form](https://nhavantuonglai.com/image/validation-error.png)
 
 Validation like this performed _before_ sending any data to the server is called client-side validation. But note that it's not always possible to perform all checks without sending the data. For example, we cannot check here if an account already exists with the same username without sending a request to the server. Additional validation performed on the server is called server-side validation.
 

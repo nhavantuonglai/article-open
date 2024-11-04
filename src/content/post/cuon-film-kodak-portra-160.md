@@ -3,7 +3,7 @@ pubDatetime: 2021-06-12T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 160
 description: Kodak Portra 160 là một trong những cuộn film màu phổ biến và được yêu thích nhất trong cộng đồng nhiếp ảnh film.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0715.jpg
+image: https://nhavantuonglai.com/image/cover/001-715.jpg
 tags:
   - affiliate
   - roll film
@@ -25,11 +25,11 @@ Kodak là một thương hiệu danh tiếng trong ngành công nghiệp nhiếp
 
 Kodak Portra 160 được giới thiệu vào đầu những năm 2000, kế thừa và cải tiến từ các phiên bản Portra trước đó. Với công nghệ Vision3 mới nhất của Kodak, cuộn film này mang lại màu sắc chân thực, độ chi tiết cao và khả năng kiểm soát độ tương phản xuất sắc. Kodak Portra 160 nhanh chóng trở thành lựa chọn phổ biến cho các nhiếp ảnh gia chuyên nghiệp và nghiệp dư nhờ vào chất lượng hình ảnh tuyệt vời và sự linh hoạt trong nhiều điều kiện ánh sáng khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-01.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-01.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-02.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-02.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-03.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-160-03.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
 ### Thông số kỹ thuật của cuộn film Kodak Portra 160
 
@@ -51,11 +51,11 @@ Chụp ảnh film với cuộn film Kodak Portra 160 trong điều kiện đủ 
 
 Kodak Portra 160 đặc biệt mạnh mẽ trong việc giữ độ tương phản trung bình, giúp các vùng sáng và tối trong bức ảnh được cân bằng tốt. Những bức ảnh chụp dưới ánh sáng tự nhiên thường rất sống động và có chiều sâu. Độ phân giải cao của cuộn film này cũng giúp giữ được các chi tiết nhỏ và các đường nét tinh tế, tạo nên những bức ảnh có độ sắc nét ấn tượng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0098.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-098.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0099.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-099.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0100.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-100.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện thiếu sáng
 
@@ -63,11 +63,11 @@ Kodak Portra 160 cũng thể hiện tốt khi chụp trong điều kiện thiế
 
 Một điểm mạnh của Kodak Portra 160 là khả năng giữ màu sắc chân thực và không bị bệt màu khi chụp trong điều kiện ánh sáng yếu. Điều này đặc biệt quan trọng khi chụp ảnh đêm hoặc trong các môi trường ánh sáng yếu, nơi mà nhiều loại film khác có thể gặp khó khăn trong việc giữ chi tiết và sắc độ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0101.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-101.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0102.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-102.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-01032.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-1032.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện ánh sáng nhân tạo
 
@@ -75,19 +75,19 @@ Kodak Portra 160 được thiết kế để chụp ảnh dưới ánh sáng nh�
 
 Cuộn film Kodak Portra 160 không chỉ giúp tạo ra những bức ảnh đẹp mà còn dễ dàng xử lý và in ấn nhờ vào quy trình C-41. Điều này giúp tiết kiệm thời gian và chi phí cho các nhiếp ảnh gia, đồng thời mang lại những bức ảnh chất lượng cao với độ sắc nét và chi tiết vượt trội.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0104.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-104.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0105.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-105.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0106.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-106.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0107.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-107.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0108.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-108.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0109.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-109.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Kodak Portra 160" title="Kodak Portra 160" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Mua cuộn film Kodak Portra 160 ở đâu
 
@@ -99,4 +99,4 @@ Shopee nhavantuonglai không chỉ cung cấp các sản phẩm chất lượng 
 
 Cuộn film Kodak Portra 160 là lựa chọn tuyệt vời cho những ai đam mê chụp ảnh film màu và muốn có những bức ảnh chất lượng cao với màu sắc tự nhiên và chi tiết rõ nét. Dù chụp trong điều kiện đủ sáng, thiếu sáng hay ánh sáng nhân tạo, Kodak Portra 160 đều mang lại kết quả ấn tượng. Hãy thử trải nghiệm và cảm nhận sự khác biệt mà cuộn film này mang lại cho những bức ảnh của bạn. Việc mua cuộn film Kodak Portra 160 tại Shopee nhavantuonglai sẽ giúp bạn dễ dàng sở hữu sản phẩm chất lượng này và thỏa mãn đam mê chụp ảnh film của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0531jpeg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-531jpeg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

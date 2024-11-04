@@ -3,7 +3,7 @@ pubDatetime: 2023-06-04T10:10:00Z
 title: Hướng dẫn tối ưu hóa seo cho website Webflow cơ bản
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật tối ưu hóa seo cho website Webflow hiệu quả.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0119.jpg
+image: https://nhavantuonglai.com/image/cover/001-119.jpg
 tags:
   - google
   - google console
@@ -314,4 +314,4 @@ Một mẹo nhỏ cuối cùng: Đảm bảo website của bạn tải nhanh. N�
 
 Đây là bước khởi đầu trong hành trình dài xây dựng, phát triển thương hiệu số cho giải pháp thông qua việc tối ưu hóa seo cho website Webflow. Để biết phải bắt đầu từ đâu, thực hiện tiếp những điều còn dang dở, cũng như kết nối với đơn vị tư vấn, thiết kế website thương hiệu đẹp mắt, nhanh chóng và hiện đại. Với công cụ hiện đại, đội ngũ tư vấn tận tâm, nhavantuonglai tự tin đồng hành và kiến tạo nên những khác biệt cho các giải pháp số hiện nay.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2006-01-04T10:10:00Z
 title: Alphonse Daudet | Những vì sao
 description: Trong thời gian tôi chăn cừu trên miền núi Luberon, có khi suốt mấy tuần lễ liên tiếp tôi không trông thấy một bóng người, chỉ một mình tôi thui thủi trên cánh đồng cỏ với con chó Labri và đàn cừu.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg
+image: https://nhavantuonglai.com/image/cover/001-429.jpg
 tags:
   - alphonse daudet
   - van hoc
@@ -97,4 +97,4 @@ Chú thích:
 
 (7) – La Poussinière (còn gọi là La Pléiade, Kim Ngưu): tên một chòm sao nhỏ ở bắc bán cầu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

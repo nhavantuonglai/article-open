@@ -3,7 +3,7 @@ pubDatetime: 2023-04-22T10:10:00Z
 title: Cách xây dựng chiến lược SEO hiệu quả trong bối cảnh AI đang thay đổi SEO
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0423.jpg
+image: https://nhavantuonglai.com/image/cover/001-423.jpg
 tags:
   - google
   - google console
@@ -188,4 +188,4 @@ Kiêng khem hoàn toàn đảm bảo rằng bạn xây dựng ý kiến dựa tr
 
 Cách tốt nhất để chứng minh giải pháp của bạn trong tương lai là tiếp tục tham gia với AI, vượt qua ranh giới và thử những điều mới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0481.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-481.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

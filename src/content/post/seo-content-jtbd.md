@@ -3,7 +3,7 @@ pubDatetime: 2023-05-07T10:10:00Z
 title: Sử dụng khung công việc cần làm (JTBD) cho nội dung SEO
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0399.jpg
+image: https://nhavantuonglai.com/image/cover/001-399.jpg
 tags:
   - google
   - google console
@@ -132,4 +132,4 @@ Một đối tượng mục tiêu đang cố gắng hoàn thành vô số công 
 
 Điều này sẽ chuyển thành tăng doanh số bán hàng khi khách hàng tiềm năng sẵn sàng thực hiện giao dịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

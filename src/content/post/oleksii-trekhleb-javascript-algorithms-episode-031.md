@@ -3,7 +3,7 @@ pubDatetime: 2018-06-12T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Fibonacci number)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0531.jpg
+image: https://nhavantuonglai.com/image/cover/001-531.jpg
 tags:
   - developer
   - github
@@ -32,4 +32,4 @@ The Fibonacci spiral: an approximation of the golden spiral created by drawing c
 
 ![Fibonacci Spiral](https://upload.wikimedia.org/wikipedia/commons/2/2e/FibonacciSpiral.svg)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

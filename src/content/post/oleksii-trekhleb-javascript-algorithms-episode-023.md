@@ -3,7 +3,7 @@ pubDatetime: 2018-06-04T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Disjoint set)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0523.jpg
+image: https://nhavantuonglai.com/image/cover/001-523.jpg
 tags:
   - developer
   - github
@@ -39,4 +39,4 @@ After some operations of _Union,_ some sets are grouped together.
 
   - The minimalistic (ad hoc) version of a DisjointSet (or a UnionFind) data structure that doesn't have external dependencies and that is easy to copy-paste and use during the coding interview if allowed by the interviewer (since many data structures in JS are missing).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

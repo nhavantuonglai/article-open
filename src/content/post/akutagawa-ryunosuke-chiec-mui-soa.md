@@ -3,7 +3,7 @@ pubDatetime: 2018-08-24T10:10:00Z
 title: Akutagawa Ryunosuke | Chiếc mùi soa
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0233.jpg
+image: https://nhavantuonglai.com/image/cover/001-233.jpg
 tags:
   - thu vien
   - van hoc
@@ -138,4 +138,4 @@ Giáo sư lại đặt quyển sách lên đùi. Chỗ ông đang mở, tấm da
 
 Giáo sư lắc đầu hai ba lần với vẻ khó chịu. Thế rồi, ông nhướng mắt nhìn lên và bắt đầu chăm chú ngắm nghía ánh sáng của chiếc lồng đèn Gifu có vẻ hình mấy cọng cỏ thu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

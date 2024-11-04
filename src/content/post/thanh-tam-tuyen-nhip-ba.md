@@ -3,7 +3,7 @@ pubDatetime: 2013-09-27T10:10:00Z
 title: Thanh Tâm Tuyền | Nhịp ba
 description: Thanh Tâm Tuyền (1936 – 2006), tên thật là Dzư Văn Tâm, là một nhà thơ, nhà văn người Việt nổi tiếng, được biết đến với những cách tân thơ ca táo bạo.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0505.jpg
+image: https://nhavantuonglai.com/image/cover/001-505.jpg
 tags:
   - thu vien
   - van hoc
@@ -95,4 +95,4 @@ tình yêu tự do
 
 mãi mãi anh ơi
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

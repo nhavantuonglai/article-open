@@ -3,7 +3,7 @@ pubDatetime: 2006-02-17T10:10:00Z
 title: Edgar Allan Poe | The system of Dr. Tarr and Prof. Fether
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0574.jpg
+image: https://nhavantuonglai.com/image/cover/001-574.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -267,4 +267,4 @@ The _soothing system,_ with important modifications, has been resumed at the cha
 
 I have only to add that, although I have searched every library in Europe for the works of Doctor Tarr and Professor Fether, I have, up to the present day, utterly failed in my endeavors at procuring an edition.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

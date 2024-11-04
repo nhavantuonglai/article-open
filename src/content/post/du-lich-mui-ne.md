@@ -3,7 +3,7 @@ pubDatetime: 2021-09-05T10:10:00Z
 title: Cẩm nang du lịch Mũi Né
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0641.jpg
+image: https://nhavantuonglai.com/image/cover/001-641.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -23,7 +23,7 @@ Từ Thành phố Hồ Chí Minh du khách hiện có thể dễ dàng di chuy�
 
 Các phượt thủ thường đi theo cung đường ven biển. Từ Thành phố Hồ Chí Minh bạn có thể đi theo hướng phà Cát Lái, tới Long Thành rồi đến thị xã Bà Rịa, chạy tiếp theo hướng Hồ Tràm qua Lộc An, rồi chạy theo đường ven biển hướng về Phan Thiết. Tổng quãng đường khoảng 230 km.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-423.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-423.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 Nếu không đi xe máy, bạn cũng có thể ra bến xe miền Đông mua vé đi Phan Thiết, thời gian di chuyển khoảng 5 tiếng, giá vé 130.000 đồng một người, tuỳ nhà xe.
 
@@ -41,7 +41,7 @@ Mũi Né không chỉ là _thiên đường giải trí_ với bờ biển đẹ
 
 Hòn Rơm là tên một núi nhỏ vẫn còn hoang sơ nằm tại ấp Long Sơn, phường Mũi Né, Thành phố. Phan Thiết. Du khách nên đến Hòn Rơm vào sáng sớm hoặc chiều tà để ngắm bình minh, hoàng hôn. Đây cũng là điểm cắm trại lý tưởng để đốt lửa trại về đêm hoặc ngắm trăng sao. Cụm bãi tắm ở Hòn Rơm sóng êm, không có đá ngầm và nước trong xanh, bạn có thể hỏi đường đến Hòn Rơm 1, Hòn Rơm 2 hoặc bãi Thuỳ Trang để tắm biển.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-424.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-424.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 2. Đồi Cát Hồng
 
@@ -49,7 +49,7 @@ Gần Hòn Rơm là một trong những thắng cảnh đẹp nhất Mũi Né �
 
 Dưới chân đồi cát có bán một số đồ ăn, thức uống nhanh như: Dừa ba nhát, bánh bột lọc, đậu hũ…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-425.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-425.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 3. Hòn Ghềnh
 
@@ -59,7 +59,7 @@ Sáng sớm du khách có thể đến đây để câu cá, sau đó đi lặn 
 
 4. Bàu Trắng – Bàu Sen
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-426.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-426.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 Bàu trắng – Bàu sen là hai hồ nước ngọt thiên nhiên nằm giữa những đồi cát trắng mênh mông. Đến Bàu trắng vào mùa hè, du khách có thể được chiêm ngưỡng hàng nghìn đoá sen nở rộ giữa đồi cát trắng.
 
@@ -69,7 +69,7 @@ Bàu trắng – Bàu sen là hai hồ nước ngọt thiên nhiên nằm giữa
 
 Suối Tiên ở Mũi Né được du khách gọi là _Bồng lai tiên cảnh._ Ở đây có một khe nước nhỏ nằm bên cạnh Hòn Rơm. Cạnh suối là những đồi nhũ đá tự nhiên có màu đỏ và trắng với nhiều hình thù kỳ lạ do sự bào mòn của thời gian.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-427.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-427.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 6. Làng chài Mũi Né
 
@@ -77,7 +77,7 @@ Làng chài Mũi Né cách thị trấn khoảng 3 km. Ngay lối vào làng ch�
 
 Mặc dù làng chài chỉ trải dài tầm 100 m ven biển nhưng đây là nơi du khách có thể cẩm nhận rõ ràng nhất cuộc sống của ngư dân. Nếu đến làng chài vào sáng sớm, bạn có thể mua được nhiều hải sản tươi ngon khi thuyền vừa cập bến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-428.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-428.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 7. Trường Dục Thanh
 
@@ -103,7 +103,7 @@ Nếu có thời gian, du khách cũng nên ghé thăm đảo hòn Bà, Hải đ
 
 Đây là bảo tàng nước mắm đầu tiên và cũng là duy nhất của Việt Nam hiện nay, tái hiện 300 năm lịch sử của làng chài Phan Thiết, từ thời Chăm Pa, vua Nguyễn, trải dài cho đến tận thời Pháp thuộc và những năm của thập niên 1940 đến 1960. Giá vé vào cửa với người lớn là 100.000 đồng, trẻ em dưới 1 m được miễn phí.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-429.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-429.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -133,7 +133,7 @@ Du lịch phát triển nhanh kéo theo dịch vụ lưu trú ở Mũi Né cũng
 
 Các nhà nghỉ thường nằm sâu trong ngách, tập trung chủ yếu trên trục đường Huỳnh Thúc Kháng kéo dài về phía Hòn Rơm. Khách sạn ở Mũi Né rất nhiều, tập trung chủ yếu trên đường Nguyễn Đình Chiểu, giá trung bình từ 700.000 đến 1 triệu đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-430.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-430.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 Nếu đến Mũi Né để nghĩ dưỡng, du khách nên chọn các resort. Loại hình lưu trú này ở đây rất đa dạng, từ bình dân đến cao cấp. Du khách có thể cân nhắc tuỳ vào nhu cầu và kinh phí của mỗi người.
 
@@ -147,8 +147,8 @@ Sóng biển không quá lớn nhưng sẽ mạnh hơn bình thường, bạn n�
 
 Buổi tối ở khu du lịch Hòn Rơm có chợ chiều với nhiều món hải sản nướng, giá cả rất phải chăng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-431.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mui-ne-431.jpg" alt="cam-nang-du-lich-mui-ne" height=100% width=100%><figcaption><p>cam-nang-du-lich-mui-ne-nhavantuonglai</p></figcaption></figure>
 
 Buổi tối ở Mũi Né có nhiều khách nước ngoài, đa số là người Nga, Hàn Quốc. Một vài khách sạn chỉ cho khách nước ngoài thuê xe nên bạn cũng đừng quá ngạc nhiên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

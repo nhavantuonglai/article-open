@@ -3,7 +3,7 @@ pubDatetime: 2018-08-29T10:10:00Z
 title: Akutagawa Ryunosuke | Mấy trái quýt
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0575.jpg
+image: https://nhavantuonglai.com/image/cover/001-575.jpg
 tags:
   - thu vien
   - van hoc
@@ -37,4 +37,4 @@ Chú Thích
 
 (2) Vào thời ấy vé xe lửa Nhật có 3 hạng: hạng nhất màu trắng, hạng nhì màu xanh và hạng ba màu đỏ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

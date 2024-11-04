@@ -3,7 +3,7 @@ pubDatetime: 2024-04-02T10:10:00Z
 title: Uẩn khúc vụ vợ bắn chết chồng vì nhầm là gấu
 description: Trong chuyến đi săn lúc hoàng hôn năm 2006, tay thiện xạ Mary Beth Harshbarger bóp cò nhắm vào chồng mình nhưng giải thích định bắn một con gấu đen.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0635.jpg
+image: https://nhavantuonglai.com/image/cover/001-635.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -61,4 +61,4 @@ Gia đình Mark vẫn tin rằng họ không nhận được công lý.
 
 Vụ nổ súng được tái hiện trong các phim tài liệu như The Fifth Estate: Til Death Do Us Part (2011), Dateline: Unforgettable – Out of the Darkness (2022).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2010-10-01T10:10:00Z
 title: Thích Nhất Hạnh | Hướng đi của đạo Bụt cho hòa bình và môi sinh (Chương 01)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0635.jpg
+image: https://nhavantuonglai.com/image/cover/001-635.jpg
 tags:
   - thu vien
   - van hoc
@@ -67,6 +67,6 @@ Bạo hành, tham nhũng liên tục tiếp diễn chung quanh ta, và ta biết
 
 Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 11](https://nhavantuonglai.com/article/thich-nhat-hanh-huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-11) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh.pdf) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

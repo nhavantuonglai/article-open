@@ -3,7 +3,7 @@ pubDatetime: 2006-04-20T10:10:00Z
 title: Microsoft | Development for beginners (Episode 34)
 description: This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0417.jpg
+image: https://nhavantuonglai.com/image/cover/001-417.jpg
 tags:
   - developer
   - github
@@ -131,48 +131,48 @@ Add those plant images into two columns between the `<body></body>` tags:
 <div id="page">
 <div id="left-container" class="container">
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant1" src="https://data.nhavantuonglai.com/image/plant1.png" />
+<img class="plant" alt="plant" id="plant1" src="https://nhavantuonglai.com/image/plant1.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant2" src="https://data.nhavantuonglai.com/image/plant2.png" />
+<img class="plant" alt="plant" id="plant2" src="https://nhavantuonglai.com/image/plant2.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant3" src="https://data.nhavantuonglai.com/image/plant3.png" />
+<img class="plant" alt="plant" id="plant3" src="https://nhavantuonglai.com/image/plant3.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant4" src="https://data.nhavantuonglai.com/image/plant4.png" />
+<img class="plant" alt="plant" id="plant4" src="https://nhavantuonglai.com/image/plant4.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant5" src="https://data.nhavantuonglai.com/image/plant5.png" />
+<img class="plant" alt="plant" id="plant5" src="https://nhavantuonglai.com/image/plant5.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant6" src="https://data.nhavantuonglai.com/image/plant6.png" />
+<img class="plant" alt="plant" id="plant6" src="https://nhavantuonglai.com/image/plant6.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant7" src="https://data.nhavantuonglai.com/image/plant7.png" />
+<img class="plant" alt="plant" id="plant7" src="https://nhavantuonglai.com/image/plant7.png" />
 </div>
 </div>
 <div id="right-container" class="container">
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant8" src="https://data.nhavantuonglai.com/image/plant8.png" />
+<img class="plant" alt="plant" id="plant8" src="https://nhavantuonglai.com/image/plant8.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant9" src="https://data.nhavantuonglai.com/image/plant9.png" />
+<img class="plant" alt="plant" id="plant9" src="https://nhavantuonglai.com/image/plant9.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant10" src="https://data.nhavantuonglai.com/image/plant10.png" />
+<img class="plant" alt="plant" id="plant10" src="https://nhavantuonglai.com/image/plant10.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant11" src="https://data.nhavantuonglai.com/image/plant11.png" />
+<img class="plant" alt="plant" id="plant11" src="https://nhavantuonglai.com/image/plant11.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant12" src="https://data.nhavantuonglai.com/image/plant12.png" />
+<img class="plant" alt="plant" id="plant12" src="https://nhavantuonglai.com/image/plant12.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant13" src="https://data.nhavantuonglai.com/image/plant13.png" />
+<img class="plant" alt="plant" id="plant13" src="https://nhavantuonglai.com/image/plant13.png" />
 </div>
 <div class="plant-holder">
-<img class="plant" alt="plant" id="plant14" src="https://data.nhavantuonglai.com/image/plant14.png" />
+<img class="plant" alt="plant" id="plant14" src="https://nhavantuonglai.com/image/plant14.png" />
 </div>
 </div>
 </div>

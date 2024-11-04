@@ -3,7 +3,7 @@ pubDatetime: 2006-01-25T10:10:00Z
 title: Edgar Allan Poe | Never bet the devil your head
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0133.jpg
+image: https://nhavantuonglai.com/image/cover/001-133.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -74,4 +74,4 @@ But what I said, or what I thought, or what I heard, occupied only an instant. I
 
 He did not long survive his terrible loss. The homoeopathists did not give him little enough physic, and what little they did give him he hesitated to take. So in the end he grew worse, and at length died, a lesson to all riotous livers. I bedewed his grave with my tears, worked a bar sinister on his family escutcheon, and, for the general expenses of his funeral, sent in my very moderate bill to the transcendentalists. The scoundrels refused to pay it, so I had Mr. Dammit dug up at once, and sold him for dog's meat.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

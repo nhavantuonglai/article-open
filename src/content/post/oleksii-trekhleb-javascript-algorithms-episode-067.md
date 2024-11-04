@@ -3,7 +3,7 @@ pubDatetime: 2018-07-18T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Merge sort)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0567.jpg
+image: https://nhavantuonglai.com/image/cover/001-567.jpg
 tags:
   - developer
   - github
@@ -35,4 +35,4 @@ emulate merge sort (top-down).
 | --------------------  - | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------  - |
 | Merge sort        | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | n         | Yes       |           |
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

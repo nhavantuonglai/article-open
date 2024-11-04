@@ -3,7 +3,7 @@ pubDatetime: 2018-08-20T10:10:00Z
 title: Abe Kôbô | Một cái chết vô can
 description: Abe Kôbô là một trong những nhà văn hậu chiến Nhật Bản thế hệ Shôwa 30 (từ năm 1955 trở đi) có khuynh hướng đi tìm một thủ pháp mới.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0024.jpg
+image: https://nhavantuonglai.com/image/cover/001-024.jpg
 tags:
   - thu vien
   - van hoc
@@ -191,4 +191,4 @@ Tệ nhất là khi vừa khám phá ra xác chết, hắn lại không nói cho
 
 Thế nhưng ngày đã rạng sáng mất rồi và hình như hắn có hơi mệt mỏi để có thể quyết định xem đâu mới thật là can đảm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

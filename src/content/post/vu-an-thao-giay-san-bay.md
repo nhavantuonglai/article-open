@@ -3,7 +3,7 @@ pubDatetime: 2024-03-27T10:10:00Z
 title: Vụ đánh bom dẫn tới yêu cầu tháo giày khi qua cửa an ninh sân bay
 description: Gã khủng bố Richard Reid lên máy bay bằng đôi giày giấu bom ở đế với ý định sát hại 197 hành khách nhưng thất bại ngớ ngẩn vì mồ hôi chân khiến chất nổ bị ẩm, không thể bắt lửa.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0682.jpg
+image: https://nhavantuonglai.com/image/cover/001-682.jpg
 tags:
   - thu vien
   - ngan hang
@@ -53,4 +53,4 @@ Reid đang thụ án tại nhà tù an ninh tối đa Florence ADX, ở Colorado
 
 Từ vụ án này, các hãng hàng không đã bắt đầu yêu cầu hành khách đi tất hoặc đi chân trần qua cửa an ninh sân bay, còn giày dép của họ phải được kiểm tra ở máy quét an ninh. Năm 2006, Cục An ninh Vận tải (TSA) chính thức biến điều này thành quy định bắt buộc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

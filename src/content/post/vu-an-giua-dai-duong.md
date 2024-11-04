@@ -3,7 +3,7 @@ pubDatetime: 2024-03-04T10:10:00Z
 title: Vụ án 24 ngày giữa đại dương
 description: Tàu đắm, 4 thuỷ thủ lênh đênh trên xuồng cứu hộ suốt 24 ngày và ai sẽ phải chết để giúp những người còn lại được sống khi thiếu đồ ăn. Ba người kia có phạm tội giết người hay không?
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0282.jpg
+image: https://nhavantuonglai.com/image/cover/001-282.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -77,4 +77,4 @@ Vụ án cũng truyền cảm hứng cho nhiều tác phẩm hội hoạ và vă
 
 Trong sân nhà thờ của Nhà nguyện Jesus trên Peartree Green ở Southampton, có một tấm bia tưởng niệm Richard Parker.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2002-04-01T10:10:00Z
 title: Kim Dung | Thiên long bát bộ (Chương 31)
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0131.jpg
+image: https://nhavantuonglai.com/image/cover/001-131.jpg
 tags:
   - thu vien
   - van hoc
@@ -481,6 +481,6 @@ Hư Trúc khóc một hồi rồi quì xuống đất, hướng về di thể l�
 
 Đọc [Thiên long bát bộ, chương 40](https://nhavantuonglai.com/article/kim-dung-thien-long-bat-bo-chuong-40) tại đây.
 
-Đọc [Thiên long bát bộ, toàn tập](https://data.nhavantuonglai.com/ebook/kim-dung-thien-long-bat-bo.pdf) tại đây.
+Đọc [Thiên long bát bộ, toàn tập](https://nhavantuonglai.com/ebook/kim-dung-thien-long-bat-bo.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

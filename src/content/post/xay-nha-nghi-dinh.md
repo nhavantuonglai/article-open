@@ -3,7 +3,7 @@ pubDatetime: 2024-05-29T10:10:00Z
 title: Các nghị định về cấp phép xây dựng nhà ở tại Đà Nẵng
 description: Việc hiểu rõ quy trình xin phép xây dựng Đà Nẵng là vô cùng quan trọng đối với bất kỳ dự án xây dựng nào. Quy trình này không chỉ đảm bảo tính hợp pháp của công trình mà còn giúp bạn tránh được những rắc rối pháp lý sau này.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0623.jpg
+image: https://nhavantuonglai.com/image/cover/001-623.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Thủ tục xin giấy phép xây dựng ở Đà Nẵng bao gồm các bước 
 
 – Cấp giấy phép xây dựng: Sau khi hồ sơ được xét duyệt, giấy phép xây dựng sẽ được cấp cho chủ đầu tư, cho phép bắt đầu thi công công trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-119.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-119.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Quy định về cấp phép xây dựng tại Đà Nẵng
 
@@ -63,7 +63,7 @@ Khoảng lùi xây dựng là khoảng cách từ công trình đến ranh giớ
 
 – Khoảng lùi bên: Ít nhất 1 mét, nhằm đảm bảo an toàn và thuận tiện trong việc sửa chữa, bảo trì công trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-120.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-120.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Các văn bản pháp luật về xây dựng
 
@@ -81,7 +81,7 @@ Các nghị định và thông tư hướng dẫn cụ thể hóa quy định c�
 
 – Thông tư 15/2016/TT-BXD: Hướng dẫn về cấp giấy phép xây dựng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-121.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-121.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Các quy định địa phương
 
@@ -97,7 +97,7 @@ Một số công trình tạm có thể được miễn cấp phép xây dựng 
 
 – Công trình trong khu công nghiệp: Một số công trình tạm trong khu công nghiệp, khu chế xuất, khu công nghệ cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-122.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-122.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Công trình phục vụ nông nghiệp
 
@@ -111,7 +111,7 @@ Một số công trình nhỏ lẻ như nhà để xe, nhà vệ sinh tạm th�
 
 Mặc dù được miễn cấp phép, các công trình này vẫn phải tuân thủ các quy định về quy hoạch, an toàn, và vệ sinh môi trường. Chủ đầu tư cần thông báo cho cơ quan chức năng về việc xây dựng các công trình này để được giám sát và hướng dẫn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-123.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-123.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Hồ sơ pháp lý công trình xây dựng
 
@@ -127,7 +127,7 @@ Hồ sơ pháp lý công trình xây dựng bao gồm nhiều loại giấy tờ
 
 – Giấy phép xây dựng: Sau khi hồ sơ được xét duyệt, giấy phép xây dựng sẽ được cấp cho chủ đầu tư.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-124.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-124.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Quy trình chuẩn bị hồ sơ
 
@@ -147,7 +147,7 @@ Hồ sơ pháp lý công trình xây dựng bao gồm nhiều loại giấy tờ
 
 – Liên hệ với cơ quan chức năng: Thường xuyên liên hệ với cơ quan chức năng để cập nhật tiến độ xét duyệt và giải quyết kịp thời các vấn đề phát sinh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-125.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-125.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -155,4 +155,4 @@ Nghị định xin phép xây dựng Đà Nẵng cùng các quy định liên qu
 
 Bài viết này đã cung cấp cái nhìn tổng quan và chi tiết về quy trình cấp phép, các văn bản pháp luật, những trường hợp miễn cấp phép và hồ sơ pháp lý cần thiết, giúp bạn chuẩn bị tốt hơn cho các dự án xây dựng của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

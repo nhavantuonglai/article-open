@@ -3,7 +3,7 @@ pubDatetime: 2024-01-10T10:10:00Z
 title: Học cách gieo trồng hạnh phúc trong sách Thích Nhất Hạnh
 description: Tuyển tập sách của Thiền sư Thích Nhất Hạnh giới thiệu những cuốn sách của nhà sư, nhà văn, nhà thơ Thích Nhất Hạnh. Ông là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng cho Phật giáo.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg
+image: https://nhavantuonglai.com/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -139,6 +139,6 @@ Bằng cách kết hợp giữa lý thuyết và thực nghiệm. Cuốn sách �
 
 Đọc [Gieo trồng hạnh phúc, chương 50](https://nhavantuonglai.com/article/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-50) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-gieo-trong-hanh-phuc.pdf) tại đây.
+Đọc [Gieo trồng hạnh phúc, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-gieo-trong-hanh-phuc.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0139.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-139.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

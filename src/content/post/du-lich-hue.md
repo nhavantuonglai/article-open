@@ -3,7 +3,7 @@ pubDatetime: 2021-08-23T10:10:00Z
 title: Cẩm nang du lịch Huế
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0628.jpg
+image: https://nhavantuonglai.com/image/cover/001-628.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -23,13 +23,13 @@ Huế không hẳn có mùa khô, mà chỉ có mùa mưa và mùa ít mưa. Mù
 
 [Mùa xuân](https://info.nhavantuonglai.com/topick) kéo dài từ cuối tháng 1 đến tháng 3, thời tiết lúc này rất đẹp, trời có nắng nhẹ, đôi khi se se lạnh. Nên đi Huế tháng 4 đến tháng 7, [mùa hè](https://info.nhavantuonglai.com/topick) nắng nóng, Huế cũng là địa điểm du lịch Huế tự túc lý tưởng với những du khách yêu thích biển. [Cố đô vào hè](https://info.nhavantuonglai.com/topick) có sắc vàng của hoa điệp, hồng của [muồng hoa đào](https://info.nhavantuonglai.com/topick); sắc tím của bằng lăng… Ngoài ra đi Huế tháng 10 hoặc từ tháng 8, thành phố vào thu, mùa đẹp nhất trong năm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-339.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-339.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
 Máy bay: Vietnam Airlines, Bamboo Airways, Vietjet Air đều khai thác các chặng đến sân bay Phú Bài, Huế. Thời gian bay từ Hà Nội là khoảng 1 tiếng 15 phút, giá vé khứ hồi từ 1.600.000 đồng. Thời gian bay từ Thành phố Hồ Chí Minh là khoảng 1 tiếng 30 phút, giá vé khứ hồi từ 1.300.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-340.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-340.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Tàu hỏa: Từ Hà Nội, Thành phố Hồ Chí Minh hoặc các tỉnh thành các, du khách có thể đi tàu hỏa để ngắm cảnh dọc đường. Tàu có loại ghế ngồi cứng, ngồi mềm và giường nằm, có hoặc không có điều hòa. Giá vé khoảng 400.000 – 900.000 đồng một người. Nếu đi xa vào mùa nóng, bạn hãy chọn tàu SE3, SE1 để rút ngắn thời gian di chuyển, mua vé khoang giường nằm có điều hòa cho thoải mái.
 
@@ -45,7 +45,7 @@ Khách sạn ở Huế giá dễ chịu. Bạn nên đặt phòng ở trung tâm
 
 Huế cũng không thiếu khách sạn 4 – 5 sao và [khu nghỉ dưỡng](https://info.nhavantuonglai.com/topick) cao cấp. Những thương hiệu nổi tiếng phải kể đến Banyan Tree Lăng Cô, Laguna Lăng Cô, Làng Hành Hương Pilgrimage Village, Lapochine Beach Resort, khách sạn Silk Path Grand Hue, Indochine Palace, khách sạn Hoàng Cung (Imperial), [Azerai La Residence Huế](https://info.nhavantuonglai.com/topick), Vinpearl… Giá phòng khoảng 2.000.000 – 8.000.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-341.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-341.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Một chương trình tour huế 3 ngày 2 đêm là vừa đủ để di chuyển, thăm thú mà vẫn tiết kiệm, đảm bảo sức khỏe. Nếu kinh phí dư dả hoặc thoải mái về thời gian hơn, bạn có thể nghỉ lại Huế dài ngày để khám phá hết đất cố đô. Dưới đây là những điểm tham quan, trải nghiệm gợi ý.
 
@@ -63,7 +63,7 @@ Chợ bán từ 7h sáng tới chiều muộn nên du khách có thể ghé lúc
 
 Bạn ghé trường vào buổi trưa như 11h30 hoặc sau 17h để tham quan và chụp ảnh lúc vắng học sinh. Trường có nhiều cây lớn rất mát mẻ, nếu đi vào sáng sớm có thể bảo vệ không cho vào vì trong giờ học của học sinh. Phí gửi xe vào trường là 5.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-342.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-342.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Cầu Trường Tiền
 
@@ -77,7 +77,7 @@ Nếu muốn ngắm thành phố lung linh ánh đèn từ dòng Hương, du kh�
 
 ### Đồi Vọng Cảnh
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-343.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-343.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 [Đồi Vọng Cảnh](https://info.nhavantuonglai.com/topick) cao 43 m, tọa lạc ở phía Tây Nam Thành phố Huế. Chân đồi tiếp giáp bờ sông Hương, lại nằm trên cung đường có nhiều điểm đến như làng hương Thủy Xuân, lăng vua Tự Đức, lăng Thiệu Trị… nên từ lâu đã trở nên nổi tiếng và là điểm dừng chân của nhiều du khách.
 
@@ -89,7 +89,7 @@ Thời điểm thích hợp nhất để đến Vọng Cảnh là vào hoàng h�
 
 Vì khuôn viên [Đại Nội Huế](https://info.nhavantuonglai.com/topick) rất rộng cũng như tiết trời nắng nóng mùa hè, bạn nên đến từ sáng sớm ngay khi mở cửa lúc 7h và mang theo mũ, nón tránh nắng. Bạn cần ít nhất 3 tiếng tham quan khu di tích. Vé vào Đại Nội giá 200.000 đồng một người. Khi ghé thăm các điểm tham quan tại Huế, du khách có thể thuê [áo Nhật Bình](https://info.nhavantuonglai.com/topick) chụp ảnh để hóa thân thành hậu, phi, công chúa thời xưa với giá vé tham quan cung đình Huế không quá đắt đỏ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-344.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-344.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Nhà thờ Phủ Cam
 
@@ -99,7 +99,7 @@ Nhà thờ nằm trên đồi Phước Quả, chánh tòa và hai tháp chuông 
 
 ### Làng Thủy Xuân
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-345.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-345.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Trên đường đến thăm đồi Vọng Cảnh, các Lăng tẩm ở huế như lăng Tự Đức, du khách sẽ đi qua [làng hương Thủy Xuân](https://info.nhavantuonglai.com/topick), cách trung tâm Thành phố Huế khoảng 7 km. Nơi này gây ấn tượng với du khách bởi những bó [chân hương rực rỡ](https://info.nhavantuonglai.com/topick) như những bông hoa đủ màu sắc.
 
@@ -111,17 +111,17 @@ Triều Nguyễn có 13 vua, nhưng do các lý do kinh tế và chính trị n�
 
 Vậy, nên tham quan Lăng nào ở Huế? Đầu tiên là Lăng Gia Long (hay Thiên Thọ Lăng) được xây dựng từ năm 1814 đến năm 1820, nằm giữa quần thể núi Thiên Thọ thuộc xã Hương Thọ, huyện Hương Trà,. Đây là nơi yên nghỉ của vua Gia Long (1762), vị vua đầu tiên trong số 13 đời vua nhà Nguyễn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-346.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-346.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Lăng Khải Định nằm ở triền núi Châu Chữ thuộc xã Thủy Bằng, thị xã Hương Thủy, là nơi an nghỉ của vua Khải Định (1885). Lăng Khải Định là công trình có diện tích nhỏ nhất nhưng lại tốn công sức và tiền của nhất trong các lăng tẩm triều Nguyễn. Kiến trúc lăng có sự giao thoa của hai nền văn hoá Đông – Tây, phản ánh sở thích xa hoa của nhà vua lúc sinh thời.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-347.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-347.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Lăng Tự Đức hay Khiêm Cung nằm trong một thung lũng hẹp ở thôn Thượng Ba, phường Thủy Xuân, Thành phố Huế. Lăng có kiến trúc cầu kỳ, phong cảnh sơn thủy hữu tình và là một trong những lăng tẩm đẹp nhất của hoàng gia triều Nguyễn.
 
 Lăng được xây dựng từ năm 1864 đến năm 1867 trên diện tích 475 ha. Gần 50 công trình trong lăng ở hai khu vực tẩm điện và lăng mộ đều có chữ Khiêm trong tên gọi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-348.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-348.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Trong khuôn viên lăng Tự Đức còn có Lăng mộ Kiến Phúc, vị vua thứ 7 của triều Nguyễn. Kiến Phúc là cháu được vua Tự Đức nhận làm con, lên ngôi vua tháng 12/1883 sau vua Dục Đức và Hiệp Hòa.
 
@@ -129,21 +129,21 @@ Lăng Dục Đức (hay An Lăng) tọa lạc ở phường An Cựu, thành ph�
 
 So với lăng tẩm khác của các vua nhà Nguyễn, lăng Dục Đức có kiến trúc đơn giản và khiêm tốn. Lăng lấy đồi Phước Quả làm tiền án, núi Tam Thai sau lưng làm hậu chẩm và dòng khe chảy vòng qua trước mặt làm minh đường tụ thủy.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-349.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-349.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Lăng Minh Mạng còn được gọi là Hiếu Lăng, lăng có cổng chính là Đại Hồng Môn, chỉ mở một lần để đưa quan tài của vua vào trong lăng. Sau đó, việc ra vào phải qua hai cổng phụ là Tả Hồng Môn và Hữu Hồng Môn. Lăng có khung cảnh thơ mộng và hữu tình, xen giữa các công trình kiến trúc cổ đều có hồ nước trong xanh, mùa hè sen nở thơm ngát.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-350.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-350.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Lăng Đồng Khánh, nằm trong quần thể di tích cố đô Huế, là nơi an táng vua Đồng Khánh. Công trình nằm giữa một vùng quê nay là thôn Thượng Hai, phường Xuân Thủy, Thành phố Huế. Vua Đồng Khánh (1864) tại vị từ năm 1885 – 1889, tên húy Nguyễn Phúc Ưng Đường là vị vua thứ 9 của nhà Nguyễn. Lăng vua Đồng Khánh mang đến lối kiến trúc phong kiến truyền thống và cả phần ảnh hưởng nét kiến trúc Tây Âu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-351.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-351.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Cung An Định
 
 Được ví von như là _cung điện mùa hè_ của triều đình Huế, [cung An Định](https://info.nhavantuonglai.com/topick) mang dáng dấp như một tòa lâu đài châu Âu cổ kính tráng lệ, nhưng lại mang họa tiết hoa văn truyền thống cung đình Huế. UNESCO công nhận là Di sản văn hóa thế giới, cung An Định được đánh giá là công trình kiến trúc nghệ thuật đặc sắc, đại diện trường phái kiến trúc tân cổ điển ở Việt Nam đầu thế kỉ 20.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-352.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-352.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Chùa Thiên Mụ
 
@@ -155,7 +155,7 @@ Nếu còn thời gian, bạn nên cân nhắc tham quan thêm chùa Huyền Kh�
 
 Đi khỏi trung tâm thành phố khoảng 30 km, bạn đến xứ Truồi, đi vào Đập Truồi, vượt hết dốc thoải bên lưng đồi, sẽ thấy thiền viện Trúc Lâm Bạch Mã soi bóng xuống [hồ Truồi](https://info.nhavantuonglai.com/topick). Ngồi trên những con suồng nhỏ qua hồ, bạn sẽ đến thiền viện. Để lên tam quan, bạn phải leo 172 bậc. Kiến trúc thiền viện hài hoà giữa sơn thủy, với chính điện thờ Phật tổ ngồi tu niệm dưới gốc cây bồ đề.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-353.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-353.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Chùa Từ Hiếu
 
@@ -163,7 +163,7 @@ Nếu còn thời gian, bạn nên cân nhắc tham quan thêm chùa Huyền Kh�
 
 Tới đây du khách đừng quên thăm bảo tháp cổ, nơi chôn cất các vị hòa thượng có công xây dựng nên chùa Từ Hiếu, hay khu lăng mộ riêng biệt chôn cất các vị thái giám triều Nguyễn xưa kia góp tiền xây dựng chùa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-354.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-354.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ## Các tour khám phá Huế trong ngày
 
@@ -177,7 +177,7 @@ Hệ đầm phá Tam Giang – Cầu Hai có diện tích hơn 22.000 ha trải 
 
 Rừng ngập mặn nguyên sinh thuộc phá Tam Giang, làng Thuận Hòa, xã Hương Phong, thị xã Hương Trà. _Rú_ nghĩa là rừng, còn _chá_ là cây chá ở vùng ngập mặn. Nếu đến đây vào mùa thu bạn còn được chiêm ngưỡng màu vàng rực của những bông chá nở khắp rừng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-364.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-364.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
 
 Các bạn trẻ tới [rừng Rú Chá](https://info.nhavantuonglai.com/topick) rất thích thú chụp ảnh ở con đường bê tông sâu hun hút và hai hàng cây bao bọc. Từ trung tâm thành phố, bạn chạy theo quốc lộ 49 sẽ thấy bảng chỉ dẫn rẽ trái theo hướng cầu Tam Giang, đi thêm khoảng 4 km. Khách tham quan rừng Rú Chá không mất phí.
 
@@ -193,11 +193,11 @@ Các bạn trẻ tới [rừng Rú Chá](https://info.nhavantuonglai.com/topick)
 
 [Vườn quốc gia Bạch Mã](https://info.nhavantuonglai.com/topick) là địa điểm lý tưởng mà nhiều khách du lịch dừng chân ngắm hoàng hôn. Tối đến, bạn nghỉ ngơi tại một villa cổ kiểu Pháp trong vườn quốc gia. Trong hành trình này, du khách có thể kết hợp ngắm sao đêm ở Bạch Mã.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-362.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-362.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
 
 Sáng sớm hôm sau, bạn tiếp tục đi bộ theo đường mòn Đỗ Quyên, đến Ngũ Hồ để chiêm ngưỡng năm hồ nước đẹp nhất rừng Bạch Mã, hòa mình vào dòng suối mát và ngắm cảnh núi non hùng vĩ. Hành trình tiếp tục tới vườn thuốc quý, thác Đỗ Quyên có độ cao hơn 300 m – một trong những kỳ quan của Bạch Mã.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-355.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-355.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Bãi biển Thuận An
 
@@ -211,13 +211,13 @@ Bãi tắm [Lăng Cô](https://nhavantuonglai.com/article/du-lich-lang-co) dài 
 
 [Đầm Lập An](https://info.nhavantuonglai.com/topick) có tên gọi khác là đầm An Cư, rộng khoảng 800 ha, nằm gần trục đường quốc lộ 1A, nối Đà Nẵng đến Huế. Tọa lạc dưới chân đèo Phú Gia, đầm được bao quanh bởi dãy núi Bạch Mã, một bên là vịnh Lăng Cô.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-356.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-356.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Hải Vân Quan
 
 Hải Vân Quan được xây dựng năm 1826, là đồn lũy quân sự trấn thủ trên đỉnh đèo Hải Vân, có vị trí hết sức đắc địa, được mệnh danh là _yết hầu_ của Kinh đô Huế. Hải Vân Quan như cửa ngỏ phía nam của vùng đất Thuận Hóa – Phú Xuân – Huế. Hải Vân Quan nằm ở đỉnh đèo vắt qua một rặng núi đâm ngang ra biển từ dãy Trường Sơn. Đỉnh [đèo Hải Vân](https://info.nhavantuonglai.com/topick) ở độ cao 496m so với mực nước biển cách Huế 77,3km về phía Nam và cách Đà Nẵng 28,7km về phía bắc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-357.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-357.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Hồ Thủy Tiên
 
@@ -227,7 +227,7 @@ Công viên này từng tốn đến 70 tỷ đồng để xây dựng và mở 
 
 Ngày nay, Hồ Thủy Tiên bị bao phủ bằng các bức tranh tường graffiti nhiều màu và cây cối mọc um tùm. Tuy vậy, nhiều du khách mê khám phá truyền tai nhau hồ Thủy Tiên có sức hút không tưởng, là điểm đến không nên bỏ lỡ khi du lịch Huế.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-361.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-361.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
 
 ## Ăn chơi
 
@@ -239,7 +239,7 @@ Các loại đồ uống, bạn có thể thử tào phớ, nước đậu nành
 
 Để tìm quán ăn [chuẩn vị người Huế](https://nhavantuonglai.com/article/du-lich-hue-cua-nguoi-ban-dia), bạn hãy thử tìm những nơi nằm trong góc, hẻm với biển hiệu càng cũ, mộc mạc hoặc không đề biển thì càng ngon. Tên quán bắt đầu bằng _Mụ,_ _Mệ,_ _O,_ _Bé_ thì hầu hết đầu bếp là người Huế gốc, các món ăn càng chuẩn vị nhất. Đặc biệt, chủ quán càng già bán đồ ăn càng ngon.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-360.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-360.jpg" alt="cam-nang-du-lich-hue-cua-nguoi-ban-dia" title="nhavantuonglai" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-cua-nguoi-ban-dia</p></figcaption></figure>
 
 Địa chỉ ăn uống gợi ý ở Huế:
 
@@ -269,7 +269,7 @@ Các loại đồ uống, bạn có thể thử tào phớ, nước đậu nành
 
 Nếu muốn mua quà, bạn hãy chọn trà cung đình Huế, trà sen, nem chả, mắm các loại, dầu tràm, bánh ép khô, kẹo mè xửng, nón lá, đồ lưu niệm in hình phong cảnh Huế…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-358.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-358.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 ### Chơi
 
@@ -277,8 +277,8 @@ Một trải nghiệm _không buồn_ về đêm ở Huế là khám phá phố 
 
 Xem bắn súng thần công ở Kỳ Đài là trải nghiệm không nên bỏ lỡ. Kỳ Đài, hay còn được gọi là Cột Cờ Kinh thành Huế được xây vào năm 1807 dưới thời vua Gia Long. Trước đây, trên mặt đài có hai điếm canh và pháo xưởng để bố trí các khẩu súng. Ngày nay, du khách tham quan có thể đến đây vào 20h tối thứ bảy hàng tuần để xem biểu diễn tái hiện bắn súng thần công.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hue-359.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hue-359.jpg" alt="cam-nang-du-lich-hue" height=100% width=100%><figcaption><p>cam-nang-du-lich-hue-nhavantuonglai</p></figcaption></figure>
 
 Để đổi gió với những trải nghiệm mới mẻ tại Huế, bạn có thể khám phá một số khu vui chơi như Epark – Tam Giang Lagoon, suối khoáng nóng Alba Thanh Tân, Khu du lịch sinh thái Pârle A Lưới, nông trại Green Life Farm, Khu du lịch Suối Voi…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0164.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-164.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-04-01T10:10:00Z
 title: Vụ kiện giải oan cho kiệt tác văn học Ulysses bị gán mác khiêu dâm
 description: Tiểu thuyết Ulysses của nhà văn James Joyce ngày nay được đánh giá là kiệt tác văn học nhân loại, song từng chật vật tới suýt chết yểu vì lệnh cấm, bị cáo buộc là sách khiêu dâm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0235.jpg
+image: https://nhavantuonglai.com/image/cover/001-235.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -82,4 +82,4 @@ Hơn 100 năm sau khi ra đời, Ulysses vẫn thống trị trong mọi bảng 
 
 Người hâm mộ James Joyce và Ulysses trên toàn thế giới hằng năm đều làm lễ kỷ niệm linh đình vào ngày 16/6, mốc thời gian diễn ra câu chuyện trong tiểu thuyết, lấy tên là Bloomsday – Ngày rực rỡ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

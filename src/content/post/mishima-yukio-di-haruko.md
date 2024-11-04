@@ -3,7 +3,7 @@ pubDatetime: 2022-12-20T10:10:00Z
 title: Mishima Yukio | Mối tình của vị cao tăng chùa Shiga
 description: Chưa chịu bỏ công khảo chứng gì cả mà đã bắt đầu vào chuyện, tôi xin chịu mang tiếng là người không chuẩn bị kỹ càng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -566,4 +566,4 @@ Thế rồi, tôi thấy như có một cảm giác đau đớn những có lẽ
 
 Như thế, tôi cảm thấy có đôi môi nào khác đã đến để chiếm lấy chỗ môi tôi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-06-01T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Bit manipulation)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0520.jpg
+image: https://nhavantuonglai.com/image/cover/001-520.jpg
 tags:
   - developer
   - github
@@ -23,4 +23,4 @@ Depth-first search (DFS) is an algorithm for traversing or searching tree or gra
 
 ![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-08-12T10:10:00Z
 title: Cẩm nang du lịch Đền Hùng
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0618.jpg
+image: https://nhavantuonglai.com/image/cover/001-618.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -39,7 +39,7 @@ Ngày 23/4: Giải bơi chải và trình diễn ván chèo đứng trên hồ C
 
 Ngày 24 đến 30/4: hát Xoan, dân ca Phú Thọ tại sân Trung tâm lễ hội, khu Di tích lịch sử đền Hùng và tổ chức Hội trại Văn hóa tại khu núi Phú Bùng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-242.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-242.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
 
 Ngày 25 đến 29/4: Liên hoan Văn hóa Ẩm thực Đất Tổ tại Khu dịch vụ ngã 5 Đền Giếng – khu DTLS đền Hùng.
 
@@ -47,7 +47,7 @@ Ngày 20 đến 29/4: Trưng bày tư liệu, hình ảnh, hiện vật và tín
 
 Ngoài ra, tỉnh Phú Thọ còn tổ chức các hoạt động khác nằm trong khuôn khổ Giỗ Tổ gồm: trình diễn hát Xoan phục vụ khách du lịch tại miếu Lãi Lèn, đình An Thái, đình Hùng Lô (20-29/), chương trình âm nhạc đường phố, trình diễn trang phục áo dài và xác lập kỷ lục _Non sông gấm vóc_ (22/) tại công viên Văn Lang, hội thi gói và nấu bánh chưng, bánh giày (ngày 27/) tại khu DTLS.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-243.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-243.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
 
 ## Các điểm tham quan
 
@@ -103,7 +103,7 @@ Trên mỗi mặt tường đều đắp mặt hổ phù, thành bậc đắp k�
 
 Đền nằm dưới chân núi. Trên mái đắp tứ linh: long, lân, quy, phụng. Chính giữa tiền sảnh là 3 bức đại tự _Ẩm thủy tư nguyên_ (Uống nước nhớ nguồn), _Nam quốc anh hoàng,_ _Sơn thủy kim ngọc_ (ý nói núi sông quý báu như vàng ngọc).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-244.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-den-hung-244.jpg" alt="cam-nang-du-lich-den-hung" height=100% width=100%><figcaption><p>cam-nang-du-lich-den-hung-nhavantuonglai</p></figcaption></figure>
 
 Lê Hải, Phó chủ tịch Chi hội hướng dẫn viên Du lịch tỉnh Phú Thọ, cho biết tham quan đền thờ các vua Hùng chỉ mất nửa buổi. Do đó, du khách có thể kết hợp thăm các điểm đến trong thành phố như đàn Tịch điền (nơi vua Hùng dạy dân cấy lúa), đền Tiên (thờ vợ vua Kinh Dương Vương, mẹ đẻ Lạc Long Quân), lầu Kén rể nằm trên Cầu vàng ở công viên Văn Lang.
 
@@ -117,4 +117,4 @@ Du khách nếu muốn tham quan hết khu di tích đền Hùng, thì nên ăn 
 
 Một số quán ăn trong thành phố được Hải gợi ý: Cá lăng Sông Đà, quán cá Hà Trì, gà cựa Xuân Thuyết hay nhà hàng Cội Nguồn để nếm thử món bánh sắn. Ngoài ra, du khách có thể ghé các quán khác như Phố Việt, Gia Hoàng, Sen Vàng. Giá mỗi bữa ăn trung bình khoảng 200.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

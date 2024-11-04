@@ -3,7 +3,7 @@ pubDatetime: 2023-03-18T10:10:00Z
 title: Phanxipăng | Về Phố Hiến dạo hồ Bán Nguyệt
 description: Phố Hiến là một trong hai đô thị rất nổi tiếng của nước ta xưa, chỉ sau thủ đô Thăng Long.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0224.jpg
+image: https://nhavantuonglai.com/image/cover/001-224.jpg
 tags:
   - van hoc
   - thu vien
@@ -136,4 +136,4 @@ Giám đốc Bảo tàng Hưng Yên là thạc sĩ Phạm Trung Hiếu cho biế
 
 – Chủ đầu tư thiết kế và thi công là Bảo tàng Hưng Yên đã công bố chi tiết bản quy hoạch công viên hồ Bán Nguyệt với tỉ lệ 1/500 vào ngày 14 – 01 – 2010. Đại diện các sở, ngành, địa phương đều thống nhất quan điểm rằng đây là dự án có tính chất góp phần tái hiện lịch sử Phố Hiến, mang ý nghĩa giáo dục phổ cập các giá trị về văn hoá vật thể lẫn phi vật thể, là nơi nghỉ ngơi, giải trí phục vụ cho các hoạt động văn hoá, lịch sử truyền thống, tham quan du lịch. Trong những công trình chuẩn bị xây dựng tại công viên hồ Bán Nguyệt, có một công trình đặc biệt: nhà bảo tàng, nơi lưu giữ và trưng bày hình ảnh cùng hiện vật nhằm tái hiện quá trình lịch sử Phố Hiến nói riêng, toàn tỉnh Hưng Yên nói chung.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

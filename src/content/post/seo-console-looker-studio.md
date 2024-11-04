@@ -3,7 +3,7 @@ pubDatetime: 2023-04-28T10:10:00Z
 title: Hướng dẫn kết hợp Search Console và Looker Studio
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0544.jpg
+image: https://nhavantuonglai.com/image/cover/001-544.jpg
 tags:
   - google
   - google console
@@ -64,7 +64,7 @@ Trong bài đăng này, chúng tôi sẽ thảo luận về cách thứ hai vì
 
 Để xuất dữ liệu, hãy truy cập Báo cáo hiệu suất của Search Console, chọn một phạm vi ngày, nhấp vào Xuất_ – rồi chọn Google Trang tính. Thao tác này sẽ tạo ra một bảng tính mới mà chúng ta sẽ cải thiện trong bước tiếp theo. Bạn cũng có thể dùng API Search Analytics nâng cao mức độ tự động hoá, nhưng cách này nằm ngoài phạm vi của bài đăng này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-61.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-61.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 Bạn có thể đọc thêm về các phương diện và chỉ số trong tài liệu trợ giúp về Báo cáo hiệu suất.
 
@@ -82,7 +82,7 @@ Trong trang tính Search Console, hãy tạo một cột cho Khu vực – rồi
 
 Sau đây là một trang tính mẫu cho bạn thấy giao diện của bảng hoàn chỉnh:
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-62.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-62.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 Chúng tôi đang đưa ra một ví dụ về việc cải thiện dữ liệu địa lý, nhưng bạn có thể sử dụng chính quy trình này để thêm loại thông tin bất kỳ. Ví dụ: nếu có bảng phân loại cụm từ tìm kiếm, thì bạn có thể dùng nó để nhóm cụm từ tìm kiếm theo danh mục.
 
@@ -114,7 +114,7 @@ Như đã đề cập, bài đăng này cung cấp một mẫu để theo dõi h
 
 Đăng nhập vào Data Studio, tạo nguồn dữ liệu Search Console rồi chọn bảng URL Impression (Lượt hiển thị URL) có chứa dữ liệu cho web, hình ảnh, video, tin tức, khám phá và googleNews trên cơ sở cấp URL. Property Parameter (Tham số tài sản) mà bạn chọn ở đây sẽ là tham số mặc định trong báo cáo, nhưng bạn cũng có quyền truy cập vào các tham số khác thông qua một bộ lọc. Hãy tìm hiểu thêm về tham số này ở một phần sau trong bài viết này. Để tìm hiểu thêm về dữ liệu này, hãy truy cập các trang trợ giúp về Báo cáo hiệu suất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-63.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-63.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 ### Kiểm soát dữ liệu bằng bộ lọc và ngày
 
@@ -134,7 +134,7 @@ Tiêu đề của báo cáo cung cấp một số tuỳ chọn để bạn lọc
 
 – Device (Thiết bị). Sử dụng thuộc tính này để chọn một hoặc nhiều danh mục thiết bị.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-64.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-64.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 ### Theo dõi số lượt nhấp và tỷ lệ nhấp theo thời gian
 
@@ -142,7 +142,7 @@ Biểu đồ dạng đường là hình ảnh trực quan hiệu quả nhất ch
 
 Lưu ý rằng hình ảnh này dành cho một website thiên về công việc, do đó lưu lượng truy cập cao vào các ngày trong tuần và thấp vào các ngày cuối tuần. Có thể website của bạn lại trông rất khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-65.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-65.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 Chúng tôi chưa đưa dữ liệu của Google Analytics vào báo cáo này, nhưng có thể cũng thú vị khi thêm biểu đồ về số lượt chuyển đổi mà website nhận được qua kết quả không phải trả tiền trên Google Tìm kiếm. Hãy tìm hiểu cách kết nối Google Analytics với Data Studio; việc này sẽ giúp đóng vòng lặp.
 
@@ -156,7 +156,7 @@ Khi phân tích xu hướng và kiểu mẫu, biểu đồ sẽ hữu ích hơn 
 
 – Sử dụng bộ lọc loại để phân tích hiệu suất cấp URL cho từng loại dữ liệu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-66.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-66.jpg" alt="huong-dan-ket-hop-search-console-va-looker-studio" height=100% width=100%><figcaption><p>huong-dan-ket-hop-search-console-va-looker-studio-nhavantuonglai</p></figcaption></figure>
 
 ## Mẹo khác
 
@@ -176,4 +176,4 @@ REGEXP_EXTRACT(Landing Page,._*.com/(.*)$_)
 
 Ngoài ra, bạn cũng nên tham khảo cách tạo biểu đồ bong bóng trong Search Console để tối ưu hiệu suất hoạt động của website.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

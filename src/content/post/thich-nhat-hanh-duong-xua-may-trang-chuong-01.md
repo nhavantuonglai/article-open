@@ -3,7 +3,7 @@ pubDatetime: 2014-01-01T10:10:00Z
 title: Thích Nhất Hạnh | Đường xưa mây trắng (Chương 01)
 description: Tôi còn nhớ là tôi đã viết Đường Xưa Mây Trắng ở trong cái quán của Xóm Thượng. Hồi đó chưa có lò sưởi trung ương, trong phòng chỉ có một cái lò sưởi đốt củi thôi và trời rất lạnh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0467.jpg
+image: https://nhavantuonglai.com/image/cover/001-467.jpg
 tags:
   - thu vien
   - van hoc
@@ -303,6 +303,6 @@ Vừa bước ra khỏi tu viện, Svastika thấy ngay rằng đi hóa trai là
 
 Đọc [Đường xưa mây trắng, chương 83](https://nhavantuonglai.com/article/thich-nhat-hanh-duong-xua-may-trang-chuong-83) tại đây.
 
-Đọc [Đường xưa mây trắng, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
+Đọc [Đường xưa mây trắng, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0416.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-416.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

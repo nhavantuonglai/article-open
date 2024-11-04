@@ -3,7 +3,7 @@ pubDatetime: 2006-01-05T10:10:00Z
 title: Natsume Soseki | Một chùm nho
 description: Hồi nhỏ tôi rất thích vẽ. Trường tôi theo học nằm ở khu Yamanote một vùng cao của tỉnh Yokohama.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0580.jpg
+image: https://nhavantuonglai.com/image/cover/001-580.jpg
 tags:
   - thu vien
   - van hoc
@@ -103,4 +103,4 @@ Tokyo, Hino 11-2002
 * Dịch từ nguyên tác trong Iwanami Bunko do Iwanami Shoten xuất bản.
 Bản dịch này sửa lại từ bản dịch (năm 1967) đăng trong tạp chí Quê Hương số 20 của Hội Sinh Viên tại Nhật Bản.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

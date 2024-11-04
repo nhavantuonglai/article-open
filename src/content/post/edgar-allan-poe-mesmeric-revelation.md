@@ -3,7 +3,7 @@ pubDatetime: 2006-01-24T10:10:00Z
 title: Edgar Allan Poe | Mesmeric revelation
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0132.jpg
+image: https://nhavantuonglai.com/image/cover/001-132.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -171,4 +171,4 @@ V. This, probably, is because you have no sufficiently generic conception of the
 
 As the sleep-waker pronounced these latter words, in a feeble tone, I observed on his countenance a singular expression, which somewhat alarmed me, and induced me to awake him at once. No sooner had I done this, than, with a bright smile irradiating all his features, he fell back upon his pillow and expired. I noticed that in less than a minute afterward his corpse had all the stern rigidity of stone. His brow was of the coldness of ice. Thus, ordinarily, should it have appeared, only after long pressure from Azrael's hand. Had the sleep-waker, indeed, during the latter portion of his discourse, been addressing me from out the region of the shadows?
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

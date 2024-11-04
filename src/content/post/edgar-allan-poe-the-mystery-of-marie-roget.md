@@ -3,7 +3,7 @@ pubDatetime: 2006-02-10T10:10:00Z
 title: Edgar Allan Poe | The mystery of Marie Roget
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0545.jpg
+image: https://nhavantuonglai.com/image/cover/001-545.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -231,4 +231,4 @@ Upon the original publication of _Marie Rogêt,_ the foot-notes now appended wer
 
 The _Mystery of Marie Rogêt_ was composed at a distance from the scene of the atrocity, and with no other means of investigation than the newspapers afforded. Thus much escaped the writer of which he could have availed himself had he been upon the spot, and visited the localities. It may not be improper to record, nevertheless, that the confessions of two persons, (one of them the Madame Deluc of the narrative) made, at different periods, long subsequent to the publication, confirmed, in full, not only the general conclusion, but absolutely all the chief hypothetical details by which that conclusion was attained.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

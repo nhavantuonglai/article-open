@@ -3,7 +3,7 @@ pubDatetime: 2021-08-02T10:10:00Z
 title: Cẩm nang du lịch Cát Bà
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0607.jpg
+image: https://nhavantuonglai.com/image/cover/001-607.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -83,7 +83,7 @@ Nếu không có thời gian khám phá các đảo ngoài vịnh, du khách hã
 
 ## Khách sạn, resort
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cat-ba-141.jpg" alt="cam-nang-du-lich-cat-ba" height=100% width=100%><figcaption><p>cam-nang-du-lich-cat-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cat-ba-141.jpg" alt="cam-nang-du-lich-cat-ba" height=100% width=100%><figcaption><p>cam-nang-du-lich-cat-ba-nhavantuonglai</p></figcaption></figure>
 
 Ở Cát Bà có nhiều khách sạn, nhà nghỉ từ bình dân đến cao cấp cho du khách lựa chọn. Các khách sạn có tầm nhìn ra biển, nằm ở dọc đường 1/4, đường Tùng Dinh… giá trung bình từ 500.000 đồng đến 1.000.000 đồng một đêm.
 
@@ -101,7 +101,7 @@ Thưởng thức ẩm thực, du khách có thể đến chợ Cát Bà, ở đ�
 
 ## Lưu ý
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cat-ba-142.jpg" alt="cam-nang-du-lich-cat-ba" height=100% width=100%><figcaption><p>cam-nang-du-lich-cat-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cat-ba-142.jpg" alt="cam-nang-du-lich-cat-ba" height=100% width=100%><figcaption><p>cam-nang-du-lich-cat-ba-nhavantuonglai</p></figcaption></figure>
 
 Không nên tắm biển sau 18h vì thủy triều lên cao.
 
@@ -111,4 +111,4 @@ Các tour khám phá vịnh có thể bớt một vài điểm như bãi tắm, 
 
 Trước khi mua sắm, ăn uống, du khách hãy hỏi giá.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

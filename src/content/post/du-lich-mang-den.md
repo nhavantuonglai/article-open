@@ -3,7 +3,7 @@ pubDatetime: 2021-09-01T10:10:00Z
 title: Cẩm nang du lịch Măng Đen
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0637.jpg
+image: https://nhavantuonglai.com/image/cover/001-637.jpg
 tags:
   - cam nang du lich
   - du lich tay nguyen
@@ -11,7 +11,7 @@ tags:
 
 _Măng Đen là một thị trấn nhỏ, rộng 148,07 km2 trên cao nguyên, thuộc huyện Kon Plong, cách thành phố Kon Tum, tỉnh Kon Tum khoảng 60 km. Măng Đen được mệnh danh là Đà Lạt thu nhỏ với rừng nguyên sinh, hồ, thác nước, rừng thông, khí hậu mát mẻ trong lành, không gian yên bình._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-391.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-391.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 ## Mùa đẹp
 
@@ -19,7 +19,7 @@ Mùa đông khách du lịch nhất của Măng Đen là từ tháng 10 đến t
 
 Mỗi thời điểm Măng Đen đều có hoa nở. Nếu đến đây vào tháng 2, bạn sẽ thấy hoa mimosa và hoa ban, tháng 3 hoặc 4 sẽ có phượng tím. Sau thời điểm này còn có hoa sim tím.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-391.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-391.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -41,13 +41,13 @@ Ngoài ra, loại hình lưu trú chủ yếu ở đây là các homestay. Homes
 
 Khu du lịch thác Pa Sỹ
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-392.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-392.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Nằm trong tổng diện tích 25 ha, khu du lịch sinh thái thác Pa Sỹ gồm hệ thống đường đi, nhà rông, xưởng sản xuất sản phẩm thủ công mỹ nghệ, nhà trưng bày văn hóa, trang trại trồng rau và hoa. Trung tâm của khu du lịch là thác Pa Sỹ ở độ cao khoảng 1.500 m so với mực nước biển. Thác được hình thành từ 3 ngọn suối lớn nhất ở Măng Đen, nên được gọi là Pau Suh (có nghĩa là ba nguồn suối chụm lại thành một dòng).
 
 Hồ Đăk Ke
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-393.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-393.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Hồ Đăk Ke có tên gốc là hồ Toong Rơ Poong, rộng khoảng 3 ha nằm ở trung tâm thị trấn Măng Đen. Hiện hồ được đầu tư các dịch vụ giải trí như chèo thuyền, đạp vịt, câu cá, ăn uống. Du khách có thể thuê xe trâu, xe ngựa để dạo quay hồ ngắm cảnh. Nếu đi vào mùa hè, có thể gặp hàng loạt cây phượng tím nở rộ, còn vào mùa đông là mai anh đào.
 
@@ -59,7 +59,7 @@ Một số địa chỉ gợi ý: Ê Ban farm, Orfarm, Biophap, Măng Đen Xanh 
 
 Vườn tượng gỗ
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-394.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-394.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Vườn tượng được xây dựng năm 2013, gần khu vực thác Pa Sỹ trên triền đồi hơn 1 ha rừng nguyên sinh. Ngoài những lối đi lát đá, vườn có 100 bức tượng gỗ do 33 nghệ nhân là đồng bào các dân tộc của tỉnh chế tác. Tượng gỗ thể hiện đa dạng cuộc sống lao động, sinh hoạt hàng ngày của vùng bắc Tây Nguyên như tượng đàn ông cầm rìu, vác rựa, hút thuốc, đi săn, đàn bà giã gạo, dệt vải, bồng con, đi rẫy, người chơi nhạc, uống rượu cần… Cùng với tượng người, tượng những con vật gần gũi với bà con như con chim, chó, mèo, heo, khỉ, rắn, voi…
 
@@ -69,7 +69,7 @@ Chùa Khánh Lâm được xây dựng trên diện tích 10 ha, cao 1.200 m so 
 
 Phố đi bộ Măng Đen
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-394.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-394.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Phố đi bộ và ẩm thực Măng Đen còn gọi là Đại lộ Hoàng hôn, nằm ở đường Võ Nguyên Giáp, trung tâm thị trấn. Phố đi bộ có hệ thống khách sạn, nhà hàng không gian kiến trú đầy đủ tiện nghi, phong cảnh với thế non – nước – trời mây, là nơi lý tưởng cho du khách nghỉ ngơi, thư giãn, thưởng thức ẩm thực đặc trưng của Măng Đen.
 
@@ -77,7 +77,7 @@ Phố đi bộ và ẩm thực Măng Đen còn gọi là Đại lộ Hoàng hôn
 
 Lẩu xuyên tiêu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-395.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-395.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Món ăn nghe tên đã thấy vị cay, nhưng nhờ đó rất thích hợp với khí hậu Măng Đen. Nước lẩu được hầm từ các loại rau củ quả, kèm thảo dược như kỷ tử và táo đỏ. Nước dùng được hầm trong nhiều giờ để ra vị ngọt thanh tự nhiên và trong.
 
@@ -93,11 +93,11 @@ Sợi bánh canh được làm từ bột gạo, cá lóc được hấp, gỡ l
 
 Gà nướng – cơm lam
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-396.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-396.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Đây là món ăn truyền thống của người địa phương. Gà thường được nuôi thả tự nhiên nên thịt săn chắc. Trước khi đem đi nướng, gà được được nhồi lá tiêu rừng, hành, sả, ớt… nên khi chín rất thơm. Bếp than để nướng phải thật nóng, mỗi mẻ nướng khoảng 20 đến 30 phút. Gà nướng ngon nhất khi được ăn lúc còn nóng, lớp da giòn, vàng đều, thịt thơm. Gà nướng thường ăn kèm cơm lam dẻo, muối lạc hoặc vừng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-397.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-397.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 Một số nhà hàng gợi ý:
 
@@ -113,10 +113,10 @@ Một số nhà hàng gợi ý:
 
 ## Lưu ý
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-398.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mang-den-398.jpg" alt="cam-nang-du-lich-mang-den" height=100% width=100%><figcaption><p>cam-nang-du-lich-mang-den-nhavantuonglai</p></figcaption></figure>
 
 – Đường lên Măng Đen hơi dốc và ngoằn ngoèo, nếu đi xe tự lái nên lưu ý.
 
 – Măng Đen se lạnh vào sáng sớm và tối, nên mang theo đầy đủ quần áo ấm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

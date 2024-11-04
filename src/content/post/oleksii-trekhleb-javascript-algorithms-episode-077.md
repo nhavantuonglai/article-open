@@ -3,7 +3,7 @@ pubDatetime: 2018-07-28T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Prime factors)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0577.jpg
+image: https://nhavantuonglai.com/image/cover/001-577.jpg
 tags:
   - developer
   - github
@@ -43,4 +43,4 @@ In 1917, a theorem was formulated by G.H Hardy and Srinivasa Ramanujan which sta
 
 Roughly speaking, this means that most numbers have about this number of distinct prime factors.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

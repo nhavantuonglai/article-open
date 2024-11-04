@@ -3,7 +3,7 @@ pubDatetime: 2023-03-09T10:10:00Z
 title: O Henry | Món quà Giáng Sinh
 description: Tuy nhiên điều muốn nói sau cùng với những người khôn ngoan ngày nay là trong tất cả những người tặng quà, hai người này là thông thái nhất.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0517.jpg
+image: https://nhavantuonglai.com/image/cover/001-517.jpg
 tags:
   - o henry
   - van hoc
@@ -100,4 +100,4 @@ _Della, cứ cất những món quà Giáng sinh này đi. Chúng thật quý, k
 
 Magi, như các bạn biết đấy, là những người thông thái, những nhà thông thái tuyệt vời – đã tặng quà cho chúa Hài đồng trong máng lừa. Họ đã sáng tạo ra nghệ thuật tặng quà Giáng sinh. Bởi họ là nhà thông thái nên quà tặng của họ chắc chắn cũng khôn ngoan, có thể được ưu tiên thay đổi trong trường hợp trùng lặp. Và ở đây tôi đã chắp vá thuật lại cho bạn một chuyện thời sự chẳng mấy ly kỳ về hai đứa bé ngu ngốc sống trong một căn hộ chung cư đã hi sinh cho nhau một cách ngớ ngẩn để mất đi những tài sản quí báu nhất. Tuy nhiên điều muốn nói sau cùng với những người khôn ngoan ngày nay là: trong tất cả những người tặng quà, hai người này là thông thái nhất. Trong tất cả người tặng quà và nhận quà, họ là hai người thông thái nhất. Ở nơi đâu họ cũng là người thông thái nhất. Họ là những Magi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0644.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-644.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

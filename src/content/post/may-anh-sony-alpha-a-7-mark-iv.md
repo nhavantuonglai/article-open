@@ -3,7 +3,7 @@ pubDatetime: 2022-12-11T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7 Mark IV
 description: Cuối năm 2014, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7 Mark 2 với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg
+image: https://nhavantuonglai.com/image/cover/001-510.jpg
 tags:
   - affiliate
   - may anh
@@ -44,19 +44,19 @@ Sony A7 Mark IV hướng đến thiết kế nhỏ gọn và bền bỉ, bằng 
 
 Sony cũng cung cấp cho chiếc A7 Mark IV (ILCE-7M4 Body / KIT) kính ngắm XGA OLED Trufinder có độ phân giải cao nhằm tái tạo hình ảnh trung thực, độ tương phản vượt trội. Qua đó, người dùng có thể nhanh chóng tùy chỉnh thông số khi chụp ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark IV" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Màn hình của Sony A7 Mark 2
 
@@ -196,4 +196,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0303.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-303.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

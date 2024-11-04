@@ -3,7 +3,7 @@ pubDatetime: 2018-05-17T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Binary search)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0506.jpg
+image: https://nhavantuonglai.com/image/cover/001-506.jpg
 tags:
   - developer
   - github
@@ -31,4 +31,4 @@ next iteration.
   - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
   - [YouTube](https://www.youtube.com/watch?v=P3YID7liBug&index=29&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

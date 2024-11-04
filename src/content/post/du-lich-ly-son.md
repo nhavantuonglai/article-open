@@ -3,7 +3,7 @@ pubDatetime: 2021-08-29T10:10:00Z
 title: Cẩm nang du lịch Lý Sơn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0634.jpg
+image: https://nhavantuonglai.com/image/cover/001-634.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -25,7 +25,7 @@ Từ Hà Nội, Thành phố Hồ Chí Minh, du khách đặt vé máy bay tới
 
 Ngoài ra, du khách có lựa chọn là bay tới Đà Nẵng, từ đây đi taxi hoặc tàu hỏa đến Thành phố Quảng Ngãi, giá vé tàu 180.000 khứ hồi. Cảng cách trung tâm thành phố 20 km.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-377.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-377.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
@@ -49,13 +49,13 @@ Cánh đồng tỏi
 
 Từ đỉnh Thới Lới, bạn cũng có thể trải rộng tầm mắt ngắm nhìn [cánh đồng tỏi](https://info.nhavantuonglai.com/topick) xanh ngút ngàn. Tỏi cũng chính là đặc sản nổi tiếng ở Lý Sơn, không chỉ làm gia vị mà còn được chế biến thành nhiều món ngon, trong đó có gỏi tỏi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-378.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-378.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Hang Câu
 
 Hang Câu có một bên các vách đá dựng thẳng đứng, một bên bãi biển với bờ cát trắng mịn. Dưới tác động của gió và sóng biển, các vách đá mang hình thù khách biệt, gần bờ là những rạn san hô nhiều màu sắc. Ở Hang Câu, hoạt động gợi ý là lặn ngắm san hô, chèo thuyền kayak.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-379.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-379.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Cổng Tò Vò
 
@@ -71,7 +71,7 @@ Chùa Đục
 
 Chùa Đục nằm trên vách núi Giếng Tiền, một trong những ngọn núi lửa đã tắt của huyện đảo. Ngôi chùa mới được xây dựng năm 2008 với 3 am thờ. Du khách leo 100 bậc theo sườn núi để tới chùa. Trước cửa hang là tượng Phật Bà Quan Âm cao 27 m hướng ra biển, có tên là Quan Âm Đài.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-380.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-380.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Âm Linh Tự
 
@@ -87,7 +87,7 @@ Giờ tàu từ cảng Lý Sơn đi đảo Bé khởi hành lúc 7h, 11h20 là c
 
 Ra đảo Bé, bạn như bước chân đến một thiên đường mới chỉ với biển xanh và nắng vàng. Nơi đây cũng rất lý tưởng để đón hoàng hôn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-381.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-381.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Hòn Mù Cu
 
@@ -99,19 +99,19 @@ Làng bích họa
 
 Gần khu vực cảng đảo Bé là [làng bích họa](https://info.nhavantuonglai.com/topick), với những bức tranh tường nhiều màu sắc. Đây là một trong những điểm chụp ảnh yêu thích của du khách, dù không lớn và đẹp như những làng bích họa khác trên cả nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-382.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-382.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Bãi Ngang
 
 Với làn nước trong vắt màu xanh ngọc, bãi Ngang được nhiều du khách ưu ái gọi là _Maldives của Việt Nam._ Ở đây có những mỏm đá, hốc đá gần bờ với nhiều loài cá màu sắc có thể nhìn thấy rõ khi du khách bơi hoặc lội nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-378.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-378.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 Lặn biển ngắm san hô là trải nghiệm không nên bỏ lỡ khi tới đảo Bé. Giá dịch vụ thuê đồ lặn và tắm nước ngọt 110.000 đồng mỗi người.
 
 Gần bãi tắm có cây cầu Tình Yêu, với phí tham quan 5.000 đồng một người. Ở đây nước trong vắt, có thể nhìn rõ rong rêu và san hô, thích hợp cho những du khách yêu thích chụp ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-384.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ly-son-384.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -119,4 +119,4 @@ Các quán ăn tập trung ở dọc cảng, một số quán gợi ý là quán
 
 Đặc sản Lý Sơn chủ yếu là [hải sản](https://info.nhavantuonglai.com/topick), đặc biệt là cua huỳnh đế, tôm hùm, ốc cừ, cá tà ma, chả cá… Một số đặc sản khác là [gỏi tỏi](https://info.nhavantuonglai.com/topick), nộm rong biển, [bún riêu cua](https://info.nhavantuonglai.com/topick), dưa hấu hắc mỹ nhân, ốc tượng, bánh ít lá gai… Hãy ghé các quầy đồ khô trên đảo để mua tỏi, hải sản khô về làm quà.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

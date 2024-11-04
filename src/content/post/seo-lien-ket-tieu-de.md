@@ -3,7 +3,7 @@ pubDatetime: 2023-05-22T10:10:00Z
 title: Tác động đến đường liên kết tiêu đề trong kết quả tìm kiếm
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0244.jpg
+image: https://nhavantuonglai.com/image/cover/001-244.jpg
 tags:
   - google
   - google console
@@ -20,7 +20,7 @@ _Đường liên kết tiêu đề_ là tiêu đề của kết quả tìm kiế
 
 Đường liên kết tiêu đề có vai trò quan trọng trong việc cung cấp cho người dùng thông tin bao quát về nội dung của kết quả và cho biết vì sao kết quả đó liên quan đến cụm từ tìm kiếm của họ. Đường liên kết tiêu đề thường là thông tin chính mà mọi người sử dụng để quyết định xem nên nhấp vào kết quả nào. Vì vậy, việc sử dụng văn bản tiêu đề chất lượng cao trên website là rất quan trọng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-01.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tac-dong-den-duong-lien-ket-tieu-de-trong-ket-qua-tim-kiem" height=100% width=100%><figcaption><p>cam-nang-toi-uu-seo-chuan-google-co-ban-tac-dong-den-duong-lien-ket-tieu-de-trong-ket-qua-tim-kiem-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-01.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tac-dong-den-duong-lien-ket-tieu-de-trong-ket-qua-tim-kiem" height=100% width=100%><figcaption><p>cam-nang-toi-uu-seo-chuan-google-co-ban-tac-dong-den-duong-lien-ket-tieu-de-trong-ket-qua-tim-kiem-nhavantuonglai</p></figcaption></figure>
 
 – Đảm bảo mọi trang trên website của bạn đều có một tiêu đề được chỉ định trong phần tử `title`.
 
@@ -68,4 +68,4 @@ Xin lưu ý rằng Google phải thu thập lại dữ liệu và xử lý lại
 
 Tuy không thể thay đổi đường liên kết tiêu đề cho từng website theo cách thủ công, nhưng chúng tôi luôn nỗ lực để giúp đường liên kết tiêu đề có nội dung phù hợp nhất có thể. Bạn có thể góp phần cải thiện chất lượng của đường liên kết tiêu đề xuất hiện cho trang của mình bằng cách làm theo các phương pháp hay nhất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

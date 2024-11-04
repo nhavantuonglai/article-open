@@ -3,7 +3,7 @@ pubDatetime: 2018-08-21T10:10:00Z
 title: Akutagawa Ryunosuke | Bức họa núi thu
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0295.jpg
+image: https://nhavantuonglai.com/image/cover/001-295.jpg
 tags:
   - thu vien
   - van hoc
@@ -217,4 +217,4 @@ Từ nãy giờ, Uẩn Nam Điền vẫn lặng ngắm ngọn lửa trên giá �
 
 Đến đây, Uẩn, Vương hai bậc đại gia một lượt vỗ tay, cùng cười ha hả.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

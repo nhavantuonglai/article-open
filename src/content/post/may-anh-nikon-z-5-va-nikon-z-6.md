@@ -3,7 +3,7 @@ pubDatetime: 2022-11-17T10:10:00Z
 title: So sánh Nikon Z5 và Nikon Z6
 description: Được thiết kế nhằm vào đối tượng người dùng đang tìm kiếm một lựa chọn hợp lý nhưng vẫn mạnh mẽ trong dòng máy ảnh full-frame, Z5 mang đến nhiều tính năng hấp dẫn với một mức giá phải chăng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0297.jpg
+image: https://nhavantuonglai.com/image/cover/001-297.jpg
 tags:
   - affiliate
   - may anh
@@ -101,4 +101,4 @@ Nikon Z5: Là lựa chọn tốt cho người mới bắt đầu với giá cả
 
 Nikon Z6: Phù hợp hơn cho những người dùng cần khả năng quay video tốt hơn và hiệu suất cao hơn trong điều kiện ánh sáng yếu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

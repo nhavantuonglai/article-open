@@ -3,7 +3,7 @@ pubDatetime: 2023-05-16T10:10:00Z
 title: Làm thế nào để nghiên cứu từ khóa B2B đúng và hiệu quả?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0653.jpg
+image: https://nhavantuonglai.com/image/cover/001-653.jpg
 tags:
   - google
   - google console
@@ -250,4 +250,4 @@ Những người này cần bạn đáp ứng các điểm đau và kết quả 
 
 Với những lời khuyên về nghiên cứu từ khóa cho B2B, bạn sẽ có thể tạo lịch nội dung phù hợp với khách hàng lý tưởng và chiến lược SEO của bạn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

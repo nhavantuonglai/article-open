@@ -3,7 +3,7 @@ pubDatetime: 2021-10-08T10:10:00Z
 title: Cẩm nang du lịch Quy Nhơn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0672.jpg
+image: https://nhavantuonglai.com/image/cover/001-672.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -19,7 +19,7 @@ Mùa mưa chỉ kéo dài 2-3 tháng cuối năm, thời gian còn lại trong n
 
 Hiện nay các hãng bay tại Việt Nam như Vietnam Airlines, Vietjet Air và Bamboo Airways đều khai thác tuyến Hà Nội và Thành phố Hồ Chí Minh đến Quy Nhơn, giá vé khứ hồi từ khoảng 1.500.000 – 4.000.000 đồng một người, tùy thời điểm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-570.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-570.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Từ sân bay Phù Cát về trung tâm Thành phố Quy Nhơn có xe buýt với giá 50.000 đồng một người, phù hợp khách đi lẻ, hoặc taxi giá 200.000 – 250.000 đồng một chuyến. Ngoài máy bay du khách vẫn có thể đi ôtô khách hoặc tàu hỏa từ các tỉnh lân cận.
 
@@ -39,7 +39,7 @@ Một số địa chỉ được du khách yêu thích và có vị trí thuận
 
 Có rất nhiều đặc sản mà du khách nào đặt chân tới đây cũng thưởng thức như bánh canh chả cá, bánh xèo tôm nhảy, bánh hỏi cháo lòng, nem nướng, nem cuốn, bánh mì lagu, bánh canh, bánh khọt tôm mực… Ngoài ra, ở Quy Nhơn những ngày hè du khách không thể bỏ qua các loại hải sản tươi ngon như ốc, sò, nghêu, hàu, tôm hùm, ghẹ, cá bóp, cua huỳnh đế…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-571.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-571.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Chỉ cần dạo một vòng thành phố biển du khách cũng tìm thấy rất nhiều quán ăn ngon, giá cả phải chăng:
 
@@ -73,11 +73,11 @@ Là thành phố du lịch mới phát triển độ 5-6 năm gần đây nên c
 
 Đồ uống được nhiều người đánh giá ngon và rẻ hơn nhiều thành phố du lịch khác. Chỉ từ 20.000 đến 50.000 đồng bạn đã được tận hưởng những tách cà phê thơm hay ly trà sữa, sinh tố ngon trong không gian thoáng đãng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-572.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-572.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-573.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-573.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Nhơn Hải – Hòn Khô
 
@@ -87,7 +87,7 @@ Kỳ Co – Eo Gió
 
 Với biển xanh cát trắng nắng vàng, [Kỳ Co](https://nhavantuonglai.com/article/du-lich-ky-co) thuộc xã Nhơn Lý cách trung tâm 25 km được nhiều người ví như Maldives Việt Nam. Du khách có thể đi bằng cano từ Eo Gió hoặc đi đường bộ tới Kỳ Co rồi đón tour cano tới Eo Gió hoặc các bãi lặn ngắm san hô. Vé tham quan Kỳ Co là 100.000 đồng một người và vé xe trung chuyển chặng cuối 40.000 đồng một người. Ngoài các hoạt động tắm, lặn du khách có thể thuê chòi thư giãn bên bờ biển, chơi moto nước, dù kéo, cắm lều trại hoặc nghỉ tại khách sạn ngay trong khu du lịch. Bãi Kỳ Co một mặt giáp biển, ba mặt giáp núi đồi, sóng êm và nước xanh, lý tưởng cho một chuyến nghỉ hè ngắn ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-574.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-574.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Cách Kỳ Co không xa là Eo Gió, nơi có con đường đi bộ ôm theo sườn núi và view biển đẹp ngoạn mục. Vé tham quan Eo Gió 25.000 đồng một người, sau khi tham quan con đường bộ du khách dư thời gian nên ghé qua Tịnh xá Ngọc Hòa, Linh Phong Sơn Tự… Tour một ngày đi cano, lặn ngắm san hô, ăn trưa hải sản ở Kỳ Co – Eo Gió có giá từ 700.000 đồng một người.
 
@@ -97,7 +97,7 @@ Từ trung tâm chỉ cần đi qua cầu Thị Nại rẽ phải ngay là tới
 
 Khu dã ngoại Trung Lương
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-575.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-575.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Thuộc thôn Trung Lương, xã Cát Tiến, huyện Phù Cát, khu dã ngoại này là một trong những điểm đến yêu thích nhất của giới trẻ. Bên trong khu dã ngoại gồm nhiều khu vực như cắm trại, ngủ nhà lều, bãi tắm và chơi các trò dưới biển, nhà hàng, quán cà phê, cổng trời check-in… Được chăm chút trồng thêm cây cảnh và hoa kết hợp vị trí và phong cảnh đẹp vốn có của các núi đá, bãi biển xung quanh, khu dã ngoại rất hợp để du lịch theo nhóm bạn bè hoặc gia đình. Giờ mở cửa từ 8h – 20h hàng ngày. Vé vào cổng 40.000 đồng/ người, lưu ý khi vào du khách không đem theo đồ ăn thức uống bên ngoài. Giá thuê lều ngủ qua đêm khoảng 300.000 đồng hai người.
 
@@ -113,7 +113,7 @@ Cách trung tâm thành phố khoảng 3 km về phía đông nam, Ghềnh Ráng
 
 Các tháp Chăm
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-576.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-576.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Bình Định có nhiều di tích Chăm Pa, đặc biệt là các cụm tháp cổ có từ thế kỷ 13 – 14. Khi du lịch gần thành phố Quy Nhơn du khách nên ghé tháp Đôi, và tháp Bánh Ít. Nếu đi xa hơn du khách có thể tham quan thêm tháp Cánh Tiên, tháp Dương Long. Vé tham quan các tháp Chăm là 10.000 – 20.000 đồng một người.
 
@@ -122,13 +122,13 @@ Nhà thờ Làng Sông, hay Tiểu chủng viện Làng Sông, nằm ở thôn Q
 
 Bao quanh nhà thờ và tu viện là cánh đồng lúa bát ngát trải rộng. Bước qua cổng là lối vào với hai hàng cây sao cổ thụ tỏa bóng xanh mát. Nếu liên hệ trước, du khách còn được vào tham quan bên trong nhà thờ, khu vực lưu giữ các bản ghi chép, tư liệu về nhà in đầu tiên in sách chữ Quốc ngữ. Nhà thờ mở cửa từ 7h – 11h30 và 14h – 17h30 hàng ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-577.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-577.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Những ngôi chùa nổi tiếng
 
 _Chùa Long Phước_ là cái nôi của võ thuật cổ truyền Việt Nam, nằm ở thôn Tân Thuận, xã Phước Thuận, huyện Tuy Phước. Quanh chùa là những cánh đồng xanh mướt thơm mùi lúa mới, trong chùa là những vườn hoa, cây cảnh bonsai cùng nhiều kiến trúc cổ. Chùa là điểm hẹn của những người yêu võ, các câu lạc bộ võ thuật đến để luyện tập, thi đấu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-578.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-578.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 _Chùa Ông Núi_ với bức tượng Phật ngồi lớn nhất Đông Nam Á là điểm du lịch mới. Chùa còn có tên Linh Phong Sơn Tự, tọa lạc trên đỉnh Chóp Vung, huyện Phù Cát, cách trung tâm gần 30 km. Du khách nên tới chùa vào sáng sớm hoặc chiều muộn để tránh nắng và có thể ngắm toàn cảnh bờ biển dưới chân núi. Ngoài tượng Phật ngồi khổng lồ, du khách nên vãn cảnh chùa cổ nơi có các kiến trúc cổng tam quan, bửu tháp, chánh điện được xây dựng và trang trí rất tinh xảo, đẹp mắt.
 
@@ -136,7 +136,7 @@ _Chùa Thiên Hưng_ là một trong các chùa nổi tiếng nhất Bình Đị
 
 Làng chài Bãi Xép
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-579.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-579.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 Từ trung tâm thành phố theo quốc lộ 1D khoảng 13 km, du khách đến với [làng chài Bãi Xép](https://info.nhavantuonglai.com/topick) nằm trong vùng biển Quy Hòa. Ở đây có đủ loại hình lưu trú từ bình dân như homestay, nhà nghỉ tới resort cao cấp. Bãi Xép có nhiều rặng đá tự nhiên nổi lên trên mặt nước, bờ cát vàng mịn màng thu hút nhiều bạn trẻ chụp hình. Tới Bãi Xép tham quan, du khách ngoài tận hưởng vẻ đẹp hoang sơ và không gian thanh bình còn được khám phá đời sống dân chài lưới.
 
@@ -154,7 +154,7 @@ Còn gọi là đảo Vân Phi, [Cù Lao Xanh](https://info.nhavantuonglai.com/t
 
 Gợi ý lịch trình 4 ngày 3 đêm
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-580.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quy-nhon-580.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
 _Ngày 1:_ Sân bay Phù Cát – Tháp Đôi – Làng chài Nhơn Hải – Hòn Khô.
 
@@ -174,4 +174,4 @@ _Ngày 3:_ Bến Hàm Tử – Tour một ngày Cù Lao Xanh – Phố ẩm th�
 
 _Ngày 4:_ Chùa Ông Núi – Khu dã ngoại Trung Lương – sân bay Phù Cát.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

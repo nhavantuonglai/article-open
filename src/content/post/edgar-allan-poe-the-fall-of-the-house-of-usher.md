@@ -3,7 +3,7 @@ pubDatetime: 2006-02-03T10:10:00Z
 title: Edgar Allan Poe | Sự sụp đổ của dòng họ Usher
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0131.jpg
+image: https://nhavantuonglai.com/image/cover/001-131.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -27,7 +27,7 @@ Tuy nhiên, tôi đã quyết định sẽ ở lại trong ngôi nhà này một
 
 Mặc dù khi còn nhỏ, chúng tôi rất thân thiết, nhưng thực sự tôi biết rất ít về bạn mình. Anh ta luôn là một người kín đáo và xa cách. Tuy nhiên, tôi biết rằng gia đình rất cổ xưa của anh ta nổi tiếng từ bao đời với tính nhạy cảm đặc biệt, biểu lộ qua nhiều tác phẩm nghệ thuật cao quý, và gần đây là những hành động từ thiện âm thầm nhưng rộng lượng, cùng với sự đam mê sâu sắc đối với những phức tạp của âm nhạc. Tôi cũng biết được một sự thật đáng chú ý rằng dòng họ Usher, dù đã tồn tại từ rất lâu, chưa từng có bất kỳ nhánh nào bền vững. Nói cách khác, toàn bộ gia đình luôn nằm trong một dòng truyền thừa trực tiếp từ cha sang con, và không hề có sự biến đổi nào lớn trong cấu trúc gia đình. Điều này, tôi nghĩ, đã làm cho gia đình và ngôi nhà của họ trở nên hòa quyện đến mức không thể tách rời, đến mức người ta không còn gọi đây là ngôi nhà của Usher mà chỉ đơn giản là _Nhà Usher,_ một tên gọi gợi ý rằng nó bao hàm cả gia đình và ngôi nhà.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/edgar-allan-poe-001.jpg" alt="Sự sụp đổ của dòng họ Usher" title="Sự sụp đổ của dòng họ Usher" height=100% width=100%><figcaption><p>Sự sụp đổ của dòng họ Usher</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/edgar-allan-poe-001.jpg" alt="Sự sụp đổ của dòng họ Usher" title="Sự sụp đổ của dòng họ Usher" height=100% width=100%><figcaption><p>Sự sụp đổ của dòng họ Usher</p></figcaption></figure>
 
 Như tôi đã nói, hiệu ứng duy nhất từ việc nhìn xuống vũng nước là làm sâu thêm ấn tượng kỳ lạ ban đầu. Không nghi ngờ gì, việc tôi nhận ra sự gia tăng nhanh chóng của nỗi ám ảnh siêu nhiên – vì sao tôi không nên gọi nó như thế? – đã thúc đẩy chính sự gia tăng đó. Đây là quy luật nghịch lý của mọi cảm xúc dựa trên sự sợ hãi. Và có lẽ chính vì lý do đó mà khi tôi ngẩng mắt lên nhìn ngôi nhà từ hình ảnh phản chiếu trong hồ, một ý nghĩ kỳ lạ trỗi dậy trong đầu tôi – một ý nghĩ thật nực cười đến mức tôi chỉ đề cập đến nó để thể hiện sự mãnh liệt của cảm giác đang đè nặng lên tôi. Tôi thực sự đã tự thuyết phục mình rằng ngôi nhà và toàn bộ khu đất này bị bao phủ bởi một bầu không khí riêng biệt, không liên quan gì đến không khí trên trời, mà như thể nó đã bốc lên từ những cây cối mục nát, những bức tường xám xịt, và cái hồ yên tĩnh – một thứ hơi nước độc hại và huyền bí, u ám, trì trệ, mờ nhạt và mang màu chì.
 
@@ -307,4 +307,4 @@ Cứ như thể năng lượng siêu nhiên của lời nói đã có một sứ
 
 Tôi kinh hãi chạy khỏi căn phòng đó, và khỏi tòa dinh thự đó. Cơn bão vẫn tiếp tục hoành hành dữ dội khi tôi băng qua con đường đá cũ. Đột nhiên, một luồng sáng hoang dại lóe lên, và tôi quay lại để xem luồng sáng kỳ lạ đó phát ra từ đâu; bởi vì ngôi nhà khổng lồ và bóng tối của nó vẫn nằm đằng sau tôi. Ánh sáng đó đến từ mặt trăng tròn, đỏ như máu, vừa ló ra khỏi đám mây đã che phủ. Tôi đứng yên lặng, vết nứt này nhanh chóng mở rộng ra – một luồng gió dữ dội của cơn lốc xoáy ập đến – toàn bộ quả cầu vệ tinh đột ngột hiện ra trước mắt tôi – đầu tôi quay cuồng khi thấy những bức tường hùng vĩ vỡ tan ra – có một âm thanh hò hét kéo dài như tiếng của hàng ngàn dòng nước – và hồ sâu, tối tăm dưới chân tôi lặng lẽ và âm u khép lại trên những mảnh vỡ là sự _sự sụp đổ của dòng họ Usher._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

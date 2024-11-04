@@ -3,7 +3,7 @@ pubDatetime: 2024-06-10T10:10:00Z
 title: Cách côn trùng có thể tiết lộ thuốc và chất độc tại hiện trường vụ án
 description: Nhiều cái chết đáng ngờ của cả con người và thú cưng đã được giải quyết nhờ sự trợ giúp của côn trùng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0626.jpg
+image: https://nhavantuonglai.com/image/cover/001-626.jpg
 tags:
   - con trung hoc
   - khoa hoc
@@ -83,4 +83,4 @@ Nhiều hợp chất (như thuốc, kim loại và thuốc trừ sâu) cũng nh�
 
 Ngoài ra, các nghiên cứu cũ hơn thường thiếu tính nhất quán, quy trình nghiên cứu mạnh mẽ và sự kiểm chứng phương pháp. Các quy trình tiêu chuẩn và các phương pháp phân tích tinh vi hơn có thể cung cấp các kết quả chính xác hơn và có giá trị hơn trong tòa án.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

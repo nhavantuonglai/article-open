@@ -3,7 +3,7 @@ pubDatetime: 2002-05-14T10:10:00Z
 title: Kim Dung | Thần điêu hiệp lữ (Chương 14)
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0214.jpg
+image: https://nhavantuonglai.com/image/cover/001-214.jpg
 tags:
   - thu vien
   - van hoc
@@ -1163,6 +1163,6 @@ Lúc này đá rơi trận vỡ, Hoàng Dung, Dương Quá, Kim Luân pháp vư�
 
 Đọc [Thần điêu hiệp lữ, chương 40](https://nhavantuonglai.com/article/kim-dung-than-dieu-hiep-lu-chuong-40) tại đây.
 
-Đọc [Thần điêu hiệp lữ, toàn tập](https://data.nhavantuonglai.com/ebook/kim-dung-than-dieu-hiep-lu.pdf) tại đây.
+Đọc [Thần điêu hiệp lữ, toàn tập](https://nhavantuonglai.com/ebook/kim-dung-than-dieu-hiep-lu.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

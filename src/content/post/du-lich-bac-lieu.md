@@ -3,7 +3,7 @@ pubDatetime: 2021-07-20T10:10:00Z
 title: Cẩm nang du lịch Bạc Liêu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0688.jpg
+image: https://nhavantuonglai.com/image/cover/001-688.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -35,7 +35,7 @@ Các điểm tham quan
 
 _Vườn chim Bạc Liêu:_ Đi theo con đường mang tên cố nhạc sĩ Cao Văn Lầu, từ trung tâm thành phố đi thêm chừng 8 km, du khách sẽ đến được khu bảo tồn thiên nhiên vườn chim Bạc Liêu. Giá vé vào cửa là 15.000 đồng. Ngoài ra, Bạc Liêu có nhiều vườn chim tự nhiên nằm rải rác ở các huyện Đông Hải, Giá Rai và Phước Long.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-014.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-014.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 [_Nhà Công tử Bạc Liêu_](https://info.nhavantuonglai.com/topick) tọa lạc tại số 31 đường Điện Biên Phủ, thành phố Bạc Liêu. Ngôi nhà được xây dựng theo lối kiến trúc Pháp vào năm 1919, với toàn bộ vật liệu đem từ Pháp sang. Ngôi nhà gồm một tầng trệt, một tầng lầu với 4 phòng và 4 đại sảnh, lối hành lang rộng rãi nên nhà luôn mát mẻ và thông thoáng.
 
@@ -47,7 +47,7 @@ _Phật Bà Nam Hải_ được xây dựng năm 1973, thuộc phường Nhà M�
 
 Chùa Xiêm Cán là điểm du lịch tâm linh nổi tiếng của Bạc Liêu. Vào những dịp lễ hội lớn như Chol Chnam Thmay (mừng năm mới), sluge Đôlta (cúng ông bà), Ok Om Bok (cúng trăng), chùa thu hút đông đảo du khách nhất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-015.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-015.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 _Khu lưu niệm nhạc sĩ Cao Văn Lầu_ tọa lạc tại phường 2 của thành phố, nơi an nghỉ cuối cùng của tác giả bài _Dạ Cổ Hoài Lang_ nổi tiếng Nam Bộ. Tại đây du khách được nghe giới thiệu về thân thế, sự nghiệp của ông, quá trình phát triển nghệ thuật từ bản _Dạ Cổ._
 
@@ -55,7 +55,7 @@ Du khách còn có dịp tham quan miễn phí các phòng trưng bày hình ả
 
 _Đồng hồ Thái Dương:_ Đồng hồ đá có tuổi đời trên 100 năm, xem giờ bằng cách căn cứ vào ánh nắng mặt trời chiếu vào để nhận biết thời gian. Trải qua hơn một thế kỷ hoạt động, chiếc đồng hồ này hiện vẫn chỉ giờ chính xác đến mức sai số dao động không quá 2 phút so với đồng hồ điện tử đeo tay.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-016.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-016.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 _Nhà thờ Tắc Sậy_ tọa lạc tại xã Tân Phong, huyện Giá Rai cách trung tâm thành phố hơn 40 km theo Quốc lộ 1A hướng về Cà Mau.
 
@@ -63,7 +63,7 @@ Nhà thờ là nơi an nghỉ của linh mục cha Trương Bửu Diệp đượ
 
 _Vườn nhãn cổ_ nằm ven biển, cách thị xã Bạc Liêu 6 km, diện tích trên 50 ha, kéo dài gần 7 km, từ phường Nhà Mát đến xã Vĩnh Trạch Đông. Du khách sẽ ngạc nhiên khi nhìn thấy những cây nhãn trăm tuổi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-017.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-017.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 Ngoài thưởng thức trái ngọt, du khách có thể tham gia cắm trại, dã ngoại, nghe đờn ca tài tử… Bánh xèo Giồng Nhãn giòn rụm, thơm ngon là món ăn không thể bỏ qua khi ghé vườn nhãn.
 
@@ -95,13 +95,13 @@ Dưa bồn bồn có vị chua, giòn nên dùng để chấm nước tương, n
 
 _Hải sản:_ Đất Bạc Liêu trù phú nổi tiếng với nhiều loại hải sản tươi ngon như cua biển rang me, ốc mỡ xào sa tế, ốc len xào dừa…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-018.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-018.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 _Bánh củ cải:_ Bên ngoài bánh được làm từ bột mì pha cùng với bột củ cải trắng, cán mỏng thành từng miếng nhỏ vừa ăn. Nhân bánh được chế từ tôm, tép làm dập vừa phải, thịt heo nạc trộn với đậu xanh ướp gia vị thích hợp rồi xào chín. Du khách có thể thưởng thức món bánh này tại khu Chợ lớn, thị xã Bạc Liêu.
 
 [_Bún bò cay_](https://info.nhavantuonglai.com/topick) ghi điểm với thực khách nhờ hương vị cay nồng của ớt, mùi thơm của các loại gia vị như sả, hồi, quế… hòa quyện với nước lèo đậm đà, sóng sánh ánh đỏ và ngọt lịm. Một số địa chỉ tham khảo là quán bún bò cay số 215 đường 23 tháng 8, [bún bò cay](https://info.nhavantuonglai.com/topick) Ánh Nguyệt…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-019.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-019.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 [_Bún nước lèo_](https://info.nhavantuonglai.com/topick) được bán ở khắp nơi tại Bạc Liêu, từ những gánh hàng rong đến các [quán ăn](https://info.nhavantuonglai.com/topick) gia truyền nổi tiếng. Nước lèo ngon phải nấu trong nồi đất để giữ vị ngọt của tôm, cá, nước dừa và dậy mùi thơm từ mắm.
 
@@ -109,20 +109,20 @@ Bún ăn kèm bắp chuối thái mỏng, giá, húng quế… có thể thêm m
 
 _Ba khía chua ngọt:_ Thuộc họ cua nhưng trên lưng có 3 vạch giống như dao khía nên người dân quen gọi là ba khía. Để món ăn ngon cần có những con ba khía không quá lớn hay quá nhỏ, rửa sạch, sau đó cắt bỏ mai và phần nhọn đầu càng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-020.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-020.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 Ngâm nước sôi khoảng 15 phút để diệt khuẩn và giảm mặn, rồi cắt nhỏ để dễ ăn và nhanh thấm gia vị. Trộn đều ba khía với tỏi ớt đã băm nhuyễn, thêm chanh, đường, bột ngọt phù hợp với khẩu vị. Ngoài món chua ngọt, ba khía còn được dùng để chế biến các món ăn như rang me, mắm ba khía, gỏi ba khía đu đủ…
 
 _Bánh tằm Ngan Dừa_ là đặc sản của thị trấn Ngan Dừa, huyện Hồng Dân. Bánh gồm có gạo bụi đỏ, thịt ba rọi, gan heo và củ sắn. Bánh đậm đà nhờ bì heo và thịt nạc luộc chín, xắt sợi, trộn thính và đậu phộng rang đâm nhuyễn… Bánh ăn với dưa leo thái nhỏ, rau thơm, giá sống, nước sốt cà chua, nước mắm giấm ớt đường, cốt dừa… và đặc biệt là xíu mại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-021.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-021.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 _Xá bấu_ hay còn gọi là củ cải muối, ngon nhất khi kết hợp cùng với cháo trắng. Củ cải phơi khô rồi trộn cùng đường, bột ngũ vị hương, muối và một ít rượu. Khách đến Bạc Liêu muốn mua xá bấu ngon không cần phải vào chợ, có thể tìm thấy ở những trạm dừng trên quốc lộ.
 
 ## Mua gì làm quà
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-022.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-lieu-022.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
 Đặc sản dưa bồn bồn, mắm ba khía, xá bấu, nhãn… là những món quà đặc trưng của mảnh đất Bạc Liêu để du khách tặng cho người thân, bạn bè mình. Ngoài ra, du khách có thể chọn cho mình các loại sách giai thoại về Công tử Bạc Liêu, đĩa CD cải lương, vọng cổ…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

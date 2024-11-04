@@ -3,7 +3,7 @@ pubDatetime: 2006-01-11T10:10:00Z
 title: Du Tử Lê | Khi tôi chết hãy đem tôi ra biển
 description: Du Tử Lê sinh năm 1942 tại Hà Nam. Sau khi vào Sài Gòn, ông bắt đầu sáng tác nhiều tác phẩm dưới nhiều bút hiệu khác nhau. Bút hiệu Du Tử Lê được dùng lần đầu tiên vào năm 1958.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg
+image: https://nhavantuonglai.com/image/cover/001-149.jpg
 tags:
   - thu vien
   - van hoc
@@ -63,4 +63,4 @@ Khi tôi chết nỗi buồn kia cũng hết
 
 đời lưu vong tận tuyệt với linh hồn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-149.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

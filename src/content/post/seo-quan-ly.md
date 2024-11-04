@@ -3,7 +3,7 @@ pubDatetime: 2023-05-26T10:10:00Z
 title: Quản lý sự xuất hiện của website trong kết quả của Google
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0128.jpg
+image: https://nhavantuonglai.com/image/cover/001-128.jpg
 tags:
   - google
   - google console
@@ -191,4 +191,4 @@ Tránh:
 
 – Có các trang trên miền con và thư mục gốc truy cập vào cùng một nội dung, ví dụ: _nhavantuonglai.com/article/_ và _nhavantuonglai.com/article/._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

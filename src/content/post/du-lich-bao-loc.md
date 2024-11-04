@@ -3,7 +3,7 @@ pubDatetime: 2021-07-22T10:10:00Z
 title: Cẩm nang du lịch Bảo Lộc
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0690.jpg
+image: https://nhavantuonglai.com/image/cover/001-690.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -22,7 +22,7 @@ Bảo Lộc có mùa mưa và mùa khô. Mùa khô nắng nhiều nhưng nhiệt
 
 Nhiệt độ trung bình cả năm 21-22 độ C, cao nhất 27 độ C, thấp nhất khoảng 15 độ C.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-032.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-032.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -48,7 +48,7 @@ Khu du lịch có thác Dambri là trung tâm. Với độ cao hơn 60 m tạo t
 
 Trong khu du lịch, bạn còn được trải nghiệm máng trượt dài 1.650 m uốn lượn qua suối Dambri giữa rừng nguyên sinh để đến thác Dasara bốn tầng dưới chân thác Dambri. Hệ thống máng trượt này có 48 xe (mỗi xe hai người), phục vụ khoảng 500 lượt khách lên xuống mỗi giờ với vận tốc 50-80 km/h.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-033.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-033.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
 
 Khu du lịch Dambri còn có khu tổ chức sự kiện dành cho các nhóm, tập thể chơi team building, đạp vịt, chèo thuyền, xem phim.
 
@@ -72,7 +72,7 @@ Núi Đại Bình là điểm cắm trại qua đêm và săn mây sáng sớm l
 
 Đồi chè Tâm Châu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-034.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-034.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
 
 Từ trung tâm Bảo Lộc, du khách đi theo đường vào thác Dambri, sau đó hỏi đường tới khu vực ngã 5, hướng có cổng chào thôn văn hóa 4, đi thêm khoảng 1 km là tới đồi chè Tâm Châu.
 
@@ -82,7 +82,7 @@ Từ trung tâm Bảo Lộc, du khách đi theo đường vào thác Dambri, sau
 
 Đèo Lộc Thành
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-035.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bao-loc-035.jpg" alt="cam-nang-du-lich-bao-loc" height=100% width=100%><figcaption><p>cam-nang-du-lich-bao-loc-nhavantuonglai</p></figcaption></figure>
 
 Đèo Lộc Thành nằm cách trung tâm thành phố Bảo Lộc khoảng 12 km về phía nam. Từ thành phố, du khách di chuyển dọc quốc lộ 55 theo hướng đi Bình Thuận, tới ngã ba đoạn trường tiểu học Lộc Thành B rẽ phải và đi thẳng chừng 3,5 km. Với độ cao gần 1.000 m so với mực nước biển, đèo Lộc Thành là địa điểm cho những du khách thích săn mây. Du khách lưu ý đường đi vào sáng sớm có sương dày, ít đèn, dốc cao và nhiều sình lầy, nhất là sau những ngày mưa, nên di chuyển bằng xe số và tay lái phải chắc. Có mặt ở đỉnh đèo trước 5h30 để có nhiều cơ hội săn mây.
 
@@ -116,4 +116,4 @@ Món ăn nghe lạ tai nhưng lại quen thuộc bởi chính là nộm (gỏi) 
 
 Khu du lịch thác Dambri bán vé vào cổng theo combo cho tất cả hoạt động. Với người 12 tuổi trở lên, giá vé là 200.000 đồng, trẻ em 5-11 tuổi vé 100.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

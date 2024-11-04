@@ -3,7 +3,7 @@ pubDatetime: 2021-08-08T10:10:00Z
 title: Cẩm nang du lịch Đắk Lắk
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0613.jpg
+image: https://nhavantuonglai.com/image/cover/001-613.jpg
 tags:
   - cam nang du lich
   - du lich tay nguyen
@@ -43,9 +43,9 @@ Ngày đầu tiên, hãy đến Buôn Đôn. Cách Thành phố Buôn Ma Thuột
 
 Tại Buôn Đôn, bạn sẽ nghe kể chuyện về những nài voi (người chăm, điều khiển voi), tham quan nhà sàn cổ hơn trăm tuổi và kiến trúc ngôi mộ độc đáo của vua săn voi Ama Kông… Bạn có thể cho voi ăn và chụp hình dưới sự giám sát của quản tượng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-177.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-177.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-178.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-178.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Vì xa trung tâm thành phố, bạn nên ở lại Buôn Đôn dùng bữa trưa. Một số món địa phương có tại đây gồm cơm lam, gà nướng chấm muối ớt xanh, lẩu rau rừng, canh chua cá lăng…
 
@@ -77,7 +77,7 @@ Vài năm gần đây, hồ đá xanh nằm trong khu vực thủy điện Sêr�
 
 Địa điểm này có trên bản đồ trực tuyến, bạn có thể dễ dàng tìm đến, hoặc hỏi người dân địa phương sẽ được chỉ dẫn tận tình. Vì vắng người, đá gập ghềnh và nước hồ rất lạnh, bạn không nên tắm và leo trèo quá cao. Tham quan Hộc Cá Sấu không mất phí.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-179.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-179.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Đá Voi Yang-tao
 
@@ -85,9 +85,9 @@ Hành trình ngày thứ hai đến huyện Lăk, đi qua Đá Voi Yang-tao các
 
 Đi theo chỉ dẫn của bản đồ trực tuyến, bạn gặp bảng thông tin ghi _Tham quan Đá Voi Mẹ_ thì rẽ vào khoảng 200 m nữa, gửi xe tại quán nước (5.000 đồng/ xe máy) rồi đi bộ theo đường mòn ngắn sẽ đến chân tảng đá. Để ngắm toàn cảnh cánh đồng và góc rừng Chư Yang Sin, bạn có thể trèo lên đỉnh tảng đá có độ cao thoai thoải không quá nguy hiểm. Nơi này không thu phí tham quan.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-180.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-180.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-181.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-181.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Hồ Lăk
 
@@ -95,7 +95,7 @@ Hồ Lăk là hồ nước ngọt tự nhiên lớn thứ hai Việt Nam sau h�
 
 Nổi bật nhất ở hồ Lăk là thuyền độc mộc, phương tiện đường thủy đặc trưng của Tây Nguyên. Do đó, hoạt động thú vị nhất ở đây là tour chèo thuyền quanh hồ ngắm cảnh quan, bơi lội.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-182.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-182.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Ngoài ra, bạn có thể ghé buôn Jun hoặc buôn M_Liêng, nơi sinh sống của phần lớn đồng bào người M_Nông, để trải nghiệm sinh hoạt cộng đồng đậm nét Tây Nguyên. Quanh hồ còn có hai di tích kiến trúc cho khách tham quan là nhà dài người M_Nông và biệt điện của vua Bảo Đại.
 
@@ -109,7 +109,7 @@ Làng gốm cổ
 
 Cách hồ Lăk chưa đầy 10 km là xã Yang Tao, nơi duy nhất ở Tây Nguyên còn lưu giữ nghề gốm cổ của người M_nông Rlăm. Tại đây, du khách có thể tìm hiểu về nghệ thuật làm gốm thủ công cũng như mua các sản phẩm từ gốm về làm quà với giá cả phải chăng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-183.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-183.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Sông Sêrêpôk
 
@@ -125,7 +125,7 @@ Từ thác Dray Nur, bạn có thể đi bộ sang thác Gia Long (Dray Sáp Th�
 
 Vé vào cửa thác Dray Nur là 30.000 đồng. Bạn có thể mua vé combo Dray Nur – Gia Long 50.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-184.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-184.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Vườn quốc gia
 
@@ -137,7 +137,7 @@ Dãy Chư Yang Sin chia vườn thành hai khu Bắc – Nam là dãy núi cao n
 
 Với diện tích lên đến 589 km2, Chư Yang Sin trải rộng trên địa phần nhiều xã và cách trung tâm thành phố hơn 60km. Bạn có thể di chuyển bằng xe máy từ Buôn Mê Thuột tới thị trấn Liên Sơn, sau đó, men theo đường mòn tầm 20km là tới vườn quốc gia.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-185.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-185.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Vườn quốc gia Yok Don lại là một trong những khu bảo tồn tự nhiên lớn nhất của Việt Nam, nơi sinh sống của nhiều loài thú lớn như bò rừng, bò tót, trâu rừng, voi, khỉ, vượn, hổ, báo, công, gà lôi, diều hâu… Đây còn là nơi lưu giữ nhiều giá trị văn hóa đặc sắc của các dân tộc Tây Nguyên như Ê đê, M_Nông…
 
@@ -149,7 +149,7 @@ Khác với những ngôi tháp Chàm dọc dải miền Trung là nằm ở tr�
 
 Cánh đồng điện gió
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-186.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-186.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Cánh đồng quạt gió chính là Nhà máy điện gió Dlieyang, tọa lạc tại xã Dlieyang, huyện Ea H_leo, tỉnh Đắk Lắk. Cánh đồng thuộc Dự án Trang trại Phong điện Tây Nguyên. Đường dẫn vào cánh đồng quạt gió đẹp nhưng có những đoạn khó đi.
 
@@ -161,19 +161,19 @@ Thủy điện Buôn Trấp
 
 > Ngoài những địa điểm trên, bạn có thể kết hợp tham quan một số điểm tham quan trong trung tâm thành phố Buôn Ma Thuột như Bảo tàng thế giới cà phê, bảo tàng Đắk Lắk, nhà đày…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-187.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-187.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn uống
 
 Đắk Lắk giữ một nền văn hóa ẩm thực phong phú, là kết tinh của các dân tộc anh em cùng sinh sống ở đây. Về đây, du khách sẽ tha hồ thưởng thức đủ món ăn ngon như: gà sa lửa, gà nấu lá giang, cơm lam, canh chua nấu cá lăng đặc sản của dòng Serepork, rượu cần, gỏi rau rừng, gỏi cà đắng… và không thể thiếu ly cà phê thơm nức trong buổi sáng trong lành ở đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-188.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-188.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Bún đỏ, đây là một đặc sản của thành phố cao nguyên này. Tên gọi của món ăn bắt nguồn từ một tô bún với màu đỏ đặc trưng của nước dùng. Món ăn được kết hợp nhiều nguyên liệu như: gạch cua, trứng cút, các loại rau… Bạn có thể thưởng thức món ăn bình dân này ngay quán vỉa hè góc đường Lê Duẩn – Phan Đình Giót.
 
 Bánh ướt thịt nướng pha trộn nhiều nguyên liệu: một đĩa bánh ướt, một đĩa thịt nướng, bên cạnh là dưa leo, xoài xanh, dưa cải chua, rau thơm… Tất cả được cuốn lại và ăn kèm với chén nước chấm cay xé lưỡi. Du khách có thể ghé địa chỉ 43 Trần Nhật Duật.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-189.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-lak-189.jpg" alt="cam-nang-du-lich-dak-lak" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-lak-nhavantuonglai</p></figcaption></figure>
 
 Canh lá của người Êđê hay còn gọi là lẩu lá. Món ăn được chế biến từ 10 loại là rừng khác nhau. Khi ăn có vị nhân nhẩn đắng và cay nồng rất lạ miệng. Bạn có thể tìm thấy món ăn này trong các nhà hàng đặc sản ở Buôn Ma Thuột.
 
@@ -189,4 +189,4 @@ Thưởng thức rượu cần bằng cái ché cổ kính, bằng ống cần c
 
 Cà phê Buôn Mê Thuột trứ danh, rượu cần hoặc đặc sản của Tây Nguyên như khô bò, măng khô, mật ong rừng… là những thứ để mua làm quà. Ngoài ra còn có các sản phẩm mỹ nghệ độc đáo bằng gỗ khá đẹp mắt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

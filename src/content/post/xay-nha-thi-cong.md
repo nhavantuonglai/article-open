@@ -3,7 +3,7 @@ pubDatetime: 2023-08-06T10:10:00Z
 title: Hướng dẫn tư vấn thiết kế nhà ở tại Đà Nẵng
 description: Thi công nhà ở là quá trình thực hiện các công việc xây dựng để hoàn thành một công trình nhà ở.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0647.jpg
+image: https://nhavantuonglai.com/image/cover/001-647.jpg
 tags:
   - viet thue
   - marketing
@@ -133,4 +133,4 @@ OA Architect có khả năng tối ưu hóa chi phí thông qua việc quản l�
 
 Thi công nhà ở Đà Nẵng là một quá trình phức tạp đòi hỏi sự chuẩn bị kỹ lưỡng và quản lý hiệu quả. Việc lựa chọn công ty xây dựng uy tín như OA Architect sẽ giúp bạn đảm bảo công trình được hoàn thành đúng tiến độ, chất lượng và tiết kiệm chi phí. Đừng ngần ngại liên hệ với OA Architect để nhận được sự hỗ trợ tốt nhất cho dự án xây dựng nhà ở của bạn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

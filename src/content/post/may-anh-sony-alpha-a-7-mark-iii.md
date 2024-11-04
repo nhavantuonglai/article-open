@@ -3,7 +3,7 @@ pubDatetime: 2022-12-10T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7 Mark III
 description: Cuối năm 2014, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7 Mark 2 với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0489.jpg
+image: https://nhavantuonglai.com/image/cover/001-489.jpg
 tags:
   - affiliate
   - may anh
@@ -50,19 +50,19 @@ Màn hình LCD của Sony A7 Mark III được trang bị công nghệ White Mag
 
 Với một số thay đổi trong thiết kế nút bấm và báng tay cầm đem lại cảm giác cầm nắm chắc chắn, thao tác bấm chụp dễ dàng. A7 Mark III cũng bổ sung thêm nút Custom Function (C2) nâng tổng số lên thành 4 nút tùy chỉnh, giúp người dùng gắn thêm nhiều tùy chỉnh chụp ảnh khác nhau cho các phím này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark III" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Công nghệ chống rung 5 trục
 
@@ -196,4 +196,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0301.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-301.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

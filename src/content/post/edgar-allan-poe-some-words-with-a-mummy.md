@@ -3,7 +3,7 @@ pubDatetime: 2006-01-27T10:10:00Z
 title: Edgar Allan Poe | Some words with a Mummy
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0134.jpg
+image: https://nhavantuonglai.com/image/cover/001-134.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -231,4 +231,4 @@ We looked, with profound anxiety, for an answer – but in vain. It was not fort
 
 Upon getting home I found it past four o'clock, and went immediately to bed. It is now ten A.M. I have been up since seven, penning these memoranda for the benefit of my family and of mankind. The former I shall behold no more. My wife is a shrew. The truth is, I am heartily sick of this life and of the nineteenth century in general. I am convinced that every thing is going wrong. Besides, I am anxious to know who will be President in 2045. As soon, therefore, as I shave and swallow a cup of coffee, I shall just step over to Ponnonner's and get embalmed for a couple of hundred years.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

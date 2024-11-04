@@ -3,7 +3,7 @@ pubDatetime: 2006-02-06T10:10:00Z
 title: Edgar Allan Poe | The island of the fay
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0541.jpg
+image: https://nhavantuonglai.com/image/cover/001-541.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -51,4 +51,4 @@ As I thus mused, with half-shut eyes, while the sun sank rapidly to rest, and ed
 
 And again the boat appeared and the Fay, but about the attitude of the latter there was more of care and uncertainty and less of elastic joy. She floated again from out the light and into the gloom (which deepened momently) and again her shadow fell from her into the ebony water, and became absorbed into its blackness. And again and again she made the circuit of the island, (while the sun rushed down to his slumbers), and at each issuing into the light there was more sorrow about her person, while it grew feebler and far fainter and more indistinct, and at each passage into the gloom there fell from her a darker shade, which became whelmed in a shadow more black. But at length when the sun had utterly departed, the Fay, now the mere ghost of her former self, went disconsolately with her boat into the region of the ebony flood, and that she issued thence at all I cannot say, for darkness fell over an things and I beheld her magical figure no more.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-06-11T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Fenwick tree)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0530.jpg
+image: https://nhavantuonglai.com/image/cover/001-530.jpg
 tags:
   - developer
   - github
@@ -31,4 +31,4 @@ On the picture below you may see animated example of creation of binary indexed 
 
 ![Fenwick Tree](https://upload.wikimedia.org/wikipedia/commons/d/dc/BITDemo.gif)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

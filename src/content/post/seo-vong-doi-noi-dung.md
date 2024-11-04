@@ -3,7 +3,7 @@ pubDatetime: 2023-06-03T10:10:00Z
 title: Xác định hoạt động cốt lõi trong vòng đời nội dung
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0550.jpg
+image: https://nhavantuonglai.com/image/cover/001-550.jpg
 tags:
   - google
   - google console
@@ -94,4 +94,4 @@ Và đừng lo lắng – bạn đang xây dựng để thay đổi, vì vậy k
 
 Điều quan trọng là đưa ra quyết định có ý thức về từng loại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-04-21T10:10:00Z
 title: Thực hư chuyện Googlebot thu thập dữ liệu giới hạn 15MB
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0145.jpg
+image: https://nhavantuonglai.com/image/cover/001-145.jpg
 tags:
   - google
   - google console
@@ -34,7 +34,7 @@ Giới hạn 15 MB áp dụng cho các lượt tìm nạp do Googlebot (Googlebo
 
 ## Như vậy có nghĩa là Googlebot không thấy hình ảnh hoặc video của tôi?
 
-Không phải. Googlebot tìm nạp video và hình ảnh được URL trong tệp HTML tham chiếu đến (ví dụ: `<img src="https://data.nhavantuonglai.com/image/article/seo-google-21.jpg" alt="cute puppy looking very disappointed"/>`) một cách riêng biệt theo những lần tìm nạp liên tiếp.
+Không phải. Googlebot tìm nạp video và hình ảnh được URL trong tệp HTML tham chiếu đến (ví dụ: `<img src="https://nhavantuonglai.com/image/article/seo-google-21.jpg" alt="cute puppy looking very disappointed"/>`) một cách riêng biệt theo những lần tìm nạp liên tiếp.
 
 ## Kích thước của URI dữ liệu có tính vào kích thước tệp HTML không?
 
@@ -46,7 +46,7 @@ Có nhiều cách, nhưng dường như cách đơn giản nhất là sử dụn
 
 Ví dụ: trong Công cụ cho nhà phát triển Chrome có thể có dạng như sau, với kích thước 150 kB trong cột kích thước:
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-69.jpg" alt="thuc-hu-chuyen-googlebot-thu-thap-du-lieu-gioi-han-15mb" height=100% width=100%><figcaption><p>thuc-hu-chuyen-googlebot-thu-thap-du-lieu-gioi-han-15mb-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-69.jpg" alt="thuc-hu-chuyen-googlebot-thu-thap-du-lieu-gioi-han-15mb" height=100% width=100%><figcaption><p>thuc-hu-chuyen-googlebot-thu-thap-du-lieu-gioi-han-15mb-nhavantuonglai</p></figcaption></figure>
 
 Nếu thích khám phá thì bạn có thể dùng cURL trên dòng lệnh:
 
@@ -54,7 +54,7 @@ Nếu thích khám phá thì bạn có thể dùng cURL trên dòng lệnh:
 curl
 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
 
--so /dev/null https://data.nhavantuonglai.com/image/article/seo-google-69.jpg – w "%{size_download}"
+-so /dev/null https://nhavantuonglai.com/image/article/seo-google-69.jpg – w "%{size_download}"
 ```
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

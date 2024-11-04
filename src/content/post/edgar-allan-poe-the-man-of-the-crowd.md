@@ -3,7 +3,7 @@ pubDatetime: 2006-02-07T10:10:00Z
 title: Edgar Allan Poe | The man of the crowd
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0542.jpg
+image: https://nhavantuonglai.com/image/cover/001-542.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -61,4 +61,4 @@ It was now nearly day-break; but a number of wretched inebriates still pressed i
 
 The _Hortulus Animæ cum Oratiunculis Aliquibus Superadditis_ of Grünninger.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

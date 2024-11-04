@@ -3,7 +3,7 @@ pubDatetime: 2022-08-18T10:10:00Z
 title: Phanxipăng | Giao thừa cúp điện
 description: Rất hoan hỷ được ngắm cảnh xưa và nay, gặp người cũ và mới, thưởng thức những món ăn thức uống ngon lành phù hợp khẩu vị.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0223.jpg
+image: https://nhavantuonglai.com/image/cover/001-223.jpg
 tags:
   - van hoc
   - thu vien
@@ -109,4 +109,4 @@ Qua điện thoại và điện thư với người quen kẻ biết gần xa, P
 
 – Lẽ nào từ nay về sau, nhắc đến Tết Huế, _bia miệng_ gọi Tết Cúp Điện? 
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

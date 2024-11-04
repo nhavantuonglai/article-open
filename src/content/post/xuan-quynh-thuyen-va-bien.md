@@ -3,7 +3,7 @@ pubDatetime: 2013-10-14T10:10:00Z
 title: Xuân Quỳnh | Thuyền và biển
 description: Xuân Quỳnh được coi là nhà thơ nữ hàng đầu của nửa cuối thế kỷ 20. Xuân Quỳnh không làm ra thơ, không chế tạo câu chữ mà chị viết như kể lại những gì chị đã sống, đã trải.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg
+image: https://nhavantuonglai.com/image/cover/001-149.jpg
 tags:
   - thu vien
   - van hoc
@@ -67,4 +67,4 @@ Nếu từ giã thuyền rồi
 
 Biển chỉ còn sóng gió_
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

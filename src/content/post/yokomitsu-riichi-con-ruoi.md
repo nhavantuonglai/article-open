@@ -3,7 +3,7 @@ pubDatetime: 2013-10-17T10:10:00Z
 title: Yokomitsu Riichi | Mùa xuân đi xe thổ mộ
 description: Hàng tùng ngoài bãi biển bắt đầu rền rĩ trong cơn gió đông lạnh buốt. Trong một góc vườn cụm thược dược co rúm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0561.jpg
+image: https://nhavantuonglai.com/image/cover/001-561.jpg
 tags:
   - thu vien
   - van hoc
@@ -200,4 +200,4 @@ Chú thích
 
 (4) Sento: Nhà tắm công cộng có bồn nước nóng khá rộng. Sau khi rửa sạch thân thể bên ngoài, người ta leo vào bồn nước ngồi chung nhau ngâm mình cho ấm toàn thân.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

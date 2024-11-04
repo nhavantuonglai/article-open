@@ -3,7 +3,7 @@ pubDatetime: 2018-06-15T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Fourier transform)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0534.jpg
+image: https://nhavantuonglai.com/image/cover/001-534.jpg
 tags:
   - developer
   - github
@@ -134,4 +134,4 @@ Stuart Riffle has a great interpretation of the Fourier Transform:
 
 ![](https://betterexplained.com/wp-content/uploads/images/DerivedDFT.png)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

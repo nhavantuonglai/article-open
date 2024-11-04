@@ -3,7 +3,7 @@ pubDatetime: 2023-03-11T10:10:00Z
 title: Osamu Dazai | Đồi khỉ
 description: Theo tự điển Nhật Kenkyusha , kappa được tả như một tiểu yêu, một quái vật sống dưới nước với cái đầu bờm xờm dúm tóc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0259.jpg
+image: https://nhavantuonglai.com/image/cover/001-259.jpg
 tags:
   - thu vien
   - van hoc
@@ -130,4 +130,4 @@ Nhận thức được như thế để khỏi đau khổ, lo âu , sợ hãi kh
 
 [ 6]   - Đoạn chót trong truyện, dịch giả tự ý để đoạn này trong phần chú thích :Thế nhưng, khi hạ bút như vậy, người viết có hơi kẹt vì không chắc họ đã khấn đức Phật A-Di-đà của phái Tịnh Độ hay tụng kinh Pháp Hoa. Theo nguyên bản, Saikaku tả rằng, trong cái am đó, tiếng tụng kinh Pháp Hoa không bao giờ ngừng. Tokuzaemon là một lão già ngoan cố theo kinh Pháp Hoa nhưng nếu để lão ta ló mặt ở đây thiø thật là khốn khổ vì sẽ làm hỏng bét câu chuyện thương tâm của chúng ta. Nếu có sự thật còn lại thì ta chỉ có thể nói là Ô-Lan và Jiroemon, dù sống trong am mà nỗi buồn vẫn chưa nguôi lại vạch cỏ mùa thu đi ra ngoài, cất bước một lần nữa về phuơng trời vô định.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

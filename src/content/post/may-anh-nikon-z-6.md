@@ -3,7 +3,7 @@ pubDatetime: 2022-11-18T10:10:00Z
 title: Giới thiệu và đánh giá máy ảnh Nikon Z6
 description: Nikon Z6 là một thiết bị cao cấp được thiết kế để đáp ứng nhu cầu của những người sáng tạo nội dung hiện đại. Với cảm biến full-frame 24,5MP và bộ xử lý hình ảnh EXPEED 7 mạnh mẽ, máy ảnh này mang lại chất lượng hình ảnh xuất sắc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - affiliate
   - may anh
@@ -25,15 +25,15 @@ Nikon Z6 mang trong mình thiết kế đặc trưng của dòng Z, kết hợp 
 
 Các nút bấm và bánh xe điều khiển được bố trí hợp lý, giúp người dùng dễ dàng truy cập các chức năng quan trọng mà không cần rời mắt khỏi kính ngắm. Kính ngắm điện tử EVF với độ phân giải 3.69 triệu điểm ảnh mang lại hình ảnh rõ ràng, sắc nét, giúp người dùng dễ dàng căn chỉnh khung hình và lấy nét. Màn hình cảm ứng LCD 3.2 inch phía sau có khả năng lật nghiêng, rất thuận tiện cho việc chụp ảnh từ các góc độ khó, đặc biệt là khi chụp từ dưới lên hoặc trên cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-01.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-01.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-02.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-02.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-03.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-03.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-04.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-04.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-05.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-05.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Cấu hình Nikon Z6
 
@@ -43,15 +43,15 @@ Hệ thống lấy nét tự động của Nikon Z6 sử dụng 273 điểm lấ
 
 Về khả năng quay video, Nikon Z6 không chỉ dừng lại ở việc chụp ảnh xuất sắc. Máy hỗ trợ quay video 4K UHD với khả năng ghi hình toàn bộ cảm biến, mang lại chất lượng video sắc nét và chi tiết. Ngoài ra, Nikon Z6 còn hỗ trợ chế độ quay slow motion ở độ phân giải Full HD, cùng với các tính năng hỗ trợ chuyên nghiệp như Focus Peaking và Zebra Stripes, giúp người dùng dễ dàng kiểm soát độ sâu trường ảnh và phơi sáng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-06.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-06.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-07.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-07.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-08.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-08.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-09.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-09.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-10.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-10.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Thông số cấu hình
 
@@ -133,15 +133,15 @@ Về khả năng quay video, Nikon Z6 không chỉ dừng lại ở việc chụ
 
 – Trọng lượng: 675g (bao gồm pin và thẻ nhớ).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-11.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-11.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-12.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-12.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-13.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-13.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-14.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-14.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-15.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-15.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Cảm biến và chất lượng ảnh Nikon Z6
 
@@ -151,17 +151,17 @@ Với cảm biến này, Nikon Z6 cho phép người dùng chụp ảnh với đ
 
 Về khả năng quay video, cảm biến của Nikon Z6 cho phép quay video 4K UHD với chất lượng cao, sử dụng toàn bộ chiều rộng của cảm biến, mang lại hình ảnh sắc nét và màu sắc chính xác. Đây là một trong những điểm mạnh khiến Nikon Z6 trở thành lựa chọn lý tưởng cho cả nhiếp ảnh và quay phim.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-16.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-16.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-17.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-17.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-18.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-18.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-19.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-19.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-20.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-20.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-21.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-21.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Đánh giá Nikon Z6 từ chuyên gia
 
@@ -169,15 +169,15 @@ Nikon Z6 đã nhận được nhiều lời khen từ các chuyên gia nhiếp �
 
 Một chuyên gia khác, Chris Niccolls từ DPReview, cũng đã đánh giá cao Nikon Z6, đặc biệt là về chất lượng hình ảnh và tính năng quay video. Ông nhấn mạnh rằng Nikon Z6 _mang lại sự cân bằng tốt giữa hiệu suất và giá cả,_ và là một sự lựa chọn lý tưởng cho những ai cần một chiếc máy ảnh linh hoạt cho cả việc chụp ảnh và quay phim.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-22.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-22.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-23.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-23.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-24.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-24.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-25.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-25.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-26.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-26.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Đánh giá Nikon Z6 từ người dùng
 
@@ -185,9 +185,9 @@ Người dùng trên các diễn đàn và mạng xã hội cũng có nhiều ph
 
 Trên YouTube, một vlogger chuyên về quay video đã bày tỏ sự hài lòng với khả năng quay video 4K của Nikon Z6, cho rằng: _Chất lượng video từ Nikon Z6 thực sự ấn tượng, với chi tiết rõ nét và màu sắc trung thực. Đặc biệt, máy còn rất dễ sử dụng và mang lại trải nghiệm quay phim chuyên nghiệp._ Tuy nhiên, một số người dùng cũng cho rằng hệ thống menu của Nikon Z6 cần được cải tiến để dễ sử dụng hơn, đặc biệt là đối với những người mới bắt đầu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-27.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-27.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-6-28.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-6-28.jpg" alt="may-anh-nikon-z-6-nhavantuonglai" title="may-anh-nikon-z-6-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Giá Nikon Z6 trong 2024 là bao nhiêu?
 
@@ -199,4 +199,4 @@ Vào năm 2024, giá của Nikon Z6 dao động trong khoảng từ 1,200 đến
 
 Tuy nhiên, nếu bạn cần một chiếc máy ảnh với những tính năng mới hơn như tốc độ chụp cao hơn, hệ thống lấy nét tiên tiến hơn, hoặc khả năng quay video 8K, bạn có thể cân nhắc các mẫu máy mới hơn như Nikon Z6 II hoặc Nikon Z7 II. Những mẫu máy này không chỉ cung cấp hiệu suất vượt trội mà còn cải thiện về nhiều mặt mà Nikon Z6 có thể chưa đáp ứng đầy đủ. Dù vậy, Nikon Z6 vẫn là một lựa chọn đáng giá trong năm 2024, đặc biệt nếu bạn đang tìm kiếm một chiếc máy ảnh đa dụng với chất lượng hình ảnh và video xuất sắc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

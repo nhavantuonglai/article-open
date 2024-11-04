@@ -3,7 +3,7 @@ pubDatetime: 2023-05-25T10:10:00Z
 title: Cuộc cách mạng proxy di động giúp xác định lại quyền riêng tư trực tuyến như thế nào
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0347.jpg
+image: https://nhavantuonglai.com/image/cover/001-347.jpg
 tags:
   - google
   - google console
@@ -94,4 +94,4 @@ Sự bùng nổ đề cập đến bản chất bất thường và không thể
 
 Có, việc áp dụng phong cách đàm thoại, bao gồm cả đại từ nhân xưng, giúp làm cho thông tin kỹ thuật dễ tiếp cận và hấp dẫn hơn đối với người đọc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

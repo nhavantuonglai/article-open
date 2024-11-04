@@ -3,7 +3,7 @@ pubDatetime: 2018-06-22T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Heap sort)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0541.jpg
+image: https://nhavantuonglai.com/image/cover/001-541.jpg
 tags:
   - developer
   - github
@@ -35,4 +35,4 @@ rather than a linear-time search to find the maximum.
 | --------------------  - | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------  - |
 | Heap sort         | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No        |           |
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

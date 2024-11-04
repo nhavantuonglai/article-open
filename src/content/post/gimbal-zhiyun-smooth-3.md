@@ -3,7 +3,7 @@ pubDatetime: 2018-04-14T10:10:00Z
 title: Giới thiệu gimbal chống rung di động Zhiyun Smooth 3
 description: Một chiếc gimbal chống rung cho điện thoại Zhiyun Smooth 3 là một gợi ý rất tuyệt để sở hữu những bức hình, video mượt mà. Bởi giờ đây, camera của smartphone chụp ảnh không khác gì một chiếc máy ảnh, máy quay.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0427.jpg
+image: https://nhavantuonglai.com/image/cover/001-427.jpg
 tags:
   - gimbal
   - affiliate
@@ -25,9 +25,9 @@ Zhiyun Smooth 3 là một gimbal chống rung cho điện thoại bán chạy nh
 
 Zhiyun Smooth 3 là một gimbal chống rung cho điện thoại được sản xuất bởi Zhiyun, một thương hiệu nổi tiếng với các sản phẩm gimbal chất lượng cao. Zhiyun Smooth 3 là phiên bản nâng cấp của Zhiyun Smooth 3, với nhiều cải tiến về thiết kế, tính năng và hiệu năng. Zhiyun Smooth 3 có thiết kế nhỏ gọn, nhẹ, chống nước và chống rung tốt. Gimbal có nút xoay OLED để điều chỉnh các thông số như ISO, EV, WB… Gimbal cũng có nhiều chế độ quay phim như Inception Mode, Portrait Mode, Selfie Mode… Gimbal có thời lượng pin khoảng 9 tiếng và có thể kết nối với ứng dụng ZY Play để điều khiển từ xa và sử dụng nhiều tính năng hữu ích.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-016.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-016.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ### Các tính năng nổi bật của Zhiyun Smooth 3
 
@@ -47,11 +47,11 @@ Zhiyun Smooth 3 có nhiều tính năng nổi bật, giúp bạn quay phim, ch�
 
 ### Cách sử dụng Zhiyun Smooth 3
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-018.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-018.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-019.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-019.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Chọn mua [Zhiyun Smooth](https://shope.ee/3py1xZ2r0q) tại đây.
 
@@ -69,9 +69,9 @@ Bước 5: Bắt đầu quay phim hoặc chụp ảnh và thưởng thức kết
 
 ### Lý do tại sao bạn nên sở hữu Zhiyun Smooth 3
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-020.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-020.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-021.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-021.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 – Zhiyun Smooth 3 là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại đáng đồng tiền bát gạo. Bạn nên sở hữu Zhiyun Smooth 3 vì những lý do sau:
 
@@ -85,9 +85,9 @@ Bước 5: Bắt đầu quay phim hoặc chụp ảnh và thưởng thức kết
 
 Gimbal chống rung cho điện thoại là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại một cách chuyên nghiệp, ổn định và mượt mà. Gimbal có thể giúp bạn tạo ra những thước phim đẹp, sáng tạo và ấn tượng. Gimbal cũng có nhiều tính năng thông minh và đa dạng, phù hợp với nhiều nhu cầu và mục đích sử dụng khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Trong bài viết này, chúng ta sẽ tìm hiểu về gimbal chống rung cho điện thoại, cơ chế hoạt động, các loại gimbal phổ biến và lợi ích của việc sử dụng gimbal.
 
@@ -133,4 +133,4 @@ Việc sử dụng gimbal chống rung cho điện thoại có nhiều lợi íc
 
 Như vậy, Gimbal chống rung cho điện thoại là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại một cách chuyên nghiệp, ổn định và mượt mà. Gimbal có nhiều tính năng thông minh và đa dạng, phù hợp với nhiều nhu cầu và mục đích sử dụng khác nhau. Gimbal cũng có nhiều loại khác nhau, với nhiều thiết kế, tính năng và giá cả khác nhau. Việc sử dụng gimbal chống rung cho điện thoại có nhiều lợi ích, như giúp bạn tạo ra những thước phim đẹp, sáng tạo và ấn tượng, kết nối với các ứng dụng hỗ trợ quay phim, chụp ảnh, và tiết kiệm chi phí, thời gian và công sức. Nếu bạn đang muốn quay phim, chụp ảnh bằng điện thoại một cách chuyên nghiệp, bạn không thể bỏ qua gimbal. Dưới đây là top 5 gimbal chống rung cho điện thoại tốt nhất 2024.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0567.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-567.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

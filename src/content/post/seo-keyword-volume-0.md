@@ -3,7 +3,7 @@ pubDatetime: 2023-05-17T10:10:00Z
 title: Có nên tập trung vào các từ khóa có volume thấp?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0348.jpg
+image: https://nhavantuonglai.com/image/cover/001-348.jpg
 tags:
   - google
   - google console
@@ -116,4 +116,4 @@ Có, các từ khóa không có khối lượng tìm kiếm đáng để theo đ
 
 Chúng có thể tăng chuyển đổi cho những người trong kênh của bạn, được sử dụng bởi nhiều kênh và mang lại lưu lượng truy cập mà các công cụ SEO không tính đến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

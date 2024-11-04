@@ -3,7 +3,7 @@ pubDatetime: 2018-07-19T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 19
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 19 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0469.jpg
+image: https://nhavantuonglai.com/image/cover/001-469.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 19
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0001.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0001.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0002.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0002.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0003.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0003.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0004.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0004.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0005.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0005.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0006.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0006.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0041.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0041.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0042.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0042.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0043.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0043.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0044.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0044.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0045.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0045.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0046.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0046.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0047.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0047.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0048.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0048.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0049.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0049.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0050.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0050.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0051.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0051.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0052.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0052.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0053.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0053.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0054.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0054.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0055.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0055.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0056.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0056.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0057.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0057.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0058.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0058.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0059.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0059.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0060.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0060.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0061.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0061.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0062.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0062.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0063.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0063.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0064.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0064.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0065.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0065.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0066.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0066.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0067.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0067.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0068.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0068.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0069.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0069.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0070.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0070.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0071.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0071.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0072.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0072.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0073.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0073.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0074.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0074.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0075.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0075.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0076.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0076.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0077.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0077.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0078.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0078.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0079.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0079.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0080.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-03-0080.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -385,6 +385,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 03](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-03.pdf) tại đây.
+Đọc [Chim lửa, tập 03](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-03.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 19." title="Chim lửa (Hi no Tori) chương 19." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 19.</p></figcaption></figure>

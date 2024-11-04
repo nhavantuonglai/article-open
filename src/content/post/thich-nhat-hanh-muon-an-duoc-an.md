@@ -3,7 +3,7 @@ pubDatetime: 2010-04-01T10:10:00Z
 title: Thích Nhất Hạnh | Muốn an được an
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0683.jpg
+image: https://nhavantuonglai.com/image/cover/001-683.jpg
 tags:
   - thu vien
   - van hoc
@@ -89,6 +89,6 @@ Chủ tịch HĐQT kiêm TGĐ Công ty CP Sách Thái Hà.
 
 Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/thich-nhat-hanh-muon-an-duoc-an-chuong-07) tại đây.
 
-Đọc [Muốn an được an, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-muon-an-duoc-an.pdf) tại đây.
+Đọc [Muốn an được an, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-muon-an-duoc-an.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-684.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-16T10:10:00Z
 title: Top 5 khách sạn 4 sao Phú Quốc có hồ bơi đẹp nhất
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0657.jpg
+image: https://nhavantuonglai.com/image/cover/001-657.jpg
 tags:
   - viet thue
   - marketing
@@ -80,4 +80,4 @@ The Palmy Phú Quốc có hẳn 2 hồ bơi gồm hồ bơi trong nhà và hồ 
 
 Trên đây là top những khách sạn 4 sao Phú Quốc có hồ bơi đẹp nhất mà bạn có thể ghé đến, AVS Hotel Phú Quốc mong những chia sẻ này sẽ hữu ích đối với bạn khi đến du lịch Phú Quốc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

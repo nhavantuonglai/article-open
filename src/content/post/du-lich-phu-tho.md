@@ -3,7 +3,7 @@ pubDatetime: 2021-10-01T10:10:00Z
 title: Cẩm nang du lịch Phú Thọ
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0666.jpg
+image: https://nhavantuonglai.com/image/cover/001-666.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -15,7 +15,7 @@ _Phú Thọ cách Hà Nội khoảng 90 km về phía tây bắc. Nhắc đến 
 
 Là một tỉnh nằm ở khu vực trung du, miền núi Bắc bộ nên thời tiết có 4 mùa xuân, hạ, thu, đông rõ rệt. Mùa xuân là mùa du lịch tâm linh và đến tháng 3 âm lịch hàng năm, hàng trăm nghìn du khách tới đây hành hương tại Khu di tích lịch sử Đền Hùng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-487.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-487.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -31,19 +31,19 @@ Trung tâm thành phố Việt Trì là điểm dừng chân đầu tiên cho du
 
 Ngoài ra, thành phố đi vào hoạt động tuyến phố ẩm thực Nguyễn Du, với hàng loạt món ngon như cá sông, lẩu đa dạng, thịt dê, món ăn châu Âu… để du khách thưởng thức.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-488.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-488.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 Khu di tích Đền Hùng thuộc đất Phong Châu, vốn là đất đế đô của Nhà nước Văn Lang. Đây là nơi thờ phụng các vua Hùng. Khu vực Đền Hùng có 4 ngôi đền, 1 ngôi chùa, 1 lăng và một số hạng mục kiến trúc khác, hài hoà với cảnh quan thiên nhiên hùng vĩ, nơi khí thiêng của non sông hội tụ. Hàng năm, Lễ hội Đền Hùng diễn ra vào ngày 10 tháng 3 âm lịch.
 
 Hiện nay công ty du lịch tổ chức tour khám phá đền Hùng về đêm, lộ trình với lộ trình thăm đền Lăng Sương – đồi chè Mỹ Thuận – Đền Hùng – Đền Tam Giang – Ngã ba Bạch Hạc. Giá tour từ 1.500.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-489.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-489.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 Đình Hùng Lô tọa lạc trên dải đất rộng khoảng 500 m2 nằm trong khuôn viên làng cổ Hùng Lô, cách đền Hùng khoảng 10 km về phía Đông. Tương truyền, đình Hùng Lô là vùng đất thiêng, nơi Vua Hùng từng nghỉ chân trong một lần đi du ngoạn. Vì vậy, người dân nơi đây lập ra miếu thờ.
 
 Trải qua 300 năm thăng trầm lịch sử, ngôi đình vẫn nguyên vẹn giá trị kiến trúc, văn hóa, lịch sử. Khuôn viên đình gồm 5 gian nhà Tiền tế, Phương đình, lầu Chuông, lầu Trống và toà Đại đình. Tất cả đều được xây dựng bằng những loại gỗ quý như đinh, lim, sến, táu… Năm 1990, đình Hùng Lô được công nhận di tích lịch sử cấp quốc gia.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-490.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-490.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 Đồi chè Long Cốc nằm trên địa bàn huyện Tân Sơn, Phú Thọ. Nơi đây được khách du lịch, các nhiếp ảnh gia… đánh giá là một trong những đồi chè đẹp nhất Việt Nam với hàng trăm, hàng nghìn quả đồi nhỏ xen kẽ nhau. Cuối thu đầu đông, đồi chè huyền ảo dưới lớp sường mờ huyền ảo, nhấp nhô nối tiếp nhau đến tận chân trời. Tới đồi chè, du khách đừng quên mua chè sản xuất theo tiêu chuẩn VietGAP, với các loại chè Đinh Bát Tiên hay chè Shan Bát Tiên.
 
@@ -59,13 +59,13 @@ Các điểm du lịch ở Phú Thọ tương đối xa nhau, vì vậy khách s
 
 Một số khu nghỉ dưỡng ở khu suối khoáng nóng Thanh Thủy: Thanh Thủy Helth Resort, Thanh Lâm Resort. Vườn quốc gia Xuân Sơn có Homestay Xuân Sơn, homestay Lâm, homestay Quỳnh Nga, Thức Như tập trung ở bản Dù, mang đậm kiến trúc và văn hóa dân tộc Dao. Ở đây, du khách được hít thở không khí trong lành, trải nghiệm sự mộc mạc trong lối sinh hoạt cùng người địa phương và đặc biệt thưởng thức các đặc sản.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-491.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-491.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn gì
 
 Việt Trì còn có tên gọi là thành phố ngã ba sông Lô, Hồng, Đà, vì vậy ẩm thực sông ở đây đa dạng và tươi ngon. Trong đó không thể bỏ qua món cá lăng sông Đà với thịt chắc, ngọt, ít xương. Tương truyền, loài cá này trước đây dùng để tiến vua. Ở Việt Trì, cá lăng được nướng riềng mẻ, rang muối, nấu măng chua, trộn hành tím… Du khách có thể tự tay chọn những con cá đang bơi trong bể rồi yêu cầu chế biến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-492.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-492.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 Các địa chỉ gợi ý để ăn cá lăng là nhà hàng Cá lăng Sông Đà ở khu Happyland, phường Gia Cẩm; quán cá Hạc Trì ở đường Lạc Long Quân; Long Gia Quán đường Hoa Vương. Ngoài cá lăng, ở các quán còn phục vụ đa dạng món cá anh vũ, cá hồi, cá ngạnh hay gà đồi, thịt lợn bản…
 
@@ -75,7 +75,7 @@ Ngoài ra còn có trám, cọ thường có ở cuối tháng 5, đầu tháng 
 
 Ngoài cá, các món ngon ở Việt Trì còn có lẩu cua, ngan, thịt dê… tập trung nhiều tại khu vực phố ẩm thực Nguyễn Du và dốc Dệt Nông Trang. Dưới đây là một số địa chỉ gợi ý:
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-493.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-tho-493.jpg" alt="cam-nang-du-lich-phu-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-tho-nhavantuonglai</p></figcaption></figure>
 
 – Lẩu cua sông S99, dốc Dệt Nông Trang.
 
@@ -85,4 +85,4 @@ Ngoài cá, các món ngon ở Việt Trì còn có lẩu cua, ngan, thịt dê�
 
 Với du khách trẻ, yêu thích những món lẩu, nướng có thể lựa chọn những địa chỉ như Nướng than hoa 277, đường Tiên Dung (công viên Văn Lang); Gogi house tòa nhà Việt Lâm, đại lộ Hùng Vương; đồ Hàn Quốc và nướng ở Kimpab House, đường Nguyễn Du; Lẩu Thái Coco, đại lộ Hùng Vương, cạnh phố ẩm thực Nguyễn Du.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

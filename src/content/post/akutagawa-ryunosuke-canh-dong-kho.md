@@ -3,7 +3,7 @@ pubDatetime: 2018-08-22T10:10:00Z
 title: Akutagawa Ryunosuke | Cánh đồng khô
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0231.jpg
+image: https://nhavantuonglai.com/image/cover/001-231.jpg
 tags:
   - thu vien
   - van hoc
@@ -64,4 +64,4 @@ Otokuni, Masahide, Shido, Mokusetsu…đám môn nhân kẻ trước người sa
 
 Và như thế, bậc đại tôn sư thơ haikai danh quán cổ kim, Matsuo Tosei, am chủ am Basho, đột ngột thở hơi cuối cùng trong niềm _xót thương vô hạn_ của bầy đệ tử chung quanh gối người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

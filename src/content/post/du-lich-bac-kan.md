@@ -3,7 +3,7 @@ pubDatetime: 2021-07-19T10:10:00Z
 title: Cẩm nang du lịch Bắc Kạn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0687.jpg
+image: https://nhavantuonglai.com/image/cover/001-687.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -43,7 +43,7 @@ Thành phố Bắc Kạn là nơi kết nối các tour tuyến với những hu
 
 Thảo nguyên Sam Chiêm
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-010.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-010.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
 
 Sam Chiêm nằm ở xã Hiệp Lực, huyện Ngân Sơn, cách trung tâm thành phố Bắc Kạn khoảng 30 km. Không quá nổi tiếng nhưng ngọn đồi này là điểm thư giãn cuối tuần cho du khách muốn hòa mình với thiên nhiên. Du khách đến Sam Chiêm theo đường mòn trên địa hình đồi núi. Xe máy và ôtô đều có thể tiếp cận. Nổi bật nhất là sắc xanh trải dài từ con đồi này nối tiếp con đồi khác. Xen giữa đồi cỏ là những vạt rừng. Khí hậu Sam Chiêm mát mẻ, nhiệt độ trung bình dưới 30 độ C, thích hợp cho những hoạt động ngoài trời tận hưởng thiên nhiên. Nhiều bạn trẻ chọn Sam Chiêm là nơi check-in, cắm trại qua đêm.
 
@@ -53,7 +53,7 @@ Khu bảo tồn thiên nhiên Kim Hỷ thuộc huyện Na Rì, cách thành ph�
 
 Hồ Bản Chang
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-011.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-011.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
 
 Hồ Bản Chang thuộc xã Đức Vân, huyện Ngân Sơn, giáp với QL3 đi Cao Bằng, cách trung tâm thành phố Bắc Kạn 60 km. Là hồ nước tự nhiên có hình bán nguyệt, Bản Chang nằm giữa thung lũng, diện tích mặt hồ khoảng 5 ha, xung quanh là những cánh rừng thông, khí hậu trong lành, mát mẻ, cảnh quan yên bình và lãng mạn. Nơi đây thích hợp với các loại hình du lịch sinh thái, cộng đồng, các hoạt động tập thể như chèo thuyền, bơi lội, câu cá, cắm trại.
 
@@ -73,7 +73,7 @@ Càng vào sâu, địa hình càng phức tạp, những dải thạch nhũ xu�
 
 Các điểm cắm trại
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-012.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-012.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
 
 Gần đây, Bắc Kạn là địa điểm _hot_ của giới mê cắm trại. Các bãi trại nổi tiếng là hồ Bản Chang, xã Đức Vân (Ngân Sơn), đồi cỏ Tân An (Na Rì), đồi cỏ Lủng Tráng, xã Hà Hiệu và đồi cỏ Phiêng Chỉ, xã Phúc Lộc (Ba Bể). Riêng khu vực hồ Ba Bể có 4 địa điểm được các bạn trẻ lựa chọn là bãi đất bồi cuối sông Lèng ở bản Pác Ngòi, bãi đất rộng (địa điểm tổ chức Hội xuân Ba Bể) nằm ngay sát hồ Ba Bể thuộc thôn Bó Lù, xã Nam Mẫu, vườn Lạc Ngà ở vị trí cuối hồ Ba Bể và động Puông. Các điểm này đều có dịch vụ cho thuê lều trại, bếp nướng và các hoạt động ngoài trời như câu cá, chèo thuyền kayak, đốt lửa.
 
@@ -89,7 +89,7 @@ Khâu nhục là món ăn mang đậm bản sắc của người dân tộc Tày
 
 Bánh ngải nổi tiếng ở Lạng Sơn nhưng cũng khá phổ biến ở Bắc Kạn. Bánh có màu xanh đặc trưng tuy hình thù và cách làm gần giống bánh giầy của người miền xuôi. Muốn bánh thơm, dẻo phải chọn loại nếp nương, không được lẫn gạo tẻ. Bánh dễ ăn, mát và không ngấy. Vị hăng, thơm của lá ngải cứu hòa hợp với cái dẻo, ngọt của nếp gây ấn tượng khi bạn lần đầu tiên nếm thử. Bánh ngải có hai loại, nhân ngọt và mặn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-013.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-bac-kan-013.jpg" alt="cam-nang-du-lich-bac-kan" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-kan-nhavantuonglai</p></figcaption></figure>
 
 Lạp xưởng hun khói được làm từ thịt lợn bản thơm và chắc. Một điểm độc đáo là lạp xưởng ở Bắc Kạn được tẩm ướp với gừng đá, loại gừng cay thơm chỉ mọc trên vùng núi đá vôi. Sau khi chế biến, lạp xưởng được mang đi hun khói hay gác bếp để có thể bảo quản lâu. Thành phẩm có mùi nắng, mùi khói bếp, thoảng mùi gừng, rượu, lá mắc mật, tạo thành hỗn hợp hương thơm đặc biệt. Món ăn ngon hơn khi nhắm cùng rượu địa phương.
 
@@ -101,4 +101,4 @@ Ngoài ra, Bắc Kạn còn có một số món ăn đặc trưng như cá nư�
 
 Ở Bắc Kạn không có nhiều cây ATM hay điểm quét mã QR nên du khách nên mang theo tiền mặt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

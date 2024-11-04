@@ -3,7 +3,7 @@ pubDatetime: 2002-07-38T10:10:00Z
 title: Kim Dung | Xạ điêu anh hùng truyện (Chương 38)
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0278.jpg
+image: https://nhavantuonglai.com/image/cover/001-278.jpg
 tags:
   - thu vien
   - van hoc
@@ -1000,6 +1000,6 @@ Lại đi hơn mười dặm, hai người xuống ngựa chào nhau, rơi lệ 
 
 Đọc [Anh hùng xạ điêu, chương 40](https://nhavantuonglai.com/article/kim-dung-xa-dieu-anh-hung-truyen-chuong-40) tại đây.
 
-Đọc [Anh hùng xạ điêu, toàn tập](https://data.nhavantuonglai.com/ebook/kim-dung-xa-dieu-anh-hung-truyen.pdf) tại đây.
+Đọc [Anh hùng xạ điêu, toàn tập](https://nhavantuonglai.com/ebook/kim-dung-xa-dieu-anh-hung-truyen.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

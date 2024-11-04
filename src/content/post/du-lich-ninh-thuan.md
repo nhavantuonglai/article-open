@@ -3,7 +3,7 @@ pubDatetime: 2021-09-10T10:10:00Z
 title: Cẩm nang du lịch Ninh Thuận
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0646.jpg
+image: https://nhavantuonglai.com/image/cover/001-646.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -11,7 +11,7 @@ tags:
 
 _Ninh Thuận nằm ở khu vực Nam Trung Bộ, tỉnh lỵ là thành phố Phan Rang – Tháp Chàm, cách Thành phố Hồ Chí Minh 340 km, phía bắc giáp Khánh Hòa và phía nam giáp Bình Thuận. Ninh Thuận có Núi Chúa, vừa được UNESCO công nhận là khu dự trữ sinh quyển mới của thế giới._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-458.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-458.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 ## Ninh Thuận mùa nào đẹp
 
@@ -43,7 +43,7 @@ Hang Rái
 
 Cách thành phố Phan Rang chừng 35 km, hang Rái thuộc vườn quốc gia Núi Chúa, không chỉ có địa thế núi chắn sóng, chồng lên nhau tạo nên những hang động đẹp mắt mà còn là khu vực sinh sống của loài rái cá, cũng chính là cội nguồn tên gọi. Đây còn là nơi có bãi san hô đẹp nhất vùng, kéo dài cả cây số, nhiều loài và nhiều sắc tạo nên bức tranh muôn màu. Hang Rái là điểm săn ảnh yêu thích của các nhiếp ảnh gia. Giá vé tham quan hang Rái là 20.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-459.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-459.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 Cung đường biển
 
@@ -57,7 +57,7 @@ Tháp Poklong Garai và văn hóa Chăm
 
 Tháp nằm trên đồi Trầu, được người Chăm xây tháp vào cuối thế kỷ 13 để thờ vua [Poklong Garai](https://info.nhavantuonglai.com/topick) (1151), vị vua có nhiều công lớn trong việc cai trị đất nước. Tượng trưng cho ngọn núi Meru trong tín ngưỡng của Ấn Độ giáo, cụm tháp có kiến trúc kiên cố dù trải qua nhiều thăng trầm lịch sử của vùng đất Panduranga xưa. Tháng 7 Chăm lịch, nếu đến thăm tháp, du khách sẽ dhòa mình vào không khí lễ hội Kate với nhiều nghi lễ cùng các điệu múa và âm nhạc Chăm truyền thống.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-460.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-460.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 Công viên đá
 
@@ -67,7 +67,7 @@ Vườn nho
 
 Ninh Thuận là tỉnh nắng nóng quanh năm, nhưng lại thích hợp với nghề trồng nho, táo. Ngoài hai giống nho chính là nho đỏ và xanh, dân Ninh Thuận còn trồng nho đen dùng để làm rượu vang. Trên cung đường Ninh Thuận – Nha Trang, du khách sẽ thấy bạt ngàn vườn nho và táo, có thể kết hợp nghỉ chân, tham quan vườn nho An Thái, Ba Mọi… chụp ảnh, hái quả và mua các sản phẩm từ nho.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-461.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-461.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 Đồi cát Nam Cương
 
@@ -81,7 +81,7 @@ Do có vị trí khá hẻo lánh, đường đi khó, mũi Dinh mới được 
 
 Bánh căn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-462.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-462.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 Là đặc sản của Ninh Thuận, bánh căn được đúc từ bột gạo với _topping_ gồm trứng, thịt, tôm, mực tươi sống… Tùy theo ý thích của người thưởng thức, bánh được lấy khi vừa chín tới, thả vào tô với hành lá xắt nhuyễn. Ở Ninh Thuận thực khách có thể thưởng thức bánh căn với một tô nước cá kho nhạt (nấu từ cá, hành và dưa) hoặc mắm nêm, khác cách ăn của người Đà Lạt.
 
@@ -103,7 +103,7 @@ Ninh Thuận có biển và hải sản ngon không kém bất cứ vùng nào t
 
 Gỏi cá mai
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-463.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-thuan-463.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
 Cá mai là một loại cá trong, nhỏ chừng ngón tay trỏ, giống cá cơm nhưng ít tanh, nên có thể làm gỏi phù hợp. Gỏi cá mai có hai loại là khô và ướt. Khi ăn gỏi, bạn vắt thêm chanh cho cá chín, trộn với rau thơm, đậu phộng rang và lấy bánh tráng nướng xúc. Còn đối với gỏi ướt thì dầm cá trong một loại nước chấm đặc biệt, được làm bằng đậu phộng và một số gia vị, cuốn bánh tráng ăn kèm với các loại rau.
 
@@ -119,4 +119,4 @@ Cá mai là một loại cá trong, nhỏ chừng ngón tay trỏ, giống cá c
 
 – Cắm trại ở biển Bình Tiên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

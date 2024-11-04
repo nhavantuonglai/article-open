@@ -3,7 +3,7 @@ pubDatetime: 2021-07-30T10:10:00Z
 title: Cẩm nang du lịch Cần Thơ
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0605.jpg
+image: https://nhavantuonglai.com/image/cover/001-605.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -41,7 +41,7 @@ Chợ nổi là đặc sản của miền Tây. Nếu đến Cần Thơ mà bạ
 
 Chợ nổi Cái Răng cách trung tâm thành phố khoảng 6 km. Bạn có thể đến đây bằng đường thuỷ hoặc đường bộ. Chợ nằm gần cầu Cái Răng, người dân ở đây ai cũng biết khu chợ nổi tiếng này nên bạn có thể hỏi về việc đi lại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-119.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-119.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 Qua hàng trăm năm biến đổi, người dân nơi đây vẫn giữ được thói quen mua bán, trao đổi hàng hoá trên những chiếc ghe, xuồng. Theo thời gian, chợ nổi trở thành loại hình du lịch thú vị của miền sông nước. Du khách có thể ra bến tàu, mua vé, lên một chiếc ghe để đi dạo khu chợ trên sông nổi tiếng bậc nhất Cần Thơ. Nếu đi nhóm đông, bạn nên thuê nguyên thuyền, giá khoảng 350.000 – 400.000 đồng. Nếu đi lẻ, bạn có thể mua vé lẻ, giá khoảng 30.000 đồng mỗi người.
 
@@ -53,13 +53,13 @@ Ngoài trái cây, rau quả, nhiều thuyền nhỏ còn bán cả đồ ăn s�
 
 Chợ sẽ bắt đầu vãn người vào khoảng 9 giờ sáng. Lúc này du khách có thể quay về đất liền và khám phá tiếp những điểm đến hấp dẫn khác của xứ Tây Đô.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-120.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-120.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 > Nhà cổ Bình Thuỷ
 
 Ngôi nhà trăm năm tuổi gần vàm rạch Bình Thuỷ là một trong những công trình kiến trúc đẹp nhất miền Tây. Từ trung tâm thành phố, bạn có thể thuê xe máy hoặc bắt taxi về đường Bùi Hữu Nghĩa, phường Bình Thuỷ để ghé thăm nhà cổ. Vé vào cổng là 15.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-121.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-121.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 Nhà cổ được thiết kế theo phong cách châu Âu, bên ngoài trông như một dinh thự thời Pháp nhưng kiến trúc bên trong lại hoàn toàn thuần Việt. Nó cho thấy sự giao thoa văn hoá Đông – Tây một cách hài hoà của tầng lớp giàu có vùng đồng bằng sông Cửu Long giai đoạn cuối thế kỷ 19.
 
@@ -71,7 +71,7 @@ Nhà cổ được thiết kế theo phong cách châu Âu, bên ngoài trông n
 
 Thời điểm lý tưởng nhất để đến vườn cò là từ tháng 8 đến tháng 1 năm sau. Đây là mùa sinh sản, nhiều loài cò tập trung về. Mùa cao điểm có đến chục nghìn con cò cùng về làm tổ, tạo nên khung cảnh ấn tượng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-122.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-122.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 Để tránh gây xáo động đến đàn cò, xe khách phải dừng ở đầu đường, du khách có thể đi bộ, thuê xe đạp hoặc xe máy để vào vườn. Dọc đường đi là những bụi tre già xanh rì, toả bóng mát. Trong vườn có xây đài quan sát với cầu thang xoắn ốc, nơi bạn có thể thỏa thích ngắm nhìn toàn cảnh vườn cò từ trên cao.
 
@@ -101,7 +101,7 @@ Lầu trống, Gác chuông, Chánh điện và chùa Một Cột là những h�
 
 Một số vườn trái cây nổi tiếng du khách có thể tham khảo là: Mỹ Khánh, 9 Hồng, Rạch Kè, Vàm Xáng. Du khách có thể tự tay chọn hái những trái cây tươi ngon và thưởng thức ngay tại vườn. Vé vào cổng khoảng 20.000 đồng một người, giá trái cây sẽ tính theo từng loại và tuỳ vào thời điểm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-123.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-123.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 > Cồn Sơn
 
@@ -113,7 +113,7 @@ Bè nuôi cá là một trong những điểm tham quan ở cửa ngõ vào Cồ
 
 Một số nhà hiện nuôi các loại cá đặc sản nước ngọt như cá hồng thuỷ, cá chạch lấu, cá hô, cá éc, cá lăng, cá vồ đém, cá xác sọc… Nhiều loài cá lạ khác du khách có thể tham quan tại đây gồm hồng vỹ mỏ vịt, cá cọp, cá Koi ngũ sắc, trê hồng, Hỏa Long (chạch lửa). Tại đây, du khách được hướng dẫn cho cá ăn, tìm hiểu về cách nuôi cá trên bè. Các làng bè ở Cồn Sơn thu phí tham quan 10.000 đồng mỗi khách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-124.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-124.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 Xem cá lóc bay là một trong những trải nghiệm mới lạ hút khách đến [Cồn Sơn](https://info.nhavantuonglai.com/topick). Để đàn cá có thể nhảy lên mặt nước khi có dấu hiệu của chủ nuôi, ngay khi cá còn nhỏ, người dân nơi này phải tập dần và bắt đầu bằng sự háo ăn của chúng.
 
@@ -121,11 +121,11 @@ Chỉ những con cá dưới 5, 6 tháng tuổi mới nhảy. Cá lớn hơn s�
 
 Một hoạt động khác được du khách ưa thích trên Cồn Sơn là tập làm bánh. Với sự giúp đỡ của người dân, bạn sẽ tự tay làm ra những bánh từ bột mì, bột gạo và thưởng thức ngay sau khi hoàn thành. Bạn sẽ được thử làm bánh lá mít, [bánh phu thê](https://info.nhavantuonglai.com/topick)… Một mâm bánh tại đây có giá 210.000 đồng, gồm hai loại bánh ngọt và mặn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-125.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-125.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 > Lò hủ tiếu ba đời
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-126.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-126.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 [Lò hủ tiếu](https://info.nhavantuonglai.com/topick) Chín Của nằm gần chợ nổi Cái Răng. Bạn có thể sắp xếp lịch trình đến đây bằng thuyền ngay sau khi tham quan chợ nổi. Hoặc nếu đi bằng đường bộ, bạn có thể chạy đến Lộ Vòng Cung (Đường ), rẽ vào hẻm 476, chạy thêm một đoạn là đến.
 
@@ -161,8 +161,8 @@ Những đặc sản nên mua về làm quà ở Cần Thơ phải kể đến t
 
 ## Kinh phí dự kiến
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-127.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-can-tho-127.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
 Tổng kinh phí dự kiến cho 2 ngày vui chơi ở Cần Thơ dao động từ 1 – 2 triệu đồng, tùy mỗi người. Không nhiều dịch vụ báo tăng giá ngày lễ 2/9, vì vậy du khách có thể thoải mái khám phá thủ phủ miền Tây mà không phải lo lắng quá nhiều.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

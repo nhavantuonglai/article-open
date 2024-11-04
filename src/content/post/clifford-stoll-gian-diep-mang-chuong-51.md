@@ -3,7 +3,7 @@ pubDatetime: 2018-12-21T10:10:00Z
 title: Clifford Stoll | Gián điệp mạng (Chương 51)
 description: Gián điệp mạng là câu chuyện người thật việc thật kể về cuộc săn đuổi hacker bất đắc dĩ của nhà khoa học chuyển tay ngang trở thành chuyên gia mạng máy tính ở Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0253.jpg
+image: https://nhavantuonglai.com/image/cover/001-253.jpg
 tags:
   - clifford stoll
   - gian diep mang
@@ -213,6 +213,6 @@ Nhưng nó khác ở một khía cạnh quan trọng.
 
 Đọc [Gián điệp mạng, chương 57](https://nhavantuonglai.com/article/clifford-stoll-gian-diep-mang-chuong-57) tại đây.
 
-Đọc [Gián điệp mạng, toàn tập](https://data.nhavantuonglai.com/ebook/clifford-stoll-gian-diep-mang.pdf) tại đây.
+Đọc [Gián điệp mạng, toàn tập](https://nhavantuonglai.com/ebook/clifford-stoll-gian-diep-mang.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0261.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-261.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

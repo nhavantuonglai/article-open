@@ -3,7 +3,7 @@ pubDatetime: 2018-08-12T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Segment tree)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0591.jpg
+image: https://nhavantuonglai.com/image/cover/001-591.jpg
 tags:
   - developer
   - github
@@ -38,4 +38,4 @@ pass any binary (with two input params) function to it and thus you're able to d
 In tests you may find examples of doing `min`, `max` and `sum` range
 queries on SegmentTree.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

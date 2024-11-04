@@ -3,7 +3,7 @@ pubDatetime: 2013-06-15T10:10:00Z
 title: Thích Nhất Hạnh | Đạo phật ngày nay (Chương 05)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0574.jpg
+image: https://nhavantuonglai.com/image/cover/001-574.jpg
 tags:
   - thu vien
   - van hoc
@@ -57,6 +57,6 @@ Hình bóng của những con người yếu đuối, mắt không dám nhìn th
 
 Đọc [Đạo phật ngày nay, chương 08](https://nhavantuonglai.com/article/thich-nhat-hanh-dao-phat-ngay-nay-chuong-08) tại đây.
 
-Đọc [Đạo phật ngày nay, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-dao-phat-ngay-nay.pdf) tại đây.
+Đọc [Đạo phật ngày nay, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-dao-phat-ngay-nay.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

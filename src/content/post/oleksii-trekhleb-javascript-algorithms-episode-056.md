@@ -3,7 +3,7 @@ pubDatetime: 2018-07-07T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Least common multiple)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0556.jpg
+image: https://nhavantuonglai.com/image/cover/001-556.jpg
 tags:
   - developer
   - github
@@ -59,4 +59,4 @@ For example, a card game which requires its cards to be divided equally among up
 cards, the number at the intersection of the `2`, `3`, `4`
 and `5` sets, but not the `7` set.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

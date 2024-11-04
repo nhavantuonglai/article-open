@@ -3,7 +3,7 @@ pubDatetime: 2023-04-19T10:10:00Z
 title: Tạo biểu đồ bong bóng trong Google Search
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0649.jpg
+image: https://nhavantuonglai.com/image/cover/001-649.jpg
 tags:
   - google
   - google console
@@ -24,7 +24,7 @@ Nếu bạn chưa đọc bài viết kết nối Search Console với Looker Stu
 
 Biểu đồ bong bóng là một công cụ trực quan rất hữu ích khi bạn xử lý dữ liệu có nhiều chỉ số và phương diện. Biểu đồ này giúp bạn quan sát được các mối quan hệ và tính quy luật trong dữ liệu một cách hiệu quả hơn. Trong ví dụ dưới đây, bạn có thể thấy tỷ lệ nhấp(CTR), vị trí trung bình và số lượt nhấp cho các phương diện truy vấn và thiết bị trong một chế độ xem.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-21.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search" height=100% width=100%><figcaption><p>cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-21.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search" height=100% width=100%><figcaption><p>cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search</p></figcaption></figure>
 
 Phần này trình bày chi tiết về một số thành phần trong biểu đồ để làm rõ những yếu tố mà biểu đồ có và không thể hiện.
 
@@ -70,7 +70,7 @@ Mục tiêu của biểu đồ trực quan này là giúp bạn tìm thấy cơ 
 
 Các nét đứt tham chiếu Trung bình màu đỏ thể hiện giá trị trung bình của từng trục. Các đường này chia biểu đồ thành 4 góc phần tư, cho thấy 4 nhóm hiệu suất của cụm từ Google Search. Có thể các góc phần tư của bạn trông khác với nội dung chia sẻ trong bài đăng này; tuỳ thuộc vào cách phân phối cụm từ Google Search cho website của bạn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-22.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search" height=100% width=100%><figcaption><p>seo-google-1nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-22.jpg" alt="cam-nang-toi-uu-seo-chuan-google-co-ban-tao-bieu-do-bong-bong-trong-google-search" height=100% width=100%><figcaption><p>seo-google-1nhavantuonglai</p></figcaption></figure>
 
 Biểu đồ này cho thấy 4 nhóm cụm từ Google Search mà bạn có thể phân tích để quyết định nơi nên đầu tư thời gian khi tối ưu hoá hiệu suất trên Google Search.
 
@@ -96,4 +96,4 @@ Sau khi tìm thấy các cụm từ Google Search bằng hình ảnh minh hoạ 
 
 – Suy nghĩ xem người dùng có khả năng sẽ sử dụng những từ nào để Google Search một nội dung cụ thể của bạn, chẳng hạn như từ đồng nghĩa và cụm từ liên quan. Bạn có thể sử dụng Công cụ lập kế hoạch từ khoá của Google Ads để khám phá các biến thể từ khoá mới và xem lượng Google Search ước chừng của mỗi từ khoá. Bạn cũng có thể sử dụng Google Xu hướng để lấy ý tưởng qua các chủ đề và cụm từ Google Search đang thịnh hành có liên quan đến website của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-07-24T10:10:00Z
 title: Cẩm nang du lịch Ba Vì
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0692.jpg
+image: https://nhavantuonglai.com/image/cover/001-692.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -19,7 +19,7 @@ Từ tháng 4 đến tháng 10, Ba Vì trở thành điểm _trốn nóng_ lý t
 
 Du khách di chuyển bằng xe riêng chạy thẳng Đại lộ Thăng Long, Láng – Hòa Lạc, Yên Bài đến Thiên Sơn Suối Ngà. Một cung đường khác nhiều người lựa chọn là qua quốc lộ 32. Thời gian di chuyển khoảng một tiếng. Nếu đi bus, bạn chọn xe 74 Mỹ Đình – Xuân Khanh và tuyến 71 Mỹ Đình – Bến xe Sơn Tây, tới điểm cuối thì chuyển xe 110 đến Vườn Quốc gia Ba Vì.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-053.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-053.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -27,17 +27,17 @@ Vườn quốc gia Ba Vì
 
 Với diện tích gần 11.000 ha, vườn quốc gia Ba Vì được coi là _lá phổi xanh_ phía Tây thủ đô Hà Nội. Tại vườn quốc gia có các địa điểm tham quan như nhà thờ cổ bỏ hoang, phủ kín rêu phong mang vẻ huyền bí, hay nhà kính xương rồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-054.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-054.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Cũng như [Đà Lạt](https://nhavantuonglai.com/article/du-lich-da-lat), [Sa Pa](https://nhavantuonglai.com/article/du-lich-sa-pa) hay [Tam Đảo](https://nhavantuonglai.com/article/du-lich-tam-dao), người Pháp xây dựng ở Ba Vì nhiều biệt thự nghỉ dưỡng ở cốt 400, 600 và 1.000. Chỉ khác là chúng đã bị tàn phá theo thăng trầm thời gian cùng thời cuộc. Bởi thế, du khách sẽ ngỡ ngàng trước những nền móng kiến trúc từ hàng trăm năm trước khi đi sâu vào trong rừng. Những khu nghỉ dưỡng, những bếp lò, những bức tường, tất cả đều được bao phủ bởi cây rừng và sương núi.
 
 Ở cốt 600, khu dinh đại tá là một công trình tiêu biểu của [kiến trúc Pháp](https://info.nhavantuonglai.com/topick) tại Ba Vì, hiện vẫn còn khá nguyên vẹn. Nơi đây có hàng rào dây thép gai, tường đá bao quanh, cao hơn 2 m, dày 0,5 m và một số ụ súng trung đại liên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-055.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-055.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Đi lên chút nữa là khu trại hè dành cho con em người Pháp và các quan lại chính quyền thuộc địa, gồm 4 khu nhà cấp 4 được xây dựng kiên cố bằng đá. Nằm giữa khu rừng tự nhiên với nhiều loài cây gỗ lớn như sồi, dẻ, cà lồ, kháo… trên có phong lan treo bám tạo nên khung cảnh nên thơ, kỳ ảo, thu hút khách du lịch tới tham quan và chụp ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-056.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-056.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Nhà thờ đổ nằm ở độ cao 800 m, giữa tán rừng già. Bị bỏ hoang đã nhiều năm, phần mái của nhà thờ không còn, trơ ra giáo đường âm u giữa cây lá um tùm.
 
@@ -47,11 +47,11 @@ Trên bức vách, dấu thập tự phủ một màu hoài cổ, hắt tia nắ
 
 Đặc biệt, ở độ cao 1.000-1.100 m tại sườn Tây đỉnh Tản Viên là hệ thống nhà tù chính trị bí mật được xây dựng kiên cố nhằm giam cầm các chiến sĩ cách mạng. Nhà tù được bố trí thành 3 khu: khu 1 là nơi ở cho cai tù; khu 2, khu 3 là nơi giam giữ phạm nhân. Với tổng thể gần 1.000 m2, hệ thống nhà tù ở Ba Vì có thể giam giữ 100-200 phạm nhân.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-057.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-057.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Du khách cũng có thể thử thách bản thân bằng cách leo 500 bậc thang lên đỉnh núi tham quan [Đền Thượng](https://info.nhavantuonglai.com/topick). Đây là nơi thờ Đức Thánh núi Tản Viên Sơn Tinh. Ngoài ra, Ba Vì còn có các địa điểm tham quan như Đền thờ Chủ tịch Hồ Chí Minh, động Ngọc Hoa, khu quân sự Pháp…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-058.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-058.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Nếu bạn không đi xe lên đến đỉnh núi, chuyến đi bộ khám phá rừng Ba Vì kéo dài 2 – 4 tiếng phù hợp với những người thích [trekking](https://info.nhavantuonglai.com/topick) nhẹ nhàng. Đường đi dẫn qua những lối mòn băng qua rừng nguyên sinh rậm rạp, hay rừng trúc cao vút. Tuyến dễ nhất bắt đầu từ cốt 600 hướng xuống cốt 300, kéo dài hơn 2 tiếng. Du khách cũng có thể đạp xe để khám phá khu rừng qua một số tuyến đường trải bê-tông.
 
@@ -71,7 +71,7 @@ Lên tới Trung Sơn, du khách có thể nghỉ trong nhà sàn và dùng bữ
 
 Du khách thích tắm suối cần mặc áo phao, chú ý an toàn nếu không biết bơi. Vì trải nghiệm ở [Thiên Sơn – Suối Ngà](https://info.nhavantuonglai.com/topick) gần thiên nhiên, du khách nên bôi kem chống côn trùng, quan sát tránh rắn, rết… Địa chỉ tại Vân Hòa, Ba Vì, Hà Nội. Vé vào cửa 150.000 đồng một lượt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-059.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-059.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Rừng Bằng Tạ
 
@@ -83,7 +83,7 @@ Khu du lịch Đồng Mô gồm hồ nước khoảng 200 ha dưới chân núi 
 
 Theo truyền thuyết [hồ Đồng Mô](https://info.nhavantuonglai.com/topick) là nơi diễn ra cuộc chiến giành công chúa Mị Nương giữa Sơn Tinh và Thủy Tinh. Trong trận chiến, Thủy Tinh đưa nước dâng đến đâu thì Sơn Tinh làm phép nâng núi cao tới đó. Cuối cùng Thủy Tinh chịu thua, hồ nước rộng lớn còn lại đến nay là kết quả của cuộc chiến xưa kia.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-060.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-060.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Du khách muốn tới địa điểm này có thể thuê xe du lịch hoặc tự lái. Nếu đi theo đại lộ Thăng Long, bạn rẽ phải vào quốc lộ 21, đi thẳng tới khi có biển báo rẽ trái vào khu du lịch Đồng Mô.
 
@@ -111,7 +111,7 @@ Thung lũng Bản Xôi
 
 Ngay gần Đồng Mô là thung lũng Bản Xôi được bao quanh bởi đồi cây xanh và hồ nước điều hòa, khí hậu quanh năm mát mẻ. Hồ Bản Xôi được hình thành từ các mạch nước trên dãy Ba Vì rộng hơn 11ha.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-061.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-061.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Đến đây, du khách được tận hưởng không gian sống trong lành của thiên nhiên và thưởng thức nhiều món ăn địa phương như gà ta đắp đất, cá nheo om chuối đậu, cơm lam muối vừng…
 
@@ -121,7 +121,7 @@ Trang trại
 
 Một số trang trại đón du khách trải nghiệm cuộc sống nhà nông là [Trang Trại Đồng Quê Ba Vì](https://info.nhavantuonglai.com/topick), Detrang Farm… Trong đó, Detrang Farm rộng khoảng 12 ha với khu chăn nuôi dê, ngựa, lạc đà, đà điểu… Tới đây, du khách được hòa mình vào thiên nhiên dưới nhiều tán cây xanh, trải nghiệm cho động vật ăn, vắt sữa dê hay các hoạt động dân gian như nhảy sạp, làm bánh trôi nước, làm gốm…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-062.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-062.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Khu cắm trại glamping giữa đồng cỏ phục vụ khách nghỉ trưa hoặc lưu trú qua đêm. Khu trại cho thuê bếp nướng, chuẩn bị đồ ăn để có thể tổ chức tiệc ngoài trời và đốt lửa trại. Cuối tuần sẽ có những buổi biểu diễn nhạc sống. Lều trại ở đây dựng sẵn, mang phong cách Mông Cổ, bên trong có đệm hơi, gối thích hợp cho 2-4 người nghỉ. Địa chỉ thôn Ké Mới, Ba Vì, Hà Nội. Giá vé vào cửa là 120.000 đồng một người, miễn phí cho trẻ em dưới 90 cm.
 
@@ -137,7 +137,7 @@ _Thịt dê Ba Vì_ ít mỡ, thịt săn và ngọt. Thui vàng và ướp vớ
 
 _Thịt đà điểu_ trở thành đặc sản Ba Vì khi các trang trại chăn nuôi nhiều. Thịt săn, vị ngọt, mềm hơn bò và có hàm lượng dinh dưỡng cao. Du khách có thể thưởng thức các món ăn từ đà điểu như lẩu mề, thịt xào lăn hay giò. Một số địa chỉ gợi ý là nhà hàng Oanh Thám, ở khu chợ Tản Lĩnh, đường lên Đá Chông. Ngoài ra, du khách cũng có thể mua giò, thịt đà điểu tươi về làm quà với giá bá khoảng 270.000 đồng một kilogram. Để tránh mua thịt giả, bạn nên tới cửa hàng thực phẩm tươi Liễu Quân, xã Vân Hòa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-063.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-063.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 _Gà đồi_ ở Ba Vì chủ yếu là gà ri lai mía, nặng khoảng 2 kg. Được cho ăn đỗ tương, ngô và dầu cá… gà ri ở đây cho thịt nạc và da dai. Thịt gà thường được như nướng cả con, quay than, luộc, rang xả ớt, nộm hành tây… Một số địa chỉ gợi ý để thưởng thức món ăn này là nhà hàng ẩm thực đồng quê Hương Việt, nhà hàng vườn Ẩm thực xã Yên Bài.
 
@@ -151,8 +151,8 @@ Dịch vụ lưu trú tại Ba Vì khá phát triển, cho du khách nhiều l�
 
 Nếu lưu trú trong vườn quốc gia, gợi ý cho du khách là Melia Bavi Mountain Retreat xây dựng trên phế tích Pháp còn sót lại tại cốt 600, với giá khoảng 4.000.000 đồng một đêm; Ba Vì Resort trên cốt 400. Khu vực cốt 400 cũng có không gian cắm trại giữa rừng thông.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-064.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-vi-064.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
 Những khu nghỉ khác bạn có thể tham khảo là Tản Đà Spa Resort, Family Resort, Paragon Resort, Bavi Annam Garden, Madela Ba Vì – Nhà bên suối… giá khoảng 1.000.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

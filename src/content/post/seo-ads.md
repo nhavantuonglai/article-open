@@ -3,7 +3,7 @@ pubDatetime: 2023-04-16T10:10:00Z
 title: Hướng dẫn cách quảng cáo website tối ưu và hiệu quả nhất
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - google
   - google console
@@ -126,4 +126,4 @@ Nếu bạn đã cải tiến quá trình thu thập dữ liệu và Index websi
 
 Đối với người dùng thành thạo, thông tin mà gói phân tích cung cấp kết hợp với dữ liệu từ các tệp nhật ký máy chủ, có thể cung cấp thông tin hoàn chỉnh hơn về cách khách truy cập tương tác với tài liệu của bạn (chẳng hạn như những từ khoá bổ sung mà người Google Search có thể dùng để tìm website của bạn).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

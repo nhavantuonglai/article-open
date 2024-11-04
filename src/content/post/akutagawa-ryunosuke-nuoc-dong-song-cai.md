@@ -3,7 +3,7 @@ pubDatetime: 2018-09-02T10:10:00Z
 title: Akutagawa Ryunosuke | Nước dòng sông cái
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0712.jpg
+image: https://nhavantuonglai.com/image/cover/001-712.jpg
 tags:
   - thu vien
   - van hoc
@@ -39,4 +39,4 @@ Nước ngoài biển giống như ngọc bích, vì sâu nên đọng thành kh
 
 Theo Meljukovski (14), _Mỗi thành phố đều có cái mùi cố hữu của nó. Mùi của Florence là hương huệ trắng, mùi bụi bặm, sương mù và mùi véc-ni những khung tranh cổ quyện vào nhau._ Nếu ai hỏi tôi về cái mùi của Tôkyô, tôi sẽ xin phép trả lời ngay đó là cái mùi của dòng Sông Cái. Không riêng gì cái mùi! Màu sắc của dòng sông, âm hưởng của dòng sông chính là mầu sắc và tiếng động của Tôkyô mà tôi yêu dấu. Nhờ có dòng sông, tôi mới biết yêu Tôkyô, và nhờ có Tôkyô, tôi mới biết yêu đời.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

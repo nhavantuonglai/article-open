@@ -3,7 +3,7 @@ pubDatetime: 2022-12-19T10:10:00Z
 title: Minh Niệm | Hiểu về trái tim (Lời nói đầu)
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg
+image: https://nhavantuonglai.com/image/cover/001-300.jpg
 tags:
   - thu vien
   - van hoc
@@ -135,4 +135,4 @@ Với cuốn sách này, chúc bạn đọc sẽ luôn hạnh phúc và không b
 
 Đọc [Hiểu về trái tim, chương 51](https://nhavantuonglai.com/article/minh-niem-hieu-ve-trai-tim-chuong-51) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

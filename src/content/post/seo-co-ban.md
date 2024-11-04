@@ -3,7 +3,7 @@ pubDatetime: 2023-04-23T10:10:00Z
 title: Cẩm nang tối ưu SEO chuẩn Google cơ bản
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0259.jpg
+image: https://nhavantuonglai.com/image/cover/001-259.jpg
 tags:
   - google
   - google console
@@ -167,4 +167,4 @@ Nếu các phần khác của chiến lược SEO của bạn được đặt ra
 
 Đây là bước khởi đầu trong hành trình dài xây dựng, phát triển thương hiệu số cho giải pháp. Để biết phải bắt đầu từ đâu, thực hiện tiếp những điều còn dang dở, cũng như kết nối với đơn vị tư vấn, thiết kế website thương hiệu đẹp mắt, nhanh chóng và hiện đại, hãy liên hệ với [nhavantuonglai](https://nhavantuonglai.com/about/). Đây là đơn vị tư vấn, thiết kế website thương hiệu tiên phong sử dụng Webflow làm nền tảng thiết kế website chính thức, bởi khả năng tối ưu SEO ổn định, linh hoạt và đáp ứng tốt các yêu cầu chuyên môn từ các giải pháp. Với công cụ hiện đại, đội ngũ tư vấn tận tâm, nhavantuonglai tự tin đồng hành và kiến tạo nên những khác biệt cho các giải pháp số hiện nay.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

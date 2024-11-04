@@ -3,7 +3,7 @@ pubDatetime: 2013-02-07T10:10:00Z
 title: Thích Nhất Hạnh | Bây giờ mới thấy (Chương 07)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0374.jpg
+image: https://nhavantuonglai.com/image/cover/001-374.jpg
 tags:
   - thu vien
   - van hoc
@@ -47,6 +47,6 @@ Người yêu ơi, em không là một cái gì đã được tạo tác nên, e
 
 Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/thich-nhat-hanh-bay-gio-moi-thay-chuong-09) tại đây.
 
-Đọc [Bây giờ mới thấy, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-bay-gio-moi-thay.pdf) tại đây.
+Đọc [Bây giờ mới thấy, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-bay-gio-moi-thay.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

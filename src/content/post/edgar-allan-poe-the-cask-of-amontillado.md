@@ -3,7 +3,7 @@ pubDatetime: 2006-02-01T10:10:00Z
 title: Edgar Allan Poe | Thùng rượu Amontillado
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0137.jpg
+image: https://nhavantuonglai.com/image/cover/001-137.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -197,4 +197,4 @@ _Fortunato!_
 
 Vẫn không có câu trả lời. Tôi thọc ngọn đuốc qua khe hở còn lại và để nó rơi vào trong. Đáp lại chỉ có tiếng leng keng của những chiếc chuông. Tim tôi chùng xuống; chính sự ẩm ướt của hầm mộ khiến tôi cảm thấy như vậy. Tôi vội vàng hoàn thành công việc của mình. Tôi nhét viên đá cuối cùng vào vị trí của nó; tôi trát kín nó lại. Trên lớp gạch mới, tôi dựng lại bức tường cũ bằng những bộ xương. Trong suốt nửa thế kỷ, không có một ai làm phiền chúng. _An nghỉ trong bình yên!_
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

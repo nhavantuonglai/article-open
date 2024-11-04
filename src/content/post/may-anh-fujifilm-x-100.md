@@ -3,7 +3,7 @@ pubDatetime: 2022-10-17T10:10:00Z
 title: Máy ảnh Fujifilm X100
 description: Máy ảnh Mirrorless Digital Fujifilm X100 sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim X100 được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0353.jpg
+image: https://nhavantuonglai.com/image/cover/001-353.jpg
 tags:
   - affiliate
   - affiliate
@@ -162,4 +162,4 @@ Ngoài ra với kết nối không dây, Fujifilm X100 cho phép điều khiển
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0647.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-647.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

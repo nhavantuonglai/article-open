@@ -3,7 +3,7 @@ pubDatetime: 2021-09-08T10:10:00Z
 title: Cẩm nang du lịch Nha Trang
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0644.jpg
+image: https://nhavantuonglai.com/image/cover/001-644.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -23,7 +23,7 @@ Hiện nay, các hãng hàng không Việt Nam như Vietnam Airlines, Vietjet Ai
 
 Sân bay Cam Ranh cách trung tâm thành phố khoảng 35 km. Ở đây có các hãng xe taxi đón khách với giá khoảng 300.000 đồng một chuyến. Ngoài ra, du khách có thể sử dụng xe bus, tuyến số 18, giá 50.000 đồng một lượt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-450.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-450.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
 
 Thành phố Nha Trang không quá lớn, trục đường chính chạy dọc theo bãi biển, vì vậy du khách nên thuê xe máy để tham quan, đặc biệt khi muốn thưởng thức ẩm thực của người địa phương. Xe máy có giá thuê khoảng 100.000 – 150.000 đồng. Thông thường ở các khách sạn sẽ cung cấp dịch vụ này.
 
@@ -35,7 +35,7 @@ Trần Phú là trục đường chạy dọc bãi biển, ở đây có nhiều
 
 Với du khách yêu thích du lịch nghỉ dưỡng, với không gian riêng tư, không gần trung tâm thì Amiana resort trên đường Phạm Văn Đồng; Vinpearl Resort, Hòn Tre hay MerPerle là sự lựa chọn phù hợp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-451.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-451.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn gì
 
@@ -85,7 +85,7 @@ Ngoài ra, nơi đây cũng có rất nhiều quán cà phê, trà chanh, trà s
 
 _Bãi biển Nha Trang_ chạy dài theo dọc thành phố, chỉ cần đi bộ từ đường Trần Phú là có thể đến biển. Tuy nhiên điểm tập trung đông người tắm nhất là ở khu vực quanh tháp Trầm Hương. Bãi biển của thành phố được nhiều du khách đánh giá là trong, sạch, cát vàng mịn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-452.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-452.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
 
 _Đảo trong vịnh Nha Trang_ mang những vẻ đẹp riêng, với làng chài, bãi tắm đôi hoang sơ, _vương quốc_ của loài khỉ hay rạn san hô nhiều màu sắc.
 
@@ -97,7 +97,7 @@ Hòn Miễu được biết đến là một trong những đảo đẹp nhất 
 
 Hòn Chồng ở đường Phạm Văn Đồng, cách trung tâm thành phố khoảng 3 km về hướng Đông Bắc. Nơi đây là một quần thể khối đá lớn với đủ loại hình thù, xếp chồng lên nhau chạy từ bờ cao xuống biển. Địa điểm du lịch này cũng là một trong những nơi đẹp nhất để ngắm nhìn thành phố biển, không khí trong lành, yên tĩnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-453.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-453.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
 
 Hòn Mun là điểm đến đẹp nhất để lặn, ngắm san hô cách cảng cầu đá 12 km. Với sự giao thoa của 2 dòng hải lưu nóng, đảo có khoảng 2.000 loài san hô cùng nhiều sinh vật biển nhiệt đới. Tham gia tour lặn biển ở độ sâu từ 6 – 8 m, du khách sẽ được chiêm ngưỡng thế giới đại dương muôn màu sắc và chạm tay vào nhiều loài sao, cá biển…
 
@@ -125,7 +125,7 @@ Vé vào cửa bảo tàng là 40.000 đồng một người lớn, 20.000 đồ
 
 Kiến trúc gồm 3 tầng, đi từ dưới lên trên theo bậc thang đá. Trong đó, khu vực Tháp cổng nay không còn nữa. Ở tầng giữa hay khu tiền đỉnh Mandapa là nơi dành cho khách nghỉ ngơi và chuẩn bị lễ vật. Ở đây có 4 hàng cột hình bát giác, gồm 12 cột nhỏ bên ngoài và 10 cột lớn phía trong.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-454.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nha-trang-454.jpg" alt="cam-nang-du-lich-nha-trang" height=100% width=100%><figcaption><p>cam-nang-du-lich-nha-trang-nhavantuonglai</p></figcaption></figure>
 
 Men theo những bậc thang dốc đứng, du khách sẽ đến với khu đền tháp, bao gồm 6 Kalan (đền tháp) màu đỏ gạch, trong đó 2 tháp đã bị phá hủy chỉ còn lại nền móng. Các tháp được xây dựng một kiểu nhưng khác nhau về kích thước, trong đó tháp đông bắc là cao nhất, khoảng 23 m. Bốn góc mái là ba tầng mái thu nhỏ trang trí nhiều linh vật như voi, thiên nga, dê… Xung quanh khu đền tháp có nhiều cây xanh để du khách ngồi nghỉ ngơi và hóng mát.
 
@@ -147,4 +147,4 @@ Cuối ngày, du khách có thể cùng gia đình trải nghiệm vòng quay v�
 
 Giá vé vào cửa và cáp treo 2 chiều dành cho người lớn là 880.000 đồng, trẻ em từ 1 m đến 1,4 m có giá vé là 660.000 đồng. Khách hàng trên 60 tuổi được ưu đãi vé 530.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

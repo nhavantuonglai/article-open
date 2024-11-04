@@ -3,7 +3,7 @@ pubDatetime: 2021-06-14T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 800
 description: Với độ nhạy ISO 800, Kodak Portra 800 phù hợp cho các tình huống chụp ảnh trong nhà, đêm tối và môi trường ánh sáng yếu.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg
+image: https://nhavantuonglai.com/image/cover/001-127.jpg
 tags:
   - affiliate
   - roll film
@@ -25,11 +25,11 @@ Kodak là một trong những thương hiệu nhiếp ảnh lâu đời và uy t
 
 Kodak Portra 800 được ra mắt nhằm đáp ứng nhu cầu của những nhiếp ảnh gia cần một cuộn film có độ nhạy sáng cao hơn, phù hợp cho việc chụp ảnh trong các điều kiện ánh sáng yếu mà vẫn giữ được chất lượng hình ảnh tốt. Được phát triển từ công nghệ tiên tiến của Kodak, Kodak Portra 800 nhanh chóng trở thành một trong những cuộn film được yêu thích và tin dùng bởi các nhiếp ảnh gia chuyên nghiệp và nghiệp dư trên toàn thế giới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-01.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-01.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-02.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-02.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-03.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-800-03.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
 ### Thông số kỹ thuật của cuộn film Kodak Portra 800
 
@@ -51,11 +51,11 @@ Chụp ảnh film với cuộn film Kodak Portra 800 trong điều kiện đủ 
 
 Kodak Portra 800 đặc biệt mạnh mẽ trong việc giữ độ tương phản trung bình, giúp các vùng sáng và tối trong bức ảnh được cân bằng tốt. Những bức ảnh chụp dưới ánh sáng tự nhiên thường rất sống động và có chiều sâu. Độ phân giải cao của cuộn film này cũng giúp giữ được các chi tiết nhỏ và các đường nét tinh tế, tạo nên những bức ảnh có độ sắc nét ấn tượng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0138.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-138.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0139.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-139.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0140.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-140.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện thiếu sáng
 
@@ -63,11 +63,11 @@ Kodak Portra 800 cũng thể hiện tốt khi chụp trong điều kiện thiế
 
 Một điểm mạnh của Kodak Portra 800 là khả năng giữ màu sắc chân thực và không bị bệt màu khi chụp trong điều kiện ánh sáng yếu. Điều này đặc biệt quan trọng khi chụp ảnh đêm hoặc trong các môi trường ánh sáng yếu, nơi mà nhiều loại film khác có thể gặp khó khăn trong việc giữ chi tiết và sắc độ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0141.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-141.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0142.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-142.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0143.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-143.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện ánh sáng nhân tạo
 
@@ -75,15 +75,15 @@ Kodak Portra 800 được thiết kế để chụp ảnh dưới ánh sáng nh�
 
 Cuộn film Kodak Portra 800 không chỉ giúp tạo ra những bức ảnh đẹp mà còn dễ dàng xử lý và in ấn nhờ vào quy trình C-41. Điều này giúp tiết kiệm thời gian và chi phí cho các nhiếp ảnh gia, đồng thời mang lại những bức ảnh chất lượng cao với độ sắc nét và chi tiết vượt trội.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0144.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-144.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0145.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-145.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0146.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-146.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0147.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-147.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0188.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-188.jpg" alt="Kodak Portra 800" title="Kodak Portra 800" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Mua cuộn film Kodak Portra 800 ở đâu
 
@@ -95,4 +95,4 @@ Shopee nhavantuonglai không chỉ cung cấp các sản phẩm chất lượng 
 
 Cuộn film Kodak Portra 800 là lựa chọn tuyệt vời cho những ai đam mê chụp ảnh film màu và muốn có những bức ảnh chất lượng cao với màu sắc tự nhiên và chi tiết rõ nét. Dù chụp trong điều kiện đủ sáng, thiếu sáng hay ánh sáng nhân tạo, Kodak Portra 800 đều mang lại kết quả ấn tượng. Hãy thử trải nghiệm và cảm nhận sự khác biệt mà cuộn film này mang lại cho những bức ảnh của bạn. Việc mua cuộn film Kodak Portra 800 tại Shopee nhavantuonglai sẽ giúp bạn dễ dàng sở hữu sản phẩm chất lượng này và thỏa mãn đam mê chụp ảnh film của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0165.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-165.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

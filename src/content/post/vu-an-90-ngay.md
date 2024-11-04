@@ -3,7 +3,7 @@ pubDatetime: 2024-03-06T10:10:00Z
 title: 90 ngày đào hầm trộm 3 tấn 5 tiền ở ngân hàng
 description: Nguỵ trang dưới vỏ bọc cửa hàng cây cảnh, 30 đạo chích thuê căn hộ cạnh ngân hàng Trung ương, đào hầm suốt 3 tháng, thực hiện vụ trộm hoàn hảo nhất mọi thời đại.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg
+image: https://nhavantuonglai.com/image/cover/001-548.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -71,4 +71,4 @@ Hàng thập kỷ sau vụ trộm, hậu quả của nó vẫn âm ỉ. Cuối c
 
 Theo cảnh sát trưởng phụ trách cuộc điều tra, Antônio Celso dos Santos, _không có cách nào để thu hồi thêm tiền_ khi đã quá nhiều thời gian trôi qua. Một số người nói rằng các tờ tiền được chôn trong sa mạc. Nhưng nếu bạn đến thăm thị trấn Boa Viagem nhỏ bé, hãy để mắt đến những công trình xây dựng hoành tráng mới tinh. Có nhiều tin đồn cho rằng, chúng đều được xây từ chiến lợi phẩm của vụ trộm thế kỷ này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

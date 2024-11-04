@@ -3,7 +3,7 @@ pubDatetime: 2018-07-17T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 17
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 17 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0467.jpg
+image: https://nhavantuonglai.com/image/cover/001-467.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,77 +19,77 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 17
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0001.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0001.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0002.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0002.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0003.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0003.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0004.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0004.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0005.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0005.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0006.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0006.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0271.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0271.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0272.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0272.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0273.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0273.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0274.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0274.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0275.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0275.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0276.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0276.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0277.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0277.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0278.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0278.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0279.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0279.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0280.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0280.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0281.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0281.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0282.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0282.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0283.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0283.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0284.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0284.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0285.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0285.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0286.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0286.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0287.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0287.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0288.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0288.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0289.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0289.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0290.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0290.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0291.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0291.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0292.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0292.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0293.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0293.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0294.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0294.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0295.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0295.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0296.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0296.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0297.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0297.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0298.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0298.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0299.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0299.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0300.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-02-0300.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -365,6 +365,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 02](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-02.pdf) tại đây.
+Đọc [Chim lửa, tập 02](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-02.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 17." title="Chim lửa (Hi no Tori) chương 17." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 17.</p></figcaption></figure>

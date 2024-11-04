@@ -3,7 +3,7 @@ pubDatetime: 2018-06-19T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Tower of Hanoi)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0538.jpg
+image: https://nhavantuonglai.com/image/cover/001-538.jpg
 tags:
   - developer
   - github
@@ -33,4 +33,4 @@ Animation of an iterative algorithm solving 6-disk problem
 
 With `3` disks, the puzzle can be solved in `7` moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is `2^n − 1`, where `n` is the number of disks.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

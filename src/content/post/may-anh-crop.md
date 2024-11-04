@@ -3,7 +3,7 @@ pubDatetime: 2022-10-09T10:10:00Z
 title: Tìm hiểu về cảm biến máy ảnh crop
 description: Cảm biến crop, hay còn gọi là cảm biến APS-C, là loại cảm biến hình ảnh có kích thước nhỏ hơn so với cảm biến full-frame nhưng lớn hơn cảm biến 4/3.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0329.jpg
+image: https://nhavantuonglai.com/image/cover/001-329.jpg
 tags:
   - affiliate
   - may anh
@@ -156,4 +156,4 @@ Cảm biến crop đang tiếp tục phát triển với nhiều công nghệ m�
 
 Cảm biến crop sẽ tiếp tục là lựa chọn phổ biến cho nhiều nhiếp ảnh gia và người dùng nhờ vào sự cải tiến công nghệ và khả năng đáp ứng đa dạng nhu cầu sử dụng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

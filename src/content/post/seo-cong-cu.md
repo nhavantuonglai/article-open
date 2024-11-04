@@ -3,7 +3,7 @@ pubDatetime: 2023-04-24T10:10:00Z
 title: Tổng hợp công cụ SEO hàng đầu để tối ưu hiệu suất website
 description: Công cụ SEO là những giải pháp giúp tối ưu năng suất, đơn giản hóa công việc và cải thiện hiệu quả của các chiến lược tiếp thị trên công cụ trực tiếp.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0121.jpg
+image: https://nhavantuonglai.com/image/cover/001-121.jpg
 tags:
   - google
   - google console
@@ -53,17 +53,17 @@ Truy cập [Keyword Planner](https://ads.google.com/aw/keywordplanner/home?) đ�
 
 Đầu tiên, thao tác chọn _Khám phá các từ khóa mới._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-31.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-31.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 Nếu muốn phân tích một từ khóa bằng Keyword Planner, để nhận các gợi ý từ khóa tương tự, biết volume, độ khó và các chỉ số liên quan, thì nhập nội dung bạn muốn phân tích vào phần _Bắt đầu bằng một từ khóa._
 
 Nếu muốn phân tích website bằng Keyword Planner, cụ thể là dựa vào nội dung hiện có trên website ấy thì những từ khóa nào khả dụng, phù hợp để lên kế hoạch SEO thì nhập url trang bạn muốn phân tích (thường là trang chủ) vào phần _Bắt đầu bằng một website._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-32.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-32.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 Đây cũng là cách hữu ích để kiểm tra khả năng ghi nhận từ khóa hiện có trên công cụ tìm kiếm của website. Ví dụ, khi phân tích một website bằng Keyword Planner và nhận được khoảng 500 từ khóa thì chứng tỏ nội dung trên website đa dạng, dễ bắt từ khóa mới; và tương tự vậy với điều ngược lại, khi phân tích website bằng Keyword Planner mà nhận lại quá ít từ khóa, chứng tỏ nội dung chưa được đầu tư, tối ưu đúng cách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-33.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-33.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 ### Công cụ kiểm tra backlink
 
@@ -77,7 +77,7 @@ Danh sách dưới đây là những công cụ để kiểm tra, đánh giá ch
 
 – [Majestic Backlink](https://majestic.com/reports/site-explorer?oq=example.com&IndexDataSource=F&q=nhavantuonglai.com).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-34.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-34.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 Bên cạnh việc kiểm tra, bạn cũng có thể tăng backlink chất lượng cho website bằng những gợi ý dưới đây.
 
@@ -99,7 +99,7 @@ RSS: RSS là tệp XML thể hiện nội dung website đơn giản và dễ đ�
 
 – [Feeder](https://feeder.co/reader).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-35.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-35.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 ### Công cụ đánh giá nội dung
 
@@ -139,7 +139,7 @@ Trong chiến lược SEO, thứ hạng từ khóa là một trong những KPI c
 
 Để theo dõi thứ hạng từ khóa hiệu quả, bạn nên sử dụng tính năng [Position Tracking](https://www.semrush.com/position-tracking/) của Semrush. Với phiên bản miễn phí, bạn có thể theo dõi tối đa 10 từ khóa của website. Với phiên bản thu phí, mặc định theo dõi được 500 từ khóa, nếu muốn theo dõi nhiều hơn bạn có thể chi tiền mua dựa trên hạn mức mà Semrush cung cấp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-36.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-36.jpg" alt="cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat" height="100%" width="100%"><figcaption><p>cong-cu-seo-hang-dau-de-toi-uu-hoa-hieu-suat-nhavantuonglai</p></figcaption></figure>
 
 Một mẹo hữu ích đó là, hãy đăng ký tài khoản thông qua chính sách dùng thử miễn phí để được hưởng lợi ích của tài khoản trả phí. Sau khi hết hạn dùng thử, danh sách từ khóa được nhập trước đó để theo dõi không bị xóa, giúp bạn duy trì việc đo lường và đánh giá hiệu quả xuyên suốt cả thời gian dài. Nhược điểm thì tất nhiên, sẽ không thể cập nhật, thêm từ khóa mới khi có thêm từ khóa cần đặt mục tiêu, hoặc áp dụng cho các chiến dịch SEO mới.
 
@@ -197,4 +197,4 @@ Cũng cần nói thêm là, công cụ chỉ là công cụ, chỉ là sự hỗ
 
 Tổng quan lại, chiến lược SEO giúp tiếp cận tệp khách hàng tiềm năng hiệu quả, ổn định và dài lâu. Để xây dựng được chiến lược SEO hiệu quả thì cần sự hỗ trợ đắc lực từ những công cụ SEO tương ứng. Vậy nên, chọn và khai thác tốt các công cụ SEO sẽ giúp bạn làm chủ được chiến lược, đạt được những hiệu quả như mong muốn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

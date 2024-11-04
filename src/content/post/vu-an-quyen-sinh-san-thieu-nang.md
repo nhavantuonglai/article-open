@@ -3,7 +3,7 @@ pubDatetime: 2024-03-25T10:10:00Z
 title: Luật cấm người thiểu năng sinh đẻ chia rẽ nước Mỹ gần một thế kỷ
 description: Đầu những năm 1900, thuyết ưu sinh thịnh hành ở Mỹ với quan điểm người ngoại hình xấu, kém thông minh hoặc khuyết tật nên bị cấm sinh đẻ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0528.jpg
+image: https://nhavantuonglai.com/image/cover/001-528.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -61,4 +61,4 @@ Tuy vậy, bản án sai trái trong vụ này chưa bao giờ được lật ng
 
 _Ba thế hệ đần độn là quá đủ,_ những lời phán quyết đầy miệt thị của Thẩm phán tòa tối cao khi đó, Oliver Wendell Holmes Jr. trở thành câu nói được trích dẫn nhiều nhất sự nghiệp của ông, tất nhiên với thái độ đầy chỉ trích của hậu thế.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

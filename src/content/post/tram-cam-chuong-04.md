@@ -3,7 +3,7 @@ pubDatetime: 2023-01-15T10:10:00Z
 title: Những điều cần biết về trầm cảm | Kiểm soát trầm cảm
 description: Trầm cảm là một rối loạn tâm thần phổ biến, ảnh hưởng đến cảm xúc, tư duy, hành vi và sức khỏe của người bệnh. Trầm cảm có thể gây ra nhiều tác động xấu đến cuộc sống của người bệnh, bao gồm tác động.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg
+image: https://nhavantuonglai.com/image/cover/001-149.jpg
 tags:
   - viet lach
   - nghien cuu khoa hoc
@@ -677,4 +677,4 @@ Tôi hy vọng rằng những ai đang phải vật lộn với trầm cảm, ho
 
 – [Link đặt sách giấy](https://store.artofmanliness.com/collections/books/products/leashing-the-black-dog-book/)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

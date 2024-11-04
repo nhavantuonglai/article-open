@@ -3,7 +3,7 @@ pubDatetime: 2021-06-13T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 400
 description: Kodak Portra 400 là một trong những cuộn film màu nổi tiếng nhất của hãng Kodak.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0716.jpg
+image: https://nhavantuonglai.com/image/cover/001-716.jpg
 tags:
   - affiliate
   - roll film
@@ -25,9 +25,9 @@ Kodak là một trong những công ty tiên phong trong ngành công nghiệp n
 
 Kodak Portra 400 được ra mắt vào năm 1998 như một phần của dòng film Portra. Mục tiêu của Kodak là tạo ra một cuộn film có độ nhạy sáng cao, phù hợp cho việc chụp ảnh chân dung và phong cảnh trong nhiều điều kiện ánh sáng khác nhau. Đến nay, Kodak Portra 400 đã trở thành một trong những cuộn film màu phổ biến nhất, không chỉ vì chất lượng ảnh tuyệt vời mà còn vì khả năng linh hoạt và dễ sử dụng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-400-01.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-400-01.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-400-02.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/roll-film-photo-kodak-portra-400-02.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
 
 ### Thông số kỹ thuật của cuộn film Kodak Portra 400
 
@@ -49,11 +49,11 @@ Chụp ảnh film với cuộn film Kodak Portra 400 trong điều kiện đủ 
 
 Kodak Portra 400 đặc biệt mạnh mẽ trong việc giữ độ tương phản trung bình, giúp các vùng sáng và tối trong bức ảnh được cân bằng tốt. Những bức ảnh chụp dưới ánh sáng tự nhiên thường rất sống động và có chiều sâu. Độ phân giải cao của cuộn film này cũng giúp giữ được các chi tiết nhỏ và các đường nét tinh tế, tạo nên những bức ảnh có độ sắc nét ấn tượng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0114.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-114.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0115.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-115.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0116.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-116.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện thiếu sáng
 
@@ -61,11 +61,11 @@ Kodak Portra 400 cũng thể hiện tốt khi chụp trong điều kiện thiế
 
 Một điểm mạnh của Kodak Portra 400 là khả năng giữ màu sắc chân thực và không bị bệt màu khi chụp trong điều kiện ánh sáng yếu. Điều này đặc biệt quan trọng khi chụp ảnh đêm hoặc trong các môi trường ánh sáng yếu, nơi mà nhiều loại film khác có thể gặp khó khăn trong việc giữ chi tiết và sắc độ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0117.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-117.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0118.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-118.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0119.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-119.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Chất lượng ảnh chụp trong điều kiện ánh sáng nhân tạo
 
@@ -73,15 +73,15 @@ Kodak Portra 400 được thiết kế để chụp ảnh dưới ánh sáng nh�
 
 Cuộn film Kodak Portra 400 không chỉ giúp tạo ra những bức ảnh đẹp mà còn dễ dàng xử lý và in ấn nhờ vào quy trình C-41. Điều này giúp tiết kiệm thời gian và chi phí cho các nhiếp ảnh gia, đồng thời mang lại những bức ảnh chất lượng cao với độ sắc nét và chi tiết vượt trội.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0120.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-120.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0121.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-121.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0122.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-122.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0123.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-123.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0124.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-124.jpg" alt="Kodak Portra 400" title="Kodak Portra 400" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Mua cuộn film Kodak Portra 400 ở đâu
 
@@ -93,4 +93,4 @@ Shopee nhavantuonglai không chỉ cung cấp các sản phẩm chất lượng 
 
 Cuộn film Kodak Portra 400 là lựa chọn tuyệt vời cho những ai đam mê chụp ảnh film màu và muốn có những bức ảnh chất lượng cao với màu sắc tự nhiên và chi tiết rõ nét. Dù chụp trong điều kiện đủ sáng, thiếu sáng hay ánh sáng nhân tạo, Kodak Portra 400 đều mang lại kết quả ấn tượng. Hãy thử trải nghiệm và cảm nhận sự khác biệt mà cuộn film này mang lại cho những bức ảnh của bạn. Việc mua cuộn film Kodak Portra 400 tại Shopee nhavantuonglai sẽ giúp bạn dễ dàng sở hữu sản phẩm chất lượng này và thỏa mãn đam mê chụp ảnh film của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0542.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-542.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

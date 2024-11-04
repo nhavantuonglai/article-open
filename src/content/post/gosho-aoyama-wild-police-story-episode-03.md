@@ -3,7 +3,7 @@ pubDatetime: 2018-12-13T10:10:00Z
 title: Gosho Aoyama | Wild police story (Học viện cảnh sát) | Chương 03
 description: Gosho Aoyama | Wild police story (Học viện cảnh sát) là bộ truyện spinoff và tiền truyện của manga Case Closed (Thám tử Lừng danh Conan), được viết bởi Gosho Aoyama, minh họa bởi Takahiro Arai.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0663.jpg
+image: https://nhavantuonglai.com/image/cover/001-663.jpg
 tags:
   - manga
   - gosho aoyama
@@ -16,29 +16,29 @@ tags:
   - hoc vien canh sat
 ---
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-01.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-01.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-02.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-02.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-03.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-03.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-04.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-04.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-05.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-05.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-06.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-06.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-07.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-07.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-08.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-08.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-09.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-09.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-10.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-10.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-11.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-11.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-12.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/gosho-aoyama-wild-police-story-03-12.jpg" alt="Wild police story chương 03" title="Wild police story chương 03" height=100% width=100%><figcaption><p>Wild police story chương 03</p></figcaption></figure>
 
 ## Giới thiệu truyện tranh Gosho Aoyama | Wild police story (Học viện cảnh sát)
 
@@ -91,4 +91,4 @@ Nhằm đảm bảo tác quyền, toàn bộ ảnh truyện Gosho Aoyama | Wild 
 
 Đọc [Học viện cảnh sát, chương 12](https://nhavantuonglai.com/article/gosho-aoyama-wild-police-story-episode-12) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

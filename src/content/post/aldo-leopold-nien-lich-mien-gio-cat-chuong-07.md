@@ -3,7 +3,7 @@ pubDatetime: 2018-10-07T10:10:00Z
 title: Aldo Leopold | Niên lịch miền gió cát (Chương 07)
 description: Niên Lịch Miền Gió Cát như một sự tổng hòa giữa lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh bằng ngôn từ và cả triết học. Bằng việc ghi chép lại những thay đổi của sinh vật tại khu trang trại ở Wisconsin.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0307.jpg
+image: https://nhavantuonglai.com/image/cover/001-307.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat
@@ -63,7 +63,7 @@ Giống người cơ khí chúng ta đã gạt qua các loài hoa cỏ để có
 
 Từ đó ta có thể suy ra rằng mức độ phát triển của các khu trang trại tỉ lệ thuận với sự nghèo nàn về cây cỏ ở cùng khu vực đó. Tôi lựa chọn trang trại của mình vì độ kém phát triển và vị trí cách xa cao tốc của nó, và thực tế là cả khu vực mà tôi ở tọa lạc tại khu vực nước chảy ngược của sông Progress. Con đường trải ngang nhà tôi là con đường đất cũ do những chiếc xe bò kéo của những người đi khai khẩn đất đai chạy qua mà thành, không hề rải cuội hay đổ nhựa đường và cũng hoàn toàn vắng bóng xe ủi đất hay máy phun nước. Hàng xóm đôi bên của tôi vẫn than phiền với nhân viên đại diện của hạt. Khoảnh đất ôm sát hàng rào của họ cả tỷ năm rồi chưa được cắt tỉa sửa sang. Đầm ngập nước quanh nhà họ không được hút cạn mà cũng chẳng được dẫn máng thoát nước. Giữa việc đi câu và hướng về tương lai thì hẳn họ sẽ lựa chọn việc đi câu. Vì thế vào mỗi cuối tuần, tôi đi tìm tiêu chuẩn sống _xanh_ của mình ở trong các cánh rừng sau nhà, còn vào giữa tuần thì tôi đành cố gắng tạm thay thế nó bằng các loài cây trong những trang trại và khuôn viên thuộc trường đại học, cũng như các khu ngoại ô lân cận. Trong một thập kỷ, tôi có một thú tiêu khiển là ghi lại danh sách các loài cây dại ra hoa lần đầu trong hai khu vực đa dạng sinh thái dưới đây:
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/aldo-leopold-nien-lich-mien-gio-cat-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/aldo-leopold-nien-lich-mien-gio-cat-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Từ quan sát này, ta có thể thấy rõ rằng một người nông dân tận hưởng một cuộc sống thiên nhiên mãn nhãn gấp đôi một sinh viên đại học hay một doanh nhân. Dĩ nhiên là cả hai bên đều chưa thực sự nhìn nhận cây cối theo đúng nghĩa, nên một lần nữa chúng ta lại phải đối diện với hai lựa chọn đã nêu ở trên: hoặc chúng ta phải đảm bảo dân chúng tiếp tục sống trong u mê thờ ơ, hoặc chúng ta phải nghiêm túc xem xét câu hỏi liệu phát triển và thiên nhiên có thể đi đôi với nhau hay không.
 
@@ -129,6 +129,6 @@ Tại sao giống cúc la bàn lại biến mất khỏi những khu vực chăn
 
 Đọc [Niên lịch miền gió cát, chương 22](https://nhavantuonglai.com/article/aldo-leopold-nien-lich-mien-gio-cat-chuong-22) tại đây.
 
-Đọc [Niên lịch miền gió cát, toàn tập](https://data.nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
+Đọc [Niên lịch miền gió cát, toàn tập](https://nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

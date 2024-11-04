@@ -3,7 +3,7 @@ pubDatetime: 2021-10-22T10:10:00Z
 title: Cẩm nang du lịch Vĩnh Phúc
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg
+image: https://nhavantuonglai.com/image/cover/001-684.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -23,7 +23,7 @@ Xe máy hoặc ôtô là phương tiện thuận tiện. Từ trung tâm Hà N�
 
 Chú ý chạy đúng tốc độ, quan sát biển báo. Đặc biệt cẩn trọng khi ghé Tam Đảo và thiền viện Tây Thiên vì đường có nhiều đoạn cua gấp, dốc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-669.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-669.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
@@ -37,7 +37,7 @@ Tam Đảo
 
 Tam Đảo được mệnh danh là Đà Lạt ngay gần Hà Nội, với vẻ đẹp hoang sơ của các ngọn núi ẩn hiện trong mây, cùng những kiến trúc Pháp tuyệt đẹp còn sót lại. Đến đây, bạn có thể thưởng ngoạn cảnh đẹp ở nhà thờ đá, [vườn quốc gia Tam Đảo](https://info.nhavantuonglai.com/topick), hoặc lên tháp truyền hình, chiêm bái đền thờ Bà Chúa Thượng Ngàn, đền Đức Thánh Trần; chinh phục đỉnh Rùng Rình vào sớm mai để thấy toàn cảnh thị trấn từ trên cao trong làn mây trắng bảng lảng trôi qua trước mặt…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-670.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-670.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Thiền viện Trúc Lâm Tây Thiên
 
@@ -45,23 +45,23 @@ Cách Tam Đảo khoảng 25 km, [thiền viện Trúc Lâm Tây Thiên](https:/
 
 Cùng với Thiền viện Trúc Lâm Đà Lạt và Yên Tử, Thiền viện Trúc Lâm Tây Thiên là một trong ba thiền viện lớn nhất cả nước. Viếng chùa, du khách không chỉ dâng hương cầu may, cầu tài mà còn được thưởng ngoạn cảnh đẹp núi rừng trùng điệp ở nơi đây. Bên cạnh Thiền viện trúc lâm Tây thiên là Thiền viện trúc lâm An tâm, nơi tu tập của các Ni sư.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-671.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-671.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-672.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-672.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Chùa Tích Sơn
 
 Tích Sơn vốn là một ngôi chùa cổ, là điểm đến du lịch tâm linh của người dân Vĩnh Phúc và nhiều du khách thập phương tìm về. Về thời gian xây dựng chùa Tích Sơn không có tài liệu nào ghi rõ, tuy nhiên thông qua kiến trúc, nhiều nhà nghiên cứu cho rằng chùa được xây dựng vào cuối thời Hậu Lê, đầu thời nhà Nguyễn và trải qua nhiều lần trùng tu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-673.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-673.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Hồ Đại Lải
 
 [Hồ Đại Lải](https://nhavantuonglai.com/article/du-lich-dai-lai) thuộc địa phận xã Ngọc Thanh, thị xã Phúc Yên, cách Hà Nội hơn 40 km, nằm ngay dưới chân núi Tam Đảo. Là hồ nước nhân tạo, Đại Lải như một viên ngọc quý do con người tạo ra. Giữa trập trùng những đồi núi, rừng cây là hồ nước mênh mông xanh biếc, quanh năm soi bóng núi mây trời. Ở đây du khách có thể dạo chơi, ngắm cảnh, đi du thuyền, tắm hồ, câu cá, leo núi… hoặc thưởng thức các món ăn dân tộc đặc sắc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-674.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-674.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-675.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-675.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Hồ Xạ Hương
 
@@ -75,7 +75,7 @@ Thành phố Vĩnh Yên
 
 Thành phố Vĩnh Yên là trung tâm chính trị, kinh tế, văn hoá, xã hội của tỉnh. Những điểm tham quan gợi ý là Công viên quảng trường Hồ Chí Minh – biểu tượng mới của thành phố, chùa Hà Tiên cổ kính từ thế kỷ 18, đầm Vạc được ví như _hồ Tây của Vĩnh Yên_…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-676.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-676.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Làng gốm Hương Canh
 
@@ -83,7 +83,7 @@ Làng gốm Hương Canh thuộc huyện Bình Xuyên, Vĩnh Phúc nằm ngay b�
 
 Đến với làng gốm Hương Canh, bạn có thể thuê xe đạp dạo chơi quanh làng hoặc tản bộ để tận mắt chứng kiến những công đoạn làm gốm và ngắm những vại, chĩnh, chậu, lọ, tiểu sành… khắp nơi ở đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-677.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-677.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Từ trung tâm thành phố Vĩnh Yên, du khách đi chừng 20 km dọc theo quốc lộ 2A rẽ trái theo đường 305 đường tỉnh lộ Vĩnh Yên – Vĩnh Tường để đi thăm các làng nghề truyền thống của huyện Vĩnh Tường. Trong đó, làng mộc Bích Chu nổi tiếng với kỹ nghề làm gỗ mỹ nghệ; làng rèn Lỹ Nhân, làng rắn Vĩnh Sơn với nghề chăn nuôi rắn…
 
@@ -93,7 +93,7 @@ Từ trung tâm thành phố Vĩnh Yên, du khách đi chừng 20 km dọc theo 
 
 ## Lưu ý
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-678.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-vinh-phuc-678.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 – Kiểm tra thời tiết trước khi lên đường.
 
@@ -103,4 +103,4 @@ Từ trung tâm thành phố Vĩnh Yên, du khách đi chừng 20 km dọc theo 
 
 – Thuê xe máy và đổ xăng ở Tam Đảo giá khá cao nên hỏi kỹ giá trước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

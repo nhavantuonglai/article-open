@@ -3,7 +3,7 @@ pubDatetime: 2023-04-02T10:10:00Z
 title: Quý Thể | Mùi cọp
 description: Chúng tôi còn giận nhau. Thực ra tôi biết nàng trở về nhà vào lúc 12 giờ khuya. Nàng cởi bộ áo lấp lánh kim tuyến treo lên móc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0491.jpg
+image: https://nhavantuonglai.com/image/cover/001-491.jpg
 tags:
   - thu vien
   - quy the
@@ -72,4 +72,4 @@ Tôi cho tay vào cây súng dưới áo mở nắp bao da. Thật là nhạy b�
 
 Qua giây phút hãi hùng đó, ban nhạc sực tỉnh, chơi một khúc quân hành rời rạc. Theo truyền thống nghề xiếc, bất cứ lâm vào tình trạng nào vẫn tiếp tục trình diễn. Nhưng không còn ai muốn xem, không còn ai muốn diễn. Cuối cùng ban nhạc cũng ngừng. Rồi thì cả rạp yên lặng như một nhà mồ. Mọi người đều trông tin từ bệnh viện. Một giờ sau nàng qua đời. Tôi lê ra sàn diễn nghẹn ngào báo tin. Khán giả không ai chịu ra về. Bao nhiêu là hoa đặt vào nơi nàng đã ngã xuống. Mấy anh hề hai mắt đỏ hoe thất thểu ra sân…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

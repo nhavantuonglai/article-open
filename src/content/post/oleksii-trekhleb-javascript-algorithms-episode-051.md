@@ -3,7 +3,7 @@ pubDatetime: 2018-07-02T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Knapsack problem)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0551.jpg
+image: https://nhavantuonglai.com/image/cover/001-551.jpg
 tags:
   - developer
   - github
@@ -57,4 +57,4 @@ maximize ![unbounded knapsack](https://wikimedia.org/api/rest_v1/media/math/rend
 
 subject to ![unbounded knapsack](https://wikimedia.org/api/rest_v1/media/math/render/svg/dd6e7c9bca4397980976ea6d19237500ce3b8176) and ![unbounded knapsack](https://wikimedia.org/api/rest_v1/media/math/render/svg/90a99710f61d5dea19e49ae5b31164d2b56b07e3)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

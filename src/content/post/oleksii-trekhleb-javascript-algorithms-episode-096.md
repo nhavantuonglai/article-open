@@ -3,7 +3,7 @@ pubDatetime: 2018-05-02T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Square root)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0596.jpg
+image: https://nhavantuonglai.com/image/cover/001-596.jpg
 tags:
   - developer
   - github
@@ -62,4 +62,4 @@ x := x   - (x²   - S) / (2x)
 
 The `x² − S` above is how far away `x²` is from where it needs to be, and the division by `2x` is the derivative of `x²`, to scale how much we adjust `x` by how quickly `x²` is changing.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

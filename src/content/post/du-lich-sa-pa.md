@@ -3,7 +3,7 @@ pubDatetime: 2021-10-12T10:10:00Z
 title: Cẩm nang du lịch Sa Pa
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0676.jpg
+image: https://nhavantuonglai.com/image/cover/001-676.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -27,7 +27,7 @@ Nếu đi tàu hỏa chạy, bạn chọn chuyến Hà Nội – Lào Cai, sau k
 
 Nếu tự lái ôtô, bạn đi cao tốc Nội Bài – Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ. Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn… trước khi khởi hành. Thời gian chạy xe khoảng 5 – 6 tiếng. Hãy khởi hành từ Hà Nội muộn nhất khoảng 12h30, để khi đến đèo lên Sa Pa, trời không quá tối.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-604.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-604.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
 ## Khách sạn, homestay
 
@@ -37,7 +37,7 @@ Nếu chọn homestay, hostel hãy tìm tới các bản như Cát Cát, Lao Ch�
 
 Một số homestay được yêu thích là Eco Palms House, Heaven Sapa, Viettrekking, Phơri_s House, Sapa Heavenly, Rock Garden, Coóng, Vườn mây, Mộng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-605.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-605.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -73,11 +73,11 @@ Từ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng 
 
 Ngoài ra, tại trạm dừng của cáp treo và tàu hỏa leo núi đều có các gian hàng bán đồ lưu niệm, nhà hàng… phục vụ nhu cầu mua sắm, ăn uống của du khách. Lưu ý: nên đi giày đế thấp, mang theo áo khoác, áo mưa, hoặc ô đề phòng tiết trời trên đỉnh núi lạnh đột ngột và nhiều sương mây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-606.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-606.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
 ### _Swing Sa Pa_
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-607.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-607.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
 Tổ hợp check-in này tọa lạc ở số 87 Nguyễn Chí Thanh, gần trung tâm thị trấn, cách nhà thờ Đá hướng cáp treo khoảng 2 km.
 
@@ -107,10 +107,10 @@ Nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km, thác 
 
 Đến Sa Pa phải ăn đồ nướng, bởi đây là món ăn có mặt khắp nơi và nhiều loại từ các xiên thịt lợn, gà, rau củ cuốn cho tới trứng, ngô, khoai, cơm lam. Giá đồ nướng chỉ từ 20.000 – 100.000 đồng mỗi loại. Ngoài ra, cá hồi, cá tầm nấu lẩu hoặc ăn sống cũng rất được ưa chuộng. Một nồi lẩu giá 300.000 – 600.000 đồng phù hợp cho 3 – 6 người ăn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-608.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-sa-pa-608.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
 Những quán ăn đặc sản du khách có thể tham khảo là thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ). Với những du khách trẻ, yêu thích món ăn và không gian trẻ trung nên đến với Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai… và [H_Mong Pizza](https://info.nhavantuonglai.com/topick) ở Pi_s Boutique.
 
 Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn. Tuy nhiên nếu bạn muốn tìm một không gian yên tĩnh, có view thung lũng hoặc núi rừng có thể đến với Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-06-07T10:10:00Z
 title: Tối ưu video trên nền tảng thương mại điện tử
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0540.jpg
+image: https://nhavantuonglai.com/image/cover/001-540.jpg
 tags:
   - google
   - google console
@@ -49,4 +49,4 @@ Những mẹo sau đây có thể giúp Google Index nội dung video lưu trữ
 
 – Ngoài dữ liệu có cấu trúc `Video`, hãy cân nhắc việc thêm dữ liệu có cấu trúc phù hợp cho từng trang, chẳng hạn như mã đánh dấu `Product`, `HowTo` hoặc `Q&A`.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

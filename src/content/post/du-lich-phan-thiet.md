@@ -3,7 +3,7 @@ pubDatetime: 2021-09-11T10:10:00Z
 title: Cẩm nang du lịch Phan Thiết
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0647.jpg
+image: https://nhavantuonglai.com/image/cover/001-647.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -13,7 +13,7 @@ _Phan Thiết có diện tích khoảng 200 km2, cảnh quan thiên nhiên đa d
 
 ## Phan Thiết mùa nào đẹp?
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-464.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-464.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Phan Thiết nằm ở trong vùng khô hạn thuộc khí hậu nhiệt đới điển hình, nhiều nắng, gió. Vẫn có hai mùa mưa – nắng nhưng thời gian mưa không dài. Nơi đây cũng ít chịu ảnh hưởng của các cơn bão và không có sương mù nên du khách có thể đến Phan Thiết vào bất kỳ thời điểm nào trong năm. Tháng 6 và 7 hoặc từ tháng 12 đến tháng 2 là thời điểm lý tưởng nhất để du lịch Phan Thiết.
 
@@ -31,7 +31,7 @@ Từ Thành phố Phan Thiết thường có xe trung chuyển đến các khác
 
 ## Khách sạn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-465.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-465.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Nơi tập trung nhiều khách sạn, resort nghỉ dưỡng ở Phan Thiết nhất là phường Mũi Né. Tại đây có những khu nghỉ dưỡng sang trọng, cung cấp đầy đủ các dịch vụ thể thao biển, nhà hàng, bể bơi, quán bar và spa. Một số khách sạn nổi tiếng ở Mũi Né như The Anam Mũi Né, Anantara Mũi Né Resort, Victoria Phan Thiết Beach Resort & Spa, Pandanus Resort, The Cliff Resort & Residences, Meraki Oasis.
 
@@ -53,7 +53,7 @@ Tháp nước Phan Thiết
 
 Khu di tích trường Dục Thanh
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-466.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-466.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Nằm ở vị trí trung tâm thành phố Phan Thiết, khu di tích trường Dục Thanh (1907) ra đời và hoạt động theo chủ trương chung của phong trào Duy Tân. Đây cũng là nơi Chủ tịch Hồ Chí Minh đã dừng chân dạy học từ tháng 9/1910 đến tháng 2/1911, trước khi đi tìm đường cứu nước.
 
@@ -67,7 +67,7 @@ Khi đến đây, du khách không chỉ được chiêm ngưỡng vẻ đẹp c
 
 Lầu ông Hoàng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-467.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-467.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Tọa lạc tại đỉnh đồi Bà Nài, lầu Ông Hoàng là tàn tích còn sót lại của khu biệt thự được Công tước De Montpensier xây dựng vào năm 1911. Tuy nhiên, hiện biệt thự chỉ còn phần đế âm. Nơi khách du lịch thường tới là một lô cốt do Pháp làm trong chiến tranh nằm gần đó.
 
@@ -81,7 +81,7 @@ Chỉ có kích thước vừa và nhỏ, nhưng ngọn tháp này là kết tin
 
 Biển đá Ông Địa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-468.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-468.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Cách trung tâm thành phố Phan Thiết khoảng 10 km, biển Đá Ông Địa là một bãi tắm sạch, cát mịn, trải dài và không có sỏi, lòng biển nông, nước trong và rất êm.
 
@@ -89,13 +89,13 @@ Cách trung tâm thành phố Phan Thiết khoảng 10 km, biển Đá Ông Đ�
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-469.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-469.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Bánh hỏi làm từ bột gạo, qua nhiều công đoạn chế biến cho ra chiếc bánh được kết từ những sợi mì trắng nhỏ, nhìn giống sợi bún. Bánh hỏi Phan Thiết sẽ ăn kèm lòng heo luộc. Khi thưởng thức, lòng heo được cuộn chung cùng bánh hỏi, bánh tráng, chấm nước chấm chua ngọt.
 
 Bánh tráng chấm mắm ruốc là món ăn dân dã thường được bán vào buổi chiều. Món ăn đơn giản gồm trứng luộc dầm nát, xoài chua, dưa chuột thái sợi, bánh tráng nướng bẻ vụn cuốn cùng bánh tráng. Nước chấm bánh tráng là mắm ruốc, thường được cho thêm ớt tươi băm nhỏ và vắt thêm chanh rồi đánh đều. Người Phan Thiết sử dụng thịt cá để làm chả, xương cá để nấu nước dùng và mắm cá để nêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-470.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phan-thiet-470.jpg" alt="cam-nang-du-lich-phan-thiet" height=100% width=100%><figcaption><p>cam-nang-du-lich-phan-thiet-nhavantuonglai</p></figcaption></figure>
 
 Cá lồi cắt từng miếng, xếp vào đĩa hoặc để nguyên con rồi hấp cách thủy. Thịt mỡ được cắt nhỏ, rán vàng, thêm hành lá. Khi cá được hấp chín, xối một lớp mỡ hành lên cá rồi rắc thêm đậu phộng giã nhỏ cho dậy mùi thơm, ăn cùng nước chấm pha chua ngọt hoặc nước mắm me. Nhiều người sành ăn sẽ cho miếng gan của cá vào nước chấm, đánh nhuyễn, khi ăn sẽ có cảm giác bùi, ngậy.
 
@@ -107,4 +107,4 @@ Phan Thiết là khu du lịch biển nổi tiếng nên nếu có ý định đ
 
 Mùa hè ở Phan Thiết thường có mưa vào chiều tối, nên dành thời gian tham quan và vui chơi vào buổi sáng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

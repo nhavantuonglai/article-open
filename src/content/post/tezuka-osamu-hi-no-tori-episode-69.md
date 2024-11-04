@@ -3,7 +3,7 @@ pubDatetime: 2018-08-29T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 69
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 69 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0469.jpg
+image: https://nhavantuonglai.com/image/cover/001-469.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,125 +19,125 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 69
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0281.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0281.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0282.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0282.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0283.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0283.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0284.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0284.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0285.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0285.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0286.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0286.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0287.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0287.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0288.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0288.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0289.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0289.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0290.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0290.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0291.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0291.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0292.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0292.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0293.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0293.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0294.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0294.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0295.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0295.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0296.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0296.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0297.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0297.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0298.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0298.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0299.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0299.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0300.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0300.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0301.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0301.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0302.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0302.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0303.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0303.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0304.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0304.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0305.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0305.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0306.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0306.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0307.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0307.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0308.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0308.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0309.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0309.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0310.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0310.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0311.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0311.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0312.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0312.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0313.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0313.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0314.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0314.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0315.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0315.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0316.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0316.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0317.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0317.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0318.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0318.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0319.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0319.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0320.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0320.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0321.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0321.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0322.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0322.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0323.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0323.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0324.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0324.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0325.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0325.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0326.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0326.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0327.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0327.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0328.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0328.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0329.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0329.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0330.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0330.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0331.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0331.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0332.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0332.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0333.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0333.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0334.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0334.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0335.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0335.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0336.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0336.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0337.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0337.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -413,6 +413,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 08](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-08.pdf) tại đây.
+Đọc [Chim lửa, tập 08](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-08.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 69." title="Chim lửa (Hi no Tori) chương 69." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 69.</p></figcaption></figure>

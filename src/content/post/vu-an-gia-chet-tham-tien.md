@@ -3,7 +3,7 @@ pubDatetime: 2024-03-20T10:10:00Z
 title: Chiêu giả chết để bẫy ngược cô vợ tham tiền
 description: Được mật báo vợ đang tìm sát thủ giết mình để lấy hết tài sản trước phiên tòa ly hôn, Ramon Sosa lên kế hoạch gậy ông đập lưng ông, năm 2015.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0540.jpg
+image: https://nhavantuonglai.com/image/cover/001-540.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -69,4 +69,4 @@ Ramon cho biết Lulu chưa bao giờ nhìn vào mắt anh và không hề tỏ 
 
 Ramon viết cuốn sách tên là I Walked on My Own Grave về vụ việc, xuất bản năm 2019. Mundo cũng kể lại trải nghiệm của mình qua cuốn sách My Son Mundo: A Novel Inspired by True Events (2018).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

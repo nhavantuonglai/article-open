@@ -3,7 +3,7 @@ pubDatetime: 2021-07-27T10:10:00Z
 title: Cẩm nang du lịch Bình Liêu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0603.jpg
+image: https://nhavantuonglai.com/image/cover/001-603.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -11,7 +11,7 @@ tags:
 
 _Là một huyện miền núi phía đông bắc tỉnh Quảng Ninh, Bình Liêu cách Hà Nội khoảng 270 km. Nơi đây có khí hậu quanh năm ôn hòa, cấu trúc địa hình đa dạng cùng cảnh sắc thiên nhiên tươi đẹp, được ví như một \_Sa Pa thu nhỏ._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-085.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-085.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 ## Bình Liêu mùa nào đẹp
 
@@ -19,7 +19,7 @@ Mỗi mùa, nơi đây có một điểm lý thú riêng thu hút du khách. Và
 
 Mùa hè có thác nước cuồn cuộn trong khi ruộng bậc thang xanh mướt mắt. Mùa thu, những đồng cỏ lau dọc hai bên đường lên cột mốc cùng trổ bông thu hút rất đông du khách. Vào mùa đông, nếu may mắn du khách còn có thể tận mắt thấy băng giá. Cuối năm là mùa thu hoạch và dịp [lễ hội hoa sở](https://info.nhavantuonglai.com/topick), lễ mừng cơm mới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-086.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-086.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 ## Homestay
 
@@ -33,7 +33,7 @@ Nếu bạn đi bằng ôtô, theo hướng cao tốc Hà Nội – Hải Phòng
 
 Bạn nên đi ôtô riêng hoặc xe khách đến Bình Liêu (giá khoảng 180.000 đồng/lượt) rồi thuê xe máy (200.000 đồng/ngày), để đảm bảo sức khỏe và di chuyển thuận lợi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-087.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-087.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 ## Trải nghiệm
 
@@ -57,7 +57,7 @@ Chinh phục đỉnh Cao Xiêm
 
 Cung đường từ chân núi lên đỉnh Cao Xiêm dài khoảng hơn 7 km nên có thể kết hợp vừa leo núi vừa cắm trại dã ngoại trong ngày. Đường đi chủ yếu là lối mòn men theo sườn núi với nhiều núi đá mấp mô và băng qua những đồi cỏ bao la.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-088.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-088.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Săn mây trên đỉnh Cao Ly
 
@@ -65,13 +65,13 @@ Cao Ly là dãy núi cao trải dài với diện tích trên 40 km2 với 8 đ�
 
 Nếu khoảng tháng 7-9, Cao Ly hấp dẫn du khách vì hoa mua nở nhuộm tím các vạt đồi thì đến cuối năm tháng 10 trở đi, nơi này lại là điểm săn biển mây lý tưởng. Điểm cắm trại cách đỉnh khoảng 30-40 phút leo bộ, xe máy và ôtô cá nhân có thể tới tận điểm trại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-089.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-089.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Thác Khe Vằn
 
 Trong thời gian khám phá núi Cao Ly, du khách di chuyển thêm 15, kết hợp tham quan thác Khe Vằn có 3 tầng và là thác nước cao nhất tỉnh Quảng Ninh. Nếu đi từ thị trấn Bình Liêu, bạn hỏi đường vào xã Húc Động để đến Thác Khe Vằn, bạn sẽ được ngắm ba tầng thác tuyệt đẹp ở nơi từng là chốn hẹn hò của trai gái Sán Chỉ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-090.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-090.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Thác Khe Vằn thuộc xã Húc Động, huyện Bình Liêu, tỉnh Quảng Ninh, cách thành phố Hạ Long 100 km và cách trung tâm thị trấn Bình Liêu khoảng 12 km về hướng đông nam.
 
@@ -87,11 +87,11 @@ Cuối tuần ghé Bình Liêu, du khách có cơ hội dạo chơi chợ phiên
 
 Nhiều mặt hàng đặc trưng chỉ có ở chợ phiên như lá tắm, dược liệu chữa bệnh của đồng bào dân tộc, mật ong rừng, măng rừng… Người dân tới chợ mua bán, ăn uống từ sáng tới chiều muộn nhưng đông đúc nhất là từ 10h sáng trở đi, xe để kín bãi và hàng hóa bày khắp lối.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-091.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-091.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Tìm hiểu văn hóa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-092.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-092.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Bình Liêu có trên 96% dân số là đồng bào dân tộc thiểu số, phần lớn là người Tày, Dao, Sán Chỉ, Kinh, Hoa… Du khách tới Bình Liêu sẽ được đắm mình trong văn hóa, bản sắc của người dân nơi đây.
 
@@ -101,8 +101,8 @@ Ngoài ra, tùy vào lịch trình cá nhân, bạn còn có thể đỉnh Quả
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-093.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-lieu-093.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
 Bạn nhớ đừng bỏ qua các món ngon đặc trưng của vùng này như xôi 7 màu, bánh coóc mò, bánh gật gù, bánh ngải, [tài lồng ệp](https://info.nhavantuonglai.com/topick) miến dong, cá suối nướng, măng rừng xào…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

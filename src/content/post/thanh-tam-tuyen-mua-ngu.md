@@ -3,7 +3,7 @@ pubDatetime: 2013-09-24T10:10:00Z
 title: Thanh Tâm Tuyền | Mưa ngủ
 description: Thanh Tâm Tuyền (1936 – 2006), tên thật là Dzư Văn Tâm, là một nhà thơ, nhà văn người Việt nổi tiếng, được biết đến với những cách tân thơ ca táo bạo.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0321.jpg
+image: https://nhavantuonglai.com/image/cover/001-321.jpg
 tags:
   - thu vien
   - van hoc
@@ -41,4 +41,4 @@ bao nhiêu xa cách không sợ bằng giận hờn
 
 đừng giận anh em hỡi mưa trời còn thương anh
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-09-16T10:10:00Z
 title: Lâm Thị Mỹ Dạ | Khoảng trời, hố bom
 description: Lâm Thị Mỹ Dạ là nữ nhà thơ của vùng đất Quảng Bình nhưng tài năng thơ của chị nổi tiếng khắp cả nước. Mỹ Dạ cùng học với chúng tôi ở Trường Cấp 3 Lệ Thủy, Quảng Bình.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg
+image: https://nhavantuonglai.com/image/cover/001-149.jpg
 tags:
   - van hoc
   - tho ca
@@ -80,4 +80,4 @@ Nên mỗi người có gương mặt em riêng!
 
 Trường Sơn, tháng 10/1972.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

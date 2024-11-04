@@ -3,7 +3,7 @@ pubDatetime: 2006-01-06T10:10:00Z
 title: Asada Jiro | Tỏ tình với người vợ không quen
 description: Asada Jiro được tặng giải Tài Năng Mới mang tên nhà văn Yoshikawa Eiji qua tác phẩm Lấy Xe Điện Ngầm (Metoro ni Notte).
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -947,4 +947,4 @@ Bọn vô gia cư như chẳng đành lòng nhìn thảm cảnh của y , lên t
 
 Đưa cái cốc giấy lên môi, Hanada nghĩ thầm : cái thứ rượu này coi vậy mà uống cũng được đến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-10-28T10:10:00Z
 title: Endo Shuusaku | Qua Trạm Fuda no Tsuji
 description: Cùng với Yasuoka Shôtarô, Kojima Nobuo, Miura Shumon, Yoshiyuki Junnosuke, nhà văn Endô Shuusaku thuộc thế hệ thứ ba sau chiến tranh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -260,4 +260,4 @@ Cuộc họp tan xong, kẻ trước người sau bắt tắc-xi, hướng về 
 
 Đằng sau ánh đèn tù mù của những ngôi nhà và tiệm quán, màu đen của gò đất như nổi hẳn lên. Cái trại Dachau nơi "Chuột Nhắt" bị giam cầm, nó ra sao ấy nhỉ? Mấy năm về trước, gã đã có dịp xem vài cuộn phim thời sự về các trại tập trung nên cũng rõ về quang cảnh những nơi này. Nó không khác bao nhiêu so với nhà ngục xóm Kodenma, nới đám tín đồ Ki-Tô giáo ngày xưa đã bị tống giam. Nếu "Chuột Nhắt" đã từng sống ở một nơi như thế thật thì điều đó đáng làm cho gã phải kinh ngạc. Thế rồi, gã nghĩ, nếu đúng như người ta kể, "Chuột Nhắt" đã vì bạn đồng tù và vì tình yêu thương chịu chết thay người, thì nó không phải chuyện xa xưa mãi tận thời Edo mà là một sự kiện mới đây và ảnh hưởng thấm thía tới tâm tình của chính gã trong lúc này. Ai và cái gì đã thay đổi được thái độ của "Chuột Nhắt"? Ai và cái gì đã nâng "Chuột Nhắt" lên đến một tầm cỡ như thế? Gã đàn ông lắc đầu, hết ngắm cô gái đang ngủ gà ngủ gật trên chiếc ghế đằng trước mặt đến nhìn anh thanh niên đang chúi mũi vào tờ báo cá độ đua xe đạp. Gã thầm nghĩ, giữa đám hành khách như vậy, vâng đúng thế, trong đám đông bình thường này, chắc hẳn có một người với khuôn mặt khôi hài giống Harold Llyod, mặc cái quần bùn bê bết lên tới đầu gối, đang ngồi đó rung đùi [24]. Đó là "Chuột Nhắt".
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

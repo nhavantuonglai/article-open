@@ -3,7 +3,7 @@ pubDatetime: 2006-01-28T10:10:00Z
 title: Edgar Allan Poe | Thiên thần của những điều kỳ quặc
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0234.jpg
+image: https://nhavantuonglai.com/image/cover/001-234.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -129,4 +129,4 @@ In pronouncing these words, he drew a sharp knife across the guide-rope by which
 
 Upon coming to my senses, (for the fall had very thoroughly stunned me,) I found it about four oclock in the morning. I lay outstretched where I had fallen from the balloon. My head grovelled in the ashes of an extinguished fire, while my feet reposed upon the wreck of a small table, overthrown, and amid the fragments of a miscellaneous dessert, intermingled with a newspaper, some broken glass and shattered bottles, and an empty jug of the Schiedam Kirschenwasser. Thus revenged himself the Angel of the Odd.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

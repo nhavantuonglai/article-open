@@ -3,7 +3,7 @@ pubDatetime: 2013-02-09T10:10:00Z
 title: Thích Nhất Hạnh | Bây giờ mới thấy (Chương 09)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0581.jpg
+image: https://nhavantuonglai.com/image/cover/001-581.jpg
 tags:
   - thu vien
   - van hoc
@@ -125,4 +125,4 @@ _Cho tôi hát em nghe, để tóc em sẽ dài xanh như tóc Mẹ._
 
 Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/thich-nhat-hanh-bay-gio-moi-thay-chuong-09) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

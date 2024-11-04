@@ -3,7 +3,7 @@ pubDatetime: 2018-08-07T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Recursive staircase problem)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-05286.jpg
+image: https://nhavantuonglai.com/image/cover/001-5286.jpg
 tags:
   - developer
   - github
@@ -39,4 +39,4 @@ This is an interesting problem because there are several ways of how it may be s
 
   - [GeeksForGeeks](https://www.geeksforgeeks.org/count-ways-reach-nth-stair/)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

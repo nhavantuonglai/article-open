@@ -3,7 +3,7 @@ pubDatetime: 2021-09-22T10:10:00Z
 title: Du lịch Phú Quốc cần chuẩn bị những gì?
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0654.jpg
+image: https://nhavantuonglai.com/image/cover/001-654.jpg
 tags:
   - viet thue
   - marketing
@@ -82,4 +82,4 @@ Khi chuẩn bị hành lý cho chuyến đi chơi Phú Quốc, hãy lưu ý các
 
 Trên đây là những gợi ý đi Phú Quốc cần chuẩn bị những gì, giúp chuyến đi chơi Phú Quốc mà bạn đang lên kế hoạch sẽ thêm phần trọn vẹn và hấp dẫn, tránh được những rủi ro không đáng có và sẵn sàng những điều cần thiết trong hành trình khám phá Phú Quốc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0540.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-540.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

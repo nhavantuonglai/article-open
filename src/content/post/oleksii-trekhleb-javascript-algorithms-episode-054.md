@@ -3,7 +3,7 @@ pubDatetime: 2018-07-05T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Knuth – morris – pratt algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0554.jpg
+image: https://nhavantuonglai.com/image/cover/001-554.jpg
 tags:
   - developer
   - github
@@ -25,4 +25,4 @@ The Knuth – Morris – Pratt string searching algorithm (or KMP algorithm) sea
 
   - Space: `O(|W|)`
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

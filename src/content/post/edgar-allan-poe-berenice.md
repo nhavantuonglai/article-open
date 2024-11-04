@@ -3,7 +3,7 @@ pubDatetime: 2006-01-20T10:10:00Z
 title: Edgar Allan Poe | Berenice
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0295.jpg
+image: https://nhavantuonglai.com/image/cover/001-295.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -61,4 +61,4 @@ There came a light tap at the library door, and pale as the tenant of a tomb, a 
 
 He pointed to garments;-they were muddy and clotted with gore. I spoke not, and he took me gently by the hand; – it was indented with the impress of human nails. He directed my attention to some object against the wall; – I looked at it for some minutes; – it was a spade. With a shriek I bounded to the table, and grasped the box that lay upon it. But I could not force it open; and in my tremor it slipped from my hands, and fell heavily, and burst into pieces; and from it, with a rattling sound, there rolled out some instruments of dental surgery, intermingled with thirty-two small, white and ivory-looking substances that were scattered to and fro about the floor.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-08-15T10:10:00Z
 title: Cẩm nang du lịch Hải Phòng
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0621.jpg
+image: https://nhavantuonglai.com/image/cover/001-621.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -17,7 +17,7 @@ Hải Phòng phù hợp để du lịch cả 4 mùa trong năm. Mùa đông đ�
 
 ## Di chuyển
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-262.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-262.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 Từ Hà Nội có thể tới Hải Phòng bằng nhiều phương tiện. Với đường bộ, di chuyển thuận tiện nhất qua cao tốc Hà Nội – Hải Phòng. Thời gian khoảng 1,5 tiếng.
 
@@ -33,7 +33,7 @@ Lưu trú trong trung tâm Hải Phòng, bạn có thể tham khảo các khách
 
 Hải Phòng có khu nghỉ dưỡng cao cấp bên biển, tập trung chủ yếu ở Cát Bà. Flamingo Cat Ba Beach Resort, Hôtel Perle d_Orient Cat Ba – MGallery, Nam Cat Island Resort CatbaBay, Monkey Island Resort… giá trung bình từ 1.500.000 đến 2.000.000 đồng một đêm. Nghỉ đêm trên du thuyền giữa vịnh Lan Hạ cũng là một lựa chọn khác biệt, với mức giá khoảng 3.000.000 đến 6.000.000 đồng một người một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-263.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-263.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 ## Khám phá
 
@@ -57,11 +57,11 @@ Cầu Quay xe lửa bắc qua sông Tam Bạc được người Pháp khởi cô
 
 Cây cầu mới nhất là cầu Rào được xây lại. Đỉnh cầu gắn 3 bông hoa phượng đỏ bằng thép, biểu tượng của thành phố.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-264.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-264.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 > Tuyệt tình cốc
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-265.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-265.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 Hồ nước ở Hải Phòng được các bạn trẻ ví như [_Tuyệt tình cốc_](https://info.nhavantuonglai.com/topick) bởi màu nước xanh lạ mắt và bao bọc bởi núi đá vôi.
 
@@ -73,7 +73,7 @@ Hồ nước này nằm ở thôn Trại Sơn, xã An Sơn, huyện Thủy Nguy�
 
 Đừng quên ghé thăm biệt thự Bảo Đại trên ngọn đồi với tầm nhìn ra 4 hướng lộng gió, mát mẻ ngay giữa mùa hè. Biệt thự bao phủ trong mùi hoa đại, tạo cảm giác dễ chịu khi tham quan. Bạn có thể thuê quần áo hoàng tộc để chụp ảnh tại đây, với giá 30.000 đồng một lượt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-266.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-266.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 Đồ Sơn có các khu vui chơi và tham quan như Đồi Rồng, Hòn Dấu và casino. Nhìn từ bản đồ, khu du lịch Đồi Rồng được thiết kế theo hình bông hoa phượng – biểu tượng của thành phố. Dự án bao gồm tổ hợp vui chơi giải trí theo chủ đề Sơn Tinh – Thủy Tinh rộng gần 25 ha; quần thể sân golf 27 hố, tầm nhìn trọn mặt biển; hệ thống biển hồ Lagoon được lọc bởi công nghệ lọc nước hiện đại; cát trắng mịn được vận chuyển từ Nha Trang.
 
@@ -81,7 +81,7 @@ Ngoài những địa điểm trên, Cát Bà là _viên ngọc_ của du lịch
 
 ## Food tour Hải Phòng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-267.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-267.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 Hải Phòng nổi tiếng nhất với các món ẩm thực đường phố. Du khách từ các tỉnh lựa chọn [food tour](https://info.nhavantuonglai.com/topick) trong ngày để thưởng thức các món ngon Hải Phòng như bánh bèo, bánh đa cua, bánh mì cay, dừa dầm, bún cá cay, ốc, trà cúc, sủi dìn, bánh đúc tàu…
 
@@ -89,8 +89,8 @@ Bánh đúc tàu là món nghe khá lạ với người tỉnh khác gồm bánh
 
 Bánh mì cay được nhiều người chọn mua làm quà do bé, dễ cầm theo, kẹp với pate chưng và chấm sốt chí chương cay nồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-268.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hai-phong-268.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
 Một số địa chỉ gợi ý quán ngon là bún chả nem cua bể ở 92 Trần Nhật Duật, 32 Phan Bội Châu, bánh bèo ở 41 Lê Đại Hành, bánh mì cay ở 28 Đinh Tiên Hoàng và 57 Lê Lợi. Đừng quên ăn thử ốc ở quán Thủy Dương ngõ 263 Lạch Tray với đa dạng các loại ốc và các sốt trứng muối, bơ tỏi, xào me. Buổi tối, cắn hạt hướng dương hoặc hạt dẻ khi đang nhâm nhi cốc trà cúc lạnh là một trải nghiệm _rất Hải Phòng._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

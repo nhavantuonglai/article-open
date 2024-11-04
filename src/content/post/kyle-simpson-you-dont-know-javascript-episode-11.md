@@ -3,7 +3,7 @@ pubDatetime: 2006-03-14T10:10:00Z
 title: Kyle Simpson | You dont know Javascript (Episode 11)
 description: If you are new to programming or JS, be aware that these books are not intended as a gentle intro to Javascript.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0111.jpg
+image: https://nhavantuonglai.com/image/cover/001-111.jpg
 tags:
   - developer
   - github

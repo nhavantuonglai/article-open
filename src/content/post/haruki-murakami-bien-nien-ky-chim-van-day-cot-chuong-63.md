@@ -3,7 +3,7 @@ pubDatetime: 2005-07-03T10:10:00Z
 title: Haruki Murakami | Biên niên ký chim vặn dây cót (Chương 63)
 description: Biên niên ký chim vặn dây cót với tiếng hót của con chim vặn dây cót chỉ vang lên vào những thời khắc quyết định, khi con người tỉnh thức những tiếng lòng thầm kín.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0540.jpg
+image: https://nhavantuonglai.com/image/cover/001-540.jpg
 tags:
   - thu vien
   - van hoc
@@ -80,4 +80,4 @@ Tạm biệt Chim vặn dây cót. Em không biết nói thế nào… nhưng em
 
 Chúc anh ngủ ngon.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

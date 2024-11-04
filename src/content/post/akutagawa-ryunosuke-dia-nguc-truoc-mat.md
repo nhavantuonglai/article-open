@@ -3,7 +3,7 @@ pubDatetime: 2018-08-27T10:10:00Z
 title: Akutagawa Ryunosuke | Địa ngục trước mắt
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0042.jpg
+image: https://nhavantuonglai.com/image/cover/001-042.jpg
 tags:
   - thu vien
   - van hoc
@@ -372,4 +372,4 @@ Kể từ ngày đó, không còn một ai, ít nhất trong cửa phủ, nói x
 
 Nhưng lúc thiên hạ hiểu ra thì Yoshihide đã vĩnh biệt cõi đời nầy. Ngay đêm hôm sau khi hoàn thành bức bình phong, hắn đã thòng dây thừng lên rường căn buồng ngủ, thắt cổ chết. Có mỗi đứa con gái yêu thì nó đã đi trước cha nên gã đàn ông nầy có lẽ không bao giờ tìm lại được sự yên ổn trong tâm hồn. Nắm xương tàn của lão ta nay vẫn nằm đâu đó dưới nền nhà cũ nhưng ngay cái mốc con bằng đá ghi dấu lại thì vài chục năm sau đó, với mưa to gió lớn đã đổ nát, rêu phong, khiến không còn ai biết ngôi mộ kia là của ai và xưa kia đã làm gì.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-06-10T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Fast powering algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0529.jpg
+image: https://nhavantuonglai.com/image/cover/001-529.jpg
 tags:
   - developer
   - github
@@ -79,4 +79,4 @@ recursively `log(n)` times. This the time complexity of the algorithm is reduced
 O(log(n))
 ```
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

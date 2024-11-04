@@ -3,7 +3,7 @@ pubDatetime: 2022-11-28T10:10:00Z
 title: Giới thiệu máy ảnh Nikon Zf
 description: Nikon Zf là một thiết bị cao cấp được thiết kế để đáp ứng nhu cầu của những người sáng tạo nội dung hiện đại. Với cảm biến full-frame 24,5MP và bộ xử lý hình ảnh EXPEED 7 mạnh mẽ, máy ảnh này mang lại chất lượng hình ảnh xuất sắc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - affiliate
   - may anh
@@ -177,4 +177,4 @@ Máy ảnh Nikon Zf là sự kết hợp hoàn hảo giữa công nghệ hiện 
 
 – Trọng lượng: 630 g (Chỉ thân máy).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0633.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-633.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-15T10:10:00Z
 title: Tên cướp ngân hàng sành sỏi nhất nước Mỹ
 description: Tên cướp Thối Mồm, kẻ trộm Chân Đất, tướng cướp Giỏi Ngữ Pháp… tất cả những tên tội phạm này đều lọt lưới một phần vì biệt danh do FBI đặt.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0537.jpg
+image: https://nhavantuonglai.com/image/cover/001-537.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -49,4 +49,4 @@ Sau khi ngồi tù 15 năm, Carl Gugasian được trả tự do sớm, vào ng�
 
 Carl Gugasian được nhắc đến trong nhiều bộ phim tài liệu về điều tra hình sự như The Bureau, Masterminds, phim ngắn The Friday Night Bank Robber (2013). Cách thức cướp ngân hàng của Carl được các nhà làm phim tái hiện trong The Place Beyond the Pines (2012).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

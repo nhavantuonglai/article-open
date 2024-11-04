@@ -3,7 +3,7 @@ pubDatetime: 2018-10-19T10:10:00Z
 title: Aldo Leopold | Niên lịch miền gió cát (Chương 19)
 description: Niên Lịch Miền Gió Cát như một sự tổng hòa giữa lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh bằng ngôn từ và cả triết học. Bằng việc ghi chép lại những thay đổi của sinh vật tại khu trang trại ở Wisconsin.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0319.jpg
+image: https://nhavantuonglai.com/image/cover/001-319.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat
@@ -161,6 +161,6 @@ Người săn chiến lợi phẩm như thú vui cũng có những nét lập d�
 
 Đọc [Niên lịch miền gió cát, chương 22](https://nhavantuonglai.com/article/aldo-leopold-nien-lich-mien-gio-cat-chuong-22) tại đây.
 
-Đọc [Niên lịch miền gió cát, toàn tập](https://data.nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
+Đọc [Niên lịch miền gió cát, toàn tập](https://nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0129.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-129.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

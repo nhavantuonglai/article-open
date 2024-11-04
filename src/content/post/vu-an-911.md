@@ -3,7 +3,7 @@ pubDatetime: 2024-03-07T10:10:00Z
 title: Tiếng súng ám ảnh giữa cuộc gọi 911
 description: Giữa những tiếng bước chân lộn xộn và tiếng chó sủa ầm ĩ, Pamela Williams trốn trong tủ quần áo, gọi 911 cầu cứu nhưng không thể thay đổi số phận, năm 2013.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0682.jpg
+image: https://nhavantuonglai.com/image/cover/001-682.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -63,4 +63,4 @@ Ba bị cáo bị kết tội giết người, tấn công nghiêm trọng, tr�
 
 Vụ án được tái hiện trong phim tài liệu Murder Calls: Death Comes Knocking (2017).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

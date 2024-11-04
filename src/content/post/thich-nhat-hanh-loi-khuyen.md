@@ -3,7 +3,7 @@ pubDatetime: 2022-02-01T10:10:00Z
 title: Những câu nói nổi tiếng của thiền sư Thích Nhất Hạnh
 description: Tôi còn nhớ là tôi đã viết Đường Xưa Mây Trắng ở trong cái quán của Xóm Thượng. Hồi đó chưa có lò sưởi trung ương, trong phòng chỉ có một cái lò sưởi đốt củi thôi và trời rất lạnh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0470.jpg
+image: https://nhavantuonglai.com/image/cover/001-470.jpg
 tags:
   - thu vien
   - van hoc
@@ -85,4 +85,4 @@ Trong cuộc phỏng vấn với người dẫn chương trình truyền hình M
 
 "Thiên đường có rất nhiều hình dạng và màu sắc trên thế giới này. Vì bạn còn đôi mắt tốt, bạn có thể cảm nhận thiên đường đó. Nên khi tôi ý thức được về đôi mắt của mình, tôi đã có một trong những điều kiện để hạnh phúc. Khi tôi chạm vào đó, hạnh phúc cũng xuất hiện".
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0312.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-312.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

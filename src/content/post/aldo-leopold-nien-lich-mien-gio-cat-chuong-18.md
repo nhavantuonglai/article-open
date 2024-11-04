@@ -3,7 +3,7 @@ pubDatetime: 2018-10-18T10:10:00Z
 title: Aldo Leopold | Niên lịch miền gió cát (Chương 18)
 description: Niên Lịch Miền Gió Cát như một sự tổng hòa giữa lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh bằng ngôn từ và cả triết học. Bằng việc ghi chép lại những thay đổi của sinh vật tại khu trang trại ở Wisconsin.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0418.jpg
+image: https://nhavantuonglai.com/image/cover/001-418.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat
@@ -83,6 +83,6 @@ Một ngày nào đó, đầm lầy của tôi cũng sẽ bị hút cạn nướ
 
 Đọc [Niên lịch miền gió cát, chương 22](https://nhavantuonglai.com/article/aldo-leopold-nien-lich-mien-gio-cat-chuong-22) tại đây.
 
-Đọc [Niên lịch miền gió cát, toàn tập](https://data.nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
+Đọc [Niên lịch miền gió cát, toàn tập](https://nhavantuonglai.com/ebook/aldo-leopold-nien-lich-mien-gio-cat.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0398.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-398.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

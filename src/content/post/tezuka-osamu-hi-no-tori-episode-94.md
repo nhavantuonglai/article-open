@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-24T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 94
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 94 trong phần dưới đây.
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0554.jpg
+image: https://nhavantuonglai.com/image/cover/001-554.jpg
 featured: false
 tags:
   - manga
@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 94
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0001.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0001.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0002.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0002.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0003.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0003.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0004.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0004.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0005.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0005.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0006.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0006.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0007.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0007.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0008.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0008.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0009.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0009.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0010.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0010.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0011.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0011.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0012.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0012.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0013.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0013.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0014.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0014.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0015.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0015.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0016.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0016.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0017.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0017.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0018.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0018.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0019.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0019.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0020.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0020.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0021.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0021.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0022.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0022.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0023.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0023.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0024.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0024.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0025.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0025.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0026.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0026.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0027.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0027.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0028.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0028.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0029.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0029.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0030.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0030.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0031.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0031.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0032.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0032.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0033.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0033.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0034.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0034.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0035.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0035.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0036.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0036.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0037.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0037.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0038.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0038.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0039.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0039.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0040.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-12-0040.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -373,6 +373,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 12](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-12.pdf) tại đây.
+Đọc [Chim lửa, tập 12](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-12.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 94." title="Chim lửa (Hi no Tori) chương 94." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 94.</p></figcaption></figure>

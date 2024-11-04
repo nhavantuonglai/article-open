@@ -3,7 +3,7 @@ pubDatetime: 2024-03-24T10:10:00Z
 title: Cú ngáng chân mở màn cuộc kiện tụng kéo dài hai thập kỷ
 description: 38 ngày sau tai nạn trượt tuyết, Andrew bị George, bạn cùng lớp, ngáng chân ngã, chấn thương đến tàn tật. Cha mẹ đôi bên bắt đầu cuộc chiến pháp lý kinh điển trong lịch sử luật Dân sự Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg
+image: https://nhavantuonglai.com/image/cover/001-548.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -65,4 +65,4 @@ Phiên tòa có vẻ nhỏ nhặt này thậm chí ít được biết đến v�
 
 Vụ án, mà các thẩm phán bang đã gọi là _rất kỳ lạ và phi thường,_ vẫn là thách thức các sinh viên và giảng viên luật tận ngày nay. Vụ kiện kinh điển thường được các giáo sư trường luật chọn làm trường hợp mở màn cho môn Luật dân sự, và việc bên nào mới nên là bên thắng kiện vẫn luôn là cuộc tranh luận làm nóng mọi giảng đường.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

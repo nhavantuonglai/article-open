@@ -3,7 +3,7 @@ pubDatetime: 2022-12-16T10:10:00Z
 title: Giới thiệu máy ảnh Sony RX1
 description: Sony RX1 là một trong những mẫu máy ảnh compact cao cấp nổi bật, đã được nhiều nhiếp ảnh gia và người yêu thích chụp ảnh lựa chọn từ khi ra mắt lần đầu vào năm 2012.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0364.jpg
+image: https://nhavantuonglai.com/image/cover/001-364.jpg
 tags:
   - affiliate
   - may anh
@@ -69,4 +69,4 @@ Tuy nhiên, đối với những người cần công nghệ mới hơn hoặc c
 
 Với những nhiếp ảnh gia chuyên nghiệp hoặc đam mê nhiếp ảnh, RX1 vẫn giữ nguyên giá trị của mình, nhưng nếu bạn cần một chiếc máy ảnh với tính năng toàn diện hơn và phù hợp với nhu cầu hiện đại, có thể cân nhắc các dòng máy mới của Sony hoặc Fujifilm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

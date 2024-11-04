@@ -3,7 +3,7 @@ pubDatetime: 2021-08-03T10:10:00Z
 title: Cẩm nang du lịch Côn Đảo
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0608.jpg
+image: https://nhavantuonglai.com/image/cover/001-608.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -23,7 +23,7 @@ Tháng 7-9 là mùa sinh sản của rùa biển. Thời gian còn lại, tháng
 
 Máy bay là phương tiện di chuyển ra Côn Đảo tiết kiệm thời gian nhất. Hiện [Bamboo Airways](https://info.nhavantuonglai.com/topick) khai thác đường bay thẳng trong khoảng 2 giờ 30 phút giữa Côn Đảo với Hà Nội (từ 2,7 triệu đồng một chiều). Vietnam Airlines bay từ Thành phố Hồ Chí Minh (khoảng 1,3 triệu đồng một chiều), Cần Thơ (khoảng 1,7 triệu đồng một chiều) đến Côn Đảo và ngược lại. Mỗi chuyến khoảng 50 phút.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-143.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-143.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Từ sân bay Côn Đảo về trung tâm thị trấn khoảng 15 km, bạn có thể đi xe máy, taxi hoặc xe chuyên chở của resort. Quãng đường này mất trung bình từ 20 đến 30 phút. Để đi nhanh hơn, bạn có thể chọn đường Cỏ Ống.
 
@@ -39,7 +39,7 @@ Tùy mục đích chuyến đi, bạn có thể ở [resort, khách sạn hoặc
 
 Giá phòng ở Côn Đảo có nhiều mức, dao động từ 200.000 đồng đến hơn 10 triệu đồng. Du khách cũng có thể cắm trại dã ngoại qua đêm ở những nơi được ban quản lý điểm tham quan cho phép.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-144.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-144.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Côn Đảo chưa phát triển nhiều khu nghỉ dưỡng nhưng có một resort 5 sao là [Six Senses](https://info.nhavantuonglai.com/topick), nơi Brad Pitt và Angelina Jolie từng lưu trú trong chuyến đi nghỉ vào năm 2011. Khu nghỉ dưỡng có 50 biệt thự, hồ bơi vô cực, spa… phía sau là rừng xanh bát ngát, phía trước là bờ cát trắng trải dài. Giá phòng trung bình khoảng 15 triệu đồng.
 
@@ -55,7 +55,7 @@ Du khách có thể tự thuê cano ra đảo nhỏ, giá khoảng 2 – 5 tri�
 
 Ngoài ra, blogger Ngô Trần Hải An còn gợi ý cho những ai thích chinh phục tọa độ của [3 điểm đánh dấu lãnh hải Việt Nam](https://info.nhavantuonglai.com/topick), nằm trên Hòn Bảy Cạnh, Hòn Tài Lớn và Hòn Bông Lan gần đó.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-145.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-145.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 _Vịnh Đầm Tre_ nằm ở phía bắc đảo, kín gió, có rừng ngập mặn bao bọc xung quanh, là nơi chim yến làm tổ trong mùa sinh sản và nhiều loài sinh vật biển khác. Trên đường đi, du khách có thể dừng ngắm hoặc tắm tại bãi biển Lò Vôi, bãi biển Đất Dốc, mũi Chim Chim, vịnh Đông Bắc…
 
@@ -63,13 +63,13 @@ _Bãi Đầm Trầu_ là bãi biển lặng sóng, nằm sát sân bay Côn Đ�
 
 _Mũi Tàu Bể_ nằm trên con đường độc đạo từ sân bay về thị trấn, được bao bọc bởi những phiến đá dựng đứng tạo thành vòng cung ôm biển. Nơi đây là điểm chụp ảnh _sống ảo_ kiểu mạo hiểm, đồng thời được coi là nơi ngắm bình minh đẹp nhất Côn Đảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-146.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-146.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 _Bãi An Hải, bãi Cầu Tàu_ là các bãi tắm ở trung tâm đảo lớn, có bãi cát trắng mịn, biển lặng sóng, nơi đông người địa phương đến tắm.
 
 _Bãi Nhát, mũi Cá Mập_ là bãi biển hoang sơ nằm bên con đường xuyên đảo. Vì có lối xuống dốc thoải nên du khách thường dừng lại chụp ảnh với cung đường uốn quanh triền núi, một bên là bãi biển xanh trong vắt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-147.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-147.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Nếu bạn du lịch Côn Đảo vào mùa gió chướng, hãy chuyển hướng sang những điểm đến phía Tây và Tây Nam.
 
@@ -83,7 +83,7 @@ _Rừng nguyên sinh Ông Đụng, Núi Chúa_ là nơi trekking đẹp. Từ C�
 
 Ngoài ra, du khách có thể tham quan, tìm hiểu thêm về quy trình nuôi cấy ngọc trai ở các trại nuôi trai và mua những sản phẩm từ ngọc. Côn Đảo còn một số đảo nhỏ ngoài khơi khác như Hòn Bà, Hòn Trứng (Hòn Đá Bạc), Hòn Vung (Phú Vinh), Hòn Anh, Hòn Em… tuy nhiên chưa khai thác dịch vụ du lịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-148.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-148.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Tham quan di tích, thăm viếng điểm đến tâm linh
 
@@ -111,10 +111,10 @@ _Chùa Núi Một (Vân Sơn Tự_) là ngôi chùa duy nhất trên đảo, đ�
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-149.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-con-dao-149.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Hải sản Côn Đảo bạn nên tìm thưởng thức là ốc vú nàng, ốc nón, ốc tai tượng, ốc bàn tay, tôm hùm đỏ, tôm mũ ni, cá mú đỏ, mực một nắng… và các loại cá biển.
 
 Đặc sản mang về được bày bán nhiều ở chợ Côn Đảo, gồm các loại hải sản tươi sống, sấy khô và hàng lưu niệm. Du khách chuộng nhất mứt hạt bàng và rượu sâm đất. Vị sâm Côn Đảo ngọt nhẹ, hăng hắc thơm khá giống sâm Hàn Quốc. Dân gian thường lấy củ sâm đất ngâm rượu, tiềm gà, hầm vịt bồi bổ…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-07T10:10:00Z
 title: Cẩm nang du lịch Nghệ An
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0643.jpg
+image: https://nhavantuonglai.com/image/cover/001-643.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -19,7 +19,7 @@ Nếu bạn muốn đi nghỉ dưỡng kết hợp tắm biển, thời điểm 
 
 Nếu muốn săn hoa, bạn hãy đến vào mùa hướng dương từ tháng 12 đến gần Tết Nguyên đán. Lúc này, cả đồng hoa nở bung một sắc vàng rực rỡ để có được những tấm ảnh đẹp nhất.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-436.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-436.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -31,7 +31,7 @@ Du khách cũng có thể bắt tàu hỏa để đến Vinh. Tàu nhanh nhất 
 
 Giá vé có thể thay đổi theo từng thời điểm. Do đó, bạn cần cập nhật giá vé trên các website của hãng hàng không, tàu hỏa, xe khách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-437.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-437.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
@@ -55,7 +55,7 @@ Khu lưu niệm Chủ tịch Hồ Chí Minh
 
 Không chỉ là công trình có giá trị văn hóa, tâm linh, đền Chung Sơn còn là điểm nhấn trong hành trình về thăm quê Chủ tịch Hồ Chí Minh vì núi Chung là mảnh đất thiêng, năm 1991 đã được xếp hạng di tích lịch sử cấp quốc gia.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-438.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-438.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Quảng trường và tượng Chủ tịch Hồ Chí Minh
 
@@ -65,7 +65,7 @@ Cột mốc Km số 0
 
 Cột mốc số 0 ở thị trấn Tân Kỳ, huyện Tân Kỳ, tỉnh Nghệ An là điểm xuất phát của con đường Trường Sơn – đường mòn Hồ Chí Minh huyền thoại chi viện cho chiến trường miền Nam. Hiện cột mốc được sửa sang lại, khuôn viên có diện tích rộng 600 m2 với nhà truyền thống trưng bày các hiện vật của thời chiến tranh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-439.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-439.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Đền thờ Ông Hoàng Mười
 
@@ -75,7 +75,7 @@ Theo ghi chép, đền được xây dựng vào năm 1634, từ thời hậu L�
 
 Những điểm du lịch tâm linh khác của Nghệ An là đền Quả Sơn, đền Bạch Mã, [đền Chín Gian](https://info.nhavantuonglai.com/topick), đền Cuông, đền và miếu mộ vua Mai Hắc Đế, chùa Cổ Am, chùa Đại Tuệ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-440.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-440.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Đảo Chè Thanh Chương
 
@@ -87,7 +87,7 @@ Vườn quốc gia Pù Mát
 
 Cách Thành phố Vinh khoảng 130km về phía tây là vườn quốc gia Pù Mát. Du khách đến đây theo ba tuyến đường: quốc lộ 7, 15 hoặc đường Hồ Chí Minh. Nằm trong khu dự trữ sinh quyển thế giới được UNESCO công nhận năm 2007, đây là khu bảo tồn tự nhiên có hệ động thực vật phong phú. Du khách có thể đắm mình trong không gian của thiên nhiên hoang sơ, bơi thuyền trên sông, thăm đập Phà Lai, thác Khe Kẽm, thưởng thức ẩm thực địa phương như cá mát sông Giăng, cơm lam…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-441.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-441.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Điểm Du lịch Cộng Đồng Miền Tây xứ Nghệ
 
@@ -99,13 +99,13 @@ Diện tích gần 10 ha, khu sinh thái Phà Lài nằm trên dòng sông Giăn
 
 Nếu tới đập Phà Lài ban ngày trời nắng thì đây có lẽ là một điểm _sống ảo_ độc đáo đáng để bạn bỏ thêm thời gian dừng chân. Tuy nhiên, cảnh hoàng hôn ở đây cũng không nên bỏ qua.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-442.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-442.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Biển Cửa Lò
 
 Cách Thành phố Vinh 16km về phía đông là [biển Cửa Lò](https://info.nhavantuonglai.com/topick). Nơi đây được đánh giá là có không gian lí tưởng cho những hoạt động như bơi lội, đánh bóng chuyền, chơi golf, chèo thuyền thúng đi câu mực đêm. Có nhiều khu nghỉ dưỡng cao cấp quanh khu vực này cũng như điểm chụp ảnh đẹp. Một trong số đó là bể bơi vô cực ở khách sạn Summer, bãi đá đảo Lan Châu… Du khách không nên bở lỡ đặn sản biển tại các nhà hàng hải sản trên con đường ven biển Bình Minh, ăn món mực nhảy nổi tiếng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-443.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-443.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Biển Diên Thành
 
@@ -119,7 +119,7 @@ Cách Thành phố Vinh 80km về phía bắc, biển Quỳnh thuộc huyện Qu
 
 Ngoài tắm biển Quỳnh, du khách ưa khám phá có thể ghé thăm hang Mắt Rồng và chiêm ngưỡng vẻ đẹp của thạch đá, hệ thống hang động đồ sộ thiên nhiên ban tặng cho vùng đất nắng gió này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-444.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-444.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Cánh đồng hoa hướng dương
 
@@ -127,7 +127,7 @@ Cánh đồng hoa hướng dương
 
 Nếu muốn check-in với hoa, gợi ý khác cho bạn là t[hung lũng hoa Phủ Quỳ](https://info.nhavantuonglai.com/topick) nằm sát đường Hồ Chí Minh, thuộc xã Nghĩa Long, huyện Nghĩa Đàn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-445.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-445.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Những điểm tham quan khác: Khu du lịch sinh thái Mường Thanh safari, thác Quế Phong (xã Tiên Phong); hồ Goong và núi Quyết (Thành phố Vinh); ngọn hải đăng trên đảo Lan Châu(thị xã Cửa Lò), bãi đá Nghi Thiết, rừng cây Săng lẻ (huyện Tương Dương); bãi Cỏ lau Yên Xuân, đồi hoa sim, cánh đồng hoa cánh bướm, vườn hồng Nam Anh (xã Nam Đàn); cánh đồng hoa cải (huyện Thanh Chương); cồng trời Mường Lống (xã Kỳ Sơn)…
 
@@ -137,7 +137,7 @@ Các lễ hội thường niên bạn có thể tham gia Pẩn Pang, đền Vua 
 
 Các làng nghề: Mây tre đan (xã Nghi Thái, Nghi Phong, Thành phố Vinh), Dệt thổ cẩm (huyện Quý Châu, Con Cuông, Tân Kỳ, Quế Phong, Kỳ Sơn), làm nồi đất (huyện Đô Lương), sản xuất hương tràm (huyện Quý Châu, Quỳnh Lưu), sản xuất tương (huyện Nam Đàn), chế biến nước mắm (thị xã Hoàng Mai hoặc huyện Diễn Châu)…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-446.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-446.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -149,14 +149,14 @@ Các đặc sản nổi tiếng khác phải kể đến là giò me, dê Cẩu 
 
 Địa điểm ăn uống ở Thành phố Vinh: nhà hàng Dê leo núi, gà đi bộ; Minh Hồng, Ngọc Châu, Đại Dương (chuyên hải sản), Con bò vàng, vườn đá Suiseki, Sen vàng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-447.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-447.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 Về đồ uống, bạn hãy thử [cà phê bọt ở chợ Vinh](https://info.nhavantuonglai.com/topick) – một trải nghiệm cần có cho những người thích uống cà phê. Ngoài vị đắng đặc trưng, cà phê bọt còn có vị béo từ lớp bọt và mùi thơm đặc trưng.
 
 Tùy theo sở thích mà bạn có thể yêu cầu ly nâu hoặc đen. Khi thưởng thức, bạn có thể từ tốn dùng lớp bọt bên trên trước hoặc khuấy đều lên cùng lớp cà phê bên dưới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-448.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nghe-an-448.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
 [Nước chè đâm](https://info.nhavantuonglai.com/topick) thanh mát là đặc sản của huyện miền núi Quỳ Hợp, nơi địa đầu phía tây bắc xứ Nghệ. Theo người dân nơi đây, chè đâm có nguồn gốc từ dân tộc Thái bản địa, là thứ đồ uống quen thuộc và không thể thiếu trong đời sống hàng ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

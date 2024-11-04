@@ -3,7 +3,7 @@ pubDatetime: 2005-05-05T10:10:00Z
 title: Haruki Murakami | Biên niên ký chim vặn dây cót (Chương 05)
 description: Biên niên ký chim vặn dây cót với tiếng hót của con chim vặn dây cót chỉ vang lên vào những thời khắc quyết định, khi con người tỉnh thức những tiếng lòng thầm kín.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0185.jpg
+image: https://nhavantuonglai.com/image/cover/001-185.jpg
 tags:
   - thu vien
   - van hoc
@@ -462,6 +462,6 @@ Lúc tôi băng qua sân, con chim đá vẫn đang nhìn trời bằng cặp m�
 
 Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/haruki-murakami-bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://data.nhavantuonglai.com/ebook/haruki-murakami-bien-nien-ky-chim-van-day-cot.pdf) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://nhavantuonglai.com/ebook/haruki-murakami-bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0122.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-122.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

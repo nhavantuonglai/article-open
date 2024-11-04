@@ -3,7 +3,7 @@ pubDatetime: 2022-11-13T10:10:00Z
 title: Tìm hiểu về cảm biến full-frame
 description: Cảm biến full-frame là một loại cảm biến hình ảnh với kích thước tương đương với khung hình của phim 35mm truyền thống, tức là khoảng 36x24mm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0338.jpg
+image: https://nhavantuonglai.com/image/cover/001-338.jpg
 tags:
   - affiliate
   - may anh
@@ -154,4 +154,4 @@ Cảm biến full-frame đang ngày càng được cải tiến với nhiều c�
 
 Trong tương lai, các cảm biến full-frame sẽ tiếp tục là lựa chọn hàng đầu cho những nhiếp ảnh gia chuyên nghiệp và những người đam mê nhiếp ảnh, với sức mạnh và khả năng ngày càng được cải thiện để đáp ứng các nhu cầu ngày càng cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

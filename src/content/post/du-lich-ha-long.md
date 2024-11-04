@@ -3,7 +3,7 @@ pubDatetime: 2021-08-16T10:10:00Z
 title: Cẩm nang du lịch Hạ Long
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0622.jpg
+image: https://nhavantuonglai.com/image/cover/001-622.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -15,7 +15,7 @@ _Cách Hà Nội khoảng 160 km, Thành phố Hạ Long thuộc tỉnh Quảng 
 
 Thành phố Hạ Long nằm ở miền Bắc nên khí hậu đủ 4 mùa. Các tháng 4-6 trời ấm không mưa, tháng 6-8 nắng nóng có thể có mưa bão, tháng 9-12 tiết trời mát dần và trở lạnh. Mỗi mùa ở đây lại có một vẻ đẹp riêng, mùa hè bạn tới Hạ Long bơi lội, tắm nắng thì mùa xuân, thu mát mẻ thích hợp để ngắm một Hạ Long bớt ồn ào hơn và tham gia các hoạt động ngoài trời cũng như khám phá các khu vui chơi giải trí. Mùa cao điểm là từ tháng 6 đến tháng 8, thành phố đông đúc, đặc biệt vào dịp cuối tuần.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-269.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-269.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -37,7 +37,7 @@ Nếu chọn ở homestay thoải mái, giá dễ chịu hơn bạn có thể th
 
 Đặt phòng có thể thông qua nhiều kênh: website đặt phòng (Agoda, Booking, iVivu…), trực tiếp với khách sạn, qua các đại lý du lịch…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-270.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-270.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi gì
 
@@ -47,7 +47,7 @@ Vịnh Hạ Long là di sản thế giới có vẻ đẹp tự nhiên hút hồ
 
 Ở Hạ Long có nhiều [hãng tàu dịch vụ](https://info.nhavantuonglai.com/topick) tiêu chuẩn 1 – 5 sao như Heritage Cruises, Paradise Cruise, Stellar of the Seas, Indochine, Scarlet Pearl Cruises, Orchid, Starlight Hạ Long, Dragon Legend…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-271.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-271.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Trên những _khách sạn nổi,_ du khách còn được phục vụ bữa ăn sang trọng, tắm trong hồ bơi lộ thiên, ngắm cảnh biển đêm. Một số tour du thuyền lưu trú còn có các trải nghiệm như tập thái cực quyền buổi sáng, tắm biển, chèo thuyền kayak, câu mực đêm, tham quan các làng chài, trang trại ngọc trai, học nấu ăn…
 
@@ -57,11 +57,11 @@ Bãi tắm Bãi Cháy, bãi biển nhân tạo nằm phía sau công viên Sun W
 
 Các dịch vụ công cộng như tắm tráng, thay đồ, vệ sinh có thu phí 20.000 đồng một lượt. Ngoài Bãi Cháy, Hạ Long còn nhiều bãi tắm đẹp cho du khách khám phá như trên đảo Titop, Marina Bay Hạ Long, Ba Trái Đào, hoặc cã bãi ở Tuần Châu, Sun World…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-272.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-272.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Núi Bài Thơ cao 200 m, được coi là điểm ngắm cảnh thú vị nhìn ra vịnh Hạ Long và thành phố. Núi ban đầu có tên gọi là Truyền Đăng, tức Rọi Đèn, để chỉ vọng gác trọng yếu của cửa ải Đông Bắc từ hàng ngàn năm trước, có nhiệm vụ soi đường dẫn lối cho thuyền bè trên vịnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-273.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-273.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Từ năm 1468, khi vua Lê Thánh Tông cho khắc bài thơ lên vách núi, Truyền Đăng đuợc đổi thành tên gọi Bài Thơ. Nay nơi đây trở thành điểm du lịch nổi tiếng của Quảng Ninh.
 
@@ -75,7 +75,7 @@ Bảo tàng – thư viện Quảng Ninh nằm ở đường Trần Quốc Nghi�
 
 Bên trong bảo tàng Quảng Ninh gồm tầng 1 là không gian biển cả thiên nhiên, tầng 2 trưng bày di tích hiện vật có giá trị lịch sử, và tầng 3 tái hiện lịch sử ngành khai thác than trong một mô hình hầm mỏ sống động.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-274.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-274.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Bảo tàng 3D Funny Art là nơi check-in thú vị trong hành trình, với hơn 40 bức tranh theo chủ đề động vật, phiêu lưu, viễn tưởng… Giá vé 80.000 đồng một lượt. Bảo tàng nằm trong Trung tâm thương mại Marine Plaza, mở cửa từ 9h đến 22h.
 
@@ -87,13 +87,13 @@ Công viên Sun World là một trong những khu vui chơi lớn nhất nước
 
 Công viên gồm hai tổ hợp ven biển và trên đỉnh Ba Đèo. Trong đó, các điểm nổi bật như cáp treo nữ hoàng, đồi huyền bí có giá vé 250.000 – 350.000 đồng/người. Công viên Dragon Park bán vé 200.000 – 300.000 đồng/người không giới hạn số lần chơi các trò giải trí. Công viên nước Typhoon Water Park bán vé 350.000 đồng/người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-275.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-275.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Phố cổ Bãi Cháy nằm trên đường Hạ Long, Bãi Cháy. Đây là một trong những điểm đến phù hợp với những du khách thích check-in. Du khách tham quan, chụp ảnh miễn phí.
 
 Chợ đêm Hạ Long chính là thiên đường mua sắm, ăn uống về đêm. Chợ nằm trên đại lộ Hạ Long Marine, Bãi Cháy, mở cửa từ 18h đến 24h. Chợ có hàng trăm gian hàng lớn nhỏ với đủ mặt hàng từ đồ lưu niệm, đặc sản, bánh kẹo cho đến trang sức, quần áo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-276.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-276.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn gì
 
@@ -103,7 +103,7 @@ Bún bề bề là món ăn sáng và trưa phổ biến ở Quảng Ninh, nhấ
 
 [Bún cù kỳ](https://info.nhavantuonglai.com/topick) là món ăn chỉ ở Quảng Ninh mới có. Con cù kỳ thân nhỏ cỡ cua đá nhưng nhiều vỏ dăm ít thịt, bù lại có đôi càng to và nhiều thịt. Do đó, càng cù kỳ là nguyên liệu chính để chế biến món ăn. Thịt cù kỳ ăn ngọt, vị khác hẳn thịt cua, được gỡ ra phi sơ qua với hành tỏi cho thơm, rồi được cho vào tô bún trắng cùng đôi càng đã đập vỏ sẵn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-277.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-277.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Trứng, tiết hầm ngải cứu là món ăn vặt giàu dinh dưỡng thường được bán vào buổi xế chiều ở Hạ Long. [Tiết hầm ngải cứu](https://info.nhavantuonglai.com/topick), trứng vịt lộn được những người sành ăn ở Hạ Long gợi ý nên thử khi đến thành phố này.
 
@@ -111,7 +111,7 @@ Chất ngọt từ những miếng tiết vuông vắn làm lá ngải cứu đ�
 
 Bánh cuốn chả mực là đặc sản trứ danh của Hạ Long. Ở Hạ Long thực khách có thể tìm ăn bánh cuốn chả mực vào bất kỳ thời gian nào trong ngày. Một số địa chỉ nổi tiếng phải kể đến thương hiệu quán bà Ngân, bà Yến, quán Gốc Bàng, hoặc trong chợ địa phương vào ban ngày. Một suất có giá 30.000 – 55.000 đồng tùy thực khách có nhu cầu gọi thêm chả mực.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-278.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-278.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Sam được chế biến thành khá nhiều món như xào chua ngọt, làm chả, trứng sam… ăn rất lạ và ngon miệng. Tuy nhiên sam là loại hải sản có tính hàn nên nếu bạn có _tiền sử_ bị dị ứng, hay lạnh bụng với hải sản thì không nên ăn hoặc chỉ ăn ít. Địa chỉ sam nổi tiếng ở Hạ Long là Sam bà Tỵ ở ngõ 6 Cao Thắng, hoặc quán Sam Quảng Yên, nằm trên cung đường từ Hạ Long về Hà Nội. Buổi chiều ở khu ăn vặt của chợ Hạ Long 1 cũng có một hàng bán chân sam chua ngọt, chả sam… khá ngon.
 
@@ -119,7 +119,7 @@ Sam được chế biến thành khá nhiều món như xào chua ngọt, làm c
 
 Sữa chua trân châu là món tráng miệng nhất định phải thử. Sữa chua ăn kèm trân châu xuất hiện khoảng 10 năm nay. Món ăn vặt nổi tiếng thành thương hiệu của Hạ Long làm mưa làm gió ở những thành phố khác. Các quán tự ủ sữa chua mềm mịn, không lẫn đá đông, mát lạnh. Chỉ 10.000 – 30.000 đồng một phần sữa chua. Hàng cô Nghi hoặc Tuấn Liên là hai địa điểm quen thuộc của khách du lịch do có bãi đỗ xe rộng rãi thoải mái. Du khách có thể thử sữa chua cô Phượng được nhiều người địa phương gợi ý.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-279.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-279.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Ngoài ra, có thời gian bạn nên thưởng thức thêm bánh gật gù, nem chua Quảng Yên, rượu nếp Hoành Bồ, nem chạo, trứng vịt lộn, cháo trai… Các món ăn vặt này thường được bán tại các khu chợ. Ngoài ra, chè bưởi cô Huyền cũng là món ăn vặt được gợi ý, lưu ý chỉ bán từ 10h sáng đến tầm 17h.
 
@@ -133,7 +133,7 @@ Nếu có thời gian khám phá xa hơn và muốn đồ ăn ngon, chế biến
 
 Phố biển Hạ Long hiện có nhiều các [quán cà phê](https://info.nhavantuonglai.com/topick) view đẹp và độc đáo. Một số địa điểm cho du khách tham khảo là Sky Bar, Cam Cafe, 1990 Coffee house, Old Town cafe, cafe Thông Zeo ngàn chín…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-280.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-long-280.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Lưu ý: Du khách khi tới Hạ Long hãy vào các nhà hàng có niêm yết giá cả rõ ràng hoặc hỏi giá trước khi gọi đồ. Ngoài ra, khi đi ăn vào ngày cuối tuần cần đặt trước hoặc đi lệch giờ cao điểm để tránh đông đúc.
 
@@ -141,4 +141,4 @@ Lưu ý: Du khách khi tới Hạ Long hãy vào các nhà hàng có niêm yết
 
 Hải sản khô như mực một nắng, cá khô, tôm khô… cùng chả mực giã tay, hoặc những đồ chế tác từ vỏ sinh vật biển, than đá đều là các món quà đậm chất Hạ Long. Hải sản và đồ lưu niệm bạn dễ tìm mua nhất khi đến chợ đêm Hạ Long, chợ Cái Dăm và các cửa hàng hải sản truyền thống.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-05-02T10:10:00Z
 title: 8 yếu tố của một chiến lược Content Marketing thành công
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0546.jpg
+image: https://nhavantuonglai.com/image/cover/001-546.jpg
 tags:
   - google
   - google console
@@ -204,4 +204,4 @@ Nội dung tốt, thúc đẩy kết quả cần suy nghĩ, thời gian và côn
 
 Cuối cùng, thời gian và cam kết bạn đầu tư vào các mục tiêu và chiến lược dài hạn của mình sẽ được đền đáp bằng cổ tức cao hơn và ROI cao hơn. Và điều đó cộng thêm thời gian được sử dụng tốt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

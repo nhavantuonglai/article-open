@@ -3,7 +3,7 @@ pubDatetime: 2018-07-04T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 04
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 04 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0454.jpg
+image: https://nhavantuonglai.com/image/cover/001-454.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 04
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0001.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0001.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0002.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0002.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0003.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0003.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0004.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0004.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0005.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0005.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0006.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0006.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0121.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0121.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0122.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0122.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0123.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0123.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0124.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0124.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0125.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0125.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0126.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0126.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0127.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0127.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0128.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0128.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0129.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0129.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0130.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0130.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0131.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0131.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0132.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0132.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0133.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0133.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0134.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0134.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0135.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0135.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0136.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0136.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0137.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0137.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0138.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0138.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0139.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0139.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0140.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0140.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0141.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0141.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0142.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0142.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0143.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0143.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0144.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0144.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0145.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0145.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0146.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0146.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0147.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0147.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0148.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0148.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0149.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0149.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0150.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0150.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0151.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0151.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0152.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0152.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0153.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0153.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0154.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0154.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0155.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0155.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0156.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0156.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0157.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0157.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0158.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0158.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0159.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0159.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0160.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-01-0160.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -385,6 +385,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 01](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-01.pdf) tại đây.
+Đọc [Chim lửa, tập 01](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-01.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 04." title="Chim lửa (Hi no Tori) chương 04." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 04.</p></figcaption></figure>

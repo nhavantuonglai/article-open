@@ -3,7 +3,7 @@ pubDatetime: 2023-04-30T10:10:00Z
 title: 7 cách thiết lập chiến lược content SEO
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0546.jpg
+image: https://nhavantuonglai.com/image/cover/001-546.jpg
 tags:
   - google
   - google console
@@ -236,4 +236,4 @@ Khi làm như vậy, bạn sẽ thu hút khán giả của mình và mang lại 
 
 Và đó là những gì tôi gọi là một chiến thắng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

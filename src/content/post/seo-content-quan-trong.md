@@ -3,7 +3,7 @@ pubDatetime: 2023-05-09T10:10:00Z
 title: Tại sao content lại quan trọng trong chiến lược SEO?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0541.jpg
+image: https://nhavantuonglai.com/image/cover/001-541.jpg
 tags:
   - google
   - google console
@@ -280,4 +280,4 @@ Nhưng nó thực sự dễ dàng để có được hiển thị khi bạn bi�
 
 Nếu bạn muốn khả năng hiển thị và tiếp xúc, bạn phải cam kết với việc liên tục tạo nội dung được tối ưu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

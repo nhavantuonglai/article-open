@@ -3,7 +3,7 @@ pubDatetime: 2018-01-11T10:10:00Z
 title: Giới thiệu gimbal chống rung cho máy ảnh Canon EOS R
 description: Một chiếc gimbal chống rung cho máy ảnh là một gợi ý rất tuyệt để sở hữu những bức hình, video mượt mà. Bởi giờ đây, camera của smartphone chụp ảnh không khác gì một chiếc máy ảnh, máy quay.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0393.jpg
+image: https://nhavantuonglai.com/image/cover/001-393.jpg
 tags:
   - shoppe
   - affiliate
@@ -31,11 +31,11 @@ _Gimbal chống rung cho máy ảnh là một thiết bị hỗ trợ quay phim,
 
 ## Canon EOS R
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-001.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-001.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-002.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-002.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-003.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-003.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### High compatibility for more configuration options
 
@@ -61,11 +61,11 @@ The hand grip_s design is based on user feedback from professional photographers
 
 The hand grip_s design is based on user feedback from professional photographers. Fully support your creativity.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-004.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-004.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-005.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-005.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-006.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-006.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 This SmallRig full camera cage 4256 is specially designed for Canon EOS R camera, which adds additional mounting points and provides protection for your handheld camera rig.
 
@@ -73,11 +73,11 @@ SmallRig cage 4256 secures the camera via one 1/4"-20 screw on the bottom and si
 
 For quick switching among handheld, tripod, and stabilizer shooting scenes, the built-in quick release plate for Arca-type allows you to attach the camera to compatible tripods or for DJI RS series gimbals. It supports for DJI RS 2 / RSC 2 / RS 3 / RS 3 Pro stabilizers, for DJI RS 2 / RSC 2 stabilizer quick-release plate (height increase pad), and for SmallRig QR Plate for Arca-Type 3154.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-007.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-007.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-008.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-008.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-009.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/full-camera-cage-for-sony-zv-e1-black-009.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 The cage 4256 features multiple mounting points for accessories, including 1/4"-20 threaded holes and 3/8"-16 locating holes for ARRI for SmallRig top handle 3765, side handle 2916, monitor mount 2903. Also, two cold shoe mounts at the top of the cage can accommodate SmallRig microphone 3468 or LED video light 3286, etc.
 
@@ -87,9 +87,9 @@ Strap slots on both sides and the bottom of the cage and a QD socket on the bott
 
 Gimbal chống rung cho máy ảnh là một thiết bị hỗ trợ quay phim, chụp ảnh bằng máy ảnh một cách chuyên nghiệp, ổn định và mượt mà. Gimbal có thể giúp bạn tạo ra những thước phim đẹp, sáng tạo và ấn tượng. Gimbal cũng có nhiều tính năng thông minh và đa dạng, phù hợp với nhiều nhu cầu và mục đích sử dụng khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p>Canon EOS R-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p>Canon EOS R-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p>Canon EOS R-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p>Canon EOS R-nhavantuonglai</p></figcaption></figure>
 
 Trong bài viết này, chúng ta sẽ tìm hiểu về gimbal chống rung cho máy ảnh, cơ chế hoạt động, các loại gimbal phổ biến và lợi ích của việc sử dụng gimbal.
 
@@ -135,4 +135,4 @@ Việc sử dụng gimbal chống rung cho máy ảnh có nhiều lợi ích, nh
 
 Như vậy, Gimbal chống rung cho máy ảnh là một thiết bị hỗ trợ quay phim, chụp ảnh bằng máy ảnh một cách chuyên nghiệp, ổn định và mượt mà. Gimbal có nhiều tính năng thông minh và đa dạng, phù hợp với nhiều nhu cầu và mục đích sử dụng khác nhau. Gimbal cũng có nhiều loại khác nhau, với nhiều thiết kế, tính năng và giá cả khác nhau. Việc sử dụng gimbal chống rung cho máy ảnh có nhiều lợi ích, như giúp bạn tạo ra những thước phim đẹp, sáng tạo và ấn tượng, kết nối với các ứng dụng hỗ trợ quay phim, chụp ảnh, và tiết kiệm chi phí, thời gian và công sức. Nếu bạn đang muốn quay phim, chụp ảnh bằng máy ảnh một cách chuyên nghiệp, bạn không thể bỏ qua gimbal. Dưới đây là top 5 gimbal chống rung cho máy ảnh tốt nhất 2024.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0288.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-288.jpg" alt="Canon EOS R" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

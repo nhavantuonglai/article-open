@@ -3,7 +3,7 @@ pubDatetime: 2022-10-12T10:10:00Z
 title: Máy ảnh Fujifilm GFX 50 R
 description: Máy ảnh Mirrorless Digital Fujifilm GFX 50 R sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim X-T1 được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0353.jpg
+image: https://nhavantuonglai.com/image/cover/001-353.jpg
 tags:
   - affiliate
   - affiliate
@@ -162,4 +162,4 @@ Ngoài ra với kết nối không dây, Fujifilm GFX 50 R cho phép điều khi
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0358.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-358.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

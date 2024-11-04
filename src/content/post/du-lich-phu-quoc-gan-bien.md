@@ -3,7 +3,7 @@ pubDatetime: 2021-09-23T10:10:00Z
 title: Điểm danh những khách sạn gần biển Phú Quốc không nên bỏ lỡ
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0659.jpg
+image: https://nhavantuonglai.com/image/cover/001-659.jpg
 tags:
   - viet thue
   - marketing
@@ -124,4 +124,4 @@ Tọa lạc vị trí đắc địa ngay trung tâm thị trấn Dương Đông 
 
 Thiên đường Đảo Ngọc nổi tiếng với những bãi biển trong xanh, bờ cát trắng mịn và chỉ mất 3 phút tản bộ là du khách có thể tận hưởng những khoảnh khắc thư thái cùng những trải nghiệm đáng nhớ lại hòn đảo lớn nhất Việt Nam này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0349.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-349.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

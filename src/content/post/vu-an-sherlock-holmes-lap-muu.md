@@ -3,7 +3,7 @@ pubDatetime: 2024-03-26T10:10:00Z
 title: Đạo chích lập mưu trộm cắp như truyện Sherlock Holmes
 description: Mê truyện trinh thám, Tony Gavin nhắm vào ngân hàng trên cùng con phố Sherlock Holmes sinh sống, lên kế hoạch đào hầm trộm tiền, giống hệt tình tiết một vụ án đã đọc, năm 1971.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0649.jpg
+image: https://nhavantuonglai.com/image/cover/001-649.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -84,4 +84,4 @@ Sau vụ án, cảnh sát cân nhắc việc truy tố Robert Rowlands vì đã 
 
 Vụ trộm truyền cảm hứng cho bộ phim The Bank Job, năm 2008. Nhiều giấy tờ liên quan đến vụ trộm vẫn bị đóng dấu _tài liệu cấm_ tại Cơ quan Lưu trữ Quốc gia, tới tháng 1/2071.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

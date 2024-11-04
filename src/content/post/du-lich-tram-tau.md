@@ -3,7 +3,7 @@ pubDatetime: 2021-10-18T10:10:00Z
 title: Cẩm nang du lịch Trạm Tấu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0601.jpg
+image: https://nhavantuonglai.com/image/cover/001-601.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -15,7 +15,7 @@ _Du khách sẽ có cơ hội trải nghiệm các hoạt động du lịch mạ
 
 Trạm Tấu đẹp nhất khi các thửa ruộng bắt đầu lên xanh mơn mởn rồi chín vàng vào khoảng giữa tháng 8 đến giữa tháng 10. Nếu đến đây vào mùa đông, bạn sẽ được trải nghiệm cái lạnh đặc trưng của miền Bắc. Khoảng thời gian từ mùa xuân đến mùa hè, Trạm Tấu thích hợp cho các nhóm trekking vì thời tiết khô, các thửa ruộng bậc thang đến mùa đổ nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-644.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-644.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -23,7 +23,7 @@ Cách gần như duy nhất để đến Trạm Tấu là bằng đường bộ.
 
 Đường từ Nghĩa Lộ vào Trạm Tấu đẹp, dễ đi, nhưng cần lưu ý một số đoạn hẹp và ngoằn ngoèo, cần tay lái khá vững và không nên đi với tốc độ cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-645.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-645.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
@@ -41,7 +41,7 @@ Khu suối khoáng nóng tự nhiên
 
 Khu nghỉ dưỡng suối khoáng nóng Cường Hải chính là suối khoáng nằm trong homestay Suối khoáng nóng Trạm Tấu, cách trung tâm thị trấn chưa đầy 1 km. Nơi đây được ví như một _tiểu Bali_ giữa miền sơn cước với không gian, cảnh quan đẹp. Nguồn nước nóng hoàn toàn tự nhiên, là mạch nước ngầm sạch và tốt cho sức khỏe. Đây cũng được coi là điểm _must go_ ở Trạm Tấu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-646.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-646.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
 
 Tại đây có hệ thống bể bơi khoáng nóng ngoài trời rộng hơn 600m2, nằm sát những thửa ruộng bậc thang, nhìn ra những nương lúa. Nhiệt độ trung bình nước trong bể bơi từ 40 đến 45 độ C. Khu vực ngoài trời còn có bể lạnh để du khách bơi lội vào mùa hè, và cũng để làm se khít lỗ chân lông, giúp làm đẹp da.
 
@@ -77,13 +77,13 @@ Chè Shan tuyết Trạm Tấu được trồng ở độ cao từ 900 đến 1.
 
 Măng ớt
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-647.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-647.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
 
 Măng ớt Trạm Tấu là món ăn được chế biến từ cây măng lay – loại cây chỉ mọc ở vùng núi cao. Đây là loại măng đặc biệt, kích thước bằng ngón tay, đặc ruột. Măng lay ở Trạm Tấu mọc rất nhiều ở trên sườn núi đá, cứ mỗi độ vào thu, khi lưng đèo đã bắt đầu được bao phủ bởi những lớp sương thì đó cũng là thời điểm mầm măng đua nhau mọc. Với đồng bào người Mông ở Trạm Tấu, măng ớt là một trong những món ăn không thể thiếu trong những bữa cơm trên nương hay trong dịp lễ Tết.
 
 Gạo nếp nương
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-648.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tram-tau-648.jpg" alt="cam-nang-du-lich-tram-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-tram-tau-nhavantuonglai</p></figcaption></figure>
 
 Chí chủa, nếp cẩm, nếp nương là những loại gạo do người Mông trồng ở vùng Trạm Tấu. Gạo nếp Trạm Tấu ngon, có mùi thơm đặc trưng. Khi nấu cơm nếp hoặc xôi không cần cho thêm bất cứ gia vị gì, gạo được ngâm từ 2 đến 4 tiếng, dẻo. Thời gian xôi từ 25 – 30 phút. Xôi có vị ngọt tự nhiên, có cái mộc mạc của núi rừng, tinh túy của trời đất. Gạo nếp ngoài dùng để nấu cơm, đồ xôi, làm bánh chưng còn được chế biến thành các món chè, sữa gạo, hoặc chưng cất rượu nếp. Bột gạo nếp được dùng để làm bánh nếp, bánh giầy, bánh rán, bánh trôi, bánh gai, bánh cốm…
 
@@ -91,4 +91,4 @@ Thịt lợn đen Trạm Tấu
 
 Lợn đen được nuôi nhiều đời tại Trạm Tấu, toàn huyện có hơn 20.000 con, thời gian nuôi khá dài, từ 1 đến 2 năm. Lợn đen Trạm Tấu mõm dài, chân nhỏ, tai nhỏ, lông dọc sống lưng dài hơn hẳn so với lông ở các vùng khác. Lợn nhỏ con, sinh trưởng chậm nhưng thịt thơm, ít mỡ, ăn không ngấy, từ ngoài vào trong chỉ có một lớp bì dày, rồi đến một lớp thịt nạc thật mềm, ngọt lịm. Lợn đen Trạm Tấu được nuôi theo mô hình bán chăn thả. Chúng chỉ ăn cám gạo, cám ngô, sắn, rau chuối băm nhỏ. Do giống lợn này được thuần hóa lâu đời nên thích nghi tốt với điều kiện khí hậu khắc nghiệt của vùng cao, dễ nuôi, phàm ăn và có sức đề kháng cao, chống chịu bệnh tốt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-06-06T10:10:00Z
 title: Vai trò của nội dung hữu ích trong trải nghiệm trang
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0349.jpg
+image: https://nhavantuonglai.com/image/cover/001-349.jpg
 tags:
   - google
   - google console
@@ -70,4 +70,4 @@ Hệ thống nội dung hữu ích chủ yếu tập trung vào các tín hiệu
 
 Google Search luôn tìm cách cho thấy nội dung phù hợp nhất, ngay cả khi trải nghiệm trên trang chưa đạt yêu cầu. Nhưng đối với nhiều cụm từ Google Search, có rất nhiều nội dung hữu ích được tìm thấy. Trong những trường hợp như vậy, trải nghiệm tuyệt vời trên trang có thể góp phần vào thành công của website đó trên Google Search.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

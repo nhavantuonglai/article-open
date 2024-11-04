@@ -3,7 +3,7 @@ pubDatetime: 2024-05-25T10:10:00Z
 title: Tư vấn giải pháp xây biệt thự tốt nhất
 description: Xây dựng biệt thự là một trong những dự án quan trọng và đòi hỏi sự đầu tư lớn từ gia chủ. Việc chọn lựa đúng giải pháp thiết kế và thi công.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0565.jpg
+image: https://nhavantuonglai.com/image/cover/001-565.jpg
 tags:
   - viet thue
   - marketing
@@ -85,4 +85,4 @@ Xây dựng biệt thự là một quá trình phức tạp, đòi hỏi sự ch
 
 Nếu bạn đang tìm kiếm một đơn vị thiết kế và thi công biệt thự uy tín tại Đà Nẵng, OA Architect sẽ là đối tác đáng tin cậy giúp bạn hiện thực hóa ngôi nhà mơ ước của mình. Với kinh nghiệm lâu năm và phong cách làm việc chuyên nghiệp, OA Architect cam kết mang đến cho bạn giải pháp xây biệt thự tốt nhất, đáp ứng mọi nhu cầu và mong muốn của gia chủ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

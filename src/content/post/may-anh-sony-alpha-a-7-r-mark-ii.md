@@ -3,7 +3,7 @@ pubDatetime: 2022-12-13T10:10:00Z
 title: Giới thiệu và đánh giá máy ảnh Sony A7R Mark II
 description: Năm nay, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7R Mark II với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0411.jpg
+image: https://nhavantuonglai.com/image/cover/001-411.jpg
 tags:
   - affiliate
   - may anh
@@ -28,19 +28,19 @@ Sony A7R Mark II được thiết kế với một vỏ ngoài chắc chắn, k�
 
 Điểm nổi bật trong thiết kế của Sony A7R Mark II là cách bố trí các nút điều khiển. Các nút được đặt ở vị trí thuận tiện, cho phép người dùng dễ dàng điều chỉnh các thông số mà không cần rời mắt khỏi ống ngắm. Điều này đặc biệt quan trọng khi chụp ảnh trong những tình huống đòi hỏi tốc độ. Kính ngắm điện tử (EVF) với độ phân giải cao giúp hiển thị hình ảnh rõ nét, hỗ trợ tốt cho việc lấy nét và căn chỉnh khung hình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-01.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-01.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-02.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-02.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-03.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-03.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-04.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-04.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-05.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-05.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Cấu hình Sony A7R Mark II
 
@@ -48,15 +48,15 @@ Sony A7R Mark II được trang bị bộ vi xử lý hình ảnh BIONZ X mạnh
 
 Máy ảnh này còn hỗ trợ hệ thống lấy nét tự động (AF) với 399 điểm lấy nét theo pha, kết hợp với 25 điểm lấy nét theo tương phản, giúp tăng độ chính xác và tốc độ lấy nét. Ngoài ra, Sony A7R Mark II còn có khả năng quay video 4K, với việc sử dụng toàn bộ cảm biến để ghi hình, giúp chất lượng video sắc nét và chi tiết hơn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-08.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-08.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-09.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-09.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-10.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-10.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ### Thông số cấu hình
 
@@ -138,19 +138,19 @@ Máy ảnh này còn hỗ trợ hệ thống lấy nét tự động (AF) với 
 
 – Trọng lượng: 625g (bao gồm pin và thẻ nhớ).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-11.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-11.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-12.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-12.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-13.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-13.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-14.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-14.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-15.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-15.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Cảm biến và chất lượng ảnh Sony A7R Mark II
 
@@ -158,15 +158,15 @@ Cảm biến full-frame 42.4 megapixel của Sony A7R Mark II là điểm nhấn
 
 Chất lượng ảnh từ Sony A7R Mark II thực sự ấn tượng, với khả năng ghi lại dải động rộng, giữ được chi tiết trong cả vùng sáng và vùng tối. Điều này đặc biệt hữu ích khi chụp phong cảnh hoặc các bối cảnh có sự chênh lệch lớn về độ sáng. Ngoài ra, khả năng xử lý nhiễu của máy ảnh này cũng rất tốt, giúp các bức ảnh giữ được độ trong trẻo mà không cần can thiệp quá nhiều vào hậu kỳ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-18.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-18.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-19.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-19.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-20.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-20.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Đánh giá Sony A7R Mark II từ chuyên gia
 
@@ -174,15 +174,15 @@ Sony A7R Mark II nhận được rất nhiều đánh giá tích cực từ các
 
 Thêm vào đó, chuyên gia nhiếp ảnh nổi tiếng Steve Huff cũng đã nhận xét rằng Sony A7R Mark II là một bước tiến lớn của Sony trong việc cạnh tranh với các máy ảnh DSLR hàng đầu trên thị trường. Ông nhấn mạnh rằng, với cảm biến 42.4 MP, Sony A7R Mark II không chỉ mang lại chất lượng ảnh vượt trội mà còn tạo ra những cơ hội mới trong việc sáng tạo hình ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-21.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-21.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-22.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-22.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-23.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-23.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-24.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-24.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-25.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-25.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Đánh giá Sony A7R Mark II từ người dùng
 
@@ -190,11 +190,11 @@ Trên các diễn đàn và mạng xã hội, người dùng Sony A7R Mark II c�
 
 Tuy nhiên, không phải người dùng nào cũng hài lòng với Sony A7R Mark II. Một số phàn nàn về thời lượng pin không được lâu, đặc biệt khi quay video 4K hoặc chụp liên tục. Một người dùng khác trên Reddit cũng chia sẻ rằng, _Máy ảnh tuyệt vời, nhưng bạn cần sẵn sàng mang theo pin dự phòng nếu có ý định chụp cả ngày._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-26.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-26.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-27.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-27.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-28.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-28.jpg" alt="sony alpha a7r mark ii" title="sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Giá Sony A7R Mark II trong 2024 là bao nhiêu
 
@@ -204,8 +204,8 @@ Vào năm 2024, giá của Sony A7R Mark II trên thị trường vẫn duy trì
 
 Dù Sony A7R Mark II đã ra mắt được gần một thập kỷ, nhưng giá trị của chiếc máy ảnh này trong năm 2024 vẫn còn khá đáng kể. Với chất lượng ảnh cao, khả năng lấy nét nhanh và chính xác, cùng với khả năng quay video 4K, Sony A7R Mark II vẫn là một sự lựa chọn tốt cho các nhiếp ảnh gia bán chuyên và chuyên nghiệp. Tuy nhiên, với sự xuất hiện của các dòng máy mới hơn như Sony A7RIV hoặc A7SIII, người dùng có thể cân nhắc việc nâng cấp nếu cần thêm các tính năng hiện đại hoặc khả năng xử lý nhanh hơn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 Nếu bạn đang tìm kiếm một chiếc máy ảnh với độ phân giải cao và khả năng chụp ảnh chất lượng, nhưng không muốn chi quá nhiều tiền, thì Sony A7R Mark II vẫn là một lựa chọn rất hợp lý. Tuy nhiên, nếu bạn cần một máy ảnh có khả năng quay video tốt hơn, hoặc cần tốc độ chụp nhanh hơn, thì có lẽ bạn nên cân nhắc các mẫu máy mới hơn hoặc từ các thương hiệu khác. Sony A7R Mark III, với các cải tiến về thời lượng pin và hệ thống lấy nét, cũng là một lựa chọn thay thế tốt trong tầm giá.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

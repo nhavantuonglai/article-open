@@ -3,7 +3,7 @@ pubDatetime: 2023-05-14T10:10:00Z
 title: Website của bạn có xuất hiện trên Google không?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0645.jpg
+image: https://nhavantuonglai.com/image/cover/001-645.jpg
 tags:
   - google
   - google console
@@ -120,4 +120,4 @@ Trước khi bắt đầu Google Search một chuyên gia SEO, bạn nên trở 
 
 Nếu đang dự định thuê nhân viên SEO, bạn nên làm càng sớm càng tốt. Thời điểm thích hợp nhất để thuê là khi bạn đang cân nhắc việc thiết kế lại website, hoặc dự định chạy một website mới. Bằng cách đó, bạn và chuyên gia SEO có thể đảm bảo rằng website của bạn được thiết kế thân thiện với công cụ tìm kiếm ngay từ đầu. Tuy nhiên, một nhân viên SEO giỏi cũng có thể giúp cải tiến website hiện có.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

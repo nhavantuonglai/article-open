@@ -3,7 +3,7 @@ pubDatetime: 2021-06-17T10:10:00Z
 title: Hoàng Phủ Ngọc Tường | Ai đã đặt tên cho dòng sông
 description: Trong những dòng sông đẹp ở các nước mà tôi thường nghe nói đến, hình như chỉ sông Hương là thuộc về một thành phố duy nhất.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg
+image: https://nhavantuonglai.com/image/cover/001-429.jpg
 tags:
   - van hoc
   - van hoc viet nam
@@ -44,4 +44,4 @@ Ai đã đặt tên cho dòng sông? Có lẽ huyền thoại trên đã giải 
 
 (Ai đã đặt tên cho dòng sông? NXB Thuận Hoá, Huế, 2002).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

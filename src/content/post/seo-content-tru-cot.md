@@ -3,7 +3,7 @@ pubDatetime: 2023-05-11T10:10:00Z
 title: 3 trụ cột của Content Marketing
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0449.jpg
+image: https://nhavantuonglai.com/image/cover/001-449.jpg
 tags:
   - google
   - google console
@@ -218,4 +218,4 @@ Nếu bạn có thể xây dựng, cấu trúc và kiểm tra áp lực các ho�
 
 Hãy bắt đầu với nó.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-08-28T10:10:00Z
 title: Cẩm nang du lịch Lạng Sơn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0635.jpg
+image: https://nhavantuonglai.com/image/cover/001-635.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -19,7 +19,7 @@ Khí hậu của Lạng Sơn thể hiện rõ nét đặc trưng khí hậu cậ
 
 Mùa mưa ở Lạng Sơn chủ yếu tập trung vào những tháng hè, từ tháng 6 đến tháng 8. Vì thế, mùa đông dù lạnh nhưng lại là thời điểm phù hợp cho du lịch vì khô ráo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-368.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-368.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -45,7 +45,7 @@ Phố đi bộ Kỳ Lừa bắt đầu hoạt động từ 16/10/2020 nhân kỷ
 
 ### Ga Đồng Đăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-369.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-369.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 Ga tàu hoả quốc tế Đồng Đăng nằm ở phía bắc thị trấn Đồng Đăng, huyện Cao Lộc, cách thành phố Lạng Sơn khoảng 15 km. Cùng với những hoạt động nổi bật trong kinh doanh vận tải, những năm gần đây, ga Đồng Đăng còn là một trong những điểm đến thu hút khách du lịch trong và ngoài nước. Đặc biệt, ngày 25/2/2019, ga là điểm đến đầu tiên trong chuyến đi của Chủ tịch Triều Tiên Kim Jong Un đến Việt Nam dự Hội nghị Thượng đỉnh Mỹ – Triều.
 
@@ -57,7 +57,7 @@ Trong động có chùa Tam Thanh (chùa Thanh Thiền). Đây là ngôi chùa l
 
 ### Thành cổ Lạng Sơn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-370.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-370.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 Thành cổ nằm tại phường Chi Lăng, là một trong những di tích lịch sử cấp quốc gia. Nơi đây từng là trung tâm chính trị, kinh tế, văn hoá của Lạng Sơn với các hoạt động giao thương sôi nổi. Thành cổ Lạng Sơn được xây theo hình chữ nhật với 4 cửa ứng với 4 hướng, được gọi là _tứ trấn,_ bằng những khối bản lề và những viên đá lớn chạm trổ công phu. Hiện chỉ còn 2 cổng thành phía tây và nam còn nguyên vẹn.
 
@@ -71,7 +71,7 @@ Bên cạnh núi Nàng Tô Thị là một thung lũng, có hai bức tường t
 
 ### Đền Mẫu Đồng Đăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-371.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-371.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 Đền Mẫu Đồng Đăng là một trong những nơi thờ tự nổi tiếng, nằm ở trung tâm thị trấn Đồng Đăng, có giá trị đặc biệt về kiến trúc, tín ngưỡng tôn giáo và lịch sử. Đền gồm 5 gian thờ: phía trong cùng là Tam bảo, nơi thờ Phật Chuẩn Đề và Phật bà Quan Âm, phía ngoài là Tam tòa Thánh mẫu, tiếp theo là gian thờ Sơn trang; gian giữa chính điện ngoài cùng thờ Chúa Liễu, hai bên là Chầu Bơ và Chầu Lục; gian bên trái thờ Chầu đệ tứ Khâm sai. Vào ngày mùng 10 tháng giêng hằng năm là lễ hội Lồng Tồng tại đền Mẫu với các trò chơi như múa sư tử, võ dân tộc.
 
@@ -89,7 +89,7 @@ Thung lũng hoa Bắc Sơn nằm ở thôn Lân Khoang, xã Trấn Yên với di
 
 ### Khu du lịch quốc gia Mẫu Sơn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-372.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-372.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 Khu du lịch Quốc gia Mẫu Sơn cách thành phố Lạng Sơn 30 km về phía đông bắc, theo quốc lộ 4B. Từ những năm 30 của thế kỷ 20, cùng với Đà Lạt, Sa Pa, Bà Nà, Tam Đảo, người Pháp đã khảo sát, nghiên cứu và chọn Mẫu Sơn làm nơi xây dựng những biệt thự sang trọng cho quan chức Pháp nghỉ dưỡng. Nằm trên độ cao 1.200 m – 1.541 m so với mặt nước biển, khí hậu nơi đây mang nhiều tính chất của vùng nhiệt đới và ôn đới nên mùa hè mát mẻ, mùa đông lạnh giá. Đặc biệt đỉnh Mẫu Sơn là một trong hai đỉnh núi ở phía Bắc thường xuất hiện tuyết rơi vào mùa đông.
 
@@ -103,11 +103,11 @@ Hành trình chinh phục Phia Pò thường chia làm 2 chặng. Ngày đầu t
 
 T### hác Đăng Mò
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-373.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-373.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 ### Ải Chi Lăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-374.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-374.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 Ải Chi Lăng là cửa ải lịch sử tiêu biểu của Lạng Sơn, nằm tại xã Chi Lăng. Trước đây, khu vực này được coi là tường chắn của Thăng Long để ngăn chặn những cuộc viễn chinh phương Bắc. Ải Chi Lăng có chiều dài 20 km, nối liền Chi Lăng và Hữu Lũng của tỉnh Lạng Sơn. Ải Chi Lăng là chứng tích lịch sử của nhiều cuộc chiến trong lịch sử dân tộc Việt Nam. Phía tây được bao bọc bởi núi Kai Kinh, hai đầu ải là những núi đá cao, tạo thành thế hiểm trở, góp phần làm nên chiến thắng chống quân Minh và đánh tan quân xâm lược nhà Thanh.
 
@@ -131,7 +131,7 @@ Phở chua Lạng Sơn thường được đựng trong một chiếc đĩa lớ
 
 Phở chua Lạng Sơn có tính hàn, phù hợp để thưởng thức vào những ngày trời nóng. Nhưng bạn vẫn có thể ăn phở chua vào mùa đông khi nước sốt và bánh phở được hâm nóng lên. Tùy vào sở thích, khi ăn phở chua có thể cho thêm vài lát ớt tươi hay vắt thêm miếng chanh hoặc rắc chút hạt tiêu, cho hương vị thanh, không ngấy.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-375.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-375.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 ### Bánh cuốn trứng
 
@@ -141,7 +141,7 @@ Bánh cuốn trứng được làm từ gạo tẻ ngon xay nhuyễn với nư�
 
 Khâu nhục, còn gọi là Nằm khâu, có nguồn gốc từ Trung Quốc được du nhập vào Việt Nam nhờ người dân tộc Tày, Nùng. Đây là món ăn được dùng trong những dịp lễ Tết, cưới hỏi, chế biến cầu kỳ. Thành phần chính của món ăn gồm thịt lợn ba chỉ, khoai môn, cùng các hỗn hợp gia vị gồm hành, tỏi, gừng, húng lìu băm nhuyễn, đường, tiêu, dầu hào, ngũ vị hương, một ít rượu trắng và lá tàu soi – một loại rau muối mặn của người Tày, Nùng, băm nhỏ. Qua nhiều công đoạn như luộc, quay (chiên) rồi hấp cách thuỷ. Khâu nhục ăn kèm cơm, bánh mì và các loại rau trong bữa sáng hoặc bữa chính. Thịt mềm nhừ, ngấm vị khoai môn cùng gia vị, phần bì hơi ngọt, phần mỡ ngậy nhưng không có cảm giác ngấy.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-376.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-lang-son-376.jpg" alt="cam-nang-du-lich-lang-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-lang-son-nhavantuonglai</p></figcaption></figure>
 
 ### Nem nướng Hữu Lũng
 
@@ -157,4 +157,4 @@ Nên mang theo hộ chiếu và đầy đủ giấy tờ cá nhân vì có thể
 
 Mua sắm ở các chợ tại Lạng Sơn nên hỏi thăm kỹ để tránh hàng kém chất lượng và bị hét giá cao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

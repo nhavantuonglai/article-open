@@ -3,7 +3,7 @@ pubDatetime: 2018-05-19T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Get bit)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0508.jpg
+image: https://nhavantuonglai.com/image/cover/001-508.jpg
 tags:
   - developer
   - github
@@ -284,4 +284,4 @@ B = 6: 110
   - [Negative Numbers in binary on YouTube](https://www.youtube.com/watch?v=4qH4unVtJkE&t=0s&index=30&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
   - [Bit Hacks on stanford.edu](https://graphics.stanford.edu/~seander/bithacks.html)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

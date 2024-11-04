@@ -3,7 +3,7 @@ pubDatetime: 2014-03-09T10:10:00Z
 title: Minh Niệm | Hiểu về trái tim (Chương 09)
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0309.jpg
+image: https://nhavantuonglai.com/image/cover/001-309.jpg
 tags:
   - thu vien
   - van hoc
@@ -156,6 +156,6 @@ _Đời cần gì nơi ta?_
 
 Đọc [Hiểu về trái tim, chương 51](https://nhavantuonglai.com/article/minh-niem-hieu-ve-trai-tim-chuong-51) tại đây.
 
-Đọc [Hiểu về trái tim, toàn tập](https://data.nhavantuonglai.com/ebook/minh-niem-hieu-ve-trai-tim.pdf) tại đây.
+Đọc [Hiểu về trái tim, toàn tập](https://nhavantuonglai.com/ebook/minh-niem-hieu-ve-trai-tim.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

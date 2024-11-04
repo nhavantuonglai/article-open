@@ -3,7 +3,7 @@ pubDatetime: 2018-08-18T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 48
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 48 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0448.jpg
+image: https://nhavantuonglai.com/image/cover/001-448.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 48
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0001.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0001.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0002.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0002.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0003.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0003.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0161.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0161.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0162.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0162.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0163.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0163.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0164.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0164.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0165.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0165.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0166.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0166.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0167.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0167.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0168.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0168.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0169.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0169.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0170.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0170.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0171.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0171.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0172.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0172.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0173.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0173.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0174.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0174.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0175.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0175.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0176.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0176.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0177.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0177.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0178.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0178.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0179.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0179.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0180.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0180.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0181.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0181.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0182.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0182.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0183.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0183.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0184.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0184.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0185.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0185.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0186.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0186.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0187.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0187.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0188.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0188.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0189.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0189.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0190.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0190.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0191.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0191.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0192.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0192.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0193.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0193.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0194.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0194.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0195.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0195.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0196.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0196.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0197.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0197.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0198.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0198.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0199.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0199.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0200.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-06-0200.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -379,6 +379,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 06](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-06.pdf) tại đây.
+Đọc [Chim lửa, tập 06](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-06.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 48." title="Chim lửa (Hi no Tori) chương 48." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 48.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-10-03T10:10:00Z
 title: Giới thiệu máy ảnh Canon R
 description: Canon R là phiên bản rút gọn của Canon EOS R, cũng cấp một loạt công cụ nhằm đáp ứng các nhu cầu chụp ảnh và quay video chất lượng cao. Máy ảnh Full-frame mirrorless Canon R được xây dựng trên nền tảng cảm biến CMOS 20MP tinh tế.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0538.jpg
+image: https://nhavantuonglai.com/image/cover/001-538.jpg
 tags:
   - affiliate
   - may anh
@@ -20,13 +20,13 @@ _Canon R là phiên bản rút gọn của Canon EOS R, cũng cấp một loạt
 
 ## Cảm biến 20.1mp cmos & digic x trên Canon R
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/canon-r-p-01.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/canon-r-p-01.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/canon-r-p-02.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/canon-r-p-02.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/canon-r-p-03.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/canon-r-p-03.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/canon-r-p-04.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/canon-r-p-04.jpg" alt="Canon R" height=100% width=100%><figcaption><p>Canon R</p></figcaption></figure>
 
 Canon R là chiếc máy ảnh Canon được trang bị cảm biến CMOS Full-frame 20.1 megapixel, đã được cải thiện so với cảm biến cùng loại có trên dòng máy DSLR chuyên nghiệp 1DX mark III. Kết hợp với bộ xử lý hình ảnh DIGIC X cho phép EOS R chụp ảnh và quay video ấn tượng, hoạt động AF nhanh chóng, chính xác.
 
@@ -180,4 +180,4 @@ Trang bị các kết nối không dây Wifi 2.4 GHz và Bluetooth, hỗ trợ t
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

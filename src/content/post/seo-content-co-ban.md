@@ -3,7 +3,7 @@ pubDatetime: 2023-05-01T10:10:00Z
 title: Cách viết content chuẩn SEO cho người mới bắt đầu
 description: Cách viết content chuẩn SEO cho người mới bắt đầu hướng dẫn cách viết theo các tiêu chí và quy tắc của các công cụ tìm kiếm, nhằm mục đích cải thiện thứ hạng và khả năng hiển thị của website.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0247.jpg
+image: https://nhavantuonglai.com/image/cover/001-247.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -188,4 +188,4 @@ Lưu ý:
 
 Viết content chuẩn SEO cho người mới bắt đầu là một kỹ năng quan trọng trong học tập, công việc và cuộc sống. Để viết bài một cách hiệu quả, bạn không chỉ cần có một dàn ý nội dung rõ ràng, logic và hợp lý, mà còn cần kiểm tra, sửa chữa và định dạng bài viết cho đẹp mắt và dễ đọc. Bạn cũng cần chọn một hình ảnh minh họa cho bài viết, có liên quan đến nội dung và có kích thước phù hợp. Bạn cũng cần điền các thông tin cần thiết như tiêu đề, mô tả, từ khóa, thẻ, danh mục… cho bài viết. Bạn cũng cần xem lại bài viết trước khi đăng, đảm bảo bài viết hiển thị đúng ý muốn và không có lỗi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

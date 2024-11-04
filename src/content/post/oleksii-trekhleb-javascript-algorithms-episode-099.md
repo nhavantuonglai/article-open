@@ -3,7 +3,7 @@ pubDatetime: 2018-05-03T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Topological sorting)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0599.jpg
+image: https://nhavantuonglai.com/image/cover/001-599.jpg
 tags:
   - developer
   - github
@@ -50,4 +50,4 @@ and each edge is a dependency of package `a` on package 'b'. Then topological
 sorting will provide a sequence of installing dependencies in a way that every
 next dependency has its dependent packages to be installed in prior.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

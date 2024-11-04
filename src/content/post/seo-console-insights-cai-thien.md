@@ -3,7 +3,7 @@ pubDatetime: 2023-04-26T10:10:00Z
 title: Tìm hiểu cách cải thiện nội dung nhờ Search Console Insights
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0142.jpg
+image: https://nhavantuonglai.com/image/cover/001-142.jpg
 tags:
   - google
   - google console
@@ -20,7 +20,7 @@ Nội dung hay có thể có nhiều hình thức, chẳng hạn như một bài
 
 Nhằm giúp bạn hiểu rõ hơn nội dung nào trên website phù hợp với người xem của bạn, chúng tôi xin giới thiệu một trải nghiệm mới có tên là Search Console Insights. Trải nghiệm này kết hợp dữ liệu của cả Search Console và Google Analytics, với mục tiêu giúp bạn dễ dàng nắm được mức độ hiệu quả của nội dung. Bất kể bạn là nhà sáng tạo nội dung trên web, người viết blog hay chủ sở hữu website, và bạn có chuyên môn kỹ thuật hay không, công cụ này đều có thể cung cấp góc nhìn tổng quan và thông tin chi tiết hữu ích về việc nội dung của bạn có hiệu quả đến đâu. Trải nghiệm mới này sẽ dần được triển khai cho tất cả người dùng Search Console trong thời gian tới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-80.jpg" alt="tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights" height=100% width=100%><figcaption><p>tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-80.jpg" alt="tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights" height=100% width=100%><figcaption><p>tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights-nhavantuonglai</p></figcaption></figure>
 
 Sau đây là ví dụ về một số câu hỏi mà trải nghiệm này có thể giúp bạn trả lời:
 
@@ -40,8 +40,8 @@ Có một số cách để truy cập Search Console Insights:
 
 – Sắp ra mắt – Trong ứng dụng Google trên iOS, hãy nhấn vào ảnh hồ sơ của bạn (trình đơn tài khoản) rồi chọn Search Console Insights. Chúng tôi cũng đang cố gắng tiến tới hỗ trợ cho cả ứng dụng Google trên Android.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-23.jpg" alt="tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights"><figcaption></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-23.jpg" alt="tim-hieu-cach-cai-thien-noi-dung-nho-search-console-insights"><figcaption></figcaption></figure>
 
 Kể cả khi không dùng Google Analytics, bạn vẫn có thể dùng Search Console Insights. Tuy nhiên, để có được trải nghiệm trọn vẹn và thông tin chi tiết hữu ích nhất về nội dung của bạn, bạn nên liên kết tài sản trong Google Analytics với tài sản liên quan trong Search Console. Xin lưu ý rằng hiện tại, Search Console Insights chỉ hỗ trợ các tài sản Universal Analytics của Google Analytics (mã nhận dạng của những tài sản này bắt đầu bằng _UA-_). Tuy nhiên, chúng tôi đang cố gắng tiến tới hỗ trợ Google Analytics 4.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2006-02-15T10:10:00Z
 title: Edgar Allan Poe | The purloined letter
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0571.jpg
+image: https://nhavantuonglai.com/image/cover/001-571.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -267,4 +267,4 @@ _Why – it did not seem altogether right to leave the interior blank – that w
 
 They are to be found in Crebillons Atree._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

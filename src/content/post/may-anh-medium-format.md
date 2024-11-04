@@ -3,7 +3,7 @@ pubDatetime: 2022-11-14T10:10:00Z
 title: Tìm hiểu về cảm biến máy ảnh medium format
 description: Cảm biến medium format là loại cảm biến hình ảnh có kích thước lớn hơn cảm biến full-frame nhưng nhỏ hơn cảm biến lớn nhất, thường được sử dụng trong máy ảnh chuyên nghiệp cao cấp.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0328.jpg
+image: https://nhavantuonglai.com/image/cover/001-328.jpg
 tags:
   - affiliate
   - may anh
@@ -153,4 +153,4 @@ Cảm biến medium format đang tiếp tục phát triển với các xu hướ
 
 Nhìn chung, cảm biến medium format sẽ tiếp tục là lựa chọn hàng đầu cho các nhiếp ảnh gia và chuyên gia cần chất lượng hình ảnh vượt trội và khả năng in ấn khổ lớn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

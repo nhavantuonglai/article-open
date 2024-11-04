@@ -3,7 +3,7 @@ pubDatetime: 2021-10-03T10:10:00Z
 title: Cẩm nang du lịch Phù Luông
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0668.jpg
+image: https://nhavantuonglai.com/image/cover/001-668.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -27,7 +27,7 @@ Hiện homestay, nhà nghỉ, resort ở Pù Luông ngày một nhiều hơn nh�
 
 Bên cạnh đó, du khách thích nghỉ dưỡng sang chảnh cũng có nhiều lựa chọn lưu trú tại các resort như Pù Luông Retreat, Pu Luong Eco Garden, Pù Luông Natura, Ciel del Puluong, Pu Luong Tree House, Pu Luong Hillside Lodge… giá từ 300.000 đến hơn 1.000.000 đồng một đêm. Những nơi này có phòng nghỉ rộng rãi, bể bơi vô cực, tiểu cảnh xinh xắn, view ngắm lúa siêu đẹp… Do gắn với du lịch sinh thái, thường các resort không có tivi, điều hòa… tuy nhiên phòng ốc luôn sạch sẽ, thoáng mát, đủ tiện nghi cơ bản.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-515.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-515.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -35,13 +35,13 @@ Nằm trên cung đường từ Mai Châu tới Pù Luông, Son Bá Mười là 
 
 Đi sâu hơn vào vùng lõi khu bảo tồn Pù Luông, bản Hiêu nổi tiếng với thác Hiêu có dòng nước trong và mạnh, chảy thành nhiều tầng lớp thu hút du khách tới tắm mát. Dưới chân thác là những _bể tắm_ tự nhiên, nước trong suốt, mát lạnh [mùa hè](https://info.nhavantuonglai.com/topick) và ấm mùa đông. Ngoài tắm thác, bạn cũng hãy ghé thăm đồi cọ, ruộng bậc thang, rừng nguyên sinh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-516.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-516.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
 Cách Thác Hiêu khoảng 11km là khu Làng Tôm hoặc Suối Chàm, nơi có những cọn nước khổng lồ và trải nghiệm lênh đênh trên sông bằng chiếc bè kết bằng tre nứa. Thời gian tour chèo bè là 1 giờ, mỗi bè có thể chở 8 – 14 người, giá 50.000 đồng một người.
 
 Ngoài ra, du khách đừng quên trải nghiệm đi bộ đường dài qua những ruộng bậc thang, đạp xe, đi bè tre du ngoạn trên sông… hay đơn giản là thư giãn, đọc sách và hít thở không khí trong lành.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-517.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-517.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
 Đỉnh Pù Luông cao khoảng 1.700 m, là một trong những đỉnh núi dân trekking yêu thích chinh phục vì đường lên núi khá dốc với nhiều đoạn hiểm trở, quanh co. Mất khoảng 6 tiếng trong điều kiện thời tiết tốt để leo tới [đỉnh Pù Luông](https://info.nhavantuonglai.com/topick). Đứng trên đỉnh Pù Luông, bạn có thể chiêm ngưỡng trọn vẹn phong cảnh nên thơ của núi rừng, cánh đồng, thung lũng ở dưới chân núi.
 
@@ -51,7 +51,7 @@ Bản Đôn là nơi tập trung đông người Thái sinh sống. 2 – 3 năm
 
 Bản Kho Mường và hang Dơi là những địa điểm hấp dẫn nhất ở Pù Luông mà du khách không nên bỏ qua. Đường vào Kho Mường tuy khó đi vì dốc ngoằn ngoèo bên vách núi, bên vực sâu nhưng tới tận nơi ai cũng phải ngỡ ngàng vì vẻ đẹp ẩn mình của nơi này. Chỉ cần nhìn từ xa cũng có thể thấy những mái nhà sàn, ruộng lúa, ngô trải rộng tít tắp cùng những dãy núi nhấp nhô bao lấy bản làng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-518.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-518.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
 Đi bộ từ đầu bản xuyên qua cánh đồng lúa lớn tới gần cuối đường mòn là hướng vào hang Dơi hay hang Kho Mường. Những khối nhũ đá vôi được hình thành từ khoảng 250 triệu năm trước đã tạo nên hang động này. Đây còn là nơi trú ngụ của nhiều loài dơi. Càng đi sâu vào lòng hang, du khách sẽ thấy một khoảng không rộng lớn bao trùm bởi những khối nhũ đá hình thù kì lạ.
 
@@ -61,7 +61,7 @@ Chợ phiên Phố Đòn diễn ra vào thứ 5, chủ Nhật hàng tuần. Đ�
 
 Đặc sản Pù Luông phải kể tới vịt Cổ Lũng. Thịt vịt nạc, chắc và thơm, được nướng bằng than, giá 450.000 đồng một con đủ cho 3 – 4 người ăn. Bên cạnh đó, bạn có thể đặt chủ nhà nghỉ các món như ốc đá, gà đồi, vịt suối nướng, lợn rừng quay, măng chua, măng đắng, canh rau ngót rừng, cơm lam, nộm hoa chuối…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-519.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-pu-luong-519.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
 ## Lịch trình gợi ý
 
@@ -71,4 +71,4 @@ Ngày 2: Leo đỉnh Pù Luông – Bản Đôn.
 
 Ngày 3: Bản Kho Mường – Hang Dơi – Chợ Phố Đoàn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

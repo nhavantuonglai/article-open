@@ -3,7 +3,7 @@ pubDatetime: 2022-11-16T10:10:00Z
 title: Giới thiệu và đánh giá máy ảnh Nikon Z5
 description: Nikon Z5 là một trong những mẫu máy ảnh không gương lật full-frame của Nikon, được ra mắt vào năm 2020. Được thiết kế để phục vụ các nhiếp ảnh gia từ nghiệp dư đến bán chuyên nghiệp.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - affiliate
   - may anh
@@ -25,15 +25,15 @@ Nikon Z5 có thiết kế tương tự như các dòng máy Z6 và Z7 cao cấp 
 
 Thiết kế của Nikon Z5 được tối ưu hóa cho người dùng, với tay cầm lớn và sâu, giúp việc cầm máy trở nên tự nhiên và thoải mái ngay cả khi chụp trong thời gian dài. Các nút điều khiển và bánh xe chỉnh chế độ được bố trí hợp lý, dễ dàng truy cập mà không cần rời mắt khỏi kính ngắm. Nikon Z5 cũng được trang bị kính ngắm điện tử EVF OLED với độ phân giải 3.69 triệu điểm ảnh, mang lại hình ảnh rõ ràng và sắc nét, giúp dễ dàng điều chỉnh khung hình và lấy nét. Màn hình LCD 3.2 inch ở phía sau có khả năng cảm ứng và lật nghiêng, rất hữu ích khi chụp từ các góc độ khó.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-01.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-01.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-02.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-02.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-03.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-03.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-04.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-04.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-05.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-05.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Cấu hình Nikon Z5
 
@@ -123,15 +123,15 @@ Về khả năng quay video, Nikon Z5 hỗ trợ quay video 4K UHD ở tốc đ�
 
 – Trọng lượng: 675g (bao gồm pin và thẻ nhớ).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-06.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-06.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-07.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-07.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-08.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-08.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-09.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-09.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-10.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-10.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Cảm biến và chất lượng ảnh Nikon Z5
 
@@ -147,15 +147,15 @@ Nikon Z5 đã nhận được nhiều đánh giá tích cực từ các chuyên 
 
 Một chuyên gia khác, Gordon Laing từ Camera Labs, đã đánh giá cao Nikon Z5 về thiết kế và trải nghiệm cầm nắm. Ông cho rằng Nikon Z5 _mang lại cảm giác cầm nắm chắc chắn và thoải mái, với các tính năng đủ mạnh để đáp ứng nhu cầu của nhiều nhiếp ảnh gia bán chuyên._ Laing cũng nhấn mạnh rằng mặc dù có một số hạn chế trong khả năng quay video 4K, nhưng Nikon Z5 vẫn là một lựa chọn đáng xem xét cho những ai chú trọng chụp ảnh hơn là quay phim.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-11.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-11.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-12.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-12.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-13.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-13.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-14.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-14.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-15.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-15.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Đánh giá Nikon Z5 từ người dùng
 
@@ -165,17 +165,17 @@ Trên YouTube, một vlogger chuyên về nhiếp ảnh đã chia sẻ trải ng
 
 Tuy nhiên, cũng có một số người dùng cho rằng Nikon Z5 thiếu đi một số tính năng hiện đại so với các mẫu máy ảnh không gương lật mới hơn, nhưng nhìn chung, máy vẫn đáp ứng tốt các nhu cầu nhiếp ảnh cơ bản và bán chuyên nghiệp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-16.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-16.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-17.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-17.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-18.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-18.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-19.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-19.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-20.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-20.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-nikon-z-5-21.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-nikon-z-5-21.jpg" alt="may-anh-nikon-z-5-nhavantuonglai" title="may-anh-nikon-z-5-nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Nikon Z5 trong 2024 là bao nhiêu?
 
@@ -187,4 +187,4 @@ Vào năm 2024, giá của Nikon Z5 dao động từ 1,000 đến 1,300 USD tùy
 
 Tuy nhiên, với sự phát triển không ngừng của công nghệ, những người dùng có nhu cầu cao hơn có thể xem xét các tùy chọn mới hơn như Nikon Z6 II hoặc Z7 II, với các tính năng cải tiến như tốc độ chụp nhanh hơn, hệ thống lấy nét tự động tiên tiến hơn, và khả năng quay video tốt hơn. Những mẫu máy này sẽ cung cấp hiệu suất cao hơn và có thể phù hợp hơn với những ai muốn một chiếc máy ảnh đa dụng và mạnh mẽ hơn. Nhưng nếu bạn chỉ cần một chiếc máy ảnh full-frame với chất lượng ảnh tốt và giá cả phải chăng, Nikon Z5 vẫn là một sự lựa chọn đáng giá trong năm 2024.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0643.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-643.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

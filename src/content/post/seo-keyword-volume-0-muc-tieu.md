@@ -3,7 +3,7 @@ pubDatetime: 2023-05-18T10:10:00Z
 title: Có nên tập trung vào các từ khóa có volume bằng 0?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0589.jpg
+image: https://nhavantuonglai.com/image/cover/001-589.jpg
 tags:
   - google
   - google console
@@ -220,4 +220,4 @@ Từ khóa không có khối lượng có thể ảnh hưởng lớn đến webs
 
 Bằng cách hiểu cách sử dụng các từ khóa này vì lợi ích của bạn, chúng có thể giúp nhắm mục tiêu đối tượng mới mà trước đây bạn không biết.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

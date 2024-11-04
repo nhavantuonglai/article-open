@@ -3,7 +3,7 @@ pubDatetime: 2018-07-09T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Linear search)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0558.jpg
+image: https://nhavantuonglai.com/image/cover/001-558.jpg
 tags:
   - developer
   - github
@@ -25,4 +25,4 @@ Linear search runs in at worst linear time and makes at most `n` comparisons, wh
 Time Complexity: `O(n)`   - since in worst case we're checking each element
 exactly once.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

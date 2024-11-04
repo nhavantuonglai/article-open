@@ -3,7 +3,7 @@ pubDatetime: 2022-10-10T10:10:00Z
 title: Top 5 máy ảnh du lịch tốt nhất 2025
 description: Có được chiếc máy ảnh Canon giá rẻ tốt nhất mang đến cho bạn một điểm vào tuyệt vời, tiết kiệm chi phí với một trong những nhà sản xuất lớn nhất thế giới. Cho dù bạn là người mới bắt đầu hoàn toàn hay chỉ có ý thức về ngân sách.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0289.jpg
+image: https://nhavantuonglai.com/image/cover/001-289.jpg
 tags:
   - affiliate
   - may anh
@@ -64,4 +64,4 @@ Tôi có thể đề xuất giải pháp thay thế nào cho điện thoại di 
 Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](https://nhavantuonglai.com/article/may-anh-canon-sinh-vien), hoặc [máy ảnh Sony giá rẻ](https://nhavantuonglai.com/article/may-anh-sony-sinh-vien), cũng như [máy ảnh Fujifilm giá rẻ](https://nhavantuonglai.com/article/may-anh-fujifilm-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
 
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

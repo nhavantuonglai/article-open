@@ -3,7 +3,7 @@ pubDatetime: 2018-07-29T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Priority Queue)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - developer
   - github
@@ -21,4 +21,4 @@ In computer science, a priority queue is an abstract data type which is like a r
 
 While priority queues are often implemented with heaps, they are conceptually distinct from heaps. A priority queue is an abstract concept like _a list_ or _a map;_ just as a list can be implemented with a linked list or an array, a priority queue can be implemented with a heap or a variety of other methods such as an unordered array.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

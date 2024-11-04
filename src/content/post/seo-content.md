@@ -3,7 +3,7 @@ pubDatetime: 2023-04-29T10:10:00Z
 title: Cập nhật nội dung bài viết có ảnh hưởng đến thứ hạng từ khóa SEO không?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0225.jpg
+image: https://nhavantuonglai.com/image/cover/001-225.jpg
 tags:
   - google
   - google console
@@ -147,4 +147,4 @@ Tuy nhiên, những người không chuyên nghiệp SEO đang bận rộn với
 
 Họ sẽ không đọc nó, vì vậy từ ngữ và hướng dẫn mới sẽ không thay đổi nhận thức của họ về _hữu ích_ là gì. Tùy thuộc vào bạn với tư cách là một chuyên gia SEO để làm điều đó và bạn có thể tham khảo hướng dẫn này vì _tại sao_ mọi thứ nên thay đổi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

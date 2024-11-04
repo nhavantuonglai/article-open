@@ -3,7 +3,7 @@ pubDatetime: 2018-06-20T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Hash table)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0539.jpg
+image: https://nhavantuonglai.com/image/cover/001-539.jpg
 tags:
   - developer
   - github
@@ -39,4 +39,4 @@ Hash collision resolved by separate chaining.
 
 _Made with [okso.app](https://okso.app)_
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

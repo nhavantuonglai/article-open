@@ -3,7 +3,7 @@ pubDatetime: 2021-08-20T10:10:00Z
 title: Cẩm nang du lịch Hòa Bình
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0625.jpg
+image: https://nhavantuonglai.com/image/cover/001-625.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -11,7 +11,7 @@ tags:
 
 _Hòa Bình nằm cách Hà Nội khoảng 80-140 km tùy điểm đến, và là cửa ngõ vùng Tây Bắc. Nơi đây gây ấn tượng với du khách bởi thắng cảnh đa dạng từ sông, hồ, suối khoáng, vườn quốc gia và bản sắc văn hóa người dân tộc H_Mông, Mường, Dao, Thái… Những năm gần đây, Hòa Bình càng khẳng định sức hút khi hàng loạt khu nghỉ dưỡng ra đời, phù hợp với xu hướng nghỉ ngơi, chăm sóc sức khỏe hiện nay._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-313.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-313.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 ## Hòa Bình mùa nào đẹp
 
@@ -33,7 +33,7 @@ Hòa Bình có nhiều điểm lưu trú đẹp, nổi tiếng tập trung tại
 
 Ở huyện Mai Châu, khu nghỉ dưỡng biệt lập Avana Retreat xóm Pạnh, xã Bao La thu hút du khách. Giá lưu trú ở đây từ 4 triệu đồng một đêm ngày thường và 6 triệu đồng một đêm cuối tuần hoặc nghỉ lễ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-314.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-314.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 Mai Châu Ecolodge ở Nà Chiềng, Nà Phòn thu hút du khách với vẻ mộc mạc, nằm sát bên những đồng lúa, thích hợp ngắm cảnh mùa vàng. Giá nghỉ đêm ở đây từ 1,1 triệu đồng một đêm.
 
@@ -43,7 +43,7 @@ Cách hai nghỉ trên không xa có Bakhan Village Resort, nằm trên sườn 
 
 Ở huyện Kim Bôi nổi tiếng với những suối nước nóng, vì vậy các khu nghỉ dưỡng ở đây thích hợp cho cả 4 mùa. Serena Resort Kim Bôi nằm ở xóm Khai Đồi, xã Sào Báy lấy cảm hứng từ vẻ đẹp, văn hóa Tây Bắc và xây dựng từ đá, gỗ, tre trúc, mái tranh… gần gũi với thiên nhiên. Ở đây có khu tắm Onsen kiểu Nhật bản, hay tắm nóng trong nhà… Giá phòng lưu trú ở đây từ 1,8 triệu một đêm. Du khách có thể tham khảo VResort ở Kim Bôi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-315.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-315.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 Ở huyện Lương Sơn, Đồi cỏ thơm resort ở xóm Rậm, xã Cư Yên là gợi ý cho du khách. Nơi đây có các biệt thự hiện đại, sang trọng nằm trên những ngọn đồi cỏ xanh mướt. Tiện ích có nhiều bể bơi ngoài trời, bể sục, dịch vụ tắm thuốc lá người Dao.
 
@@ -61,7 +61,7 @@ Thác Gò Lào hay thác Gò Mu không xa Mai Châu Hideaway và Bakhan Village 
 
 Đến Mai Châu theo nhóm đông, bạn không nên bỏ lỡ chuyến thăm lòng hồ Hòa Bình tới vịnh Ngòi Hoa, Ao Tiên, Đền Bà Chúa Thác Bờ. Bến thuyền nằm ở cuối bản Suối Lốn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-316.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-316.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 Xã Lũng Vân ở huyện Tân Lạc thu hút du khách bởi thời tiết mát mẻ và khung cảnh sương giăng huyền ảo. Xã tọa lạc ở độ cao 1.200 m so với mực nước biển, là nơi lưu giữ nhiều nét văn hóa, kiến trúc của người Mường. Mùa xuân khi đến đây, du khách có dịp ngắm sắc xuân xanh mởn ở rừng cây, hoa đào khoe sắc thắm… Ngoài ra Lũng Vân cũng là điểm săn mây lý tưởng vào khoảng tháng 2 đến tháng 4. Lúc này trên những thửa ruộng bậc thang là mây trắng lững lờ, tạo nên khung cảnh đầy mê hoặc.
 
@@ -79,7 +79,7 @@ Nhà máy Thủy điện Hòa Bình ở Tân Thịnh là công trình lịch s�
 
 Một trong những điểm dừng chân khác khi đến thành phố là tượng đài Chủ tịch Hồ Chí Minh trên đồi ông Tượng. Từ bên trái, du khách có thể phóng tầm mắt để ngắm toàn cảnh thành phố. Bên phải, bạn có thể ngắm nhìn nhà máy thủy điện từ trên cao bề thế, hoành tráng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-317.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-317.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -91,7 +91,7 @@ Gà nấu măng chua, hạt dổi cũng là đặc sản của Hòa Bình. Măng
 
 Thịt trâu nấu lá lồm, đặc sản của người Mường cũng rất hút khách. Thịt trâu đem thui, cạo sạch sẽ sau đó bung cho mềm. Khi thịt chín tương đối thì thái miếng nhỏ hơn, cho vào nồi đất hầm kỹ. Lá lồm có vị chua được giã nhỏ và gạo tấm cho vào nồi hầm chung với thịt trâu. Cứ giữ lửa cho đến khi gạo tấm nở và sánh lại. Thịt trâu hầm xong nhừ kỹ, ngấm vị chua lá lồm và hương gạo thơm và dễ ăn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-318.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoa-binh-318.jpg" alt="cam-nang-du-lich-hoa-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoa-binh-nhavantuonglai</p></figcaption></figure>
 
 Thịt lợn muối chua cho du khách cảm giác thưởng thức cả cây cỏ và vị rừng do cách làm khá độc đáo. Món thịt lợn muối chua được làm rất kỳ công và kết hợp với nhiều loại lá rừng. Tất cả đều là những sản vật sẵn có dễ tìm và mỗi thứ lá được xem là bài thuốc quý có lợi cho cơ thể như lá quế, lá mít, lá trầu không… Ấn tượng ban đầu khi khách tới nhà được người Mường bê ra một mâm thịt lợn muối chua với rổ lá. Khi ăn phải dùng tay cuộn lá với thịt, nhai chậm rãi rất bùi, thơm ngọt, ăn rất lạ miệng.
 
@@ -103,4 +103,4 @@ Cam Cao Phong
 
 Trên đường từ Thung Nai trở lại thành phố, bạn có thể bắt gặp vài vườn chuối, cam, ngô trên đường. Trong đó, một vườn cam Cao Phong nằm bên phải thu hút người đi đường với sườn đồi thoai thoải và những quả cam mọng nước. Cam có giá 20.000 đồng/kg. Bạn có thể mua về làm quà và sau đó được tự do chụp ảnh trong vườn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

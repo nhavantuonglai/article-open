@@ -3,7 +3,7 @@ pubDatetime: 2021-09-27T10:10:00Z
 title: Nghỉ dưỡng Phú Quốc có gì hấp dẫn mà nhiều người chọn để trải nghiệm?
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0663.jpg
+image: https://nhavantuonglai.com/image/cover/001-663.jpg
 tags:
   - viet thue
   - marketing
@@ -62,4 +62,4 @@ Và cũng đừng quên [AVS Hotel Phú Quốc](https://www.avshotelphuquoc.com/
 
 Những điều trên là sự tổng hòa, tạo ra thành quả là một Phú Quốc đáng lựa chọn, đầy cân nhắc khi nghỉ dưỡng và hấp dẫn trong mắt bạn bè quốc tế cũng như khắp các địa phương trên cả nước. Vì vậy, nếu bạn chưa từng ghé thăm Phú Quốc, đây là thời điểm thích hợp để thực hiện điều ấy.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

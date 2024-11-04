@@ -3,7 +3,7 @@ pubDatetime: 2018-06-14T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Floyd – warshall algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0533.jpg
+image: https://nhavantuonglai.com/image/cover/001-533.jpg
 tags:
   - developer
   - github
@@ -93,4 +93,4 @@ k = 4
 | 3 |	5   |	1	  | 0	  | 2   |
 | 4 |	3   |	−1  | 1   | 0   |
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

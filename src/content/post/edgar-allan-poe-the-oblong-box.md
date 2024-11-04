@@ -3,7 +3,7 @@ pubDatetime: 2006-02-11T10:10:00Z
 title: Edgar Allan Poe | The oblong box
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0546.jpg
+image: https://nhavantuonglai.com/image/cover/001-546.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -113,4 +113,4 @@ In this dilemma, Captain Hardy arranged that the corpse, being first partially e
 
 My own mistake arose, naturally enough, through too careless, too inquisitive, and too impulsive a temperament. But of late, it is a rare thing that I sleep soundly at night. There is a countenance which haunts me, turn as I will. There is an hysterical laugh which will forever ring within my ears.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

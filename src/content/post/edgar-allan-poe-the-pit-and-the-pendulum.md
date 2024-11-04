@@ -3,7 +3,7 @@ pubDatetime: 2006-02-13T10:10:00Z
 title: Edgar Allan Poe | The Pit and the Pendulum
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg
+image: https://nhavantuonglai.com/image/cover/001-548.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -95,4 +95,4 @@ The heat rapidly increased, and once again I looked up, shuddering as with a fit
 
 There was a discordant hum of human voices! There was a loud blast as of many trumpets! There was a harsh grating as of a thousand thunders! The fiery walls rushed back! An outstretched arm caught my own as I fell, fainting, into the abyss. It was that of General Lasalle. The French army had entered Toledo. The Inquisition was in the hands of its enemies.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

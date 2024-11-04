@@ -3,7 +3,7 @@ pubDatetime: 2024-03-09T10:10:00Z
 title: Cái chết bí ẩn của hai bà vợ trong cùng một nhà
 description: Todd Winkler khai đâm chết vợ do tự vệ, nhưng khi điều tra vụ việc, cảnh sát phát hiện người vợ đầu tiên của Todd cũng chết một cách bi thảm và bí ẩn, năm 2012.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0229.jpg
+image: https://nhavantuonglai.com/image/cover/001-229.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -57,4 +57,4 @@ Trên phiên tòa xét xử vào tháng 9/2014, Todd thừa nhận giết Rachel
 
 Ngày 22/10/2014, bồi thẩm đoàn tuyên Todd có tội. Anh ta bị kết án tù chung thân với thời hạn tối thiểu để được ân xá là 26 năm vì tội giết Rachel. Todd không bị buộc tội liên quan đến cái chết của Catherine, vụ việc khép lại mà không được điều tra thêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

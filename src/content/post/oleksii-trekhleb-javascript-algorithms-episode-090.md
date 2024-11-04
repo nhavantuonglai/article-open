@@ -3,7 +3,7 @@ pubDatetime: 2018-08-11T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Content-aware image resizing in JavaScript)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0290.jpg
+image: https://nhavantuonglai.com/image/cover/001-290.jpg
 tags:
   - developer
   - github
@@ -523,4 +523,4 @@ Another interesting area of experimentation might be to make the algorithm work 
 
 > So, good luck with your own experiments!
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

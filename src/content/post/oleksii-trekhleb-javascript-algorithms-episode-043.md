@@ -3,7 +3,7 @@ pubDatetime: 2018-06-24T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Horner's method)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0543.jpg
+image: https://nhavantuonglai.com/image/cover/001-543.jpg
 tags:
   - developer
   - github
@@ -30,4 +30,4 @@ To solve the right part of the identity above, for a given `x`, we start by iter
 
 Now, using the same scenario but with Horner's rule, the polynomial can be re-written as `x  (x  (x  (4  x + 2) + 3) + 1) + 3`, representing it as `[4, 2, 3, 1, 3]` it is possible to save the first iteration as `acc = arr[0]  (x=2) + arr[1]`, and then finish iterations for `acc = (x=2) + arr[index]`. In the same scenario but using Horner's rule, a total of `10` operations would have happened, composed of only `4` additions and `4` multiplications.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-05-30T10:10:00Z
 title: Tìm hiểu tiêu chuẩn xin phép xây dựng nhà cấp 4
 description: Việc hiểu rõ quy trình xin phép xây dựng Đà Nẵng là vô cùng quan trọng đối với bất kỳ dự án xây dựng nào. Quy trình này không chỉ đảm bảo tính hợp pháp của công trình mà còn giúp bạn tránh được những rắc rối pháp lý sau này.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0463.jpg
+image: https://nhavantuonglai.com/image/cover/001-463.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ _Việc xin phép xây dựng nhà cấp 4 tại Đà Nẵng là một bước q
 
 – Nhận giấy phép xây dựng: Nếu hồ sơ được chấp thuận, bạn sẽ nhận được giấy phép xây dựng và có thể tiến hành thi công.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-126.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-126.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Lưu Ý khi xin phép xây dựng nhà cấp 4
 
@@ -59,7 +59,7 @@ Bản vẽ xin phép xây dựng nhà cấp 4 thường bao gồm các thành ph
 
 – Chi tiết kỹ thuật: Bao gồm thông tin về kết cấu, hệ thống điện, nước và các hệ thống kỹ thuật khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-127.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-127.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Lưu ý khi lập bản vẽ
 
@@ -81,7 +81,7 @@ Trước khi nộp hồ sơ xin phép xây dựng, bạn cần chuẩn bị kỹ
 
 – Bản vẽ xin phép xây dựng nhà cấp 4: Như đã đề cập, bản vẽ cần chi tiết và tuân thủ các quy định.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-128.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-128.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ### Nộp hồ sơ
 
@@ -103,7 +103,7 @@ Sau khi nộp hồ sơ, cơ quan chức năng sẽ tiến hành kiểm tra và x
 
 Khi hồ sơ được chấp thuận, bạn sẽ nhận được giấy phép xây dựng. Đây là văn bản quan trọng cho phép bạn tiến hành thi công. Hãy kiểm tra kỹ giấy phép để đảm bảo rằng tất cả các thông tin đều chính xác và tuân thủ các quy định về xây dựng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-129.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-129.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Chi phí xin phép xây dựng nhà cấp 4
 
@@ -133,7 +133,7 @@ Ngoài các khoản chi phí cơ bản, bạn cũng có thể phải chi trả t
 
 – Thương lượng với kiến trúc sư hoặc kỹ sư về chi phí lập bản vẽ và các dịch vụ liên quan để có được mức giá hợp lý.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-130.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-130.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -141,4 +141,4 @@ Xin phép xây dựng nhà cấp 4 tại Đà Nẵng là một quy trình phức
 
 Hy vọng rằng những thông tin trong bài viết này sẽ giúp bạn có cái nhìn tổng quan và chi tiết về quy trình xin phép xây dựng nhà cấp 4 tại Đà Nẵng, từ đó chuẩn bị tốt hơn cho dự án xây dựng của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

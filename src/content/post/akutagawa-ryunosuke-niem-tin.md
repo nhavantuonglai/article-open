@@ -3,7 +3,7 @@ pubDatetime: 2018-09-01T10:10:00Z
 title: Akutagawa Ryunosuke | Niềm tin
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0521.jpg
+image: https://nhavantuonglai.com/image/cover/001-521.jpg
 tags:
   - thu vien
   - van hoc
@@ -46,4 +46,4 @@ Phía trên làn nước đang bao phủ thân chàng, là màu chiều từ lâ
 
 Rồi cách đó một vài nghìn năm, hồn của Vĩ sinh sau khi lưu lạc qua không biết bao nhiêu đời kiếp, lại phải chịu số phận làm người thêm lần nữa. Linh hồn đó đã đến ngụ trong thân xác của tôi. Cho nên tuy tôi sống giữa thời hiện đại nầy mà chưa làm được dẫu một việc gì có ý nghĩa. Hết sáng lại chiều, tôi như anh chàng đắm chìm trong mơ mộng mông lung, chỉ sống để trông mong một điều kỳ diệu chắc chắn sẽ xảy ra. Tôi là Vĩ sinh, dưới chân cầu trong ánh sáng nhạt buổi hoàng hôn, mãi mãi đợi chờ bóng một người yêu vĩnh viễn không bao giờ tới.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

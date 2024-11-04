@@ -3,7 +3,7 @@ pubDatetime: 2023-05-27T10:10:00Z
 title: Tìm hiểu về Sitemaps
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0559.jpg
+image: https://nhavantuonglai.com/image/cover/001-559.jpg
 tags:
   - google
   - google console
@@ -300,4 +300,4 @@ Ngoài ra, các thẻ không bắt buộc sau đây có thể giúp Google lên 
 
 <table><thead><tr><th width="175.5">Thẻ không bắt buộc</th><th></th></tr></thead><tbody><tr><td><code>lastmod</code></td><td>Xác định thời gian sửa đổi tệp Sitemaps tương ứng. Giá trị cho thẻ <code>lastmod</code>phải ở định dạng ngày giờ W3C</a>.</td></tr></tbody></table>
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

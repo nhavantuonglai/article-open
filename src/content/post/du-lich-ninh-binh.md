@@ -3,7 +3,7 @@ pubDatetime: 2021-09-09T10:10:00Z
 title: Cẩm nang du lịch Ninh Bình
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0645.jpg
+image: https://nhavantuonglai.com/image/cover/001-645.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -75,7 +75,7 @@ Hoa Lư từng là kinh đô của Việt Nam từ năm 968 – 1010, trải qua
 
 Quần thể [chùa Bái Đính](https://info.nhavantuonglai.com/topick) được xây dựng từ năm 2003, có diện tích hơn 500 ha, được bao bọc bởi những vòng cung núi đá vôi kỳ vĩ. Chùa được chia thành 2 khu: Tân tự và Cổ tự. Tại đây, du khách có thể đi bộ tham quan hoặc di chuyển bằng xe điện (giá 30.000 đồng/ người/ lượt). Một số điện mà du khách thường ghé thăm khi tới là chùa Pháp Chủ (gồm có 5 gian, gian giữa đặt tượng Phật Thích Ca cao 10m, nặng 100 tấn), điện Tam Thế… hoặc có thể lên tháp chuông để chiêm ngưỡng Đại hồng chung nặng 36 tấn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-binh-457.jpg" alt="cam-nang-du-lich-ninh-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-ninh-binh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ninh-binh-457.jpg" alt="cam-nang-du-lich-ninh-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-ninh-binh-nhavantuonglai</p></figcaption></figure>
 
 ### Động Am Tiên
 
@@ -119,4 +119,4 @@ Ngày 1: Hà Nội – Vườn Quốc gia Cúc Phương.
 
 Ngày 2: Vườn Quốc gia Cúc Phương – Đầm Vân Long.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

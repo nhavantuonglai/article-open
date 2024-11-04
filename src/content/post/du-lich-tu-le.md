@@ -3,7 +3,7 @@ pubDatetime: 2021-10-19T10:10:00Z
 title: Cẩm nang du lịch Tú Lệ
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0681.jpg
+image: https://nhavantuonglai.com/image/cover/001-681.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -23,13 +23,13 @@ Nếu đi ôtô riêng, bạn có thể tham khảo cung đường: cao tốc H�
 
 Từ khu vực thị xã Nghĩa Lộ, đến thung lũng Tú Lệ còn khoảng 50 km. Nếu không có xe riêng, bạn có thể thuê xe máy, hoặc xe ôm để khám phá Tú Lệ. Bạn cũng có thể trekking ngắm cảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-649.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-649.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
 Thường du khách đến Tú Lệ kết hợp thăm [Mù Cang Chải](https://nhavantuonglai.com/article/du-lich-mu-cang-chai), Chế Cu Nha… Những nơi này không cách quá xa nhau do đó bạn có thể thoải mái lựa chọn nhà nghỉ, homestay tùy theo lịch trình. Nếu bạn nghỉ tại Tú Lệ, gợi ý là khu nghỉ dưỡng Le Champ (có tắm khoáng), nhà nghỉ Suối Tiên, khách sạn Phố Núi, homestay Nhận Thịnh… Trừ resort cao cấp nhận đặt phòng trực tuyến, bạn nên liên hệ trực tiếp với những homestay, nhà nghỉ – đặc biệt vào mùa cao điểm tháng 9 và 10.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-650.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-650.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
 ## Trải nghiệm
 
@@ -37,7 +37,7 @@ Thường du khách đến Tú Lệ kết hợp thăm [Mù Cang Chải](https://
 
 Sáng sớm, du khách có thể dậy thật sớm để ngắm bình minh. Mặt trời từ sườn đồi lên trải vàng xuống thung lũng, quyện với mây mờ sương phủ dần tan biến nhường chỗ cho những ánh nắng mới tinh khôi. Vào mùa nước đổ hay mùa lúa chín, bình minh sẽ tô điểm cho cảnh quan Tú Lệ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-651.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-651.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
 Thăm động Tiên Nữ
 
@@ -59,7 +59,7 @@ Tắm tiên
 
 Một trong những trải nghiệm nhất định phải thử khi đến Tú Lệ là tắm tiên tại suối khoáng nóng xã Tú Lệ. Bể tắm rộng, ngập nước ấm khoảng 35 độ C. Đây cũng là nơi các cô gái Thái và người dân trong bản thư giãn sau một ngày lao động vất vả.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-652.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-652.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
 Nếu may mắn chiêm ngưỡng cảnh [tắm tiên](https://info.nhavantuonglai.com/topick), bạn nên cẩn trọng khi muốn chụp ảnh. Hãy cư xử tế nhị, giữ khoảng cách để vừa có những tấm hình đẹp, vừa không làm mất đi sự tự nhiên của người bản địa. Nếu bạn ngại tắm lộ thiên, có thể chọn một địa điểm kín đáo nhưng vẫn thoải mái trong khu nghỉ dưỡng ở trung tâm thị xã.
 
@@ -73,8 +73,8 @@ Tú Lệ về đêm đặc biệt là những ngày rằm, ánh trăng sáng v�
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-653.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-tu-le-653.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
 Ở Tú Lệ có những món đặc sản xôi nếp, thịt nướng dẻo thơm, thịt trâu gác bếp, cá suối, gà đen và đặc biệt là cốm. [Cốm Tú Lệ](https://info.nhavantuonglai.com/topick) rất được lòng du khách bởi vị ngọt, dẻo chỉ có riêng từ lúa nơi đây, nếu bạn tới vào tầm tháng 9-10 sau khi mùa màng đã kết thúc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2006-02-05T10:10:00Z
 title: Edgar Allan Poe | The imp of the perverse
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0540.jpg
+image: https://nhavantuonglai.com/image/cover/001-540.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -51,4 +51,4 @@ Having related all that was necessary for the fullest judicial conviction, I fel
 
 But why shall I say more? To-day I wear these chains, and am here! To-morrow I shall be fetterless! – but where?
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

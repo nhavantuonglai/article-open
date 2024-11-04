@@ -3,7 +3,7 @@ pubDatetime: 2018-07-24T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Polynomial rolling hash)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0573.jpg
+image: https://nhavantuonglai.com/image/cover/001-573.jpg
 tags:
   - developer
   - github
@@ -106,4 +106,4 @@ Polynomial hashing has a rolling property: the fingerprints can be updated effic
 (provided that an array of powers of p modulo M of sufficient length is stored).
 The popular Rabin – Karp pattern matching algorithm is based on this property
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

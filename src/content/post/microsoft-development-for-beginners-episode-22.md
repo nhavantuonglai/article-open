@@ -3,7 +3,7 @@ pubDatetime: 2006-04-01T10:10:00Z
 title: Microsoft | Development for beginners (Episode 26)
 description: This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0322.jpg
+image: https://nhavantuonglai.com/image/cover/001-322.jpg
 tags:
   - developer
   - github

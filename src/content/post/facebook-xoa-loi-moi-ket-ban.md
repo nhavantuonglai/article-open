@@ -3,7 +3,7 @@ pubDatetime: 2021-11-01T10:10:00Z
 title: Hướng dẫn xóa lời mời kết bạn đã gửi trên Facebook bằng code
 description: Hướng dẫn thực hiện các thủ thuật công nghệ giúp bạn tiết kiệm thời gian, công sức và đầu tư vào những công việc hiệu quả hơn. Liên hệ info@nhavantuonglai.com để hỗ trợ thao tác.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0123.jpg
+image: https://nhavantuonglai.com/image/cover/001-123.jpg
 tags:
   - facebook
   - code
@@ -37,4 +37,4 @@ javascript:var x=document.getElementsByClassName(_55sr_);for(var i=0;i<x.length;
 
 – Nên hạn chế tần suất xóa lời mời kết bạn đã gửi trên Facebook bằng code để tránh vi phạm nguyên tắc cộng đồng từ Facebook.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

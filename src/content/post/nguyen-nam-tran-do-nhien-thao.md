@@ -3,7 +3,7 @@ pubDatetime: 2023-01-23T10:10:00Z
 title: Nguyễn Nam Trân | Đồ Nhiên Thảo
 description: Những tùy bút cổ điển của Nhật Bản mà mình yêu thích vì nhờ đó mà đã đọc được những người Nhật mỗi ngày gặp nhau ngoài đường phố dù không cần trao đổi qua lời nói.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0483.jpg
+image: https://nhavantuonglai.com/image/cover/001-483.jpg
 tags:
   - thu vien
   - van hoc
@@ -47,6 +47,6 @@ _Nguyễn Nam Trân._
 
 Đọc [Đồ Nhiên Thảo, chương 09](https://nhavantuonglai.com/article/nguyen-nam-tran-do-nhien-thao-chuong-09) tại đây.
 
-Đọc [Đồ Nhiên Thảo, toàn tập](https://data.nhavantuonglai.com/ebook/nguyen-nam-tran-do-nhien-thao.pdf) tại đây.
+Đọc [Đồ Nhiên Thảo, toàn tập](https://nhavantuonglai.com/ebook/nguyen-nam-tran-do-nhien-thao.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

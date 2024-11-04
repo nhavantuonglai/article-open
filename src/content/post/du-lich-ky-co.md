@@ -3,7 +3,7 @@ pubDatetime: 2021-08-26T10:10:00Z
 title: Cẩm nang du lịch Kỳ Co
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0632.jpg
+image: https://nhavantuonglai.com/image/cover/001-632.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -13,13 +13,13 @@ _Bãi Kỳ Co thuộc địa phận xã Nhơn Lý, tỉnh Bình Định_ – cá
 
 Nước biển Kỳ Co có hai màu, nước trong cạn gần bờ có màu xanh lam, còn phần biển ở ngoài xa có màu sẫm. Từ khoảng tháng 4 đến tháng 9, trời đẹp, lòng biển kín gió là lúc thích hợp nhất để đến đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-360.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-360.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
 Để tới bãi Kỳ Co, đi cano là thuận tiện nhất. Những người dân chài nơi đây có dịch vụ cano hoặc ghe từ [Eo Gió](https://info.nhavantuonglai.com/topick) ra Kỳ Co. Du khách sẽ trải nghiệm cảm giác lênh đênh trên sóng nước, ngắm cảnh núi non Nhơn Lý hùng vĩ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-361.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-361.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
 
 Một phương án nhiều thử thách hơn chạy xe máy theo con đường vòng quanh núi để tới bãi biển. Bạn bắt đầu từ cầu Suối Cả, đi dọc sườn núi Phương Mai về hướng nam. Tuy nhiên, con đường này chỉ thích hợp với người có tay lái cứng. Bạn nên đi theo nhóm để hỗ trợ nhau khi cần.
 
@@ -37,7 +37,7 @@ Thủy triều ở đảo Kỳ Co khiến cho hang động bí ẩn lộ ra ngo�
 
 Với những người ưa khám phá, cắm trại qua đêm tại Kỳ Co sẽ là trải nghiệm đáng nhớ. Mang theo lều, hải sản (cá gáy, sò, ốc… đặc sản vùng biển Nhơn Lý) để nướng BBQ. Đêm nghe tiếng sóng vỗ, sáng ngắm bình minh trên biển Kỳ Co, để hưởng trọn vẹn vẻ đẹp hoang sơ của nơi này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-362.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-362.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
 
 Nếu còn dư thời gian trong hành trình, bạn có thể tham quan thêm Hòn Sẹo, Hòn Cân và Đảo Yến kế bên Kỳ Co.
 
@@ -47,7 +47,7 @@ Lựa chọn chuyến đi hai ngày một đêm để tận hưởng thêm kho�
 
 Trên đảo có dịch vụ ăn uống, bạn có thể đặt trọn gói tại đây. Bữa ăn do chính người dân chài chuẩn bị từ hải sản tươi ngon mới đánh bắt sẽ khiến bạn thêm yêu Kỳ Co. Cá gáy, sò, ốc… là đặc sản vùng biển Nhơn Lý.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-363.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ky-co-363.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu ý
 
@@ -57,4 +57,4 @@ Ngoài ra, Kỳ Co khá nắng nóng, không có cây cối, các khu vực bón
 
 Hãy gom rác lại và mang trở lại đất liền. Giữ gìn vệ sinh sạch sẽ, để thiên nhiên giữ được vẻ đẹp hoang sơ vốn có, không bị ảnh hưởng xấu bởi những người du lịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

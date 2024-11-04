@@ -3,7 +3,7 @@ pubDatetime: 2014-02-14T10:10:00Z
 title: Thích Nhất Hạnh | Đường xưa mây trắng (Chương 34)
 description: Tôi còn nhớ là tôi đã viết Đường Xưa Mây Trắng ở trong cái quán của Xóm Thượng. Hồi đó chưa có lò sưởi trung ương, trong phòng chỉ có một cái lò sưởi đốt củi thôi và trời rất lạnh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0128.jpg
+image: https://nhavantuonglai.com/image/cover/001-128.jpg
 tags:
   - thu vien
   - van hoc
@@ -379,6 +379,6 @@ Vua truyền đem xe tứ mã đưa Bụt về công viên Nigrodha, nhưng ngư
 
 Đọc [Đường xưa mây trắng, chương 83](https://nhavantuonglai.com/article/thich-nhat-hanh-duong-xua-may-trang-chuong-83) tại đây.
 
-Đọc [Đường xưa mây trắng, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
+Đọc [Đường xưa mây trắng, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-duong-xua-may-trang.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0118.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-118.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

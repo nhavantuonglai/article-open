@@ -3,7 +3,7 @@ pubDatetime: 2021-09-28T10:10:00Z
 title: Các khách sạn gần sân bay nên đặt phòng
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0662.jpg
+image: https://nhavantuonglai.com/image/cover/001-662.jpg
 tags:
   - viet thue
   - marketing
@@ -86,4 +86,4 @@ Giá tham khảo: từ 900.000 vnđ/1 phòng/1 đêm.
 
 AVS Hotel Phú Quốc có ưu điểm nổi bật là vị trí đắc địa, nằm ngay trung tâm thị trấn Dương Đông, vì vậy chỉ cách sân bay Phú Quốc khoảng 5km và chợ đêm là 3km. AVS Hotel Phú Quốc cũng nằm ngay sát biển, nên du khách khi đặt phòng có thể dễ dàng di chuyển để tắm biển, ngắm hoàng hôn hoặc đi dạo trên bãi cát trắng mịn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

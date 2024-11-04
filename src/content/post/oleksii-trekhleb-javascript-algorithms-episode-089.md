@@ -3,7 +3,7 @@ pubDatetime: 2018-08-10T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Reversed linked list traversal)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0589.jpg
+image: https://nhavantuonglai.com/image/cover/001-589.jpg
 tags:
   - developer
   - github
@@ -29,4 +29,4 @@ The order of traversal should be:
 
 The time complexity is `O(n)` because we visit every node only once.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

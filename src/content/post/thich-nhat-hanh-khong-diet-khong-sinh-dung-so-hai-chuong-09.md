@@ -3,7 +3,7 @@ pubDatetime: 2010-12-09T10:10:00Z
 title: Thích Nhất Hạnh | Không diệt không sinh không sợ hãi (Chương 09)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg
+image: https://nhavantuonglai.com/image/cover/001-127.jpg
 tags:
   - thu vien
   - van hoc
@@ -199,6 +199,6 @@ Nếu chúng ta biết thực tập và thấm nhuần thực tại vô sinh b�
 
 Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

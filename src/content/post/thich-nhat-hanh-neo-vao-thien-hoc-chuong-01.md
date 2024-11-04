@@ -3,7 +3,7 @@ pubDatetime: 2016-05-02T10:10:00Z
 title: Thích Nhất Hạnh | Nẻo vào thiền học (Chương 01)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg
+image: https://nhavantuonglai.com/image/cover/001-127.jpg
 tags:
   - thu vien
   - van hoc
@@ -105,6 +105,6 @@ Bản chất của thiền là sự tỉnh thức đạt ngộ. Vì vậy ngư�
 
 Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/thich-nhat-hanh-neo-vao-thien-hoc-chuong-06) tại đây.
 
-Đọc [Nẻo vào thiền học, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-neo-vao-thien-hoc.pdf) tại đây.
+Đọc [Nẻo vào thiền học, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-neo-vao-thien-hoc.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

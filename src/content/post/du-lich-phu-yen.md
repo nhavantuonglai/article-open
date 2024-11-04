@@ -3,7 +3,7 @@ pubDatetime: 2021-10-02T10:10:00Z
 title: Cẩm nang du lịch Phú Yên
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0667.jpg
+image: https://nhavantuonglai.com/image/cover/001-667.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -15,7 +15,7 @@ _Là một tỉnh ven biển thuộc vùng duyên hải Nam Trung Bộ, Phú Yê
 
 Khí hậu Phú Yên có hai mùa rõ rệt. Mùa mưa trong khoảng tháng 9-12. Do vậy, để thuận tiện nhất cho các chuyến tham quan, bạn nên tới đây vào mùa nắng từ tháng 1 đến tháng 8. Ngoài ra bạn cũng có thể thu xếp đến vào những dịp lễ hội, lắng nghe hát bài chòi, một di sản văn hóa phi vật thể quốc gia. Phú Yên mùa hè không chỉ cho du khách cơ hội đắm mình vào biển xanh mà còn là điểm săn ảnh lý tưởng của các nhiếp ảnh gia cũng như chốn phiêu lưu của các phượt thủ trẻ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-494.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-494.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -27,13 +27,13 @@ Tàu hỏa có giá vé từ 400.000 đến 1.000.000 đồng tùy loại chỗ 
 
 Nhiều du khách chọn thuê xe [ôtô tự lái](https://info.nhavantuonglai.com/topick) hay xe máy trong hành trình kết hợp du lịch Phú Yên và Quy Nhơn, thuê xe một điểm và trả ở điểm còn lại. Khoảng cách hai nơi này khoảng 90 km.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-495.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-495.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Khách sạn
 
 Phú Yên nói chung và Tuy Hòa nói riêng còn ít resort, khách sạn cao cấp. Khách sạn và nhà nghỉ bình dân trong thành phố giá trung bình 150.000 đến 300.000 đồng một đêm. Một số khu nghỉ sang trọng có Rosa Alba Resort, Sala Grand Tuy Hoa Hotel, Saigon Phu Yen Hotel… giá phòng từ 700.000 đến 5.000.000 đồng một đêm. Xa trung tâm hơn có [Zannier Hotels Bãi San Hô](https://info.nhavantuonglai.com/topick) ở thị xã sông Cầu, giá từ 10.000.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-496.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-496.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -43,25 +43,25 @@ Gành Đá Đĩa
 
 Đây là một trong những thắng cảnh nổi tiếng nhất của Phú Yên. Nhìn xa [Gành Đá Đĩa](https://info.nhavantuonglai.com/topick) giống một tổ ong khổng lồ với những khối trụ vuông vức xếp liền nhau vươn mình ra biển. Bãi đá được ví như hàng nghìn viên ngọc đen nổi bật giữa biển xanh và sóng trắng. Bạn còn bắt gặp những chiếc thuyền thúng của ngư dân neo đậu thấp thoáng tạo nên sự hài hòa, yên ả cho bức tranh miền biển nên thơ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-497.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-497.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Gành Đèn
 
 Điểm tham quan nằm cách Gành Đá Đĩa khoảng 1 km về phía bắc, thuộc xã An Ninh Đông, huyện Tuy An. [Ngọn hải đăng Gành Đèn](https://info.nhavantuonglai.com/topick) có hai màu đỏ, trắng, có độ cao 22 m so với mực nước biển, phát nguồn sáng cho tàu thuyền ra, vào vịnh Xuân Đài. Đứng trên Gành Đèn có thể quan sát vùng biển mênh mông phía đông và cảnh tàu thuyền đánh cá.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-498.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-498.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Bãi Xép
 
 [Bãi Xép](https://info.nhavantuonglai.com/topick) là nơi bạn có thể đứng chênh vênh trên vách núi cao và ngắm nhìn màu biển xanh ngọc bích bên dưới. Bãi Xép thuộc xã An Chấn, Thành phố Tuy Hòa, có bờ biển dài khoảng 500 m và sở hữu bãi cát vàng, rừng phi lao chạy dài bát ngát cùng những vách đá chênh vênh mọc đầy xương rồng. Nơi này chính là bối cảnh quay bộ phim _[Tôi thấy hoa vàng trên cỏ xanh](https://info.nhavantuonglai.com/topick)_ nổi tiếng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-499.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-499.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Mũi Điện
 
 [Đại Lãnh](https://info.nhavantuonglai.com/topick) hay Mũi Điện có những triền cát rất đẹp. Men theo đường mòn bạn có thể lên ngọn hải đăng Đại Lãnh, từ đây phóng tầm mắt ôm trọn cảnh biển bao la, nhìn những con tàu ngược xuôi trên biển. Đây chính là nơi nhìn thấy bình minh sớm nhất ở Việt Nam. Ngọn hải đăng này có tuổi đời lên tới 100 năm và vẫn còn hoạt động. Phí tham quan khoảng 10.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Vịnh Vũng Rô
 
@@ -71,17 +71,17 @@ Bãi rêu Xóm Rớ
 
 [Bãi rêu Xóm Rớ](https://info.nhavantuonglai.com/topick) thuộc phường Phú Đông, thành phố Tuy Hòa, tỉnh Phú Yên. Với những tảng đá bê tông thô kệch nằm chìm dưới nước biển nay mọc lên từng đám rêu xanh đã hút hồn du khách và các bạn trẻ. Màu rêu xanh ngắt bám chặt vào đá, và càng đẹp hơn khi từng con sóng vỗ vào bờ hòa quyện thêm màu ánh bạc của nước biển. Du khách đừng quên ghi lại những khoảnh khắc có một không hai này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Núi Nhạn
 
 Đây là ngọn núi cao khoảng 60 m so với mặt nước biển, nhìn từ xa trông như con chim nhạn đang sải cánh bay. Trên núi có ngôi [tháp cổ](https://info.nhavantuonglai.com/topick) 800 tuổi được xây dựng theo kiến trúc nghệ thuật của người Chăm. Đứng từ đỉnh, bạn có thể phóng tầm nhìn bao quát toàn cảnh thành phố Tuy Hòa, chiêm ngưỡng vẻ đẹp của những mảng xanh của biển, cây cỏ và nhà cửa.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-514.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-514.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Nhà thờ Mằng Lăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-502.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-502.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Đây là một trong những nhà thờ cổ lâu đời nhất ở Việt Nam, tọa lạc bên bờ sông Kỳ Lộ. [Nhà thờ Mằng Lăng](https://info.nhavantuonglai.com/topick) được xây dựng theo kiến trúc Gothic với những hoa văn trang trí cổ điển và sắc xanh xám chủ đạo.
 
@@ -91,7 +91,7 @@ Nhà thờ Mằng Lăng
 
 Là di tích danh thắng cấp quốc gia được công nhận năm 1996, đầm có diện tích mặt nước 1.570 ha, độ sâu trung bình khoảng 1,3m, thông với biển Đông qua cửa Lễ Thịnh và Tân Quy. Ở đây bạn có thể thưởng thức món hàu và sò huyết có tiếng. Dạo chơi và chiêm ngưỡng vẻ đẹp say lòng người của phong cảnh đầm. Bạn có thể chờ đến chiều để ngắm hoàng hôn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-503.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-503.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Cầu Ông Cọp
 
@@ -99,11 +99,11 @@ Cầu gỗ Miếu Ông Cọp (hay tên khác là cầu Ông Cọp, Bình Thạnh
 
 Nằm cách Quốc lộ 1 chưa đến trăm mét – đoạn gần dốc Vườn Xoài, cầu bắc qua sông Bình Bá (có bản đồ ghi là sông Phú Ngân). Cầu nối liền các thôn phía bắc xã An Ninh Tây, huyện Tuy An với phường Xuân Đài, thị xã Sông Cầu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-504.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-504.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Quảng trường Nghinh Phong
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-505.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-505.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Quảng trường nằm ở ngã ba đường Nguyễn Hữu Thọ và Độc Lập, Thành phố Tuy Hòa, nổi bật với công trình [tháp đôi Nghinh Phong](https://info.nhavantuonglai.com/topick) giữa một bên là biển xanh một bên là đường thẳng tắp. Kiến trúc độc đáo của tòa tháp lấy ý tưởng từ Gành Đá Đĩa – biểu tượng của du lịch Phú Yên và truyền thuyết _Con Rồng Cháu Tiên._
 
@@ -117,17 +117,17 @@ Cách Thành phố Tuy Hòa hơn 20 km, [Hòn Yến](https://info.nhavantuonglai
 
 Du khách không phải đi tàu ra giữa biển mà chỉ cần thủy triều rút là có thể ngắm san hô. Theo dân địa phương, thủy triều chỉ cạn vào buổi chiều những ngày đầu tháng, hoặc giữa tháng âm lịch. Mỗi đợt nước xuống thường dài 2-3 ngày, lộ ra những lớp đá gai góc chồng chất và bãi cát vàng thơ mộng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-506.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-506.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Nếu có thời gian lặn xa, du khách còn được chiêm ngưỡng thêm các khối san hô lớn hơn bên dưới mặt nước phía đông Hòn Yến tuy nhiên phải đi ít nhất 2 người. Tuy nhiên khi ngắm hay chụp san hô cần chú ý lựa chọn vị trí để tránh giẫm đạp lên chúng, đồng thời không vứt rác bừa bãi để bảo vệ môi trường biển.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-507.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-507.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Nhất Tự Sơn
 
 [Nhất Tự Sơn](https://info.nhavantuonglai.com/topick) là một trong những hòn đảo đẹp nhất của vịnh Xuân Đài, thuộc địa bàn xã Xuân Thọ 1, thị xã Sông Cầu. Tính theo quốc lộ 1A, hòn đảo này nằm phía bắc tỉnh Phú Yên, cách trung tâm thành phố Tuy Hòa chừng 50 km. Điều độc đáo của Nhất Tự Sơn là con đường vượt biển ra đảo, nằm chìm dưới làn nước và chỉ hé lộ ra theo dòng thủy triều rút xuống, tạo nên một cảnh quan ngoạn mục đầy kích thích đối với du khách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-508.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-508.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Thác Vực Hòm
 
@@ -139,7 +139,7 @@ Hồ điều hòa Hồ Sơn
 
 Nằm trải dọc hai bên đường Trần Phú, Thành phố Tuy Hòa, hồ xây với tác dụng chính là thoát nước, chống ngập và điều tiết khí hậu nhưng kết hợp cả mảng xanh ven hồ, cầu đường nên khung cảnh nên thơ và hấp dẫn. Điểm nhấn ở đây là cây cầu bắc ngang hồ và những đường cong uốn lượn uyển chuyển của viền hồ. Dù mới hoàn thiện và đi vào hoạt động, nơi này đã thành một điểm hẹn _hot_ cho các bạn trẻ chụp ảnh check-in, ngắm cảnh, hoặc đơn thuần là dạo chơi hóng gió.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-509.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-509.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Cao nguyên Vân Hòa
 
@@ -165,13 +165,13 @@ _Cá ngừ_ là đặc sản bạn không nên bỏ qua. Trong đó, [mắt cá 
 
 _Cơm gà Phú Yên_ không nổi tiếng bằng Hội An hay Tam Kỳ nhưng vẫn là một đặc sản nên thử. Thịt gà ở đây dai giòn, ít mỡ, vàng ươm và ngọt. Các loại rau ăn kèm gồm dưa leo, hành ngâm và đồ chua. Địa chỉ gợi ý là 189 Lê Thánh Tôn, 245 Lê Trung Kiên, 23 Phan Đình Phùng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-510.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-510.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 _Cá nục hấp_ được ăn kèm bánh tráng, rau sống và nước chấm chua cay hoặc mắm nêm. Món này có vị ngọt tự nhiên, phần thịt cá săn chắc, thơm mùi hành và các loại gia vị đặc trưng.
 
 _Cháo hàu_ được người dân Phú Yên rất yêu thích. Cách làm món này không quá cầu kỳ. Hàu sơ chế được xào với hành, muối tiêu sau đó ninh chung cùng gạo đỏ, gạo nếp. Bạn nên ăn [cháo hàu](https://info.nhavantuonglai.com/topick) khi còn nóng để cảm nhận trọn vẹn vị thơm ngọt của món ăn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-511.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-511.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 [_Bánh canh hẹ_ ](https://info.nhavantuonglai.com/topick)có phần sợi mềm dai, không bở, được ăn cùng chả cá biển. Điểm nhấn của bát canh là phần hẹ xanh và dậy mùi hấp dẫn. Món này được bán cả ngày do vậy bạn dễ dàng tìm thấy. Địa chỉ gợi ý là quán bánh canh ở bưu điện thành phố ở ngã ba Ngô Quyền giao Trần Hưng Đạo.
 
@@ -187,12 +187,12 @@ _Bánh xèo tôm nhảy_ Phú Yên được đúc bằng khuôn nhỏ, chỉ to 
 
 _Hải sản_ là lựa chọn phù hợp cho bữa xế ở Phú Yên. Quán vỉa hè ở 43 Trần Quý Cáp được nhiều người địa phương cho là ngon nhất Phú Yên chỉ bán từ 13h – 16h. Quán bán hải sản đa dạng như sò lông nướng mỡ hẹ, ốc hương nấu lá dứa, sò huyết, sò điệp, ốc móng tay, ốc bươu, ốc hút… Mỗi đĩa có giá từ 20.000 – 40.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-512.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-512.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Mua gì làm quà
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-513.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-phu-yen-513.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Hải sản cấp đông như mắt cá ngừ, cá ngừ phi lê, mực cơm… thường được du khách chọn đóng hộp mang về. Ngoài ra, bạn có thể mua bò một nắng, bánh tráng, mắm cá cơm hay các loại dược liệu đóng sẵn để pha thành nước uống giải mát mùa hè như hồng đài, mầm đậu nành, trinh nữ hoàng cung… hay sản phẩm mỹ nghệ từ vỏ ốc làm quà cho người thân và bạn bè.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

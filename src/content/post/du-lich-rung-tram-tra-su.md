@@ -3,7 +3,7 @@ pubDatetime: 2021-10-09T10:10:00Z
 title: Cẩm nang du lịch Trà Sư
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0673.jpg
+image: https://nhavantuonglai.com/image/cover/001-673.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -13,7 +13,7 @@ _Trà Sư là rừng tràm và khu du lịch sinh thái được hình thành n�
 
 Đến đây, điều dễ nhận thấy nhất là du khách sẽ được hòa mình vào thiên nhiên, không chỉ bị thu hút bởi không gian xanh với rừng tràm rợp bóng, mà còn được tiếp xúc gần với hàng loạt loài chim, hay động vật hoang dã quý hiếm. Đây là nơi được phát triển để trở thành khu bảo tồn của rất nhiều lớp sinh vật nhiệt đới đang sinh sống ở vùng Tây Nam Bộ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-581.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-581.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
 
 Người địa phương sẽ dùng thuyền để đưa du khách vào sâu trong rừng tràm. Ngồi trên thuyền, bạn sẽ bắt gặp những chú chim đậu ngay thân cây, nhiều loại sen đủ sắc màu. Nếu thích, du khách thể yêu cầu người lái thuyền dừng lại để cảm nhận rõ không gian tĩnh lặng và ghi dấu những khoảnh khắc của thiên nhiên.
 
@@ -41,7 +41,7 @@ Vé dịch vụ xuồng chèo (3-4 người một xuồng): 50.000 đồng một
 
 Các tour và nhóm đối tác sẽ có mức giá ưu đãi riêng, liên hệ trước với khu du lịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-582.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-582.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi gì
 
@@ -51,7 +51,7 @@ Cầu tre xuyên rừng tràm Trà Sư được Tổ chức Kỷ lục Việt Na
 
 Dọc tuyến cầu tre được chia thành 5 nhánh có thiết kế chòi nghỉ tại mỗi nhánh. Càng đi vào sâu, khung cảnh hai bên cầu càng đẹp, không gian yên tĩnh và mát mẻ. Cầu dẫn vào bến xuồng máy, nơi du khách có thể lên xuống để thay đổi lộ trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-583.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-583.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
 
 Tham quan rừng bằng thuyền máy hoặc xuồng
 
@@ -59,7 +59,7 @@ Từ bến, du khách có thể lựa chọn xuồng máy (tắc ráng) hay thuy
 
 Tham quan rừng tràm bằng thuyền máy hay xuồng ba lá cũng đều là cơ hội cho du khách chụp được những bức ảnh đẹp giữa không gian xanh, bèo phủ kín mặt nước. Nếu may mắn đi vào ngày có nắng, những tia nắng xuyên qua tán cây chiếu xuống sẽ khiến không gian huyền ảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-584.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-584.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
 
 Lầu vọng cảnh
 
@@ -69,7 +69,7 @@ Sân chim bồ câu
 
 Ngay gần lối vào, từ bên khu vực phòng vé chính, cách một con kênh Trà Sư, du khách có thể nhìn thấy những ngôi nhà của chim bồ câu. Nơi đây có khoảng 400 con chim được nuôi thả trong rừng nên được gọi là _Thành phố Bồ Câu._ Khung cảnh sân chim khá lãng mạn, du khách có thể chụp ảnh check in, chụp ảnh cưới, cho chim ăn và nhiều hoạt động khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-585.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-rung-tram-tra-su-585.jpg" alt="cam-nang-du-lich-rung-tram-tra-su" height=100% width=100%><figcaption><p>cam-nang-du-lich-rung-tram-tra-su-nhavantuonglai</p></figcaption></figure>
 
 Quầy bán đồ lưu niệm
 
@@ -97,4 +97,4 @@ Sử dụng kem chống nắng, các sản phẩm chống côn trùng, nước u
 
 Tuân thủ theo quy định để đảm bảo an toàn khi đi xuồng tham quan.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

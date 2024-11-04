@@ -3,7 +3,7 @@ pubDatetime: 2023-05-24T10:10:00Z
 title: Xác định bản chất của đường liên kết với thuộc tính nofollow
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0346.jpg
+image: https://nhavantuonglai.com/image/cover/001-346.jpg
 tags:
   - google
   - google console
@@ -64,4 +64,4 @@ Trong số những website cho phép bên thứ ba đóng góp nội dung, có n
 
 Mọi thuộc tính đường liên kết, gồm cả `sponsored`, `ugc`, và `nofollow`, hiện đã hoạt động với vai trò gợi ý để chúng tôi sử dụng cho mục đích xếp hạng. Kể từ ngày 1 tháng 3 năm 2020, `nofollow` sẽ trở thành gợi ý cho mục đích thu thập dữ liệu và Index. Với những ai chỉ dùng mỗi thuộc tính nofollow để ngăn Google Index một trang, các bạn không nên làm theo cách này, mà nên sử dụng một trong những cơ chế mạnh mẽ hơn được nêu trên trang Tìm hiểu cách chặn URL khỏi Google.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

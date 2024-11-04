@@ -3,7 +3,7 @@ pubDatetime: 2022-11-21T10:10:00Z
 title: So sánh Nikon Z6 và Nikon Z7
 description: Nikon Z6 là một trong những máy ảnh không gương lật của Nikon được ra mắt nhằm cạnh tranh với các dòng máy ảnh mirrorless khác trên thị trường.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0294.jpg
+image: https://nhavantuonglai.com/image/cover/001-294.jpg
 tags:
   - affiliate
   - may anh
@@ -141,4 +141,4 @@ Cả Nikon Z6 và Nikon Z7 đều là những máy ảnh không gương lật tu
 
 Tùy thuộc vào nhu cầu và ngân sách của bạn, bạn có thể lựa chọn giữa Nikon Z6 và Nikon Z7 để có trải nghiệm chụp ảnh tốt nhất. Cả hai máy ảnh đều mang lại Chất lượng âm thanh và hình ảnh tuyệt vời, đáp ứng mọi yêu cầu của người dùng từ nghiệp dư đến chuyên nghiệp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

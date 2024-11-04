@@ -3,7 +3,7 @@ pubDatetime: 2018-08-28T10:10:00Z
 title: Akutagawa Ryunosuke | Hà đồng
 description: Theo tự điển Nhật Kenkyusha , kappa được tả như một tiểu yêu, một quái vật sống dưới nước với cái đầu bờm xờm dúm tóc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0058.jpg
+image: https://nhavantuonglai.com/image/cover/001-058.jpg
 tags:
   - thu vien
   - van hoc
@@ -1024,4 +1024,4 @@ Chú thích
 
 [28]   - Chuo  - sen: (trung tuyến)đường xe điện tại Tokyo , theo hướng Đông   - Tây , như đường kính của đường xe điện vòng Yamate  - sen , tựa như đường central line tại Luân Đôn , hay đường xe điện ngầm số 1 (Métro) tại Paris .
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

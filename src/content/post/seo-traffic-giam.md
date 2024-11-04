@@ -3,7 +3,7 @@ pubDatetime: 2023-06-02T10:10:00Z
 title: Tình trạng giảm lưu lượng truy cập trên Google Search
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0549.jpg
+image: https://nhavantuonglai.com/image/cover/001-549.jpg
 tags:
   - google
   - google console
@@ -20,7 +20,7 @@ _Lưu lượng truy cập tự nhiên trên Tìm kiếm có thể giảm sút
 
 Để biết những yếu tố đang ảnh hưởng đến lưu lượng truy cập của bạn trên Google Search, hãy tham khảo nét phác hoạ trong hình ảnh này. Chúng cho bạn thấy khái quát những yếu tố có thể ảnh hưởng đến lưu lượng truy cập và hình dạng của biểu đồ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-701.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-701.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 Các phần sau đây trình bày những nguyên nhân chính mà bạn nên tìm hiểu khi phân tích tình trạng giảm lưu lượng truy cập. Ngoài ra, hãy nhớ kiểm tra trang Dữ liệu bất thường trong Search Console để xem có vấn đề nào liên quan đến website của bạn hay không. Sự sụt giảm này có thể liên quan đến một thay đổi về quá trình xử lý dữ liệu hoặc lỗi ghi nhật ký.
 
@@ -74,33 +74,33 @@ Hãy truy cập báo cáo Hiệu suất Google Search và thử áp dụng các 
 
 Chọn bộ lọc Ngày ở trên cùng của biểu đồ rồi chọn 16 tháng qua. Việc này sẽ giúp bạn phân tích sự sụt giảm lưu lượng truy cập theo bối cảnh và đảm bảo rằng mức giảm này không xảy ra hằng năm do một kỳ nghỉ hoặc một xu hướng nào đó. Nếu muốn mở rộng hơn 16 tháng, bạn có thể dùng `Search Analytics API` hoặc `tính năng xuất dữ liệu hàng loạt` để lấy và lưu trữ dữ liệu trong các hệ thống của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-22.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-22.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 Biểu đồ sau đây cho thấy một biểu đồ Hiệu suất theo mùa hằng năm (dữ liệu trong 16 tháng). Hãy để ý rằng tình trạng sụt giảm gần đây giống hệt như năm trước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-23.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-23.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 ### So sánh giai đoạn giảm sút với một giai đoạn tương tự
 
 Chọn bộ lọc Ngày ở đầu biểu đồ, chọn thẻ So sánh, sau đó chọn So sánh 3 tháng qua với kỳ trước đó hoặc So sánh 3 tháng qua với cùng kỳ năm trước. Thao tác này sẽ giúp bạn xem xét chính xác yếu tố nào đã thay đổi. Đừng quên nhấp vào mọi thẻ để tìm hiểu xem có phải thay đổi đó chỉ xảy ra với một số cụm từ Google Search, URL, quốc gia, thiết bị hoặc giao diện Google Search nhất định hay không (tìm hiểu cách tạo bộ lọc so sánh).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-24.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-24.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 Biểu đồ sau đây cho thấy một biểu đồ so sánh hiệu suất trong 3 tháng. Hãy để ý mức giảm lưu lượng truy cập rõ ràng khi so sánh đường nét liền (3 tháng qua) với đường nét đứt (3 tháng trước đó).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-25.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-25.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 ### Phân tích riêng từng loại hình Google Search
 
 Chọn bộ lọc Loại Google Search ở đầu biểu đồ rồi thử các lựa chọn hiện có. Thao tác này sẽ giúp bạn nắm được liệu mức giảm mà bạn thấy đã xảy ra trong Google Search trên web, Google Hình ảnh, thẻ Video hay thẻ Tin tức.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-26.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-26.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 ### Theo dõi vị trí trung bình của bạn trong kết quả Google Search
 
 Nhấp vào Vị trí trung bình phía trên biểu đồ. Nhìn chung, bạn không nên tập trung quá nhiều vào vị trí tuyệt đối của mình. Số lượt hiển thị và số lượt nhấp mới là thước đo thành công cho website của bạn. Tuy nhiên, nếu bạn thấy vị trí bị giảm liên tục và đáng kể, hãy thử tự đánh giá nội dung của mình để xem nội dung đó có hữu ích và đáng tin cậy hay không.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-27.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-27.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 ### Tìm quy luật trên những trang bị ảnh hưởng
 
@@ -108,7 +108,7 @@ Hãy xem xét bảng Trang bên dưới biểu đồ để tìm những quy lu�
 
 Nếu đó là vấn đề trên toàn website, hãy kiểm tra báo cáo Index trang. Nếu sự sụt giảm chỉ ảnh hưởng đến một nhóm trang, hãy sử dụng `Công cụ kiểm tra URL` để kiểm tra một vài trang.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-28.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-28.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 ## Tìm hiểu xu hướng chung trong ngành
 
@@ -128,7 +128,7 @@ Hãy kiểm tra những cụm từ Google Search đang thu hút lưu lượng t
 
 3. Mối quan tâm về cà phê ổn định hơn đáng kể; có vẻ như mọi người cần sản phẩm này quanh năm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/seo-google-29.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/seo-google-29.jpg" alt="seo-google-co-ban-tinh-trang-giam-luu-luong-truy-cap-tren-google-search" height=100% width=100%><figcaption><p>seo-google-7nhavantuonglai</p></figcaption></figure>
 
 Ngoài ra, bạn cũng nên tham khảo một số thông tin chi tiết thú vị khác có thể giúp cải thiện lưu lượng truy cập của bạn qua Google Search:
 
@@ -136,4 +136,4 @@ Ngoài ra, bạn cũng nên tham khảo một số thông tin chi tiết thú v�
 
 – Kiểm tra các cụm từ Google Search liên quan đến các chủ đề quan trọng. Việc này có thể giúp bạn thấy những cụm từ có liên quan đang được Google Search ngày một nhiều và giúp bạn chuẩn bị website của mình dựa trên những cụm từ Google Search đó (ví dụ: bổ sung nội dung có liên quan về những chủ đề mới đó).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

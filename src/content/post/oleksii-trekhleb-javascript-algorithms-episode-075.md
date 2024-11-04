@@ -3,7 +3,7 @@ pubDatetime: 2018-07-26T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Prim's algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0575.jpg
+image: https://nhavantuonglai.com/image/cover/001-575.jpg
 tags:
   - developer
   - github
@@ -35,4 +35,4 @@ A planar graph and its minimum spanning tree. Each edge is labeled with its weig
 
 This figure shows there may be more than one minimum spanning tree in a graph. In the figure, the two trees below the graph are two possibilities of minimum spanning tree of the given graph.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

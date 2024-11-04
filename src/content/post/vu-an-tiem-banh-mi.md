@@ -3,7 +3,7 @@ pubDatetime: 2024-03-28T10:10:00Z
 title: Vụ kiện của chủ tiệm bánh mì và bản án tồi nhất trong lịch sử Mỹ
 description: Bị bắt vì ép nhân viên làm quá nhiều, chủ tiệm cho rằng nhà nước không thể can thiệp vào thoả thuận lao động. Vụ án tạo cú xoay chuyển quan điểm về Hiến pháp Mỹ trong hơn 100 năm qua.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0681.jpg
+image: https://nhavantuonglai.com/image/cover/001-681.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -47,4 +47,4 @@ Cuối cùng, năm 1937, sau ba thập kỷ tranh cãi, Tòa tối cao đã phá
 
 Ngày nay, vụ tiệm bánh Lochner đã in sâu vào tâm trí mọi sinh viên luật nước Mỹ như một quyết định tư pháp tồi và là một trong những vụ khét tiếng nhất trong các vụ án về luật Hiến pháp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-11T10:10:00Z
 title: Cướp kho tiền ly kỳ như phim Hollywood
 description: Nhân viên kho tiền G4S hay đùa sẽ có ngày một băng cướp lái trực thăng đánh bom nóc nhà, đột nhập cướp tiền như trong phim, nhưng không ngờ điều này trở thành sự thật.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0537.jpg
+image: https://nhavantuonglai.com/image/cover/001-537.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -88,4 +88,4 @@ Phiên tòa bắt đầu vào đầu tháng 8 và kéo dài 6 tuần. Những lu
 
 Số tiền tang vật không bao giờ thu lại được.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0537.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-537.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

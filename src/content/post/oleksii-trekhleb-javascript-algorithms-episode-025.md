@@ -3,7 +3,7 @@ pubDatetime: 2018-06-06T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Euclidean algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0525.jpg
+image: https://nhavantuonglai.com/image/cover/001-525.jpg
 tags:
   - developer
   - github
@@ -69,4 +69,4 @@ squares until a `21×147` rectangle is left, which in turn is
 tiled with `21×21` squares, leaving no uncovered area.
 The smallest square size, `21`, is the GCD of `1071` and `462`.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

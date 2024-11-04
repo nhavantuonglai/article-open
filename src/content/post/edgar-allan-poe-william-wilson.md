@@ -3,7 +3,7 @@ pubDatetime: 2006-01-03T10:10:00Z
 title: Edgar Allan Poe | William Wilson
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0576.jpg
+image: https://nhavantuonglai.com/image/cover/001-576.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -129,4 +129,4 @@ Như vậy, tôi nói, nó xuất hiện, nhưng không phải vậy. Đó là k
 
 _Ông đã chiến thắng, và tôi đầu hàng. Nhưng từ giờ trở đi, ông cũng đã chết – chết đối với thế giới và những hy vọng của nó. Trong tôi ông đã tồn tại – và, trong cái chết của tôi, hãy nhìn vào hình ảnh này, mà là của chính ông, để thấy rõ ràng ông đã giết chính mình hoàn toàn như thế nào._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

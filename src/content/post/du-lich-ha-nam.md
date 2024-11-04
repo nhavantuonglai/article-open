@@ -3,7 +3,7 @@ pubDatetime: 2021-08-17T10:10:00Z
 title: Cẩm nang du lịch Hà Nam
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0623.jpg
+image: https://nhavantuonglai.com/image/cover/001-623.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -39,7 +39,7 @@ Làng Vũ Đại trong Chí Phèo có nguyên mẫu là làng Đại Hoàng, th�
 
 Ngôi nhà vốn thuộc sở hữu của ngụy viên Bắc kỳ Bá Bính. Người này có tên thật là Trần Duy Bính (không rõ năm sinh, mất năm ) – được cố nhà văn Nam Cao xây dựng thành nguyên mẫu nhân vật Bá Kiến trong tác phẩm Chí Phèo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-281.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-281.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 ### Kẽm Trống
 
@@ -47,7 +47,7 @@ Kẽm Trống là danh thắng quốc gia được công nhận năm 1962. Kẽm
 
 Ngoài ra, khi đến Kẽm Trống bạn có thể tham quan một số địa điểm đẹp như: núi Bồng, núi Vọng, núi Rồng ở phía bên phải bờ. Bên kia sông Đáy lại có núi Rùa, núi Cổ Động, núi Trinh Tiết… Trên ngọn núi Trinh Tiết có một ngôi chùa cổ. Người dân nơi đây quan niệm rằng, ngôi chùa ấy tụ hợp linh khí của đất trời.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-282.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-282.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 ### Đền Trần Thương
 
@@ -57,13 +57,13 @@ Ngôi đền nằm bên bờ sông Hồng, tọa lạc tại thôn Trần Thươ
 
 Tam Chúc là ngôi chùa lớn nhất Việt Nam, nằm tại thị trấn Ba Sao và xã Khả Phong, huyện Kim Bảng, tỉnh Hà Nam. Chùa cách trung tâm Hà Nội khoảng 60 km và là một trong những điểm du lịch tâm linh thu hút nhiều du khách nhất cả nước, nối giữa khu du lịch chùa Hương, khu du lịch Bái Đính và khu bảo tồn thiên nhiên Vân Long.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-283.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-283.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 _Vườn cột kinh_ là những cột kinh phục dựng giống bảo vật quốc gia cột kinh của chùa Nhất Trụ, cố đô Hoa Lư, Ninh Bình. Hiện có 32 cột kinh cao 13,5 m, rộng khoảng 2 m, nặng khoảng 200 tấn.
 
 _Điện Tam Thế_ cao 39 m, sàn rộng 5.400 m2, đủ cho 5.000 phật tử hành lễ cùng một lúc. Trong điện đặt 3 bức tượng Phật bằng đồng tượng trưng cho _Quá khứ, hiện tại, tương lai._ Mỗi bức có trọng lượng hơn 200 tấn, phía sau mỗi bức tượng là lá bồ đề dát vàng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-284.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-284.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 _Chùa Ngọc_ trên đỉnh núi Thất Tinh được làm hoàn toàn bằng đá granit đỏ, bên trong thờ tượng Đức Phật bằng hồng ngọc nặng 4.000 kg. Để lên chùa, du khách phải leo lên 299 bậc thang đá. Từ đây, bạn có thể ngắm toàn cảnh chùa Tam Chúc.
 
@@ -73,7 +73,7 @@ Ngoài ra, du khách có thể tham quan _Điện Quán Thế Âm Bồ Tát,_ n�
 
 Làng kho cá Vũ Đại bao đời nay vẫn nức tiếng gần xa bởi công thức cá kho đặc biệt, vị cá đậm đà được tẩm ướp cẩn thận cùng gừng, riềng, nước cốt chanh, nước cốt cua đồng, ớt, hành khô… Tổng cộng có tới 16 loại gia vị. Du khách đến mua cá được kho trong nồi đất, phù hợp nhất là dịp cận Tết khi nhiều hộ dân đỏ lửa kho cá, đeo mặt nạ phòng độc rất thú vị.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-289.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-289.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -81,7 +81,7 @@ Làng kho cá Vũ Đại bao đời nay vẫn nức tiếng gần xa bởi công
 
 Bánh cuốn Phủ Lý là đặc sản nổi tiếng nhất của Hà Nam. Bánh cuốn ở đây được làm bằng gạo tẻ tám xoan ngon và chất lượng. Gạo tám xoan sau khi được ngâm nước từ 3-4 tiếng sẽ được xay ra thành bột nước sau đó được tráng trên nồi hấp. Bánh cuốn được tráng có độ mỏng vừa phải, giòn và là bánh chay, không thịt cũng chẳng mộc nhĩ. Nổi bật trên nền bánh trắng là những lớp hành phi vàng ươm, thơm nức, thêm vài giọt mỡ để tăng thêm vị béo ngậy cho bánh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-285.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-285.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 Thực khách ăn cùng nước chấm mắm chua ngọt, có thêm dưa góp làm từ su hào, cà rốt và thịt nướng tẩm gia vị vừa ăn. Thịt nướng không quá khô, cũng không nhiều mỡ mà thơm mềm, ngon ngọt. Nhiều du khách cho rằng, bánh cuốn Phủ Lý là sự kết hợp giữa bánh cuốn Thanh Trì và bún chả Hà Nội. Món ăn có nét độc đáo trong hương vị, khiến nó trở nên khác biệt với những loại bánh cuốn khác trên cả nước.
 
@@ -91,7 +91,7 @@ Bạn có thể thưởng thức món này ở mọi hàng bánh cuốn trên đ
 
 Đất Hà Nam thuộc vùng chiêm trũng, nên nhiều cá rô đồng tự nhiên. Nếu đến Phủ Lý vào thời điểm cá đang có trứng, bạn sẽ có cơ hội thường thức những miếng cá rô đồng thơm phức, cùng trứng cá béo ngậy.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-286.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-286.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 Bún cá rô ở Hà Nam nổi tiếng là bởi hương vị nước dùng ninh từ xương cá rô ngon ngọt. Ăn kèm với bún và cá rô rau cải, rau thơm để dậy mùi. Rau cải phải là cải ngọt hoặc cải canh thì mới dung hòa được độ béo ngậy từ thịt cá rô mang lại.
 
@@ -101,7 +101,7 @@ Bánh đa cá rô có sợi nhỏ, màu trắng đục chứ không to bản ho�
 
 Cá kho Vũ Đại được mệnh danh là món đặc sản Hà Nam nổi tiếng nhất là bởi nguyên liệu đầu vào chất lượng kết hợp với công đoạn chế biến rất cầu kỳ. Một nồi cá kho phải trải qua 14 tiếng đun liên tục, khi cạn thì tiếp nước và lửa đun không quá to, nếu không cá sẽ bị cháy. Những con cá được chọn để khô là trắm đen nặng từ 4 đến 6 kg trở lên, nuôi tự nhiên hoặc thu mua về để kho cá. Ngoài cá tươi ướp muối thì trong nồi kho còn có thêm thịt ba chỉ và các loại gia vị đồng quê đặc trưng khác. Nồi cá đạt chuẩn là thịt chắc, xương mềm, gia vị quyện vào từng thớ cá, khi ăn có vị đậm, cay ngọt, không mặn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-287.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-287.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 ### Mắm cáy Bình Lục
 
@@ -113,10 +113,10 @@ Người nấu rượu ở làng Vọc luôn trung thành với một công th�
 
 ### Chuối ngự Đại Hoàng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-288.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ha-nam-288.jpg" alt="cam-nang-du-lich-ha-nam" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-nam-nhavantuonglai</p></figcaption></figure>
 
 Chuối ngự Đại Hoàng còn được dân gian gọi là chuối _tiến vua_ do vỏ ngoài màu vàng, cuống xanh tươi, quả đều tăm tắp trông rất đẹp mắt. Người dân Đại Hoàng ghi lại trong sách sử địa phương, một lần vua Trần cùng đoàn tùy tùng xuôi thuyền từ kinh thành Thăng Long về hành cung Thiên Trường nghỉ chân tại Lý Nhân đã ăn thử giống chuối địa phương. Thấy loại quả ngon, vua ban thưởng và truyền cho người dân nhân giống.
 
 Chuối Đại Hoàng rất kén đất, đặc tính chỉ phù hợp với dải đất ven sông Châu Giang chảy qua địa phận một số xã huyện Lý Nhân. Do vậy quy trình trồng và chăm sóc loại chuối này cũng tốn rất nhiều công sức. Chuối có giá 30.000-50.000 đồng một kg.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

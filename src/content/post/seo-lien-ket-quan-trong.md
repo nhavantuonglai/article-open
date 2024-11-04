@@ -3,7 +3,7 @@ pubDatetime: 2023-05-21T10:10:00Z
 title: Tại sao liên kết lại quan trọng trong chiến lược SEO?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0243.jpg
+image: https://nhavantuonglai.com/image/cover/001-243.jpg
 tags:
   - google
   - google console
@@ -248,4 +248,4 @@ Nếu có một chủ đề duy nhất trên tất cả các loại liên kết 
 
 Nếu nó trông xấu đối với con người, rất có thể, nó có vẻ xấu đối với các công cụ tìm kiếm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

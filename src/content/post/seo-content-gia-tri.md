@@ -3,7 +3,7 @@ pubDatetime: 2023-05-05T10:10:00Z
 title: Làm thế nào để xác định giá trị SEO của bài viết?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg
+image: https://nhavantuonglai.com/image/cover/001-548.jpg
 tags:
   - google
   - google console
@@ -256,4 +256,4 @@ Thứ hạng chỉ là khởi đầu của hành trình đo lường nội dung 
 
 Những gì bạn đo lường ở giữa sẽ tạo ra sự khác biệt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

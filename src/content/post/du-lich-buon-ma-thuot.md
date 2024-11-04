@@ -3,7 +3,7 @@ pubDatetime: 2021-07-28T10:10:00Z
 title: Cẩm nang du lịch Buôn Ma Thuột
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0604.jpg
+image: https://nhavantuonglai.com/image/cover/001-604.jpg
 tags:
   - cam nang du lich
   - du lich tay nguyen
@@ -17,7 +17,7 @@ Thời điểm đẹp nhất đến Buôn Ma Thuột từ cuối tháng 12 đế
 
 Khí hậu miền núi khá lạnh vào buổi sáng nên bạn cần mang theo áo ấm. Nên tận hưởng không khí trong lành vào buổi sáng sớm bằng cách đi bộ. Nếu du lịch Buôn Ma Thuột từ tháng 5 đến tháng 10, bạn cần chuẩn bị đồ đi mưa, áo ấm, kem chống muỗi và đặc biệt là giày đi bộ chắc chắn vì vài điểm đến có đường đất đỏ dễ trơn trợt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-094.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-094.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 ## Đi lại
 
@@ -27,7 +27,7 @@ Bạn có thể di chuyển bằng các phương tiện như máy bay, ôtô, xe
 
 Khu vực trung tâm Buôn Ma Thuột gồm các tuyến đường Nguyễn Tất Thành, Lê Duẩn, Hùng Vương, Phan Chu Trinh… du khách nên tìm những khách sạn ở gần để thuận tiện di chuyển. Khách sạn, nhà nghỉ ở trung tâm có giá từ 300.000 đồng một đêm, phòng khoảng 25m2 dành cho hai người. Ngoài ra, muốn trải nghiệm sinh hoạt kiểu đồng bào nơi đây, bạn có thể lưu trú tại các buôn làng du lịch, ở tập thể trong nhà dài từ 70.000 đồng một người, nhà sàn 200.000 đồng một đêm, hoặc khu nghỉ dưỡng ven hồ khoảng từ 1.500.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-095.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-095.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
@@ -35,7 +35,7 @@ Nơi đặc trưng nhất của Tây Nguyên có lẽ là Buôn Ma Thuột, thà
 
 Tượng đài Chiến thắng Buôn Ma Thuột
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-096.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-096.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Ngã sáu Ban Mê là nơi có tượng đài Chiến thắng. Tượng đài được xem như biểu tượng của thành phố, được ví như tháp Eiffel ở Paris, Pháp. Điểm nhấn ở nơi đây là chiếc xe tăng bằng thép số hiệu 980 – chiếc xe mở đầu trận đánh lịch sử của quân đội Việt Nam vào thành phố.
 
@@ -45,7 +45,7 @@ Bảo tàng Đăk Lăk
 
 [Bảo tàng Đăk Lăk](https://info.nhavantuonglai.com/topick), tọa lạc trên đường Y Ngông trung tâm Thành phố. Buôn Ma Thuột, là nơi du khách có thể tìm hiểu về xứ sở của voi và cà phê vùng Tây Nguyên. Công trình được thiết kế dựa theo kiến trúc [nhà dài](https://info.nhavantuonglai.com/topick) đặc trưng của cộng đồng người Ê-đê, dân tộc đông dân nhất ở Đăk Lăk. Bên trong bảo tàng lưu giữ và trưng bày khoảng 1.000 hiện vật giới thiệu về lịch sử, địa lý tự nhiên và văn hoá của các cộng đồng dân tộc bản địa như Ê-đê, Mnông, Gia-rai, Xơ-đăng, Giẻ Triêng, Mạ…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-097.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-097.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Bên cạnh đó, bảo tàng còn là một không gian xanh rộng lớn chẳng kém gì công viên với nhiều cây cổ thụ, thảm cỏ dài – là nơi nhiều người dân chọn để nghỉ ngơi, hóng mát, tập thể dục hàng ngày. Thông với Bảo tàng là Biệt điện Bảo Đại, nơi ở của vị vua cuối cùng triều Nguyễn tại Buôn Ma Thuột.
 
@@ -55,13 +55,13 @@ Biệt điện hiện là một phần của Bảo tàng Đắk Lắk, nằm tro
 
 Bạn đừng quên chụp ảnh _check-in_ với cây long não nổi tiếng nhất phố núi. Cây long não ở biệt điện được công nhận là cây di sản của Việt Nam với chiều cao 30 m, nhiều nhánh lớn, tuổi đời gần 100 năm tuổi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-098.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-098.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Bảo tàng Thế giới Cà phê
 
 Cách bảo tàng Đăk Lăk gần 3 km, [bảo tàng Thế giới Cà phê](https://info.nhavantuonglai.com/topick) là điểm tham quan không thể bỏ qua khi đến Buôn Ma Thuột bởi kiến trúc lạ mắt, được nhiều du khách ví như _trời Tây_ giữa phố núi. Không gian trưng bày ấn tượng, kể câu chuyện cà phê vòng quanh thế giới. Với tấm vé 70.000 đồng, bảo tàng cà phê không chỉ mang đến cho bạn nhiều thông tin hữu ích mà còn là nơi để giới trẻ sáng tạo vô số bức ảnh theo phong cách nghệ thuật đương đại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-099.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-099.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Làng cà phê Trung Nguyên
 
@@ -79,7 +79,7 @@ Dù đi vào khoảng thời gian nào, Ea Kao cũng trở thành điểm đến
 
 Đặc sản được dân địa phương truyền tai nhau chính là món chuối chiên đầu đường Y Wang. Ra đến hồ, bạn gọi một ly nước mía, cắn một miếng chuối chiên và thưởng thức hoàng hôn buông xuống giữa lòng hồ mới cảm nhận hết sự bình yên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-100.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-100.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Chùa Khải Đoan
 
@@ -89,7 +89,7 @@ Nhà thờ chánh tòa Buôn Ma Thuột
 
 Nhà thờ Thánh Tâm tọa ở số 2 đường Phan Chu Trinh, phường Tân Lợi. Đây là nhà thờ chính tòa của giáo phận Buôn Ma Thuột. Từ những năm 1930, nơi này là nhà nguyện mái tranh vách đất. Công trình hiện nay được hoàn thành từ năm 1959.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-101.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-101.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Nhà đày Buôn Ma Thuột
 
@@ -107,7 +107,7 @@ Quanh khu vực quảng trường 10/3, có khá nhiều quán bia được thi�
 
 Khu dã ngoại Lee_s Hillside
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-101.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-101.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Với nhiều tiểu cảnh mang hình ảnh Mông Cổ, Bali, Dubai… khu chụp ảnh dã ngoại hiện là điểm check-in hấp dẫn giới trẻ. Du khách có thể thuê từ trang phục truyền thống Việt Nam hoặc các nước khác, cho tới đồ hiện đại với giá 100.000 – 150.000 đồng một bộ để chụp ảnh theo nhiều phong cách khác nhau. Tuy nhiên, trang phục có sẵn chủ yếu dành cho nữ.
 
@@ -115,7 +115,7 @@ Vé vào cổng tham quan chụp hình cả khu vực là 70.000 đồng một n
 
 > Ngoài tham quan trong thành phố, bạn có thể khám phá các điểm du lịch nổi tiếng khác của Đăk Lăk như hồ Lăk, thác Dray Nur – Dray Sáp…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-102.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-102.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn gì
 
@@ -153,12 +153,12 @@ Một số địa chỉ tham khảo:
 
 Buôn Ma Thuột được mệnh danh là [thiên đường cà phê](https://info.nhavantuonglai.com/topick), vị đắng ở đây dường như không thể lặp lại ở bất kỳ đâu. Đã đến Buôn Ma Thuột mà không thưởng thức cà phê thì thật là thiếu sót. Bạn có vô vàn lựa chọn giữa những quán cà phê nổi tiếng như Azzan, Soul Roastery, StoneVillage hay làng Trung Nguyên…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-104.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-104.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 [ARUL Coffee](https://info.nhavantuonglai.com/topick) là một quán đậm chất Tây Nguyên. Quán không tọa lạc ở vị trí đắc địa giữa trung tâm thành phố, mà nằm ở buôn Akô Dhông, một trong những buôn làng giàu nhất Tây Nguyên. Không gian khắc họa những nét đặc trưng trong văn hóa truyền thống Ê-đê.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-103.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-buon-ma-thuot-103.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
 Theo dân sành cà phê rỉ tai, Soul Roastery là địa điểm phù hợp cho các bạn trẻ với không gian rộng rãi theo phong cách công nghiệp cùng đa dạng các sản phẩm đồ uống. Giá mỗi đồ uống khoảng 30.000 – 70.000 đồng, ngang giá cà phê ở các thành phố lớn nhưng bạn thưởng thức rồi sẽ thấy đáng đồng tiền.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

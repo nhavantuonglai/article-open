@@ -3,7 +3,7 @@ pubDatetime: 2001-11-01T10:10:00Z
 title: Cách thế giới lan tỏa chánh niệm của thiền sư Thích Nhất Hạnh
 description: Tôi còn nhớ là tôi đã viết Đường Xưa Mây Trắng ở trong cái quán của Xóm Thượng. Hồi đó chưa có lò sưởi trung ương, trong phòng chỉ có một cái lò sưởi đốt củi thôi và trời rất lạnh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0437.jpg
+image: https://nhavantuonglai.com/image/cover/001-437.jpg
 tags:
   - thu vien
   - van hoc
@@ -77,4 +77,4 @@ Thiền sư Thích Nhất Hạnh viên tịch tại Tổ đình Từ Hiếu, TP 
 
 "Món quà thầy ấy gửi tặng thế giới này quá lớn, nên tôi nghĩ chúng sẽ không phai mờ theo bất kỳ cách nào sau khi thầy ra đi", Williamson nói.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

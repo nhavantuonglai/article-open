@@ -3,7 +3,7 @@ pubDatetime: 2021-08-30T10:10:00Z
 title: Cẩm nang du lịch Mai Châu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0637.jpg
+image: https://nhavantuonglai.com/image/cover/001-637.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -27,7 +27,7 @@ Tuyến 1 dài 140 km, nếu đi xe máy: Nguyễn Trãi – Quang Trung – Ba 
 
 Tuyến 2 dài 150 km, nếu đi ôtô: Đại lộ Thăng Long (Hầm chui Trung Hòa) – Xuân Mai – Lương Sơn – Kỳ Sơn, Hòa Bình – Cao Phong, Tân Lạc – Đèo Thung Khe – Mai Châu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-385.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-385.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Nếu đi xe khách, bạn dừng tại ngã ba Tòng Đậu rồi xuống bắt xe ôm đi 5 km nữa là đến trung tâm thị trấn Mai Châu. Vé xe khách giá khoảng 80.000 – 140.000 đồng một người.
 
@@ -51,7 +51,7 @@ Những khu nghỉ dưỡng này thường nhanh hết phòng, đặc biệt là
 
 ## Chơi đâu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-386.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-386.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Điểm tham quan đầu tiên là đèo Thung Khe hay đèo Đá Trắng, nằm trên QL6, giữa địa phận Tân Lạc và Mai Châu. Đây vốn là núi đá vôi, do quá trình mở đường tạo thành. Đây cũng là nơi thường xuyên có mây phủ, tạo thành khung cảnh mờ ảo. Trên đèo cũng có những chòi bán đặc sản, đồ ăn, thức uống cho khách nghỉ chân.
 
@@ -59,7 +59,7 @@ Muốn tìm hiểu về văn hóa địa phương, bạn không nên bỏ qua [B
 
 Nếu thích mua sắm bạn còn có thể thăm thú bản Pom Coọng để tìm mua cho mình những món đồ thủ công bé xinh. Còn muốn thưởng thức hương vị của nhịp sống không thương mại, bạn nên ghé Tòng Đậu, Cha Long… để lắng lại mình và cảm nhận nhiều hơn vì người dân chủ yếu vẫn làm nông.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-387.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-387.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Hang Mỏ Luông nằm trong hệ thống dãy núi Pù Kha thuộc thị trấn Mai Châu. Hang gồm 4 động chính, nổi tiếng với hệ thống nhũ đá kết thành nhiều hình như hoa, suối… Trong kháng chiến chống Pháp, nơi đây từng là căn cứ họp bàn của quân và dân ta. Sau khi kết thúc hành trình, tại động cuối cùng, du khách được chiêm ngưỡng một suối nước ngầm chảy ra hồ gần đó.
 
@@ -67,13 +67,13 @@ Hang Kia – Pà Cò nằm ở cửa ngõ của Tây Bắc với độ cao 1.200
 
 Mây thường nhiều và đẹp vào lúc 5h – 9h. Nếu không may mắn với biển mây, thì nơi đây cũng là điểm ngắm cảnh tuyệt vời để bạn phóng tầm mắt nhìn bao quát toàn cảnh thung lũng. Người dân địa phương còn trồng rất nhiều hoa ở khu vực này để du khách chụp ảnh cùng với cầu gỗ. Vé lên điểm săn mây Hang Kia là 20.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-388.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-388.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Chợ Pà Cò cũng là điểm đến độc đáo bạn nên thử. Chợ Pà Cò họp vào mỗi chủ nhật cuối tuần. Phiên chợ Mai Châu họp từ 5h đến 9h sẽ tan. Chợ bán các sản vật địa phương, thổ cẩm… của người H_Mông, Thái, Mường…
 
 Thác Gò Lào hay thác Gò Mu là một trong những thác nước đẹp nhất ở Mai Châu, thuộc xã Phúc Sạn, cách Mai Châu khoảng 15 km. Từ ngã ba Tòng Đậu theo hướng lên Mộc Châu, bạn sẽ dễ dàng tìm được đường xuống thác. Bạn có thể gửi xe ở nhà dân ngay trước thác và leo bộ xuống. Thác cao khoảng 20 m, nước đổ xuống trắng xóa, dưới lòng hồ là những khối đá lớn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-389.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-389.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Đến Mai Châu theo nhóm đông, bạn không nên bỏ lỡ chuyến thăm lòng hồ Hòa Bình tới vịnh Ngòi Hoa, Ao Tiên, Đền Bà Chúa Thác Bờ. Bến thuyền nằm ở cuối bản Suối Lốn. Nếu thích chụp ảnh check-in, đồng hoa Thai Flower Garden là một điểm dừng chân lý tưởng với rất nhiều loại hoa cải, tam giác mạch, cánh bướm.
 
@@ -83,8 +83,8 @@ Trải nghiệm trọn vẹn hơn hết là được lắng nghe các chàng tra
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-390.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-mai-chau-390.jpg" alt="cam-nang-du-lich-mai-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-mai-chau-nhavantuonglai</p></figcaption></figure>
 
 Hãy thưởng thức những đặc sản của người Thái và Mông như cơm lam, thịt lợn mán, măng đắng, cá suối nướng… Ngoài ra, bạn có thể đặt trước chủ homestay nồi lẩu, rất hợp với thời tiết se lạnh của buổi tối giữa núi rừng. Giá lẩu khoảng 130.000 đồng một người. Chợ Pà Cò cũng có nhiều món ăn như bún chả, bún lòng khá ngon. Trên đường về Hà Nội, hãy nhớ ghé qua mua cam Cao Phong tại vườn về làm quà.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

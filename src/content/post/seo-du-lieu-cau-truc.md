@@ -3,7 +3,7 @@ pubDatetime: 2023-05-13T10:10:00Z
 title: Ưu và nhược điểm của dữ liệu cấu trúc trong Google Search
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0144.jpg
+image: https://nhavantuonglai.com/image/cover/001-144.jpg
 tags:
   - google
   - google console
@@ -91,4 +91,4 @@ Sau đây là ví dụ về một website sử dụng dữ liệu có cấu trú
 
 Hiện tại, chỉ các trang biên tập đánh giá về sản phẩm mới đủ điều kiện xuất hiện kèm theo ưu và nhược điểm trên Google Search; các trang sản phẩm của người bán và bài đánh giá sản phẩm của người dùng thì không. Chúng tôi cung cấp trải nghiệm này bằng tiếng Hà Lan, tiếng Anh, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Nhật, tiếng Ba Lan, tiếng Bồ Đào Nha, tiếng Tây Ban Nha và tiếng Thổ Nhĩ Kỳ ở mọi quốc gia có Google Search.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

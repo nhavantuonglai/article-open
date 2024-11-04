@@ -3,7 +3,7 @@ pubDatetime: 2021-08-09T10:10:00Z
 title: Cẩm nang du lịch Đắk Nông
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0614.jpg
+image: https://nhavantuonglai.com/image/cover/001-614.jpg
 tags:
   - cam nang du lich
   - du lich tay nguyen
@@ -15,7 +15,7 @@ _Đăk Nông có vẻ đẹp tự nhiên phong phú, hài hòa với những dò
 
 Đăk Nông đẹp nhất vào mùa xuân, từ khoảng tháng 1 vì đã qua mùa mưa, trời trong xanh và mát mẻ, thác nhiều nước. Sang tháng 3 đầu tháng 4 là mùa nở rộ của hoa cà phê, tháng 5-6 là mùa hoa muồng hoàng yến. Mùa hè ở Đăk Nông thường có mưa, nhưng nhanh ngớt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-191.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-191.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -41,13 +41,13 @@ Từ trung tâm thành phố Gia Nghĩa, trong vòng bán kính khoảng 50 km, 
 
 Vườn Quốc gia Tà Đùng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-192.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-192.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Vườn Quốc gia Tà Đùng thuộc địa phận xã Đăk Som, cách thành phố Gia Nghĩa khoảng 45 km về phía đông nam theo Quốc lộ 28. Trung tâm của Vườn là hồ Tà Đùng. Hoạt động ngăn dòng thủy điện đã tạo ra hồ nước trên cao có diện tích khoảng 22.000 ha với hơn 40 hòn đảo và bán đảo lớn nhỏ. Đây là điểm đến không thể bỏ qua ở Đăk Nông.
 
 Đến Tà Đùng, bạn sẽ được đi thuyền, thưởng ngoạn cảnh quan những hòn đảo hiện lên giữa mặt hồ, hít thở bầu không khí trong lành, khám phá cảnh sắc núi rừng, thiên nhiên hoang sơ. Ngoài ra, nơi đây còn có thác đá granite, hàng chục loài động thực vật quý hiếm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-193.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-193.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Hang động núi lửa
 
@@ -57,7 +57,7 @@ Theo các nhà nghiên cứu, hệ thống hang động núi lửa được hìn
 
 Dãy núi lửa Nâm Kar
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-194.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-194.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Dãy núi lửa Nâm Kar được hình thành từ 3 núi lửa gồm một nón than chính và hai nón than phụ. Nón than chính cao 60 m, đường kính 220 m, miệng sâu khoảng 20 m tính từ đỉnh núi, có hình dạng oval điển hình. Ngọn núi có độ cao 660 m so với mực nước biển, được cấu tạo chủ yếu từ xỉ, mỗi viên xỉ có đường kính vài centimet.
 
@@ -71,7 +71,7 @@ Cung đường phù hợp để bạn thực hiện các chuyến caravan hay c�
 
 Thiền viện Trúc Lâm Đạo Nguyên
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-195.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-195.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Cách trung tâm thành phố Gia Nghĩa khoảng 40 km, Thiền viện Trúc Lâm Đạo Nguyên là cơ sở Phật giáo phái Trúc Lâm lớn nhất tại Đăk Nông. Thiền viện liền với khu Bảo tồn thiên nhiên Nâm Nung, không khí luôn mát mẻ, trong lành, tạo sự an yên, tĩnh tại.
 
@@ -85,7 +85,7 @@ Nhà triển lãm âm thanh tọa lạc tại khu đồi Đăk Nur, thành phố
 
 Chùa Pháp Hoa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-196.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-196.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Được xây dựng năm 1957, đây là ngôi chùa lớn và lâu đời tại Đăk Nông. Bạn sẽ được tham quan các khu vực: Chánh điện 5 tầng, tăng xá, đài quan âm, cổng tam quan, vườn Lâm Tỳ Ni. Trong khuôn viên chùa còn có nhiều tượng Phật, tiểu cảnh, cây xanh được sắp xếp hài hòa.
 
@@ -123,7 +123,7 @@ Buôn Buôr nằm bên dòng sông Sêrêpốk. Trải qua nhiều thế kỷ, n
 
 Điện gió Đăk Song
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-196.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-196.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Dọc theo Quốc lộ 14, cách thành phố Gia Nghĩa khoảng 40 km, bạn sẽ đến huyện Đăk Song, di chuyển đến xã Đăk Hòa hoặc xã Nam Bình để được nhìn ngắm những công trình điện gió khổng lồ.
 
@@ -183,7 +183,7 @@ Cà phê
 
 Hạt tiêu Đăk N_rung
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-197.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dak-nong-197.jpg" alt="cam-nang-du-lich-dak-nong" height=100% width=100%><figcaption><p>cam-nang-du-lich-dak-nong-nhavantuonglai</p></figcaption></figure>
 
 Hạt tiêu Đăk N_rung cũng là một đặc sản Đăk Nông nổi tiếng. Hạt tiêu ở đây được đánh giá cao về chất lượng với đặc điểm chung là hạt to, tròn, mẩy và thơm. Tiêu sọ được đóng gói thành phẩm rất tiện vận chuyển nên được nhiều người chọn mua làm quà.
 
@@ -203,4 +203,4 @@ Sầu riêng
 
 Sầu riêng cũng là một trong những mặt hàng nông sản nổi tiếng của Đăk Nông mà bạn có thể dùng làm quà. Sầu riêng ngon được trồng chủ yếu trên đất đỏ bazan ở Đăk Mil nên vị ngọt và hương thơm đặc biệt. Ở Đăk Mil có nhiều trang trại sầu riêng và vườn cây ăn trái đón khách tham quan.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-14T10:10:00Z
 title: Tiêu chuẩn khách sạn 4 sao là gì? Khách sạn 4 sao Phú Quốc nào đáng trải nghiệm
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0650.jpg
+image: https://nhavantuonglai.com/image/cover/001-650.jpg
 tags:
   - viet thue
   - marketing
@@ -76,4 +76,4 @@ Coco Village Phu Quoc Resort & Spa là một trong những khách sạn tốt nh
 
 Bữa sáng của khách sạn vô cùng chất lượng, đảm bảo bữa ăn ngon và giàu năng lượng cho một ngày mới. Nhân sự của khách sạn vô cùng chu đáo và chuyên nghiệp, sẵn sàng đáp ứng mọi nhu cầu, yêu cầu dù là nhỏ nhất khi bạn đặt phòng tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-01-06T10:10:00Z
 title: Rachel Carson | Mùa xuân vắng lặng (Chương 06)
 description: Mùa xuân vắng lặng ra đời gây ảnh hưởng mạnh mẽ trong xã hội Mỹ, như một hồi chuông cảnh tỉnh về môi trường. Tổng thống John F. Kennedy phải thiết lập một ủy ban riêng điều tra về thuốc diệt sinh vật gây hại.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0125.jpg
+image: https://nhavantuonglai.com/image/cover/001-125.jpg
 tags:
   - rachel carson
   - mua xuan vang lang
@@ -171,6 +171,6 @@ Tất cả những ví dụ này đã cho thấy có thể kiểm soát cực k�
 
 Đọc [Mùa xuân vắng lặng, chương 17](https://nhavantuonglai.com/article/rachel-carson-mua-xuan-vang-lang-chuong-17) tại đây.
 
-Đọc [Mùa xuân vắng lặng, toàn tập](https://data.nhavantuonglai.com/ebook/rachel-carson-mua-xuan-vang-lang.pdf) tại đây.
+Đọc [Mùa xuân vắng lặng, toàn tập](https://nhavantuonglai.com/ebook/rachel-carson-mua-xuan-vang-lang.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

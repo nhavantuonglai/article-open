@@ -3,7 +3,7 @@ pubDatetime: 2018-09-04T10:10:00Z
 title: Akutagawa Ryunosuke | Trích sổ tay Yasukichi
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0293.jpg
+image: https://nhavantuonglai.com/image/cover/001-293.jpg
 tags:
   - thu vien
   - van hoc
@@ -192,4 +192,4 @@ Hết câu, Ôura giữ im lặng. Tuy nhiên khi Yasukichi đặt điếu thu�
 
 Sau câu trả lời bình thường như vậy, Ôura lại cho hộp diêm vào túi. Tuy vậy, hôm nay Yasukichi tin chắc mình vừa khám phá được sự bí mật của người gác dan. Chú ta không chỉ đánh que diêm kia mồi lửa cho mỗi Yasukichi thôi đâu. Thật ra, Ôura đã đánh diêm cho tất cả những vị thần ở dưới đáy cõi u minh đang ngầm quan sát xem chú ta có giữ đúng tác phong của vũ sĩ đạo hay không.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

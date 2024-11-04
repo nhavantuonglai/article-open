@@ -3,7 +3,7 @@ pubDatetime: 2024-03-05T10:10:00Z
 title: Bản án sai khiến Quốc hội Mỹ phải công khai xin lỗi sau 50 năm
 description: Trận Trân Châu Cảng làm thay đổi thái độ của chính quyền, khiến hơn 120.000 người gốc Nhật trên đất Mỹ năm 1942 phải _sơ tán,_ riêng ông Korematsu chống lệnh, kiện ra tòa.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0599.jpg
+image: https://nhavantuonglai.com/image/cover/001-599.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -75,4 +75,4 @@ Tổng thống Bill Clinton đã trao Huân chương Tự do của Tổng thốn
 
 Thống đốc Illinois nói trong Ngày Fred Korematsu năm 2014: _Ông Korematsu từng nói: _Chiến đấu, nhưng không phải bằng bạo lực. Đừng ngại lên tiếng. Một người có thể tạo ra sự khác biệt, ngay cả khi phải mất 40 năm. Đây xứng đáng là tôn chỉ để sống theo._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

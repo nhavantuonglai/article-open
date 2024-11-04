@@ -3,7 +3,7 @@ pubDatetime: 2023-05-12T10:10:00Z
 title: Các phương pháp Crawling Indexing hay nhất
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0643.jpg
+image: https://nhavantuonglai.com/image/cover/001-643.jpg
 tags:
   - google
   - google console
@@ -151,4 +151,4 @@ Chỉ sử dụng [`nofollow`](seo-nofollow) khi bạn không tin tưởng vào 
 
 Nếu bạn được trả tiền cho đường liên kết theo cách nào đó, hãy cung cấp thuộc tính `sponsored` hoặc `nofollow`. Nếu người dùng có thể chèn đường liên kết trên website của bạn (ví dụ: bạn có mục diễn đàn hoặc website Hỏi và đáp), hãy thêm `ugc` hoặc `nofollow` vào các đường liên kết này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

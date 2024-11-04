@@ -3,7 +3,7 @@ pubDatetime: 2013-03-15T10:10:00Z
 title: Thích Nhất Hạnh | Con đã có đường đi (Chương 15)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0189.jpg
+image: https://nhavantuonglai.com/image/cover/001-189.jpg
 tags:
   - thu vien
   - van hoc
@@ -163,6 +163,6 @@ Mặc dù trong thân ta vẫn còn một vài đau nhức, vẫn còn chút b�
 
 Đọc [Con đã có đường đi, chương 20](https://nhavantuonglai.com/article/thich-nhat-hanh-con-da-co-duong-di-chuong-20) tại đây.
 
-Đọc [Con đã có đường đi, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-con-da-co-duong-di.pdf) tại đây.
+Đọc [Con đã có đường đi, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-con-da-co-duong-di.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

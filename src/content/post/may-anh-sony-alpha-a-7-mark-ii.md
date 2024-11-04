@@ -3,7 +3,7 @@ pubDatetime: 2022-12-09T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7 Mark II
 description: Cuối năm 2014, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7 Mark II với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0479.jpg
+image: https://nhavantuonglai.com/image/cover/001-479.jpg
 tags:
   - affiliate
   - may anh
@@ -40,19 +40,19 @@ Ghi các phim Full HD ở định dạng XAVC S15 tốc độ bit 50Mbps.
 
 Sony A7 Mark II hướng đến thiết kế nhỏ gọn và bền bỉ, bằng cách sử dụng chất liệu hợp kim magie cho thân máy và ngàm ống kính đem lại độ chắc chắn và gọn nhẹ. Nhờ đó, bạn có thể dễ dàng kết hợp máy với những chiếc lens lớn và nặng giúp khai thác tối đa tiềm năng của nó. Với thiết kế này, bạn có thể thoải mái mang theo bên mình trong những chuyến đi trải nghiệm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark II" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Kính ngắm XGA OLED Tru-finder
 
@@ -196,4 +196,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-08-22T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 62
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 62 trong phần dưới đây.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0462.jpg
+image: https://nhavantuonglai.com/image/cover/001-462.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 62
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0004.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0004.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0005.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0005.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0006.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0006.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0007.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0007.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0008.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0008.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0009.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0009.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0010.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0010.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0011.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0011.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0012.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0012.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0013.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0013.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0014.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0014.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0015.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0015.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0016.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0016.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0017.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0017.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0018.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0018.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0019.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0019.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0020.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0020.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0021.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0021.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0022.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0022.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0023.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0023.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0024.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0024.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0025.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0025.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0026.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0026.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0027.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0027.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0028.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0028.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0029.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0029.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0030.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0030.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0031.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0031.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0032.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0032.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0033.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0033.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0034.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0034.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0035.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0035.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0036.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0036.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0037.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0037.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0038.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0038.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0039.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0039.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0040.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/manga/tezuka-osamu-hi-no-tori-08-0040.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -373,6 +373,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/tezuka-osamu-hi-no-tori-episode-98) tại đây.
 
-Đọc [Chim lửa, tập 08](https://data.nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-08.pdf) tại đây.
+Đọc [Chim lửa, tập 08](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-08.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0451.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>

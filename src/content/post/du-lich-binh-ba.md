@@ -3,7 +3,7 @@ pubDatetime: 2021-07-26T10:10:00Z
 title: Cẩm nang du lịch Bình Ba
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0602.jpg
+image: https://nhavantuonglai.com/image/cover/001-602.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -15,7 +15,7 @@ _Bình Ba là đảo thuộc thành phố Cam Ranh, tỉnh Khánh Hòa, Bình Ba
 
 Thời điểm lý tưởng nhất để đi Bình Ba là khoảng tháng 3 đến tháng 10. Đây là mùa biển lặng, trong xanh và nắng đẹp. Cuối tuần và ngày lễ Bình Ba thường rất đông khách, bạn nên đi vào giữa tuần để tránh tình trạng quá tải.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-076.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-076.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -25,7 +25,7 @@ Tàu ra đảo thường chạy cố định theo giờ: 7h – 10h – 13h30 �
 
 Đảo Bình Ba không quá lớn, du khách có thể đi bộ hoặc thuê xe máy để khám phá quanh đảo. Nếu muốn đi xa để lặn biển, ngắm san hô, bạn chỉ cần ra bến thuyền tìm tàu để ghép tour, giá vé mỗi người khoảng 50.000 đồng. Ngoài ra, bạn có thể thuê tàu đi câu cá, tắm biển giá khoảng 800.0000 đến 1.000.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-077.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-077.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 ## Khách sạn, homestay
 
@@ -35,7 +35,7 @@ Một lựa chọn được nhiều người yêu thích là ở homestay – th
 
 ## Chơi đâu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-078.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-078.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 Bình Ba không quá lớn, đường đi cũng ít nên bạn có thể thoải mái chạy xe khắp đảo mà không sợ bị lạc. Đường chạy lên đỉnh đảo khá dốc và ngoằn ngoèo. Hầu hết du khách đều men theo đường này để có thể ngắm nhìn cả hòn đảo từ trên cao, do đó lượng xe lên xuống nhiều, bạn nên cẩn thận khi lên đây.
 
@@ -45,11 +45,11 @@ _Bãi Nồm_ hướng về phía nam đảo do đó bạn không thể ngắm ho
 
 Khoảng 16h, mặt trời dịu nắng là khách du lịch và dân địa phương ra tắm rất đông vui. Bãi có khá nhiều dịch vụ trên biển để bạn có thể trải nghiệm như lái môtô, cưỡi phao chuối với giá phải chăng. Dọc bãi biển là những hàng quán hải sản nối tiếp nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-079.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-079.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 _Bãi Nhà Cũ_ gần như có nước trong nhất so với những bãi tắm trên đảo Bình Ba, nhưng khá nhiều đá nên bạn không thể tắm. Bù lại, nơi này là một lãnh địa của san hô đủ màu sắc. Chỉ cần ngồi trên thuyền thúng của các ngư dân gần đó, bạn sẽ được ngắm san hô đến mỏi mắt mà không cần phải bơi lặn khó khăn. Lưu ý, bạn không nên ngồi lên, dẫm đạp hay chạm vào san hô, sao biển để bảo vệ hệ sinh thái tự nhiên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-080.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-080.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 _Bãi Chướng_ đẹp bình yên và nên thơ, nơi bạn được quan sát nhịp sống sinh hoạt đời thường của ngư dân. Đón bình minh trên bãi Chướng là một trong những trải nghiệm đáng nhớ nhất ở Bình Ba. Sáng sớm mặt biển thường lặng như gương. Mặt trời lên cao kéo theo những thay đổi thú vị của khung cảnh.
 
@@ -57,7 +57,7 @@ _Bãi Sa Huỳnh_ có hình dáng như một mảnh trăng khuyết với cát t
 
 Một nhược điểm và cũng là ưu điểm của bãi Sa Huỳnh là không nằm trên đảo Bình Ba, mà nằm trên bán đảo Cam Ranh thuộc khu vực quân sự. Nên từ Bình Ba muốn ra bãi tắm này chỉ có cách đi tàu hoặc ca nô.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-081.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-081.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 _Đồi cỏ lau_ nằm ở gần Hòn Rùa – khu vực núi đá nhỏ nhô ra biển có hình dáng như con rùa. Từ tháng 3 trở đi, đồi ngập tràn những bông lau phớt hồng, tạo điểm nhấn cho biển trời xanh ngát. Để đến đây chụp ảnh, du khách có thể đi bộ từ cảng Bình Ba theo hướng bên phải của con đường vòng quanh đảo, lên đỉnh dốc.
 
@@ -79,7 +79,7 @@ Buổi tối, du khách thường đi bộ ra bãi Nồm, ngồi bên bờ biể
 
 Chợ Bình Ba bán rất nhiều món ăn đúng nghĩa ngon bổ rẻ nên du khách thỏa sức lựa chọn các món như bánh canh, bánh căn tôm mực, bánh căn trứng, ốc, bánh tráng mắm ruốc, cuốn nem… giá dao động 3.000 – 20.000 đồng. Ngoài ra, các loại hải sản tươi ngon luôn có sẵn, đặc biệt là cá bốp, tôm hùm (giá khoảng 900.000 đến 1.200.000 đồng một kg). Du khách nên mua hải sản ở chợ thay vì chọn mua tại các bãi tắm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-082.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-082.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 ## Kinh phí dự kiến
 
@@ -97,7 +97,7 @@ Mặc dù hạn chế nhưng các dịch vụ trên đảo Bình Ba khá đầy 
 
 Tổng kinh phí cho một chuyến du lịch ngắn ngày khoảng 3.000.000 đồng một người, chưa tính tiền vé máy bay, vé tàu nếu bạn xuất phát từ Hà Nội hoặc các tỉnh thành khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-083.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-083.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 ## Lịch trình gợi ý
 
@@ -115,8 +115,8 @@ Trên đảo không có cây ATM, du khách nên chuẩn bị sẵn tiền mặt
 
 Mùa hè và ngày lễ du khách đổ về Bình Ba rất đông, du khách nên đặt trước phòng hoặc tránh du lịch vào thời gian cao điểm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-084.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-binh-ba-084.jpg" alt="cam-nang-du-lich-binh-ba" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-binh-ba-nhavantuonglai</p></figcaption></figure>
 
 Bình Ba đang phải đối mặt với vấn đề rác thải và ô nhiễm môi trường. Du khách nên hạn chế xả rác và có những tác động xấu đến cảnh quan.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

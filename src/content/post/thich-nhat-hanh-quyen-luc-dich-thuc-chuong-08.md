@@ -3,7 +3,7 @@ pubDatetime: 2022-05-18T10:10:00Z
 title: Thích Nhất Hạnh | Quyền lực đích thực (Chương 08)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg
+image: https://nhavantuonglai.com/image/cover/001-127.jpg
 tags:
   - thu vien
   - van hoc
@@ -77,7 +77,7 @@ Thích Nhất Hạnh,
 
 Làng Mai.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thich-nhat-hanh-0104.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height="100%" width="100%"><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thich-nhat-hanh-0104.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height="100%" width="100%"><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
 Bằng nếp sống tỉnh thức, thể hiện được sự sáng tạo và tuệ giác trong công việc, chúng ta có thể đóng góp vào sự tỉnh thức cộng đồng. Rồi chúng ta sẽ đủ mạnh để có thể ảnh hưởng tới những nhà lãnh đạo chính trị. Chúng ta phải yểm trợ các nhà lãnh đạo của chúng ta, chúng ta phải giúp họ thấy rõ tình hình, rằng sách lược hiện tại đang hủy diệt và tàn phá rất nhiều, rằng cuộc chiến chống khủng bố chỉ tạo thêm thù hận, thêm kinh hoàng, và thêm khủng bố. Chúng ta có thể chỉ cho mọi người thấy rằng bạo lực đã bất lực. Chỉ bằng cách lắng nghe với tâm từ bi và sử dụng lời nói ái ngữ chúng ta mới có thể loại bỏ tri giác sai lầm, gốc rễ của hận thù và bạo động.
 
@@ -135,6 +135,6 @@ Chúng ta chỉ có một thời điểm thôi, và chúng ta có thể lựa ch
 
 Đọc [Quyền lực đích thực, chương 10](https://nhavantuonglai.com/article/thich-nhat-hanh-quyen-luc-dich-thuc-chuong-10) tại đây.
 
-Đọc [Quyền lực đích thực, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-quyen-luc-dich-thuc.pdf) tại đây.
+Đọc [Quyền lực đích thực, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-quyen-luc-dich-thuc.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

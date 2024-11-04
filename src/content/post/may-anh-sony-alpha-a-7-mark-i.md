@@ -3,7 +3,7 @@ pubDatetime: 2022-12-08T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A7 Mark I
 description: Cuối năm 2014, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7 Mark I với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0469.jpg
+image: https://nhavantuonglai.com/image/cover/001-469.jpg
 tags:
   - affiliate
   - may anh
@@ -36,19 +36,19 @@ Bộ xử lý ảnh™ BIONZ X.
 
 Ghi các phim Full HD ở định dạng XAVC S15 tốc độ bit 50Mbps.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-01.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-02.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-03.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-04.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-05.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-06.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-mark-iii-07.jpg" alt="Sony Alpha A7 Mark I" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Thân máy bằng hợp kim Magie
 
@@ -196,4 +196,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0640.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-640.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

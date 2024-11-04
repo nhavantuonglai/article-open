@@ -3,7 +3,7 @@ pubDatetime: 2021-09-03T10:10:00Z
 title: Cẩm nang du lịch Mộc Châu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0639.jpg
+image: https://nhavantuonglai.com/image/cover/001-639.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -21,13 +21,13 @@ Từ giữa tháng 5, mận bắt đầu chín rộ, người dân vào vụ thu
 
 Mùa cải trắng ở Mộc Châu bắt đầu vào tháng 11. Tháng 12, hoa dã quỳ vàng rực rỡ tô điểm cho cao nguyên.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-403.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-403.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
 Mộc Châu cách Hà Nội gần 200 km. Nếu đi bằng xe máy, bạn nên đi theo đường quốc lộ 6 cũ bởi dọc đường có rất nhiều cảnh đẹp nhưng nên lưu ý tay lái bởi đường xuống cấp cũng khá nhiều. Quãng đường đi mất khoảng 4-5 tiếng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-404.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-404.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Trên đường đi, bạn sẽ qua cung đường chữ S thuộc huyện Vân Hồ. Hầu hết phượt thủ đều dừng lại ngắm cảnh và check-in tại đường cong mềm mại hình chữ S này.
 
@@ -41,13 +41,13 @@ Mộc Châu có khá nhiều nhà nghỉ. Tuy nhiên, để có được phòng 
 
 Vài [homestay](https://info.nhavantuonglai.com/topick) _chill_ gợi ý là MAMA_s House, Le Chalet du Lac, Fairy House Mộc Châu, House By Lake, The Nordic Village, Mộc Châu Retreat… Giá phòng từ 300.000 đến 1.000.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-405.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-405.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
 Để khám phá hết Mộc Châu, bạn có thể đi nhanh trong 2 ngày. Nếu có thời gian nhiều hơn khoảng 3-4 ngày là tuyệt nhất, bạn sẽ có nhiều thời gian để tìm ra những góc máy đẹp để chụp ảnh hoặc rẽ sang các khu vực du lịch nổi tiếng lân cận như Thung Nai, Mai Châu, thủy điện Hòa Bình…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-406.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-406.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Rừng thông Bản Áng
 
@@ -65,7 +65,7 @@ Vườn hoa Hướng Dương
 
 Đây là điểm check-in mới ở Mộc Châu, nằm sâu trong thung lũng, vì chưa có biển chỉ dẫn nên khó tìm. Nếu bạn đi từ thị trấn, dọc theo Quốc lộ 6 hướng đi Sơn La qua đoạn Km 106 sẽ thấy một con dốc đi lên. Đó chính là đường vào thung lũng hoa. Những ngày đầu tháng 5, hoa mới bắt đầu chớm nở, nhưng chỉ một tuần nữa hoa sẽ nở rộ và thành điểm chụp hình rất đẹp. Vé tham quan: 30.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-407.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-407.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Đồi chè Mộc Châu
 
@@ -83,7 +83,7 @@ Người dân ở đây làm thêm bè cho thuê để du khách chụp ảnh ha
 
 – Thuê bè: 30.000 đồng một người, chỉ chụp ảnh còn 10.000 đồng một người.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-408.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-408.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Thác Nàng Tiên
 
@@ -99,7 +99,7 @@ Con thác nằm trên dòng suối Vặt, được hợp từ hai khe nước �
 
 Điểm đặc biệt ở đây là có những khối đá nhiều hình thù, khiến dòng thác túa ra thành nhiều phần trước khi chảy xuống hồ nước. Vì vậy dòng nước không chảy ầm ầm mà mềm mại như một dải lụa. Vé tham quan thác là 100.000 đồng một người. Ở đây có rất đầy đủ quán ăn, quán nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-409.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-409.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Đồng cỏ 68
 
@@ -117,13 +117,13 @@ Ngôi làng là điểm đến mới của Mộc Châu nên ít người biết.
 
 Lưu ý, để đi vào làng bạn nên có một người dân địa phương biết đường chỉ dẫn bởi đường đi rất khó tìm và không có biển chỉ dẫn. Bạn cũng cần cứng tay lái và không nên đi xe ga vì có nhiều đoạn đường dốc. Nhưng đường khó khăn bao nhiêu thì khi vào được làng rồi, bạn sẽ cảm thấy xứng đáng bỏ ra công sức.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-410.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-410.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Đỉnh Pha Luông
 
 Cách thị trấn Mộc Châu 30 km, [đỉnh Pha Luông](https://info.nhavantuonglai.com/topick) được ví như nóc nhà của Mộc Châu, nằm giữa biên giới Việt – Lào. Từ đồn biên phòng Pha Luông ở chân lên tới đỉnh núi phải mất 3 – 4 tiếng đi bộ. Pha Luông cao hơn 2.000 m. Quãng đường chinh phục Pha Luông khá khó, đòi hỏi sự kiên trì của người muốn khám phá thực sự. Nơi đỉnh núi chênh vênh bạn sẽ cảm nhận vẻ đẹp của mây trời lộng gió.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-411.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-411.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn uống
 
@@ -137,7 +137,7 @@ Trong hai năm trở lại đây, Mộc Châu còn nổi tiếng là nơi tạo 
 
 Bạn có thể mua chè, sữa, táo mèo, ngô, rượu ngô… về làm quà từ các địa điểm: ngã ba 73 gần thị trấn, tiểu khu 32 và Bó Bun, ngã ba 70, ngã ba vườn đào, tiểu khu Chiềng Bi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-412.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-moc-chau-412.jpg" alt="cam-nang-du-lich-moc-chau" height=100% width=100%><figcaption><p>cam-nang-du-lich-moc-chau-nhavantuonglai</p></figcaption></figure>
 
 Cà phê
 
@@ -151,4 +151,4 @@ Mộc Châu thường có nắng ấm vào ban ngày, nhưng nhiệt độ ban �
 
 Không xả rác, dẫm lên các luống cải của đồng bào hoặc leo trèo trên cây, bẻ cành đào rừng, cành mận, hoa…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2006-04-22T10:10:00Z
 title: Microsoft | Development for beginners (Episode 30)
 description: This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0319.jpg
+image: https://nhavantuonglai.com/image/cover/001-319.jpg
 tags:
   - developer
   - github
@@ -70,7 +70,7 @@ The above will start a HTTP Server on address `http://localhost:5000`. Open up a
 
 ### Add code
 
-1. Copy over the needed assets from the `https://data.nhavantuonglai.com/image/` folder into `your-work` folder; you will add a `life.png` asset. Add the lifeImg to the window.onload function: 
+1. Copy over the needed assets from the `https://nhavantuonglai.com/image/` folder into `your-work` folder; you will add a `life.png` asset. Add the lifeImg to the window.onload function: 
 
 ```javascript
 lifeImg = await loadTexture("assets/life.png");

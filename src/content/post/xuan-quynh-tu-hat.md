@@ -3,7 +3,7 @@ pubDatetime: 2013-10-16T10:10:00Z
 title: Xuân Quỳnh | Tự hát
 description: Xuân Quỳnh được coi là nhà thơ nữ hàng đầu của nửa cuối thế kỷ 20. Xuân Quỳnh không làm ra thơ, không chế tạo câu chữ mà chị viết như kể lại những gì chị đã sống, đã trải.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0128.jpg
+image: https://nhavantuonglai.com/image/cover/001-128.jpg
 tags:
   - thu vien
   - van hoc
@@ -67,4 +67,4 @@ Cũng ngừng đập lúc cuộc đời không còn nữa
 
 Nhưng biết yêu anh cả khi chết đi rồi
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

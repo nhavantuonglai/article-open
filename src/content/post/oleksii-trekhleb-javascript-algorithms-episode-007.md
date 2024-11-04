@@ -3,7 +3,7 @@ pubDatetime: 2018-05-18T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Binary search tree)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0507.jpg
+image: https://nhavantuonglai.com/image/cover/001-507.jpg
 tags:
   - developer
   - github
@@ -291,4 +291,4 @@ O(n)
   - [Inserting to BST on YouTube](https://www.youtube.com/watch?v=wcIRPqTR3Kc&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=9&t=0s)
   - [BST Interactive Visualisations](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

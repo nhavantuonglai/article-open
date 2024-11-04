@@ -3,7 +3,7 @@ pubDatetime: 2006-02-16T10:10:00Z
 title: Edgar Allan Poe | The spectacles
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0572.jpg
+image: https://nhavantuonglai.com/image/cover/001-572.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -267,4 +267,4 @@ The clergyman, who merely pretended to tie the fatal knot, was a boon companion 
 
 Nevertheless, I am not the husband of my great, great, grandmother; and this is a reflection which affords me infinite relief, – but I am the husband of Madame Lalande – of Madame Stephanie Lalande – with whom my good old relative, besides making me her sole heir when she dies – if she ever does – has been at the trouble of concocting me a match. In conclusion: I am done forever with billets doux and am never to be met without SPECTACLES.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

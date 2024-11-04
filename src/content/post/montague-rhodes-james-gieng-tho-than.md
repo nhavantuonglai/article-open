@@ -3,7 +3,7 @@ pubDatetime: 2022-12-23T10:10:00Z
 title: Montague Rhodes James | Giếng thở than
 description: Montague Rhodes James à tác giả của những tập truyện ma kinh điển nổi tiếng nhất và có ảnh hưởng nhất trong văn học viết bằng tiếng Anh, một trong số đó chính là tác phẩm Giếng thở than.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0600.jpg
+image: https://nhavantuonglai.com/image/cover/001-600.jpg
 tags:
   - montague rhodes james
   - gieng tho than
@@ -82,4 +82,4 @@ Montague Rhodes James được đánh giá là cha đẻ của các thể loại
 
 Đọc [Giếng thở than, chương 30](https://nhavantuonglai.com/article/montague-rhodes-james-gieng-tho-than-chuong-30) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

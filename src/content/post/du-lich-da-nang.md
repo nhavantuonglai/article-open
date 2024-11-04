@@ -3,7 +3,7 @@ pubDatetime: 2021-08-11T10:10:00Z
 title: Cẩm nang du lịch Đà Nẵng
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0617.jpg
+image: https://nhavantuonglai.com/image/cover/001-617.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -21,7 +21,7 @@ Cuối tháng 12 đến cuối tháng 3: Tiết trời mát mẻ và dễ chịu
 
 Giữa tháng 9 đến cuối tháng 12: Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-199.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-199.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Nếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham khảo một số sự kiện sắp tới: Lễ hội _Tuyệt vời Đà Nẵng 2022_ kéo dài suốt tháng 7; Lễ Hội Giao lưu Văn hóa Việt Nam – Nhật Bản 15/7; Lễ hội giao lưu văn hóa Việt Nam – Hàn Quốc từ 1 đến 4/9; Lễ hội Du lịch Golf Đà Nẵng 1/9; Lễ Hội _Đà Nẵng Chào Năm Mới 2023_ vào 1/12…
 
@@ -31,7 +31,7 @@ Du khách từ Hà Nội và Thành phố Hồ Chí Minh thường di chuyển b
 
 Dư dả thời gian hơn, du khách có thể đi tàu hỏa để trải nghiệm ngắm cảnh dọc đường, đặc biệt là đoạn qua [đèo Hải Vân](https://info.nhavantuonglai.com/topick) nếu bạn đi từ phía bắc vào. Vé tàu từ Hà Nội hoặc Thành phố Hồ Chí Minh đến Đà Nẵng có giá từ khoảng 600.000 đồng đến 1.100.000 đồng một chiều, tương ứng với ghế ngồi mềm có điều hòa và giường nằm khoang bốn điều hòa. Thời gian di chuyển khoảng 17 đến 18 tiếng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-200.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-200.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Nếu có kế hoạch tự lái ôtô, bạn cần dành ít nhất một tuần cho chuyến du lịch Đà Nẵng và nên có hai tài xế thay phiên cầm lái. Từ Hà Nội, lý tưởng nhất là xuất phát từ trưa hoặc đầu giờ chiều, nghỉ một đêm ở Nghệ An. Nếu đi muộn hơn, ngủ tại Thanh Hóa, sáng hôm sau xuất phát vào Đà Nẵng. Chiều về bạn có thể dừng ở Quảng Bình để vừa nghỉ ngơi, vừa khám phá thêm.
 
@@ -43,7 +43,7 @@ Du lịch tại Đà Nẵng phát triển nhanh chóng. Dọc con đường ven 
 
 Vì đầu năm thời tiết miền Trung khá lạnh về đêm, du khách nên chọn các phòng lưu trú khép kín, đầy đủ tiện nghi như nhà tắm riêng, thiết bị đun nước nóng, máy sấy tóc, bàn ủi và dịch vụ giặt sấy quần áo… Giá phòng ở các khách sạn 4 sao từ khoảng 500.000 đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-201.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-201.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Những resort, khách sạn 5 sao nổi tiếng ở Đà Nẵng bạn có thể tham khảo gồm InterContinental Đà Nẵng Sun Peninsula Resort, Hyatt Regency Danang Resort and Spa, Pullman, Furama Resort Danang, Four Points by Sheraton Danang, Novotel, Hilton, Fusion Suites, Danang Golden Bay Hotel… Giá phòng dao động từ 1.200.000 đến 10.000.000 đồng một đêm.
 
@@ -67,7 +67,7 @@ Lưu ý, du khách cần giữ gìn cảnh quan thiên nhiên, không cho độn
 
 Ngoài ra, bán đảo Sơn Trà còn hấp dẫn ở những bãi biển hoang sơ. Nằm ẩn mình trong một eo biển rất đẹp, Bãi Bụt (Vịnh Bụt) là nơi giao hòa giữa biển cả với núi rừng. Ngoài ra còn có Bãi Bắc là điểm đến mới phát triển của du lịch Đà Nẵng, nằm trong vịnh biển phía bắc Sơn Trà. Vùng biển quanh bán đảo có nhiều rạn san hô đẹp, nhưng tình trạng xả rác và hành vi thiếu ý thức của một số người lặn ngắm san hô như dẫm, đạp, bẻ… gây hư hại nghiêm trọng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-202.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-202.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Suối Tiên
 
@@ -87,7 +87,7 @@ Xuất phát từ bãi giữ xe của khu cáp treo Bà Nà, phượt thủ ph�
 
 Cách trung tâm Đà Nẵng 8 km, Ngũ Hành Sơn là nơi có nhiều ngôi chùa linh thiêng cùng hệ thống các hang động tự nhiên. Theo con đường ven biển trải dài hút mắt về phía Hội An, mở ra trước mắt du khách là _hòn non bộ_ khổng lồ mang tên Ngũ Hành Sơn. Với các tên gọi được đặt theo thuyết ngũ hành gồm Kim Sơn, Mộc Sơn, Thủy Sơn, Hỏa Sơn và Thổ Sơn, mỗi ngọn núi ở đây lại mang trong mình những câu chuyện truyền thuyết cùng vẻ đẹp huyền bí khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-203.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-203.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Để đi hết từ động Quan Âm (Kim Sơn), Huyền Vi (Hỏa Sơn) đến động Âm Phủ, Hoa Nghiêm, Linh Nha, Huyền Không, Vân Thông, Thiên Long, Thiên Phước Địa (Thủy Sơn)… bạn có thể sẽ mất vài ngày. Tất cả tuy không đồ sộ, hoành tráng nhưng lại mang đến nhiều cung bậc cảm xúc khác nhau nhờ vẻ đẹp linh thiêng, huyền ảo.
 
@@ -95,7 +95,7 @@ Lần theo những con đường xuyên núi ở Ngũ Hành, du khách sẽ bấ
 
 Các ngôi chùa ở đây hầu hết đều có thế tựa lưng vào núi, tuy nằm không quá cao nhưng tĩnh mịch, linh thiêng. Cùng với những làn gió mát dịu từ biển thổi vào và không gian xanh của núi non, cây cối, du khách sẽ dễ dàng cảm nhận được một cõi bình yên, thanh thản.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-204.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-204.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Ngoài ra, nếu muốn thử cảm giác mạo hiểm, bạn hãy trải nghiệm [leo núi ở động Vân Thông](https://info.nhavantuonglai.com/topick) hay thả từ đỉnh núi xuống độ cao 25m.
 
@@ -103,7 +103,7 @@ Ngoài ra, nếu muốn thử cảm giác mạo hiểm, bạn hãy trải nghi�
 
 Đèo Hải Vân cách trung tâm Đà Nẵng khoảng một giờ chạy xe máy. Đèo có chiều dài 21 km, với đỉnh cao nhất là 496 m so với mực nước biển. Hải Vân có nghĩa là _biển mây._ Nơi này từng được Jeremy Clarkson, dẫn show truyền hình thực tế Top Gear (Anh) nhận xét là _một trong những cung đường ven biển đẹp nhất thế giới._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-205.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-205.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Hiện có hai con đường qua đèo Hải Vân: hầm đường bộ xuyên đèo Hải Vân (không dành cho xe máy) và đường đèo Hải Vân.
 
@@ -113,11 +113,11 @@ _Đường đèo Hải Vân_ mở cửa hàng ngày, miễn phí. Du khách nên
 
 Dịp đầu năm, du khách có thể chụp ảnh _săn mây_ tại khúc cua nổi tiếng, đỉnh Hải Vân Quan, khu vườn _trên mây_ đối diện Hải Vân Quan, hoặc xuống làng Vân tắm biển. Thời gian tham quan lý tưởng là bình minh hoặc hoàng hôn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-206.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-206.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Rạn Nam Ô
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-207.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-207.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Nằm cách trung tâm khoảng 17 km, Rạn đá Nam Ô ở phường Hòa Hiệp Nam, quận Liên Chiểu, Thành phố Đà Nẵng. Cái tên Nam Ô để chỉ là cửa ô phía Nam của nước Đại Việt từ 700 năm trước. Đây là nơi cư dân đông đúc, chủ yếu hành nghề ngư lưới cụ. Nam Ô còn nổi tiếng với nghề làm pháo và nước mắm truyền thống.
 
@@ -129,17 +129,17 @@ Nằm cách trung tâm khoảng 17 km, Rạn đá Nam Ô ở phường Hòa Hi�
 
 Với đường với biển dài chừng 2 km, ghềnh Bàng có các bãi cát bằng phẳng, bãi đá lớn nhỏ nhô ra biển, những bãi san hô… Du khách đến ghềnh Bàng thường chuẩn bị củi lửa, thức ăn nhẹ, nước uống để cắm trại hoặc dã ngoại trong ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-208.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-208.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Làng nghề
 
 Cách trung tâm Đà Nẵng 14 km về phía Tây Nam, _làng chiếu Cẩm Nê_ thuộc xã Hòa Tiến, huyện Hòa Vang. Nơi đây từ lâu đã nổi tiếng với các loại chiếu hoa truyền thống, từng được hiện diện ở nội triều vua nhà Nguyễn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-209.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-209.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 _Làng nghề bánh tráng Túy Loan_ tọa lạc ở xã Hòa Phong, huyện Hoàng Vang, cách trung tâm thành phố chừng 15 km. Ngôi làng trên 500 tuổi thích hợp cho hành trình khám phá lịch sử Đà Nẵng. Làng nổi tiếng với nghề làm bánh tráng và mì Quảng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-210.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-210.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 _Làng đá mỹ nghệ Non Nước_ nằm ngay chân núi Ngũ Hành. Làng nghề truyền thống gần 400 năm tuổi nổi tiếng với các sản phẩm mỹ nghệ bằng đá đẹp mắt và tinh xảo, được tạo nên bởi đôi bàn tay điêu luyện của các nghệ nhân.
 
@@ -149,13 +149,13 @@ _Làng đá mỹ nghệ Non Nước_ nằm ngay chân núi Ngũ Hành. Làng ngh
 
 [Hồ Hòa Trung](https://info.nhavantuonglai.com/topick) cách trung tâm thành phố Đà Nẵng 20 km, bạn đi xe máy đến đây mất khoảng 40 phút. Từ thành phố chạy đường Âu Cơ (chợ Hòa Khánh) bạn men theo hướng Bà Nà, tìm về giáo xứ Hòa Ninh. Rẽ tay trái thấy đường bê tông, và cứ đi hết đường này bạn sẽ nhìn thấy con đường mòn chỉ rộng 30 cm bề ngang. Nếu gặp phải khó khăn khi tìm đường, hãy hỏi người dân.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-211.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-211.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Khu du lịch sinh thái
 
 Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](https://info.nhavantuonglai.com/topick), Khu du lịch sinh thái Lái Thiêu, Khu Sinh Thái Suối Hoa, Khu Sinh Thái Suối Lương – Hai Van Park, Khu Du Lịch Hòa Phú Thành, Khu Du Lịch Sinh Thái Ngầm Đôi, Công viên Suối khoáng nóng Núi Thần Tài, Khu Du Lịch Khoáng Nóng Phước Nhơn… Đa số các khu sinh thái cung cấp dịch vụ vui chơi, giải trí, ăn uống, lưu trú… và có thu phí vào cổng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-212.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-212.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Trong thành phố
 
@@ -167,29 +167,29 @@ Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](http
 
 Các phương tiện lưu thông hai đầu cầu được dừng lại trong 15 phút của show diễn. Du khách nên chọn hướng đứng phù hợp, hoặc mặc áo mưa, che ô để tránh bị ướt khi xem màn trình diễn phun nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-213.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-213.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 _Cầu Sông Hàn_ là cầu quay đầu tiên của Việt Nam. Cầu sông Hàn có chiều dài 487,7 m rộng 12,9 m với 11 nhịp trong đó có hai nhịp dây văng. Phần cầu nằm trên trụ giữa sông có thể quay 90 độ song song theo phương dòng chảy để tàu lớn qua lại. Công trình còn là biểu tượng của sự kết hợp, đồng thuận giữa chính quyền và nhân dân, do người dân Đà Nẵng góp tiền xây dựng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-214.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-214.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 _Cầu Thuận Phước_ là cầu dây võng lớn nhất Việt Nam. Cầu có chiều dài 1.856 m, chiều rộng 18 m, có hai mố ở hai đầu cầu và hai tháp trụ treo cáp cắm xuống lòng sông.
 
 _Cầu Trần Thị Lý_ mang tên nữ anh hùng trong kháng chiến chống Mỹ quê ở Quảng Nam. Cầu nằm về phía nam cầu Rồng, cách cầu Rồng khoảng 1,5 km. Trước đây có một cây cầu cũ cùng tên, song đã được thay thế bởi cây cầu mới như hiện nay.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-215.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-215.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Biển Mỹ Khê
 
 Biển Mỹ Khê từng được tạp chí _Forbes_ (Mỹ) bình chọn là một trong 6 bãi biển quyến rũ nhất hành tinh và trong top 25 biển đẹp nhất châu Á năm 2021 của TripAdvisor. Bãi tắm trải dài 900 m trên đường Phạm Văn Đồng, thuộc quận Sơn Trà. Ngắm bình minh trên biển Mỹ Khê, du khách có cơ hội tìm hiểu thêm về [đời sống của ngư dân](https://info.nhavantuonglai.com/topick) địa phương.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-216.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-216.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Cung Văn hóa Thiếu nhi thành phố
 
 [Cung Văn hóa Thiếu nhi Đà Nẵng](https://info.nhavantuonglai.com/topick) là điểm check-in được lòng giới trẻ nhờ thiết kế dựa trên ý tưởng trò chơi xếp hình Tangram. Công trình này đã nhận giải vàng Kiến trúc quốc gia 2016, do Hội Kiến trúc sư Việt Nam trao tặng. Điểm đến này tọa lạc trên đường 2/9, quận Hải Châu. Cung có 3 tầng gồm các khu đa chức năng, khu vui chơi, giải trí, phòng học, thư viện, hội trường…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-217.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-217.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Bảo tàng
 
@@ -199,19 +199,19 @@ _Bảo tàng Mỹ thuật Đà Nẵng_ nằm ở số 78 Lê Duẩn, quận Hả
 
 _Bảo tàng Phật giáo_ nằm trong khuôn viên chùa Quan Thế Âm, ở 48 Sư Vạn Hạnh, quận Ngũ Hành Sơn. Đến đây, du khách có thể chiêm ngưỡng hơn 200 hiện vật cổ về Phật Giáo. Bảo tàng mở cửa từ 7h đến 17h hàng ngày, miễn phí tham quan.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-218.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-218.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Nhà thờ Chính tòa Đà Nẵng
 
 Nhà thờ Tourane (thời Pháp thuộc) hay còn gọi là nhà thờ Thánh Tâm Chúa Giêsu hoặc nhà thờ Chính tòa, được khởi công từ tháng 2/1923 trên khoảng đất trống đường Rue du Musée (nay là đường Trần Phú, Đà Nẵng) do linh mục Vallet thiết kế và chủ trì xây dựng. Người dân địa phương hay gọi công trình bằng một cái tên gần gũi là nhà thờ Con Gà bởi trên nóc nhà thờ có tượng con gà màu xám đặc trưng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-219.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-219.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Hẻm bích họa
 
 Dự án Làng bích họa Đà Nẵng tại kiệt 75 đường Nguyễn Văn Linh (đoạn gần cầu Rồng, quận Hải Châu). Làng bích họa nằm trong hẻm nhưng ngay lối vào là những tấm bảng giới thiệu điểm đến. Du khách sẽ gửi xe từ bên ngoài để đi bộ vào phía trong.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-220.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-220.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Chợ
 
@@ -223,7 +223,7 @@ Thành phố có rất nhiều _chợ hải sản_ nhưng hấp dẫn nhất v�
 
 Ngoài ra, Đà Nẵng còn có những khu chợ đêm tấp nập như chợ đêm Helio (Đường 2/9, Hải Châu), chợ đêm Sơn Trà (đường Lý Nam Đế giao với Mai Hắc Đế, Sơn Trà), chợ đêm Thanh Khê Tây (đường Yên Khê 1, quận Thanh Khê), chợ đêm Lê Duẩn (kiệt 144 Lê Duẩn, Hải Châu), chợ đêm Hòa Khánh (đường Nguyễn Cảnh Chân). Đây đều là thiên đường mua sắm, ăn uống sôi động về đêm với cả người dân và du khách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-221.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-221.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ## Trải nghiệm
 
@@ -233,7 +233,7 @@ Ngoài ra, Đà Nẵng còn có những khu chợ đêm tấp nập như chợ �
 
 Đến bán đảo Sơn Trà trực thăng lượn vòng ra biển, thấy được tượng Phật Bà Quan Âm lớn nhất Việt Nam sau đó vòng lại bay dọc bãi biển Đà Nẵng về lại sân bay Nước Mặn. Giá vé một tour 12 phút hiện là 2.140.000 đồng một khách – khuyến mãi 25% từ ngày 28/4 đến 31/7/2022.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-222.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-222.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Lướt sóng, chèo SUP
 
@@ -243,7 +243,7 @@ Bạn có thể đăng ký học lướt sóng, chèo SUP tại trường dạy 
 
 Thuyền đưa khách từ bến tàu du lịch xuôi theo sông Hàn, ngắm nhìn trung tâm thành phố về đêm và chiêm ngưỡng các cây cầu độc đáo của Đà Nẵng. Thuyền phục vụ ăn uống, ca nhạc… tùy theo nhu cầu của du khách. Một số tour cung cấp trải nghiệm ngắm cảnh, ăn tối, xem cầu Rồng phun lửa… giá vé từ 150.000 đến 500.000 đồng một khách.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-223.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-223.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Chơi đêm
 
@@ -253,7 +253,7 @@ Thuyền đưa khách từ bến tàu du lịch xuôi theo sông Hàn, ngắm nh
 
 ### Mì Quảng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-224.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-224.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Mì Quảng không có công thức _bất di bất dịch,_ mà rất đa dạng về hương vị như mì Quảng tôm thịt, mì Quảng cá lóc, mì Quảng chả cua… Mì Quảng là món ăn khô và một tô mì không bao giờ thiếu đậu phộng rang, bánh tráng mè nướng giòn.
 
@@ -273,7 +273,7 @@ Mắm chấm làm từ cá cơm nguyên con có đường, tỏi, ớt, gừng v
 
 ### Gỏi cá Nam Ô
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-225.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-225.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Cá làm món này có thể từ cá mòi, cá cơm, cá tớp… tuy nhiên ngon nhất vẫn là cá trích. Nét đặc trưng của [gỏi cá Nam Ô](https://info.nhavantuonglai.com/topick) chính là thứ nước chấm làm từ nước cốt cá đun sôi, hòa cùng nước mắm Nam Ô, ớt, bột năng, bột ngọt. Ngoài các loại rau ăn kèm thường thấy, gỏi cá Nam Ô còn có cóc rừng, lành ngạnh, lá trâm, tim lan… vốn chỉ mọc trên đèo Hải Vân.
 
@@ -285,7 +285,7 @@ Các quán bánh xèo ngon tập trung ở đường Hoàng Diệu, Trưng Nữ 
 
 Bánh xèo miền Trung thường nhỏ bằng cái đĩa nên có độ giòn và khi cuốn bánh tráng vừa vặn hơn. Gia vị ăn kèm là nước tương nóng, vị vừa phải để chấm bánh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-226.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-226.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Bún mắm nêm
 
@@ -299,11 +299,11 @@ Bạn có thể thử bún mắm nêm ở chợ Cồn hoặc chợ Hàn vào bu�
 
 Cũng như bún mắm nêm, bún thịt nướng là món ăn quen thuộc với người Đà Nẵng. Món này rất dễ tìm, giá khoảng 15.000 – 30.000 đồng mỗi tô. Bún thịt nướng ở Đà Nẵng được ăn kèm nước tương, vị vừa béo vừa bùi làm từ gan heo, thịt xay, tương đậu nành và một số nguyên liệu khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-227.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-227.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Mít trộn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-228.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-228.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Mít trộn là món khoái khẩu của nhiều người, nguyên liệu chính là mít non, da heo, bò khô, kèm với đậu phộng, trộn đều lên rồi bẻ miếng bánh tráng xúc lên ăn. Giá mỗi đĩa mít trộn khoảng 20.000 đồng.
 
@@ -313,11 +313,11 @@ Món này tập trung nhiều ở _làng ăn vặt_ trên đường Bùi Thị X
 
 Ốc hút ở Đà Nẵng thường được chế biến theo nhiều vị: từ xào dừa, xào xả ớt cho đến luộc đều thơm phức nóng hổi. Món này ăn kèm với sợi đu đủ chua cay theo đúng khẩu vị miền Trung. Giá mỗi phần từ 15.000 đến 30.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-229.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-229.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 ### Sữa chua muối
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-230.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-230.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Món [sữa chua muối](https://info.nhavantuonglai.com/topick) có giá 1.000 đồng một hũ, là món ăn vặt được bán thành một khu ở chân cầu Trần Thị Lý.
 
@@ -329,8 +329,8 @@ Sữa chua muối Đà Nẵng mềm, không quá béo. Lúc đầu thực khác 
 
 Tré ông Chánh, tré bà Đệ, bánh khô mè Cẩm Lệ, rong biển Mỹ Khê, nước mắm Nam Ô, hải sản tươi sống hoặc khô mực, khô cá… là những đặc sản trứ danh của Đà Nẵng, dễ tìm mua và đóng gói hành lý.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-231.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-nang-231.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Nếu muốn mua quà lưu niệm, bạn có thể chọn tranh lụa, tranh thêu, tranh sơn dầu, các vật trang trí bằng đá, sành sứ, gỗ… hoặc đồ tạo tác mỹ nghệ bằng đá ở Ngũ Hành Sơn, quần áo từ vải lụa và tơ tằm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-05-29T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Complex number)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0518.jpg
+image: https://nhavantuonglai.com/image/cover/001-518.jpg
 tags:
   - developer
   - github
@@ -236,4 +236,4 @@ Which is really quite a simple result. The general rule is:
 (a + bi)(a − bi) = a^2 + b^2
 ```
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

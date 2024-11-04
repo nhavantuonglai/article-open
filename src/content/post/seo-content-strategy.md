@@ -3,7 +3,7 @@ pubDatetime: 2023-05-10T10:10:00Z
 title: Làm thế nào để tạo khung sườn chiến lược nội dung?
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0642.jpg
+image: https://nhavantuonglai.com/image/cover/001-642.jpg
 tags:
   - google
   - google console
@@ -183,4 +183,4 @@ Vì vậy, đừng chỉ lên ý tưởng cho nó – hãy ghi lại nó. Chia s
 
 Vạch ra mọi thứ, nhưng hãy giữ cho nó linh hoạt. Bạn đã có cái này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

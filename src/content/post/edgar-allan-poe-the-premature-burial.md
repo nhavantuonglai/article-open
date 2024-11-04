@@ -3,7 +3,7 @@ pubDatetime: 2006-02-14T10:10:00Z
 title: Edgar Allan Poe | The premature burial
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0570.jpg
+image: https://nhavantuonglai.com/image/cover/001-570.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -111,4 +111,4 @@ The tortures endured, however, were indubitably quite equal for the time, to tho
 
 There are moments when, even to the sober eye of Reason, the world of our sad Humanity may assume the semblance of a Hell – but the imagination of man is no Carathis, to explore with impunity its every cavern. Alas! the grim legion of sepulchral terrors cannot be regarded as altogether fanciful – but, like the Demons in whose company Afrasiab made his voyage down the Oxus, they must sleep, or they will devour us – they must be suffered to slumber, or we perish.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-06-01T10:10:00Z
 title: Hướng dẫn tư vấn thiết kế nhà ở tại Đà Nẵng
 description: Thiết kế nội thất không chỉ đơn thuần là việc sắp xếp và bài trí đồ đạc trong nhà mà còn là một nghệ thuật, một sự sáng tạo không ngừng để tạo nên một không gian sống thoải mái, tiện nghi và thẩm mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0427.jpg
+image: https://nhavantuonglai.com/image/cover/001-427.jpg
 tags:
   - viet thue
   - marketing
@@ -123,4 +123,4 @@ Sự hài hòa và cân đối là nguyên tắc quan trọng trong thiết kế
 
 Thiết kế nội thất không chỉ là việc sắp xếp và bài trí đồ đạc mà còn là một nghệ thuật, một sự sáng tạo để tạo nên không gian sống thoải mái, tiện nghi và thẩm mỹ. Hy vọng những tư vấn trên sẽ giúp bạn có được những ý tưởng hữu ích để thiết kế nội thất cho không gian sống của mình. Hãy nhớ rằng, một không gian sống đẹp không chỉ là về hình thức mà còn phải mang lại sự tiện lợi và phản ánh cá nhân của bạn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

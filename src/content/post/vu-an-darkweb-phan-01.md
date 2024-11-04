@@ -3,7 +3,7 @@ pubDatetime: 2024-03-17T10:10:00Z
 title: Trùm giấu mặt của darkweb tỷ đô thách thức tài phá án FBI | Phần 1
 description: Xoá sổ website Silk Road, sàn giao dịch online mua bán ma túy, vũ khí, giao kết hợp đồng giết người thuê… là chiến dịch khó nhằn bậc nhất của FBI trên không gian mạng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0353.jpg
+image: https://nhavantuonglai.com/image/cover/001-353.jpg
 tags:
   - thu vien
   - ngan hang
@@ -99,4 +99,4 @@ Cảnh sát đã đột kích vào nhà của anh ta và tìm thấy bitcoin đ�
 
 Zhong đã nhận tội lừa đảo qua mạng, có mức án tối đa là 20 năm tù, song cuối cùng chỉ bị một năm tù.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

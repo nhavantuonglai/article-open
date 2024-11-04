@@ -3,7 +3,7 @@ pubDatetime: 2024-05-21T10:10:00Z
 title: Xây nhà Đà Nẵng tốn bao nhiêu?
 description: Việc xây dựng nhà ở là một quá trình phức tạp và đòi hỏi nhiều công đoạn, từ thiết kế, lựa chọn vật liệu đến thi công và hoàn công.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0465.jpg
+image: https://nhavantuonglai.com/image/cover/001-465.jpg
 tags:
   - viet thue
   - marketing
@@ -21,7 +21,7 @@ _Việc xây dựng nhà ở là một quá trình phức tạp và đòi hỏi 
 
 Bài viết này sẽ cung cấp thông tin chi tiết về giá xây dựng nhà ở Đà Nẵng, các yếu tố ảnh hưởng, cùng với dịch vụ chuyên nghiệp từ Drafticle – Đơn vị thầu xây dựng uy tín tại Đà Nẵng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-026.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-026.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Các yếu tố ảnh hưởng đến giá xây dựng nhà ở
 
@@ -39,7 +39,7 @@ Khi tính toán giá xây dựng nhà ở Đà Nẵng, có nhiều yếu tố c�
 
 – Công nghệ và trang thiết bị: sử dụng công nghệ mới và trang thiết bị hiện đại có thể tăng chi phí xây dựng nhưng đảm bảo chất lượng và độ bền của công trình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-027.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-027.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Thầu xây dựng nhà ở gia đình tại Đà Nẵng
 
@@ -63,7 +63,7 @@ Giá thi công xây dựng nhà ở Đà Nẵng có thể dao động khá lớn
 
 Mức giá này có thể thay đổi tùy vào yêu cầu cụ thể của từng khách hàng. Để có báo giá chi tiết và chính xác nhất, bạn nên liên hệ trực tiếp với Drafticle để được tư vấn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-028.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-028.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Thiết kế thi công trọn gói nhà ở
 
@@ -85,7 +85,7 @@ Báo giá hoàn công nhà ở của Drafticle thường bao gồm các hạng m
 
 – Hồ sơ hoàn công: bao gồm bản vẽ hoàn công, biên bản nghiệm thu và các tài liệu liên quan để khách hàng có thể sử dụng cho các thủ tục pháp lý tiếp theo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-029.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-029.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Cách tính giá thành xây dựng nhà ở
 
@@ -113,7 +113,7 @@ Drafticle không chỉ cung cấp dịch vụ xây dựng chuyên nghiệp mà c
 
 Drafticle luôn đặt khách hàng lên hàng đầu, cam kết mang lại những giá trị tốt nhất cho mỗi công trình. Với đội ngũ kiến trúc sư và kỹ sư chuyên nghiệp, công ty tự tin mang đến cho khách hàng những ngôi nhà đẹp, chất lượng và bền vững.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/xay-dung-nha-o-030.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/xay-dung-nha-o-030.jpg" alt="Xây dựng nhà ở tại Đà Nẵng." title="Xây dựng nhà ở tại Đà Nẵng." height=100% width=100%><figcaption><p>Xây dựng nhà ở tại Đà Nẵng.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -121,4 +121,4 @@ Giá xây dựng nhà ở Đà Nẵng phụ thuộc vào nhiều yếu tố và 
 
 Với Drafticle, bạn không chỉ nhận được một ngôi nhà đẹp mà còn là một tổ ấm vững chắc và an toàn. Hãy liên hệ với Drafticle để được tư vấn và hỗ trợ tốt nhất cho dự án xây dựng nhà ở của bạn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

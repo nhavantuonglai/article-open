@@ -3,7 +3,7 @@ pubDatetime: 2024-03-13T10:10:00Z
 title: Tại sao tội phạm Mỹ không còn hứng thú đi cướp ngân hàng?
 description: Theo thống kê của FBI, các vụ trộm ngân hàng đã giảm gần 60% trong 20 năm qua và số chiến lợi phẩm ngày càng ít đi.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0483.jpg
+image: https://nhavantuonglai.com/image/cover/001-483.jpg
 tags:
   - thu vien
   - ngan hang
@@ -57,4 +57,4 @@ _Lợi tức trung bình của một vụ cướp ngân hàng là không đáng 
 
 Xu hướng _cướp ngân hàng_ qua công nghệ cao đặt ra thách thức cao cho ngành ngân hàng và nhà chức trách. _Có lẽ sắp tới, FBI sẽ cần nhiều thiên tài máy tính hơn những tay bắn tỉa giỏi,_ cựu sĩ quan FBI Bill Rehder nói.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

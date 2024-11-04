@@ -3,7 +3,7 @@ pubDatetime: 2018-08-17T10:10:00Z
 title: Akutagawa Ryunosuke | Tu tiên
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -138,4 +138,4 @@ Chú Thích
 
 2. Taikosama: Một cách gọi tôn kính Tướng Quân Toyotomi Hideyoshi (thế kỷ 16), lãnh chúa thống nhất Nhật Bản, chấm dứt thời đại tranh hùng giữa các sứ quân.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

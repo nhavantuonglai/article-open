@@ -3,7 +3,7 @@ pubDatetime: 2018-07-15T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Least recently used (LRU) cache)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0564.jpg
+image: https://nhavantuonglai.com/image/cover/001-564.jpg
 tags:
   - developer
   - github
@@ -61,4 +61,4 @@ You may also find more test-case examples of how the LRU Cache works in [LRUCach
 | Get item | `O(1)` |
 | Set item | `O(1)` |
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

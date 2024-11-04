@@ -3,7 +3,7 @@ pubDatetime: 2018-07-11T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Liu Hui's π Algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0560.jpg
+image: https://nhavantuonglai.com/image/cover/001-560.jpg
 tags:
   - developer
   - github
@@ -69,4 +69,4 @@ theorem repetitively:
 
 From here, there is now a technique to determine `m` from `M`, which gives the side length for a polygon with twice the number of edges. Starting with a hexagon, Liu Hui could determine the side length of a dodecagon using this formula. Then continue repetitively to determine the side length of a 24-gon given the side length of a dodecagon. He could do this recursively as many times as necessary. Knowing how to determine the area of these polygons, Liu Hui could then approximate `π`.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

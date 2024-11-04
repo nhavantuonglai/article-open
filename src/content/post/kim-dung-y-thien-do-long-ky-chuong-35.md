@@ -3,7 +3,7 @@ pubDatetime: 2002-10-05T10:10:00Z
 title: Kim Dung | Ỷ thiên đồ long ký (Chương 35)
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0335.jpg
+image: https://nhavantuonglai.com/image/cover/001-335.jpg
 tags:
   - thu vien
   - van hoc
@@ -1395,6 +1395,6 @@ Chỉ thấy thân hình cao gầy của Viên Chân đi về phía bắc, tay c
 
 Đọc [Ỷ thiên đồ long ký, chương 41](https://nhavantuonglai.com/article/kim-dung-y-thien-do-long-ky-chuong-41) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, toàn tập](https://data.nhavantuonglai.com/ebook/kim-dung-y-thien-do-long-ky.pdf) tại đây.
+Đọc [Ỷ thiên đồ long ký, toàn tập](https://nhavantuonglai.com/ebook/kim-dung-y-thien-do-long-ky.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-010.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

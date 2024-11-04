@@ -3,7 +3,7 @@ pubDatetime: 2019-12-09T10:10:00Z
 title: Nhiều tác giả | Người thầy của tỉnh thức và thương yêu (Chương 09)
 description: Tôi còn nhớ là tôi đã viết Đường Xưa Mây Trắng ở trong cái quán của Xóm Thượng. Hồi đó chưa có lò sưởi trung ương, trong phòng chỉ có một cái lò sưởi đốt củi thôi và trời rất lạnh.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0528.jpg
+image: https://nhavantuonglai.com/image/cover/001-528.jpg
 tags:
   - thu vien
   - van hoc
@@ -82,6 +82,6 @@ Chúng tôi không lo lắng cho tương lai. Chúng tôi chỉ lo cho hiện t�
 
 Đọc [Người thầy của tỉnh thức và thương yêu, chương 19](https://nhavantuonglai.com/article/nhieu-tac-gia-nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-19) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, toàn tập](https://data.nhavantuonglai.com/ebook/nhieu-tac-gia-nguoi-thay-cua-tinh-thuc-va-thuong-yeu.pdf) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, toàn tập](https://nhavantuonglai.com/ebook/nhieu-tac-gia-nguoi-thay-cua-tinh-thuc-va-thuong-yeu.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0519.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-519.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-10T10:10:00Z
 title: Ai bảo vệ trẻ khi bị cha mẹ bạo hành?
 description: Khi con 3 tuổi bị cha bạo hành khiến bị liệt, người mẹ ba lần kiện chính quyền với lý do biết mà không ngăn chặn song tòa án đánh giá thiệt hại này không phải lỗi của nhân viên nhà nước, năm 1989.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0599.jpg
+image: https://nhavantuonglai.com/image/cover/001-599.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -67,4 +67,4 @@ _Nếu cảnh sát biết một vụ giết người sắp xảy ra nhưng khôn
 
 Ba thập kỷ sau, đây vẫn là chủ đề gây tranh cãi. Các tòa án cấp dưới đã trích dẫn nó hàng trăm lần, Tòa án Tối cao thường xuyên được cộng đồng luật, giới tư pháp và các tổ chức bảo vệ trẻ em yêu cầu xem xét lại vụ án nhưng chưa bao giờ có hồi đáp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

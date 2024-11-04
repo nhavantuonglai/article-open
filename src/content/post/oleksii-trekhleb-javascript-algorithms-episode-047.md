@@ -3,7 +3,7 @@ pubDatetime: 2018-06-28T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Is a power of two)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0448.jpg
+image: https://nhavantuonglai.com/image/cover/001-448.jpg
 tags:
   - developer
   - github
@@ -61,4 +61,4 @@ For example for number `8` that operations will look like:
 0000
 ```
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

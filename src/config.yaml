@@ -15,7 +15,7 @@ metadata:
   openGraph:
     site_name: nhavantuonglai
     image:
-      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0753.jpg'
+      url: 'https://nhavantuonglai.com/image/cover/001-753.jpg'
       width: 600
       height: 407
     type: website
@@ -24,7 +24,7 @@ metadata:
     site: '@nhavantuonglai'
     card: summary_large_image
     image:
-      url: 'https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0746.jpg'
+      url: 'https://nhavantuonglai.com/image/cover/001-746.jpg'
     title: Đọc nhiều, hiểu sâu, viết hay cùng nhavantuonglai.
     description: nhavantuonglai là website cá nhân, thông qua kỹ năng viết lách và vốn hiểu biết xã hội để phán ánh góc nhìn cá nhân thông qua hình ảnh và câu từ, tập trung thể hiện chủ yếu dưới hình thức đoản văn và nghiên cứu.
 

@@ -3,7 +3,7 @@ pubDatetime: 2006-01-30T10:10:00Z
 title: Edgar Allan Poe | Con mèo đen
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0269.jpg
+image: https://nhavantuonglai.com/image/cover/001-269.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -83,4 +83,4 @@ Nhưng xin Chúa bảo vệ và cứu tôi khỏi những cái vuốt của Ác 
 
 Về những suy nghĩ của chính mình thì thật là ngu ngốc khi nói. Tôi ngất xỉu, loạng choạng đến bức tường đối diện. Trong một khoảnh khắc, nhóm ở trên cầu thang đứng yên, vì sự sợ hãi và kính trọng cực độ. Trong giây tiếp theo, một chục cánh tay vạm vỡ đang làm việc ở bức tường. Nó sụp đổ hoàn toàn. Thi thể, đã bị phân hủy nặng nề và dính đầy máu, đứng thẳng trước mắt các quan sát viên. Trên đầu nó, với miệng mở rộng màu đỏ và con mắt lửa duy nhất, ngồi con quái vật ghê tởm mà mưu mẹo của nó đã dụ dỗ tôi vào tội ác, và tiếng nói của nó đã kết án tôi với kẻ treo cổ. Tôi đã xây tường bao bọc _con mèo đen quái vật_ ấy trong ngôi mộ!
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

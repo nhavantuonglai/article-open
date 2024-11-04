@@ -3,7 +3,7 @@ pubDatetime: 2024-03-14T10:10:00Z
 title: Tại sao FBI thường đặt biệt danh cho kẻ cướp ngân hàng?
 description: Tên cướp Thối Mồm, kẻ trộm Chân Đất, tướng cướp Giỏi Ngữ Pháp… tất cả những tên tội phạm này đều lọt lưới một phần vì biệt danh do FBI đặt.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0123.jpg
+image: https://nhavantuonglai.com/image/cover/001-123.jpg
 tags:
   - thu vien
   - ngan hang
@@ -35,4 +35,4 @@ Tuy nhiên, cựu đặc vụ Harry Trombitas cũng cho biết những người 
 
 Cuối cùng, Harry nhấn mạnh việc đặt biệt danh cho tội phạm không giúp hô biến chúng thành anh hùng. Đây thuần túy là công cụ điều tra với mục đích buộc tội phạm phải sớm chịu tội trước pháp luật.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0119.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-119.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-12T10:10:00Z
 title: Kiến trúc sư tài năng thành vua cướp ngân hàng ở Mỹ
 description: Nhà giàu, tốt nghiệp thủ khoa kiến trúc, George Leslie ban ngày giao du với giới thượng lưu, đêm hoá trang cùng băng đảng gây ra 80% vụ cướp ngân hàng trên cả nước trong suốt 9 năm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0548.jpg
+image: https://nhavantuonglai.com/image/cover/001-548.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -69,4 +69,4 @@ Tới lúc Goerge chết, cũng không ai nghĩ ông ta đứng sau toàn bộ c
 
 Ông do đó vừa được coi là _siêu anh hùng sa ngã_ của giới kiến trúc. Lối _trộm cắp có trí tuệ_ của George mở lối cho dòng phim Hollywood sau này, tiêu biểu là bộ ba phim Ocean 11, 12 và 13.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

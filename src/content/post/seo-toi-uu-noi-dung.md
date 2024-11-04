@@ -3,7 +3,7 @@ pubDatetime: 2023-05-30T10:10:00Z
 title: Tối ưu nội dung
 description: Giúp Google và người dùng tìm thấy nội dung website hướng dẫn nâng cao những kỹ thuật giúp tối ưu SEO hiệu quả, đem lại thứ hạng tốt trên công cụ tìm kiếm.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0277.jpg
+image: https://nhavantuonglai.com/image/cover/001-277.jpg
 tags:
   - google
   - google console
@@ -217,4 +217,4 @@ Nhiều gói phần mềm viết blog tự động không đi theo (nofollow) b�
 
 Nếu sẵn sàng đảm bảo nội dung trên các đường liên kết do bên thứ ba thêm vào (ví dụ: nếu website của bạn tin tưởng người bình luận) thì bạn không cần dùng nofollow cho các đường liên kết. Tuy nhiên, việc liên kết tới các website mà Google coi là vi phạm có thể ảnh hưởng đến danh tiếng của website. Trong tài liệu của Trung tâm Google Search có những mẹo khác để ngăn bình luận không liên quan, chẳng hạn như dùng CAPTCHA (hình ảnh xác thực) và bật tính năng kiểm duyệt bình luận.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-08-06T10:10:00Z
 title: Cẩm nang du lịch Cù Lao Xanh
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0610.jpg
+image: https://nhavantuonglai.com/image/cover/001-610.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -13,7 +13,7 @@ _Cù Lao Xanh hay còn gọi là đảo Vân Phi, có diện tích khoảng 365 
 
 Biển Cù Lao Xanh nước xanh và sạch, chưa nhiều khách du lịch. Người dân ở đây chủ yếu sống trong làng chài ở bờ nam của đảo. Phía bắc đảo là những dãy núi với nhiều hình thù lạ mắt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-167.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-167.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
 
 ## Mùa đẹp
 
@@ -29,7 +29,7 @@ Phương tiện di chuyển nhanh nhất ra đảo là cano, ngoài ra có tàu 
 
 Tuy nhiên, theo một hướng dẫn viên du lịch địa phương, thời gian tàu chạy thường không cố định vì các điều kiện về thời tiết và lượng khách. Do đảo nhỏ, các tour thường phải gom đủ người. Cần liên hệ mua vé và hỏi thông tin trước tại bến.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-168.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-168.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
 
 Để di chuyển trên đảo, du khách thuê xe máy từ nhà nghỉ, homestay hoặc thuê dịch vụ xe ôm. Trên đảo có một vài chiếc xe điện, là phương tiện đưa đón du khách cũng như tổ chức các tour chạy quanh đảo.
 
@@ -47,7 +47,7 @@ Cột cờ Thanh Niên được làm bằng đá granite, cao hơn 22 m, hướn
 
 Ngọn hải đăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-169.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-169.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
 
 Hải đăng Cù Lao Xanh có tuổi đời hơn 100 năm, được người Pháp xây bằng đá tảng lớn. Hải đăng cao 119 m so với mực nước biển, chiếu xa khoảng 50 km. Kiến trúc của ngọn hải đăng là sự kết hợp giữa trường phái Gothic và kiến trúc phương Ðông.
 
@@ -63,7 +63,7 @@ Bãi Gala là một bãi đất trồng bằng phẳng và nằm sát bờ biể
 
 Cầu cảng Cù Lao Xanh
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-170.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-170.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
 
 Cầu cảng ở Cù Lao Xanh là cây cầu gỗ dài khoảng 80 m bắc dài ra biển, được xây dựng vào năm 2001. Đây là địa điểm thu hút nhiều du khách đến check in vì khung cảnh được ví như _Maldives ở Việt Nam,_ với nước biển trong hòa cùng màu xanh của nền trời.
 
@@ -75,7 +75,7 @@ Cù Lao Xanh còn có một số bãi biển như bãi Đông, bãi Nam, bãi Nh
 
 Ốc mặt trăng
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-171.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-cu-lao-xanh-171.jpg" alt="cam-nang-du-lich-cu-lao-xanh" height=100% width=100%><figcaption><p>cam-nang-du-lich-cu-lao-xanh-nhavantuonglai</p></figcaption></figure>
 
 Đây là loài ốc biển nổi tiếng ở Cù Lao Xanh, còn gọi là ốc mắt ngọc, xà cừ. Ốc có thể chế biến theo nhiều cách như hấp gừng, nướng, xào xả ớt. Ốc còn tươi, khi ăn cảm nhận được vị mặn của biển và vị ngọt của thịt ốc.
 
@@ -99,4 +99,4 @@ Mang theo đầy đủ giấy tờ tùy thân vì việc kiểm soát đối v�
 
 Điện trên đảo được phát vào khung giờ quy định (thường là chiều tối), du khách nên mang theo pin, sạc dự phòng để chủ động sạc pin cho điện thoại, máy ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

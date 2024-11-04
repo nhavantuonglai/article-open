@@ -3,7 +3,7 @@ pubDatetime: 2022-01-11T10:10:00Z
 title: Kawabata Yasunari | Tuyển tập truyện ngắn trong lòng bàn tay (Phần 2)
 description: Cái tên truyện ngắn trong lòng bàn tay là một thể loại tác phẩm văn học có đặc điểm là ngắn, ngắn đến nỗi có thể gói trọn trong lòng bàn tay.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -901,4 +901,4 @@ Khi quay trở lại phòng khách, Sumiko bảo:
 
   - Con gái của anh đấy ạ? Em thấy cháu qua bao lơn lầu hai…Đánh đàn mà chỉ đâu lưng chứ không nhìn ra hướng biển. Như thế có khi hay hơn không chừng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

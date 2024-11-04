@@ -3,7 +3,7 @@ pubDatetime: 2018-05-26T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Cartesian product)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0515.jpg
+image: https://nhavantuonglai.com/image/cover/001-515.jpg
 tags:
   - developer
   - github
@@ -23,4 +23,4 @@ where a ∈ A and b ∈ B. Cartesian product `AxB` of two sets `A={x,y,z}` and `
 
 ![Cartesian Product of Two Sets](https://upload.wikimedia.org/wikipedia/commons/4/4e/Cartesian_Product_qtl1.svg)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

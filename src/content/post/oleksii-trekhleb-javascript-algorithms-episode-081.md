@@ -3,7 +3,7 @@ pubDatetime: 2018-08-02T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Rabin karp algorithm)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0581.jpg
+image: https://nhavantuonglai.com/image/cover/001-581.jpg
 tags:
   - developer
   - github
@@ -46,4 +46,4 @@ For text of length `n` and `p` patterns of combined length `m`, its average and 
 
 A practical application of the algorithm is detecting plagiarism. Given source material, the algorithm can rapidly search through a paper for instances of sentences from the source material, ignoring details such as case and punctuation. Because of the abundance of the sought strings, single-string searching algorithms are impractical.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

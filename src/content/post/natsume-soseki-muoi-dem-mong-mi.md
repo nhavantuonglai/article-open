@@ -3,7 +3,7 @@ pubDatetime: 2023-01-02T10:10:00Z
 title: Natsume Soseki | Mười đêm mộng mị
 description: Natsume Soseki (1867   - 1916) là một nhà văn lớn đại diện cho văn chương cận đại của Nhật Bản.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0279.jpg
+image: https://nhavantuonglai.com/image/cover/001-279.jpg
 tags:
   - thu vien
   - van hoc
@@ -247,4 +247,4 @@ Chú thích
 
 (1) Sa giông: Một loài bò sát có hình dáng na ná con giông ở miền Trung, nhưng có thể sống cả trên cạn lẫn dưới nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

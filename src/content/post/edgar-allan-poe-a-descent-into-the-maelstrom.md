@@ -3,7 +3,7 @@ pubDatetime: 2006-01-19T10:10:00Z
 title: Edgar Allan Poe | Một cuộc đi xuống vực xoáy
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0269.jpg
+image: https://nhavantuonglai.com/image/cover/001-269.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -127,4 +127,4 @@ Kết quả đúng như tôi đã hy vọng. Vì chính tôi đang kể cho cậ
 
 Đó là lúc thủy triều lên – nhưng biển vẫn dậy sóng dữ dội do ảnh hưởng của cơn bão. Tôi bị cuốn mạnh vào dòng chảy của Ström, và trong vài phút, tôi bị cuốn dọc theo bờ biển vào vùng ngư trường của ngư dân. Một chiếc thuyền đã cứu tôi – kiệt sức vì mệt mỏi – và (bây giờ mối nguy hiểm đã qua) tôi chết lặng vì nỗi kinh hoàng vẫn còn ám ảnh. Những người kéo tôi lên thuyền là những người cậu cũ, những người tôi gặp hàng ngày – nhưng họ không còn nhận ra tôi nữa, cũng giống như họ không thể nhận ra một lữ khách từ cõi chết trở về. Tóc tôi, vốn đen nhánh vào ngày hôm trước, giờ trắng xóa như cậu thấy bây giờ. Họ cũng nói rằng toàn bộ nét mặt tôi đã thay đổi. Tôi kể cho họ câu chuyện của mình – họ không tin. Giờ tôi kể lại cho cậu – và tôi cũng không mong đợi cậu tin nhiều hơn những ngư dân vui vẻ ở Lofoden đã từng tin.
 
-<figure><img src=https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0229.jpg alt=nhavantuonglai title=nhavantuonglai height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src=https://nhavantuonglai.com/image/cover/001-229.jpg alt=nhavantuonglai title=nhavantuonglai height=100% width=100%><figcaption><p></p></figcaption></figure>

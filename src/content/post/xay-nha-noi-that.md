@@ -3,7 +3,7 @@ pubDatetime: 2024-06-07T10:10:00Z
 title: Hướng dẫn tư vấn thiết kế nội thất nhà ở tại Đà Nẵng
 description: Đô thị hóa mạnh mẽ và nhu cầu nhà ở tăng cao, các gia chủ yêu cầu nhiều hơn vào không gian sống, đó không chỉ là nơi để ở mà còn phải được tối ưu về tiện nghi, thẩm mỹ lẫn hiệu quả sử dụng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0457.jpg
+image: https://nhavantuonglai.com/image/cover/001-457.jpg
 tags:
   - viet thue
   - marketing
@@ -118,4 +118,4 @@ Nếu bạn đang có kế hoạch xây dựng hoặc cải tạo nhà ở, đ�
 
 Để tiện lợi cho việc liên hệ và tìm hiểu thêm về dịch vụ tư vấn thiết kế nhà ở, bạn có thể cung cấp thông tin liên hệ của công ty, bao gồm địa chỉ, số điện thoại, email và website. Điều này giúp khách hàng dễ dàng tiếp cận và nhận được sự hỗ trợ kịp thời từ các chuyên gia.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-29T10:10:00Z
 title: Tại sao tội ác lại gây tò mò nhiều đến vậy?
 description: Kể từ năm 2020, ít nhất tám bộ phim tài liệu tội phạm có thật đã đứng đầu danh sách Loạt phim phổ biến nhất trên dịch vụ phát trực tuyến Netflix của Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0629.jpg
+image: https://nhavantuonglai.com/image/cover/001-629.jpg
 tags:
   - viet lach
   - nghien cuu khoa hoc
@@ -42,4 +42,4 @@ Tóm lại: Có ma quỷ bạn biết và ma quỷ bạn không biết.
 
 Bạn đã bao giờ rướn cổ khi lái xe để có cái nhìn rõ hơn về một vụ tai nạn xe hơi bên đường? Vào năm 2021, một nghiên cứu của Đại học Chicago cho thấy những người tham gia bị thu hút bởi tỷ lệ mắc bệnh. Có lẽ đó là bởi vì ngay cả khi khán giả đang lảng vảng trong một hiện trường vụ án, bàn chân của họ không thực sự chạm vào sàn vải sơn đẫm máu. Cũng giống như phim kinh dị có thể thả người xem vào ruột của ngục tối và tàu lượn siêu tốc có thể cho phép mọi người cảm thấy như họ đang rơi từ trên trời xuống, tội phạm thực sự cho phép bạn gặp phải một góc tối, đe dọa của trải nghiệm con người và sau đó quay trở lại. True crime lấy câu chuyện từ thực tế, vì vậy trải nghiệm gần với thực tế hơn là âm trường hay công viên giải trí, nhưng khán giả vẫn được cách ly bởi cách kể chuyện xảo quyệt và giá trị sản xuất cao. Đó là một loại thuốc tiên hồi hộp khác.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0681.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-681.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

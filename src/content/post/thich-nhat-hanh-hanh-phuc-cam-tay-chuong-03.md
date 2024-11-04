@@ -3,7 +3,7 @@ pubDatetime: 2011-03-13T10:10:00Z
 title: Thích Nhất Hạnh | Hạnh phúc cầm tay (Chương 03)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0301.jpg
+image: https://nhavantuonglai.com/image/cover/001-301.jpg
 tags:
   - thu vien
   - van hoc
@@ -227,6 +227,6 @@ Ta có thể đi bằng đôi chân của mẹ. Mẹ thật tội nghiệp, mẹ
 
 Đọc [Hạnh phúc cầm tay, chương 05](https://nhavantuonglai.com/article/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-05) tại đây.
 
-Đọc [Hạnh phúc cầm tay, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-hanh-phuc-cam-tay.pdf) tại đây.
+Đọc [Hạnh phúc cầm tay, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-hanh-phuc-cam-tay.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-300.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

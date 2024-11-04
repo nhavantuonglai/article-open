@@ -3,7 +3,7 @@ pubDatetime: 2018-08-30T10:10:00Z
 title: Akutagawa Ryunosuke | Mấy trái quýt
 description: Cũng như nhiều nhà văn Nhật Bản, Akutagawa Ryunosuke thường mượn bối cảnh và đề tài Trung Quốc cho tác phẩm của ông.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0576.jpg
+image: https://nhavantuonglai.com/image/cover/001-576.jpg
 tags:
   - thu vien
   - van hoc
@@ -110,4 +110,4 @@ Mấy tiếng trả lời ấy làm tôi lo. Nhưng tôi nghĩ không nên hỏi
 
 Người thợ có nước da mặt mét mét, tay vẫn không ngừng ủi, thêm thắt vào. Trong lời nói của anh ta, rõ ràng có giọng khinh miệt, tôi thấy giận vội bỏ ra ngay. Nhưng điều đó còn đở, bởi vì trong khi tôi đang đi trong xóm Higashikata đông đúc nhà cửa, tôi lại sực nhớ ra, có lần tôi đã nằm mơ thấy cái xóm này trong mộng. Cũng tiệm giặt ủi có vách sơn đỏ, kiến trúc kiểu tây phương. Cũng mấy người thợ có nước da mặt mét mét. Cũng bàn ủi cháy hực than. Việc đến đây tìm cô nàng thì mấy tháng trước (hay mấy năm trước đây), tôi cũng đã thấy y hệt như vậy trong mộng. Và dĩ nhiên cũng ở trong mộng, sau khi bỏ căn tiệm ra, tôi cũng một mình đi trên con đường vắng vẻ của khu xóm này. Thế rồi   - thế rồi… sao các ký ức mộng mị ấy biến đi đâu mất cả, chẳng còn lại một chút nào trong trí não tôi. Và bây giờ dù có chuyện gì xảy ra cho tôi đi chăng nữa, tôi cũng nghĩ chẳng qua đó chỉ là chuyện xảy ra trong mộng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

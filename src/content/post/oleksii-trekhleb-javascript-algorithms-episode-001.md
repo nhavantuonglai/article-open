@@ -3,7 +3,7 @@ pubDatetime: 2018-05-12T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Articulation points)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0501.jpg
+image: https://nhavantuonglai.com/image/cover/001-501.jpg
 tags:
   - developer
   - github
@@ -28,4 +28,4 @@ For a disconnected undirected graph, an articulation point is a vertex removing 
 
 ![Articulation Points](https://www.geeksforgeeks.org/wp-content/uploads/ArticulationPoints21.png)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-07-25T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Power set)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0574.jpg
+image: https://nhavantuonglai.com/image/cover/001-574.jpg
 tags:
   - developer
   - github
@@ -121,4 +121,4 @@ And so on, for the rest of the elements from the `originalSet`. On every iterati
 
 > See [caPowerSet.js](https://upload.wikimedia.org/caPowerSet.js) file for cascading solution.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

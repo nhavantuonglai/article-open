@@ -3,7 +3,7 @@ pubDatetime: 2022-08-17T10:10:00Z
 title: Phanxipăng | Về Phố Hiến dạo hồ Bán Nguyệt
 description: Phố Hiến là một trong hai đô thị rất nổi tiếng của nước ta xưa, chỉ sau thủ đô Thăng Long.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0214.jpg
+image: https://nhavantuonglai.com/image/cover/001-214.jpg
 tags:
   - van hoc
   - thu vien
@@ -215,4 +215,4 @@ Có người ngẩn ngơ đêm hội phố Hoài.
 
 Sông Nhớ hỡi! Cảng Chờ ơi! Tôi đang nắm độc quyền nguồn thông tin cực kỳ chính xác. Rằng khắp cõi trần, ít nhất có một gã lãng du, dù rong ruổi bất cứ chốn nao, đêm đêm vẫn luôn hoài phố Hội.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

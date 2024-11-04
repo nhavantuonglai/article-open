@@ -3,7 +3,7 @@ pubDatetime: 2021-10-05T10:10:00Z
 title: Cẩm nang du lịch Quảng Ngãi
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0670.jpg
+image: https://nhavantuonglai.com/image/cover/001-670.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -15,7 +15,7 @@ _Tỉnh Quảng Ngãi nằm ở miền Nam Trung Bộ, giáp tỉnh Quảng Nam 
 
 Khoảng thời gian thích hợp cho du lịch Quảng Ngãi từ khoảng tháng 4 đến tháng 8. Đây là thời điểm khô ráo, nắng đẹp, hầu như không có mưa bão nên thuận tiện trong di di chuyển cũng như tham gia các hoạt động giải trí.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-531.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-531.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -47,7 +47,7 @@ Các điểm du lịch ở Quảng Ngãi trải dài toàn tỉnh, nên du khác
 
 Thành phố Quảng Ngãi
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-532.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-532.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
 
 Thành phố Quảng Ngãi có diện tích 160 km2, với sông Trà Khúc chảy giữa lòng thành phố. Đến đây du khách có thể tản bộ hai bên bờ sông, ngắm những bãi bồi trồng hoa màu và dưa xanh vào bình minh và hoàng hôn. Cuối sông Trà Khúc là cầu Cổ Lũy, cầu đẹp nhất tỉnh, nơi bạn có thể ngắm nhìn những cồn cát và cửa biển cùng tên với Cửa Đại của tỉnh Quảng Nam. Nội ô thành phố Quảng Ngãi là đô thị loại 2, không có nhiều địa điểm thăm thú, nhưng là nơi xuất phát tới những khu du lịch khách trong thành phố như núi Thiên Ấn, khu chứng tích Sơn Mỹ, rừng dừa nước Tịnh Khê, bãi biển Mỹ Khê…
 
@@ -67,7 +67,7 @@ Bãi dừa Tư Nghĩa
 
 Khu chứng tích Sơn Mỹ
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-533.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-533.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
 
 Di tích vụ thảm sát Sơn Mỹ nằm ở huyện Sơn Tịnh, cách thành phố Quảng Ngãi 13 km về phía đông bắc. Đây là nơi ghi lại tội ác của giặc Mỹ trong cuộc chiến tranh xâm lược Việt Nam. Ngày 16/3/1968, một cuộc hành quân huỷ diệt được quân Mỹ thực hiện, đánh vào người dân Sơn Mỹ. 504 người đã chết, trong đó có 182 phụ nữ, 173 trẻ em, 60 cụ già, 24 gia đình, 247 ngôi nhà bị thiêu cháy. Vụ thảm sát Sơn Mỹ là đỉnh cao trong tội ác của đế quốc Mỹ đối với nhân dân Việt Nam trong cuộc chiến tranh xâm lược.
 
@@ -77,7 +77,7 @@ Khu di tích mở cửa từ thứ hai đến chủ nhật, từ 7h đến 17h, 
 
 Thảo nguyên Bùi Hui
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-534.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-quang-ngai-534.jpg" alt="cam-nang-du-lich-quang-ngai" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ngai-nhavantuonglai</p></figcaption></figure>
 
 Thảo nguyên thuộc xã Ba Trang, huyện Ba Tơ, nơi được mệnh danh là thủ phủ trâu của Quảng Ngãi, cách thành phố Quảng Ngãi hơn 70 km về phía tây. Bùi Hui rộng hàng chục ha, có đồi sim tím thơ mộng. Mùa sim chín khoảng tháng 6-7 là lúc người dân địa phương mặc trang phục truyền thống ra đồi hái sim. Bạn có thể check-in với hoa, quả sim, mua rượu sim của người H_Re bản địa.
 
@@ -157,4 +157,4 @@ Kẹo gương trong, có màu vàng nhạt của đậu phộng (lạc), trắng
 
 Giọng của người địa phương ở đây hơi khó nghe, đặc biệt là người dân miền biển. Do đó bạn cần lưu ý trong giao tiếp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

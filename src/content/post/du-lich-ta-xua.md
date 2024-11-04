@@ -3,7 +3,7 @@ pubDatetime: 2021-10-15T10:10:00Z
 title: Cẩm nang du lịch Tà Xùa
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0679.jpg
+image: https://nhavantuonglai.com/image/cover/001-679.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -25,7 +25,7 @@ Tại Tà Xùa, bạn có thể thuê xe máy tham quan các địa điểm cho 
 
 Tà Xùa là khu vực mới phát triển du lịch thời gian gần đây, không có khách sạn lớn, cũng không có khu lưu trú tiện nghi. Trong khu vực có khoảng 20 homestay và nhà nghỉ, giá dao động từ 200.000 đồng đến 1 triệu đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-624.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-624.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
 
 Các khu lưu trú chủ yếu tập trung ở khu vực trung tâm hoặc lân cận, với nhà kiểu cộng đồng (nhà sàn) và một số phòng riêng. Một số địa chỉ homestay có thể tham khảo: Xá homestay, Nam Tồ homestay, Mùa Trứ homestay, Bảo Châu homestay, Long Anh 1 homestay. Nhà nghỉ gồm có Phù Hoa, Trà Mây Tà Xùa, Thủ Biển, Hải Hằng, Nguyễn San.
 
@@ -41,7 +41,7 @@ Khu vực được nhiều người gọi là _sống lưng khủng long_ cách 
 
 Đoạn sống lưng khủng long Tà Xùa có 1,5 km đường mòn được giới phượt thủ coi là một trong những nơi ngắm mây đẹp nhất miền Bắc. Nhiều ngày mây dày từ sáng sớm đến 10h vẫn chưa tan. Khi trời ít mây, từ sống lưng khủng long, bạn có thể đắm mình trong không gian của rừng, ruộng bậc thang và những nếp nhà người Mông bên sườn núi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-625.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-625.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
 
 Mỏm cá heo
 
@@ -59,7 +59,7 @@ Từ trung tâm xã Tà Xùa, đi theo hướng UBND xã khoảng 7 km, bạn s�
 
 Cây cô đơn
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-626.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-626.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
 
 Cây táo mèo cô đơn nằm trên một ngọn đồi nhỏ ở đỉnh Gió tại ngã ba Xím Vàng – Háng Đồng, cách trung tâm Tà Xùa hơn 1 km. Đứng từ vị trí của cây, bạn có thể thấy sông Suối Sập. Vào những ngày thời tiết đẹp, nước sông trong và xanh. Cây táo mèo cô đơn được các phượt thủ ví như _linh hồn sống_ trong vùng đất hoang sơ của Tà Xùa, là biểu tượng của sự bền bỉ và kiên cường giữa thiên nhiên khắc nghiệt.
 
@@ -75,7 +75,7 @@ Chè shan tuyết cổ thụ Tà Xùa là một trong những loại trà nổi 
 
 Thảo nguyên Tà Xùa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-627.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ta-xua-627.jpg" alt="cam-nang-du-lich-ta-xua" height=100% width=100%><figcaption><p>cam-nang-du-lich-ta-xua-nhavantuonglai</p></figcaption></figure>
 
 Thảo nguyên Tà Xùa nằm trên cùng cung đường đi mỏm cá heo và cây cô đơn, cách trung tâm xã khoảng 10 km. Đường rộng, ít quanh co. Gần tới mỏm cá heo bạn sẽ thấy biển chỉ dẫn tới thảo nguyên Tà Xùa. Đây là một địa điểm với cảnh quan thiên nhiên rộng lớn, không chỉ là nơi để chiêm ngưỡng vẻ đẹp thiên nhiên mà còn là điểm lý tưởng cho những hoạt động vui chơi, thể thao và cắm trại.
 
@@ -97,4 +97,4 @@ Không nên di chuyển lên Tà Xùa vào buổi tối, không nên đi đoàn 
 
 Chi phí mỗi người cho hai ngày một đêm khoảng 1,5 đến 2 triệu đồng. Vào các dịp nghỉ lễ Tết, nên đặt phòng sớm vì nơi này thường hết phòng. Tà Xùa chỉ có thể phục vụ 700-800 du khách cùng lúc.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

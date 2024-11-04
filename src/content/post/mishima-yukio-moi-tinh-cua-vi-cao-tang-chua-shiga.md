@@ -3,7 +3,7 @@ pubDatetime: 2022-12-22T10:10:00Z
 title: Mishima Yukio | Mối tình của vị cao tăng chùa Shiga
 description: Chưa chịu bỏ công khảo chứng gì cả mà đã bắt đầu vào chuyện, tôi xin chịu mang tiếng là người không chuẩn bị kỹ càng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -191,4 +191,4 @@ Vị cao tăng đi khuất. Hoàng phi cảm thấy tim mình buốt giá.
 
 Vài ngày sau, có tin đưa đến là vị cao tăng đã viên tịch trong thảo am của người. Từ đó, hoàng phi Kyôgoku bắt đầu ngồi nắn nót chép những trang kinh để tiến cúng nhà chùa. Đó là Vô Lượng Thọ Kinh, Pháp Hoa Kinh, Hoa Nghiêm Kinh, toàn những bản kinh quí hiếm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

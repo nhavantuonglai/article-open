@@ -3,7 +3,7 @@ pubDatetime: 2022-01-10T10:10:00Z
 title: Kawabata Yasunari | Tuyển tập truyện ngắn trong lòng bàn tay (Phần 1)
 description: Cái tên truyện ngắn trong lòng bàn tay là một thể loại tác phẩm văn học có đặc điểm là ngắn, ngắn đến nỗi có thể gói trọn trong lòng bàn tay.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -705,4 +705,4 @@ Từ trong bồn tắm ấm áp, người đàn bà láng giềng cất tiếng.
 
 Khi nàng bước ra khỏi khu cư trú cho gia đình công chức thì đợt sương mù len giữa cành lá của những cây tùng đã tản mác ra trông giống như những cánh anh đào đang rơi rụng. Người vợ trẻ ngẩng đầu nhìn lên bầu trời xanh ngắt, cái màu gợi nhớ mặt biển quê hương.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

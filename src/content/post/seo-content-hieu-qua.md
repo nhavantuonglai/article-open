@@ -3,7 +3,7 @@ pubDatetime: 2023-05-06T10:10:00Z
 title: Hướng dẫn viết content marketing hiệu quả
 description: Content marketing đã trở thành một phần không thể thiếu trong chiến lược marketing của các doanh nghiệp hiện đại. Để thành công trong lĩnh vực này, việc viết content marketing hiệu quả đóng vai trò then chốt.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0439.jpg
+image: https://nhavantuonglai.com/image/cover/001-439.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -131,4 +131,4 @@ Red Bull không chỉ là một công ty sản xuất nước uống năng lư�
 
 Viết content marketing không chỉ đơn thuần là việc viết bài mà là cả một quá trình nghiên cứu, tối ưu và phân phối nội dung để đạt được hiệu quả cao nhất. Bằng cách áp dụng các kỹ thuật viết content SEO, hiểu rõ đối tượng mục tiêu và liên tục cải tiến chiến lược, bạn có thể xây dựng một chiến lược content marketing hiệu quả và bền vững. Hãy nhớ rằng, thành công trong content marketing không đến từ những nỗ lực nhất thời mà từ sự kiên trì và cam kết dài lâu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-02T10:10:00Z
 title: Cẩm nang du lịch Mèo Vạc
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0638.jpg
+image: https://nhavantuonglai.com/image/cover/001-638.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -21,7 +21,7 @@ Mèo Vạc cách thành phố Hà Giang hơn 150 km, cách thị trấn Đồng 
 
 Nơi ở tại Mèo Vạc khá đa dạng, bao gồm nhà nghỉ, khách sạn và các homestay, giá dao động từ 250.000 đồng đến 1,5 triệu đồng một phòng đôi. Dorm (giường ngủ trong nhà cộng đồng) khoảng 80.000 đồng đến 200.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-399.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-399.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
 
 Vài năm gần đây, homestay tại Hà Giang nói chung và Mèo Vạc nói riêng phát triển mạnh. Những khu lưu trú này được đầu tư về cơ sở vật chất và cảnh quan, gần gũi với đời sống của dân bản địa nên được du khách yêu thích.
 
@@ -39,7 +39,7 @@ Năm 2009, Bộ Văn hóa, Thể thao và Du lịch xếp khu vực này là di 
 
 Du khách tới sông Nho Quế có thể thử các trải nghiệm đi thuyền, chèo kayak, SUP. Sẽ mất khoảng một tiếng di chuyển đường đèo xuống bến thuyền và ngược lại, qua những con đường ngoằn ngoèo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-400.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-400.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
 
 Giá dịch vụ thuyền máy: 120.000 đồng một người lớn và 60.000 đồng một trẻ em. Thuyền kayak và SUP 100.000 đồng một người.
 
@@ -47,13 +47,13 @@ Giá dịch vụ thuyền máy: 120.000 đồng một người lớn và 60.000 
 
 Mã Pì Lèng là một trong _tứ đại đỉnh đèo_ ở vùng núi phía Bắc, cùng với Ô Quy Hồ (Lào Cai – Lai Châu), Pha Đin (Điện Biên) và Khau Phạ (Yên Bái). Đèo được mệnh danh là vua của các con đèo vùng Tây Bắc, là cung đường hiểm trở, thuộc xã Pả Vi và Pải Lủng, huyện Mèo Vạc và xã Tả Lủng huyện [Đồng Văn](https://nhavantuonglai.com/article/du-lich-dong-van).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-401.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-401.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
 
 Đèo Mã Pì Lèng nằm ở độ cao 1.200 m, dài 20 km trên con đường Hạnh Phúc nối liền thành phố Hà Giang với các huyện Đồng Văn và Mèo Vạc. Từ trên đỉnh Mã Pì Lèng, du khách có thể ngắm nhìn toàn cảnh cao nguyên đá. Khung cảnh núi non hùng vĩ với một bên là vách đá dựng đứng, một bên là vực sâu sông Nho Quế.
 
 Hẻm vực Tu Sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-402.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-meo-vac-402.jpg" alt="cam-nang-du-lich-meo-vac" height=100% width=100%><figcaption><p>cam-nang-du-lich-meo-vac-nhavantuonglai</p></figcaption></figure>
 
 Hẻm Tu Sản nằm dưới chân Mã Pì Lèng, trên dòng sông Nho Quế. Khoảng cách rất gần của hai khe núi kết hợp với màu xanh của sông tạo nên khung cảnh kỳ vĩ, thơ mộng. Để đến được hẻm vực Tu Sản, du khách phải đi thuyền, ca nô khoảng 20 phút từ bến ngược dòng Nho Quế.
 
@@ -77,4 +77,4 @@ Một số nhà hàng được website du lịch Tripadvisor gợi ý: Thanh Ph�
 
 Với dịch vụ tham quan trên sông Nho Quế, cần liên hệ trước để biết tàu thuyền có hoạt động vào thời điểm du khách đến hay không.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

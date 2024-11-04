@@ -3,7 +3,7 @@ pubDatetime: 2021-10-16T10:10:00Z
 title: Cẩm nang du lịch Thái Nguyên
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0680.jpg
+image: https://nhavantuonglai.com/image/cover/001-680.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -11,7 +11,7 @@ tags:
 
 _Thái Nguyên giáp Hà Nội và các tỉnh Vĩnh Phúc, Tuyên Quang, Bắc Kạn, Lạng Sơn, Bắc Giang. Đây là nơi không chỉ có những điểm căn cứ địa cách mạng nổi tiếng mà còn nhiều danh lam thắng cảnh._
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-628.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-628.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 ## Khí hậu
 
@@ -31,7 +31,7 @@ Tại các bến xe lớn như Mỹ Đình, Gia Lâm, Giáp Bát đều có các
 
 Du khách có thể lựa chọn lưu trú tại các khách sạn trong Thành phố Thái Nguyên như Habana, Dạ Hương, May Plaza, Đông Dương, Hải Âu, The King Hotel, với mức giá dao động từ 400.000 đến hơn 1 triệu đồng một đêm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-629.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-629.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 Khu vực Hồ Núi Cốc, huyện Đại Từ, có một số khách sạn: Hồ Núi Cốc Plaza, Khách sạn Công Đoàn, khách sạn Mỏ Việt Bắc. Giá dao động từ 700.000 đến 1,2 triệu đồng một phòng một đêm. Tại huyện Đại Từ có một khu cắm trại sang chảnh (glamping) Mojen Retreat thu hút được sự quan tâm của nhiều bạn trẻ. Khu cắm trại có chỗ ở cho khoảng 60 người, với giá 1,2 triệu đồng một người một đêm vào cuối tuần, bao gồm toàn bộ dịch vụ ăn và ở.
 
@@ -43,7 +43,7 @@ Ngoài ra, du khách có thể nghỉ tại một số homestay Hoang Nong farms
 
 Hồ Núi Cốc
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-630.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-630.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 Khu du lịch hồ Núi Cốc là một thắng cảnh thiên nhiên nằm ở phía nam huyện Đại Từ, cách trung tâm Thành phố Thái Nguyên khoảng 15 km. Khu có tổng cộng 89 hòn đảo với những cái tên như đảo Núi Cái, đảo Hoa, đảo Cò, đảo Long Hội. Ở đây, du khách có thể trải nghiệm ngồi thuyền thúng, khám phá động Thế giới Cổ tích và Âm phủ, động Ba Cây Thông, tham quan quần thể Thuyết Nhân Quả – Chùa Thiêng Thác Vàng, ngôi chùa nằm trong lòng Phật lớn nhất miền Bắc được ghi nhận kỷ lục Guniess.
 
@@ -69,7 +69,7 @@ Núi Đuổm trước đây gọi là Điểm Sơn, cách trung tâm Thành ph�
 
 Khu di tích Quốc gia đặc biệt ATK Định Hóa
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-631.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-631.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 Trong thời kỳ kháng chiến chống thực dân Pháp (1946), huyện Định Hóa cùng các huyện Đại Từ, Phú Lương được chọn làm An toàn khu Trung ương (ATK) – thủ đô kháng chiến của cả nước. ATK Định Hóa được xếp hạng di tích Quốc gia đặc biệt năm 2012. Tại đây, du khách có thể tham quan đồi Khau Tý – nơi đặt trụ sở làm việc đầu tiên của Chủ tịch Hồ Chí Minh tại ATK Định Hóa, văn phòng làm việc của Tổng bí thư Trường Chinh ở đồi Nà Mòn, đồi Phong Tướng, nơi Chủ tịch Hồ Chí Minh phong quân hàm Đại tướng cho Tổng chỉ huy Quân đội Việt Nam Võ Nguyên Giáp, nhà trưng bày ATK Định Hóa, nhà tưởng niệm Chủ tịch Hồ Chí Minh, lán Bác Hồ ở Khuôn Tát, di tích làng Quặng, di tích Bảo Biên, nhà tù Chợ Chu…
 
@@ -99,7 +99,7 @@ Xôi ngũ sắc
 
 Xôi ngũ sắc thường được người Tày vùng Định Hóa làm để dâng lên bàn thờ Bác ở nhà tưởng niệm trên đỉnh đèo De vào các dịp lễ, Tết. Xôi ngũ sắc có 5 màu cơ bản: màu đỏ của gấc, xanh của lá gừng hoặc lá dứa, vàng của nghệ, tím của lá cơm đen hoặc lá cây cau, trắng là màu nguyên bản. Theo quan niệm của người dân bản địa, xôi ngũ sắc thể hiện lòng yêu mẹ, kính cha, tình yêu son sắt, thủy chung của đôi lứa và những điều may mắn, tốt lành.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-632.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-632.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 Nham
 
@@ -123,7 +123,7 @@ Chè Tân Cương
 
 Thổ nhưỡng và khí hậu Thái Nguyên giúp cây chè sinh trưởng tốt, cho ra những búp chè mập, chất lượng nên được mệnh danh là _đệ nhất danh trà._ Chè Tân Cương có đặc điểm nước chè trong, màu xanh ngả vàng nhạt và sánh. Khi thưởng thức, có thể cảm nhận được vị chát đầu lưỡi, hậu vị ngọt đọng lại ở cuống họng, rất ít vị đắng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-633.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-thai-nguyen-633.jpg" alt="cam-nang-du-lich-thai-nguyen" height=100% width=100%><figcaption><p>cam-nang-du-lich-thai-nguyen-nhavantuonglai</p></figcaption></figure>
 
 Tương nếp Úc Kỳ
 
@@ -141,4 +141,4 @@ Măng đắng Ngàn Me
 
 Đây là những cây măng được lấy từ rừng Ngàn Me, được bày bán khá nhiều ở chợ Chùa Hang, Đồng Hỷ và dọc Quốc lộ 1B đoạn qua cầu Gia Bẩy. Măng bóc vỏ, để nguyên cây luộc qua hai lần nước, hết ngái là có thể ăn được. Cách đơn giản nhất là luộc chấm với muối ớt, khi ăn cảm nhận được độ giòn tươi, vị đắng nhẹ nhưng không chát của măng quyện với vị mặn, cay của muối ớt. Măng cũng có thể xào, nấu canh, mang đến những hương vị khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2006-01-23T10:10:00Z
 title: Edgar Allan Poe | Manuscript found in a bottle
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0131.jpg
+image: https://nhavantuonglai.com/image/cover/001-131.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -71,4 +71,4 @@ The crew pace the deck with unquiet and tremulous step, but there is upon their 
 
 In the meantime the wind is still in our poop, and as we carry a crowd of canvass, the ship is at times lifted bodily from out the sea – Oh, horror upon horror! the ice opens suddenly to the right, and to the left, and we are whirling dizzily, in immense concentric circles, round and round the borders of a gigantic amphitheatre, the summit of whose walls is lost in the darkness and the distance. But little time will be left me to ponder upon my destiny – the circles rapidly grow small – we are plunging madly within the grasp of the whirlpool – and amid a roaring, and bellowing, and shrieking of ocean and of tempest, the ship is quivering, oh God! and – going down.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

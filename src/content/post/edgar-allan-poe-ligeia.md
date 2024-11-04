@@ -3,7 +3,7 @@ pubDatetime: 2006-01-22T10:10:00Z
 title: Edgar Allan Poe | Ligeia
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0130.jpg
+image: https://nhavantuonglai.com/image/cover/001-130.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -145,4 +145,4 @@ The greater part of the fearful night had worn away, and she who had been dead, 
 
 I trembled not – I stirred not – for a crowd of unutterable fancies connected with the air, the stature, the demeanor of the figure, rushing hurriedly through my brain, had paralyzed – had chilled me into stone. I stirred not – but gazed upon the apparition. There was a mad disorder in my thoughts – a tumult unappeasable. Could it, indeed, be the living Rowena who confronted me? Could it indeed be Rowena at all – the fair-haired, the blue-eyed Lady Rowena Trevanion of Tremaine? Why, why should I doubt it? The bandage lay heavily about the mouth – but then might it not be the mouth of the breathing Lady of Tremaine? And the cheeks-there were the roses as in her noon of life – yes, these might indeed be the fair cheeks of the living Lady of Tremaine. And the chin, with its dimples, as in health, might it not be hers? – but had she then grown taller since her malady? What inexpressible madness seized me with that thought? One bound, and I had reached her feet! Shrinking from my touch, she let fall from her head, unloosened, the ghastly cerements which had confined it, and there streamed forth, into the rushing atmosphere of the chamber, huge masses of long and dishevelled hair; it was blacker than the raven wings of the midnight! And now slowly opened the eyes of the figure which stood before me. _Here then, at least,_ I shrieked aloud, _can I never – can I never be mistaken – these are the full, and the black, and the wild eyes – of my lost love – of the lady – of the LADY LIGEIA._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

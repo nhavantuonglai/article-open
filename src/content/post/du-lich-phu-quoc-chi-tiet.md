@@ -3,7 +3,7 @@ pubDatetime: 2021-09-21T10:10:00Z
 title: Plan du lịch Phú Quốc, đặt vé hãng nào, ở phòng khách sạn ở đâu?
 description: Tìm hiểu các chiến lược tiếp thị, khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0655.jpg
+image: https://nhavantuonglai.com/image/cover/001-655.jpg
 tags:
   - viet thue
   - marketing
@@ -96,4 +96,4 @@ Là thiên đường du lịch, Phú Quốc không thiếu những khách sạn,
 
 Plan du lịch Phú Quốc trên đây là những gợi ý vô cùng hữu hiệu và thú vị để bạn trải nghiệm du lịch Phú Quốc được hấp dẫn và trọn vẹn nhất có thể. Cũng đừng quên đặt phòng tại AVS Hotel Phú Quốc để có giá phòng khách sạn Phú Quốc tốt nhất nhé.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

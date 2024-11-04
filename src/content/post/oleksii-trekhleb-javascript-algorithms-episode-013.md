@@ -3,7 +3,7 @@ pubDatetime: 2018-05-24T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Bucket sort)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0513.jpg
+image: https://nhavantuonglai.com/image/cover/001-513.jpg
 tags:
   - developer
   - github
@@ -47,4 +47,4 @@ The worst-case time complexity of bucket sort is
 
 On average, when the distribution of elements across buckets is reasonably uniform, it can be shown that bucket sort runs on average `O(n + k)` for `k` buckets.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

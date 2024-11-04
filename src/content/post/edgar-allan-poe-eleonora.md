@@ -3,7 +3,7 @@ pubDatetime: 2006-01-21T10:10:00Z
 title: Edgar Allan Poe | Eleonora
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0211.jpg
+image: https://nhavantuonglai.com/image/cover/001-211.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -51,4 +51,4 @@ I wedded; – nor dreaded the curse I had invoked; and its bitterness was not vi
 
 _Sleep in peace! – for the Spirit of Love reigneth and ruleth, and, in taking to thy passionate heart her who is Ermengarde, thou art absolved, for reasons which shall be made known to thee in Heaven, of thy vows unto Eleonora._
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

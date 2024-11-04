@@ -3,7 +3,7 @@ pubDatetime: 2021-07-23T10:10:00Z
 title: Cẩm nang du lịch Vũng Tàu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0691.jpg
+image: https://nhavantuonglai.com/image/cover/001-691.jpg
 tags:
   - cam nang du lich
   - du lich mien nam
@@ -15,7 +15,7 @@ _Bà Rịa – Vũng Tàu thuộc vùng Đông Nam Bộ, tiếp giáp tỉnh Đ�
 
 Bà Rịa – Vũng Tàu nằm trong vùng ít có bão. Một năm hai mùa rõ rệt. Mùa mưa từ tháng 5 đến tháng 10, trời mát mẻ, mưa không dầm dề. Mùa khô từ tháng 11 đến tháng 4 năm sau, trời khá nóng. Thực tế bạn có thể du lịch Bà Rịa – Vũng Tàu quanh năm, nhưng đẹp nhất từ tháng 3 đến tháng 9 nếu bạn muốn tắm biển, ghé thăm Côn Đảo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-036.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-036.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 ## Di chuyển
 
@@ -43,7 +43,7 @@ _Núi Thị Vải_
 
 Đi từ Quốc lộ 51 đến thị trấn Phú Mỹ, bạn muốn đến [núi Thị Vải](https://info.nhavantuonglai.com/topick) thì rẽ trái khoảng 3 km để chạy theo đường mòn đến chân núi. Bạn có thể gửi xe ở nhà dân dưới chân núi và bắt đầu hành trình đi bộ trên những bậc thang được xây bằng đá hoa cương dẫn lên núi. Nơi đây còn có ba ngôi chùa chính là chùa Linh Sơn Liên Trì (chùa Hạ), chùa Linh Sơn Hồng Phúc (chùa Trung), và Linh Sơn Bửu Thiền (chùa Thượng).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-037.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-037.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 _Núi Dinh_
 
@@ -51,7 +51,7 @@ Núi Dinh cách thành phố Bà Rịa khoảng 6 km, về hướng Bắc thuộ
 
 Trên đỉnh có suối Tiên, suối Đá với năm hồ nước có thể tắm. Bên cạnh đó là căn cứ Núi Dinh – cơ sở cách mạng cho các đơn vị trực thuộc chiến trường Đông Nam bộ. Đỉnh núi Dinh còn có những ngôi chùa đẹp ẩn giữa những triền đá, nổi bật là chùa Hang, chùa đại Tùng Lâm, chùa Tây Phương… Quanh núi có khoảng 100 ngôi chùa, nổi tiếng nhất phải kể đến Chùa Phật Quang, Hang Tổ, Hang Dây Bí, Hang Mai, Bưng Lùng, Chùa Diệu Linh, Hang Dơi…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-038.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-038.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 _Địa đạo Long Phước_
 
@@ -65,7 +65,7 @@ Nhà Tròn – tên người dân Thành phố Bà Rịa thường gọi tháp n
 
 Nhà Tròn cao 20 m, kiến trúc chính là bồn chứa nước hình tròn có mái che bằng tôn, đường kính hơn 7 m. Năm 1945, người Nhật lắp đặt một hệ thống còi hơi báo động gồm 6 cái dưới bồn nước hiện vẫn còn hoạt động được. Nhà Tròn được công nhận di tích cấp quốc gia năm 1987 và hiện là nơi để người dân, du khách tham quan và tổ chức triển lãm. Điều đặc biệt khác là nơi đây có đàn chim én làm tổ.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-039.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-039.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 > Thị trấn Long Hải
 
@@ -83,7 +83,7 @@ _Bãi biển Long Hải:_ Bãi biển còn nhiều nét hoang sơ, sạch sẽ t
 
 Cát vàng nơi đây mịn trải dài, xen lẫn màu xanh của hàng dương yên tĩnh. Ngoài tắm biển, du khách còn có thể thỏa sức thưởng thức hải sản giá rẻ, tươi ngon vào những sớm tinh sương.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-040.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-040.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 _Bãi biển Dinh Cô:_ Nằm dưới chân điện Dinh Cô, bãi biển này cũng mang tên như vậy với cát vàng, mịn. Bãi cát ở đây rộng, phù hợp cho các hoạt động thể thao theo nhóm hay giải trí cuối tuần với lửa trại, ca hát, nhảy múa. Khi thủy triều xuống, nước biển lùi xa hơn, bạn sẽ nhìn thấy các loài nhuyễn thể và cá trong lớp cát mịn màng ngay dưới chân.
 
@@ -95,7 +95,7 @@ _Đèo Nước Ngọt:_ Nếu đã đến Long Hải, bạn không nên bỏ qua
 
 Điểm đặc biệt phải kể đến là rừng hoa anh đào nở rộ lưng chừng núi. Trước đây, loài hoa này được người Nhật Bản trồng trong những năm tháng chiến tranh. Theo thời gian, khu rừng trở thành điểm đến của nhiều du khách trong và ngoài nước.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-041.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-041.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 > Côn Đảo
 
@@ -107,7 +107,7 @@ Hồ Tràm
 
 Hồ Tràm là điểm nằm giữa đoạn đường từ Thành phố Hồ Chí Minh đến Mũi Né – Phan Thiết (Bình Thuận). Một phần do thói quen và sự thuận tiện, hiếm ai chọn đi đường ven biển vì xa nên đoạn đường này thường vắng vẻ, ít xe qua lại. Nhưng cũng vì lẽ đó, đường dọc bờ biển Hồ Tràm không bị xe cộ, khói bụi ảnh hưởng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-042.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-042.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Hồ Cốc
 
@@ -123,7 +123,7 @@ Khu bảo tồn thiên nhiên Bình Châu – Phước Bửu thuộc huyện Xuy
 
 Khu bảo tồn có cảnh quan tự nhiên đa dạng từ rừng thưa hơi khô nhiệt đới tới rừng ẩm thường xanh, rừng tràm mọc ven biển, vùng đồi, vùng đất ngập nước, cây bụi và cồn cát ven biển… Khu bảo tồn cũng cung cấp nhiều dịch vụ du lịch như lưu trú, cắm trại, đường đi xe đạp dành cho du khách thích trải nghiệm cảm giác khám phá rừng nguyên sinh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-043.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-043.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Suối khoáng nóng Bình Châu
 
@@ -135,7 +135,7 @@ Chùa Bánh Xèo
 
 Chùa Bánh Xèo có tên chính thức là [ni viện Thiện Hòa](https://info.nhavantuonglai.com/topick), nằm ở bên phải, sau Đại Tòng Lâm Tự, thuộc thị trấn Phú Mỹ, huyện Tân Thành, tỉnh Bà Rịa – Vũng Tàu. Thuở ban đầu ni viện Thiện Hòa chỉ là một am nhỏ được dựng lên vào năm 1989.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-044.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-044.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Đến năm 1990, hòa thượng Thích Thiện Hòa cho xây dựng thành ni viện làm nơi tu hành cho các ni cô. Ni viện dù được xây dựng quy mô nhưng vẫn mang nét cổ kính của ngôi chùa Việt.
 
@@ -149,7 +149,7 @@ Cách đây hơn 4 năm, nơi này được người địa phương sử dụng
 
 Cung đường gợi ý: Thành phố Hồ Chí Minh – theo hướng quốc lộ 51 – Mỹ Xuân Tóc Tiên – Hắc Dịch Tóc Tiên – đường số 1 mở rộng (Hội Bài đi Phước Tân).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-045.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-045.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 ## Đặc sản
 
@@ -165,7 +165,7 @@ _Bánh xèo Long Hải_
 
 Nguyên liệu chính để làm bánh xèo vẫn là tôm, thịt heo, hành tây, giá, mộc nhĩ, đậu xanh, trứng gà và bột gạo, nhưng bánh xèo tại thị trấn Long Hải, huyện Long Điền lại rất đặc biệt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-046.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-046.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Nhờ nguồn thực phẩm tươi nguyên, mua từ người dân chài đánh bắt trong ngày mang về chưa qua ướp đá, làm lạnh, đồng thời kỹ thuật đổ bánh sao cho giòn, bánh có màu vàng tươi, thơm phức tạo nên điểm hấp dẫn nổi bật của bánh xèo Long Hải.
 
@@ -173,7 +173,7 @@ _Bánh hỏi An Nhứt_
 
 Đây là món ăn đặc sản nổi tiếng của xã An Nhất, huyện Long Điền. Bánh hỏi được làm bằng một thứ gạo thơm của người dân địa phương và bí quyết là cách pha chế bột sao cho bánh dẻo, dai. Miếng bánh hỏi trắng thơm mùi gạo mới càng nhai ta càng thấy ngọt, được cuốn với rau sống, thịt xào và chấm với nước mắm kèm ngó sen chua ngọt. Cuốn hết cuốn này thêm cuốn khác tới no mà vẫn thấy thèm. Bánh hỏi còn được ăn với thịt bò xiên bằng que nướng trên bếp than hồng, ngoài ra chấm mắm nêm cũng rất ngon.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-047.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-047.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 _Lẩu súng Phước Hải_
 
@@ -183,7 +183,7 @@ Cá dùng nấu cho món lẩu này đúng điệu và ngon nhất là đầu v�
 
 Cái vị là lạ của nước lẩu với hương rất riêng của tương hột, quyện với độ chua của me, mùi thơm của sả, vị ngọt bùi của cá tươi, và giòn tan của cọng bông súng làm cho món lẩu thêm đậm đà và độc đáo.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-048.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-048.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 _Cháo hàu Long Sơn_
 
@@ -193,7 +193,7 @@ _Gỏi cá mai_
 
 Ngoài những món hải sản quen thuộc như ốc, ghẹ, mực… món gỏi cá mai cũng trở thành đặc sản Vũng Tàu dù hơi khó ăn với người thử lần đầu. Để có món gỏi cá mai ngon, phải chọn những con cá tươi xanh, đánh vảy rửa sạch, rút xương rồi ướp giấm, chanh, tỏi, ớt để làm chín cá. Sau đó sẽ trộn thính gạo cho thơm.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-049.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-049.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Khi ăn, gỏi được cuốn bánh tráng kèm với ngò rí, húng lủi, húng quế, tía tô, diếp cá, khế chua, chuối xanh…
 
@@ -203,7 +203,7 @@ _Bánh canh_
 
 Bát bánh canh giò heo nóng hổi ăn kèm đĩa rau sống xanh mướt là món ăn khiến nhiều du khách phải nhớ đến khi từng một lần thưởng thức. Đơn giản chỉ gồm sợi bánh, thịt heo và nước dùng nhưng món ăn với sợi bánh dai mềm, nước dùng thanh ngọt, vị đậm đà cũng đủ làm nên thương hiệu lâu bền cho món ăn bình dân này.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-050.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-050.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Người dân đôn hậu ở vùng biển trời Nam của Tổ Quốc chia sẻ bí quyết để có được món ăn ngon đến vậy là nhờ nước dùng được ninh từ cá biển, tôm tươi sẵn có và xương ống.
 
@@ -217,7 +217,7 @@ _Hủ tiếu mỳ_
 
 Tô hủ tiếu mỳ với nước lèo trong vắt đậm đà, miếng sườn trắng mềm được nấu theo công thức riêng tuy đơn giản nhưng lại mang tầm thương hiệu hủ tiếu mỳ đặc trưng rất riêng của thành phố biển Vũng Tàu.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-051.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-051.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Bạn có thể lựa chọn ăn hủ tiếu nước hay khô tùy sở thích và tha hồ chọn loại hủ tiếu hợp khẩu vị như hủ tíu mỳ sườn, hủ tiếu hoành thánh xá xíu, hoành thánh sườn, hủ tiếu mỳ heo viên tôm, hoành thánh thập cẩm… Bạn có thể ăn tại các quán bán hủ tiếu trên đường Trương Công Định, đường 30/4 Lý Tự Trọng… với giá từ 25.000 đồng một tô.
 
@@ -231,8 +231,8 @@ _Hải sản_
 
 Du khách đến đây đừng quên thưởng thức các món hải sản phong phú về chủng loại, đa dạng về giá cả, từ bình dân đến cao cấp.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-052.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-ba-ria-vung-tau-052.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Ở những hàng quán bán hải sản bên hè phố, chỉ cần vài chục nghìn đồng là bạn có thể khoan khoái ngồi thưởng thức một trong các món: ốc len xào dừa, nghêu hấp, hàu nướng mỡ hành… cho đến tôm, cua, ghẹ, mực… Bạn hãy ghé đến các quán nổi tiếng trên đường Nam Kỳ Khởi Nghĩa, Trần Phú, Trần Hưng Đạo, khu Sao Mai, Lê Hồng Phong, Nguyễn Thái Học… ở thành phố Vũng Tàu để nhâm nhi cùng bạn bè.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

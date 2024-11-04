@@ -3,7 +3,7 @@ pubDatetime: 2021-09-06T10:10:00Z
 title: Cẩm nang du lịch Nam Định
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0642.jpg
+image: https://nhavantuonglai.com/image/cover/001-642.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -29,7 +29,7 @@ Trung tâm thành phố Nam Định là địa điểm đầu tiên du khách d�
 
 Đền Trần là một quần thể đền thờ nằm ở đường Trần Thừa, phường Lộc Vượng, ngoại ô thành phố. Đây là nơi thờ cúng các vua Trần cùng quan lại có công phù tá. Ngày nay, đây là nơi chiêm bái của các tín đồ hành hương và du khách cả nước. Rằm tháng giêng là thời điểm đông khách thập phương ghé thăm nơi này nhất, vì tham gia lễ Khai Ấn nổi tiếng. Sự kiện này diễn ra từ đêm 14 tháng giêng âm lịch, với nghi thức dâng hương, rước kiệu với nghi thức khai ấn là quan trọng nhất. Đoàn rước đến đền Thiên Trường đúng giờ Tý (23h).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-432.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-432.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
 
 Nghi thức này bắt đầu vào năm 1239, tại phủ Thiên Trường, vua Trần mở tiệc chiêu đãi và phong chức cho những quan quân có công, cầu mong cho thiên hạ thái bình, mọi nhà chung hưởng lộc ấn đền Trần _Tích phúc vô cương._ Tuy nhiên, nhiều người đã hiểu sai rằng xin ấn để được thăng quan tiến chức.
 
@@ -55,7 +55,7 @@ Tới đây, du khách sẽ được tham quan các mô hình nhà ở thời x�
 
 Du khách có thể thực hiện một tour tham quan các nhà thờ nổi tiếng và thực hiện các bộ ảnh theo phong cách châu Âu. Điểm đến gồm: Tòa giám mục Bùi Chu; Đền thánh Kiên Lao; Nhà thờ Trung Linh Tiểu vương cung thánh đường Phú Nhai; Giáo xứ Thánh Danh; nhà thờ Lớn ở Thành phố và nhà thờ Khoái Đồng… Phần lớn các địa điểm trên đều nằm ở huyện Xuân Trường.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-433.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-433.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
 
 Phần lớn các nhà thờ đều nằm ở huyện Xuân Trường. Ảnh: Duy Nghĩa – Minh Quang.
 
@@ -69,7 +69,7 @@ Du khách có thể qua đêm tại các khách sạn ở trung tâm thành ph�
 
 Nhắc đến Nam Định là nhắc đến phở bò nổi tiếng. _Quê Phở_ nằm ở làng Giao Cù, xã Đồng Sơn, huyện Nam Trực, cách thành phố Nam Định 14 km. Đây là làng nghề làm bánh phở lâu năm. Nguyên liệu là gạo chiêm của vụ trước để hết nhựa, đem nghiền bằng cối xay đá rồi tráng mỏng trên nồi nước quạt than củi. Bánh phở ở đây trắng, dai và thơm. Nước phở ninh từ xương bò, mắm ngon và sá sùng, hành khô…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-434.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-434.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
 
 Phở xíu cũng là một gợi ý đáng để thử. Xíu là cách đọc rút gọn của món thịt xá xíu trong ẩm thực Trung Quốc, phần thịt lợn có một lớp mỡ mỏng bao quanh, được tẩm ướp húng lìu, ngũ vị hương, rượu mai quế lộ, dầu điều… rồi đem rán.
 
@@ -91,8 +91,8 @@ Bánh nhãn Hải Hậu khiến nhiều người nhầm tưởng được làm t
 
 Ngoài ra, thực khách có thể ghé thăm chợ Ngõ Ngang, gần sân vận động Thiên Trường để thưởng thức các món nổi tiếng khác như bún tóp mỡ (hay bún sung), bún đũa, phở xíu, bánh bèo và bánh cuốn. Giá mỗi món từ 10.000 đồng. Nem ốc móng tay ở Giao Thủy cũng là một món ăn du khách nên thử.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-435.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-nam-dinh-435.jpg" alt="cam-nang-du-lich-nam-dinh" height=100% width=100%><figcaption><p>cam-nang-du-lich-nam-dinh-nhavantuonglai</p></figcaption></figure>
 
 Thành phố Nam Định có rất nhiều quán cà phê đẹp. Một trong những điểm hẹn được giới trẻ yêu thích là SKY18 Coffee & Tea, quán café cao nhất tại thành phố nằm trên tầng 26 một tòa nhà. Với góc nhìn rộng và thoáng, thực khách đến đây có thể ngắm toàn cảnh thành phố. Menu của quán phong phú, với hơn 70 loại đồ uống, giá 30.000-50.000 đồng một món. Được yêu thích nhất tại đây là set trà hoa quả trang trí bắt mắt, có tác dụng detox, hương vị thơm ngon.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

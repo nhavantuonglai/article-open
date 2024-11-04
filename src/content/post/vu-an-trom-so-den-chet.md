@@ -3,7 +3,7 @@ pubDatetime: 2024-03-30T10:10:00Z
 title: Gia chủ bị kiện vì dọa trộm sợ đến chết
 description: Bực tức vì liên tục bị mất cắp, Tôn mua bánh pháo đặt ở vườn, dọa kẻ đột nhập, không ngờ hắn bị yếu tim, giật mình vì tiếng pháo và chết tại chỗ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg
+image: https://nhavantuonglai.com/image/cover/001-149.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -47,4 +47,4 @@ Hồ bị kinh động dẫn đến đột tử có liên quan bệnh tật củ
 
 Cuối cùng, tòa án trung cấp thành phố Nam Dương bác yêu cầu của phía người nhà Hồ đưa ra.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0149.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-149.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

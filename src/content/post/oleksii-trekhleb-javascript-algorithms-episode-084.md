@@ -3,7 +3,7 @@ pubDatetime: 2018-08-05T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Rail rence cipher)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0584.jpg
+image: https://nhavantuonglai.com/image/cover/001-584.jpg
 tags:
   - developer
   - github
@@ -39,4 +39,4 @@ W . . . E . . . C . . . R . . . L . . . T . . . E
 
 It's time to start populating the next rail once the number of visited fence positions is equal to the number of characters in the message.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

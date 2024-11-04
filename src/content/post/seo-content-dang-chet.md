@@ -3,7 +3,7 @@ pubDatetime: 2023-05-03T10:10:00Z
 title: Content Marketing đang chết
 description: Hãy bắt đầu từ SEO, là những gì bạn làm để nội dung trên website hiển thị trên Google. 10 năm trước, chỉ cần một vài từ khóa vào bài, backlink hợp lý thì bài viết đã xuất hiện…
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0377.jpg
+image: https://nhavantuonglai.com/image/cover/001-377.jpg
 tags:
   - viet lach
   - doan van
@@ -111,4 +111,4 @@ Bạn có thể chia sẻ kiến ​​thức và kinh nghiệm của bạn đ�
 
 Bạn có thể sáng tạo và bán các sản phẩm số như sách điện tử, podcast, video, ứng dụng di động, game… Bạn có thể sử dụng các kênh như Amazon Kindle Direct Publishing (KDP), Spotify.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-307.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

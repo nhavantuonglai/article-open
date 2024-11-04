@@ -3,7 +3,7 @@ pubDatetime: 2024-03-22T10:10:00Z
 title: Vụ án mạng gây rúng động vì sự vô cảm của nhân chứng
 description: Bị kẻ sát nhân hàng loạt tấn công ngay trước nhà, Kitty Genovese kêu cứu nhưng nhiều hàng xóm không muốn bị liên lụy, dẫn đến cái chết của cô, năm 1964.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0232.jpg
+image: https://nhavantuonglai.com/image/cover/001-232.jpg
 tags:
   - thu vien
   - toi pham hoc
@@ -73,4 +73,4 @@ Hội đồng ân xá nhiều lần từ chối trả tự do cho Winston, bởi
 
 Vụ sát hại Kitty được tái hiện trong nhiều cuốn sách như Thirty-Eight Witnesses: The Kitty Genovese Case (1964), Kitty Genovese: The Murder, The Bystanders, The Crime That Changed America (2014), _No One Helped:_ Kitty Genovese, New York City, and the Myth of Urban Apathy (2015) và phim tài liệu The Witness (2015).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

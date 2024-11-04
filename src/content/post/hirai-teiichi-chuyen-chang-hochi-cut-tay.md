@@ -3,7 +3,7 @@ pubDatetime: 2006-02-19T10:10:00Z
 title: Hirai Teiichi | Truyện chàng Hoichi cụt tai
 description: Cách đây hơn bảy trăm năm, vùng Dan no Ura ngang eo biển Shimonoseki là nơi xảy ra trận quyết chiến giữa hai giòng họ Minamoto và Taira.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - thu vien
   - van hoc
@@ -113,4 +113,4 @@ Hòa thượng không cầm được tiếng than. "Trăm sự cũng tại ta b�
 
 Nhờ lương y tận tâm, chẳng bao lâu, vết thương của Hôichi đã lành lặn. Câu chuyện kinh dị xảy đến cho chàng mù được đồn đãi nhanh chóng, danh tiếng chàng nổi lên như cồn. Bao nhiêu nhà giàu có cao quí đua nhau tới vùng Akamagaseki để thưởng thức ngón đàn của chàng, thi nhau cho vàng tặng lụa. Chẳng mấy lúc Hôichi trở thành giàu có. Thế nhưng vì câu chuyện quái dị kể trên mà Hôichi mang cái hỗn danh là "chàng Hôichi cụt tai".
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

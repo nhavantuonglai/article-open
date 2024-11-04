@@ -3,7 +3,7 @@ pubDatetime: 2022-12-01T10:10:00Z
 title: Giới thiệu máy ảnh Sony Alpha A6000
 description: Năm nay, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A6000 với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0494.jpg
+image: https://nhavantuonglai.com/image/cover/001-494.jpg
 tags:
   - affiliate
   - may anh
@@ -34,11 +34,11 @@ Bộ xử lý ảnh™ BIONZ X.
 
 Ghi các phim Full HD ở định dạng XAVC S15 tốc độ bit 50Mbps.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-01.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-01.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-02.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-02.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-02.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-6400-02.jpg" alt="Sony A6000" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 ### Thân máy bằng hợp kim Magie
 
@@ -186,4 +186,4 @@ Với thiết kế vỏ bảo vệ hai lớp cùng các nút điều chỉnh và
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-354.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

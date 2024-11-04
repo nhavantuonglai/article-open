@@ -3,7 +3,7 @@ pubDatetime: 2021-08-10T10:10:00Z
 title: Cẩm nang du lịch Đà Lạt
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0616.jpg
+image: https://nhavantuonglai.com/image/cover/001-616.jpg
 tags:
   - cam nang du lich
   - du lich tay nguyen
@@ -61,7 +61,7 @@ Du khách có con nhỏ thích [khám phá các loài thú](https://info.nhavant
 
 Ngoài ra, vườn hoa thành phố, vườn [cẩm tú cầu](https://info.nhavantuonglai.com/topick) ở Trại Mát, [vườn oải hương](https://info.nhavantuonglai.com/topick) hồ Tuyền Lâm, làng hoa Vạn Thành… cũng là điểm check-in không thể bỏ qua ở Đà Lạt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-da-lat-198.jpg" alt="cam-nang-du-lich-da-lat" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-lat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-da-lat-198.jpg" alt="cam-nang-du-lich-da-lat" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-lat-nhavantuonglai</p></figcaption></figure>
 
 ## Ăn uống
 
@@ -79,4 +79,4 @@ Ngoài những món ăn đặc trưng trên, đến Đà Lạt du khách dạo c
 
 Người mê cà phê sẽ nhận ra Đà Lạt cũng là thiên đường của đồ uống này. Không chỉ pha chế cà phê ngon, những hàng quán ở đây còn được không gian hấp dẫn với rất nhiều phong cách riêng. Du khách có thể thưởng thức [cà phê ẩn trong rừng](https://info.nhavantuonglai.com/topick), [phong cách Nhật Bản](https://info.nhavantuonglai.com/topick), [check-in với gương](https://info.nhavantuonglai.com/topick)…
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

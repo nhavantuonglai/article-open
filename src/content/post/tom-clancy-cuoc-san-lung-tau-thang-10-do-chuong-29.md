@@ -3,7 +3,7 @@ pubDatetime: 2018-09-29T10:10:00Z
 title: Tom Clancy | Cuộc săn lùng tàu tháng 10 đỏ (Chương 29)
 description: Cuộc săn lùng tàu tháng 10 đỏ (The hunt for the Red October) là tiểu thuyết tình báo của Tom Clancy, xuất bản lần đầu tiên vào năm 1984 và được chuyển thể thành phim cùng tên vào năm 1990.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0129.jpg
+image: https://nhavantuonglai.com/image/cover/001-129.jpg
 tags:
   - thu vien
   - van hoc
@@ -297,6 +297,6 @@ Sau cùng thì tàu USS ETHAN ALLEN đã ra khơi lúc 23.45 mà không gặp b�
 
 Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 33](https://nhavantuonglai.com/article/tom-clancy-cuoc-san-lung-tau-thang-10-do-chuong-33) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://data.nhavantuonglai.com/ebook/tom-clancy-cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://nhavantuonglai.com/ebook/tom-clancy-cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

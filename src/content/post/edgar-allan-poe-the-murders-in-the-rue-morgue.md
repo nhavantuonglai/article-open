@@ -3,7 +3,7 @@ pubDatetime: 2006-02-09T10:10:00Z
 title: Edgar Allan Poe | Vụ án mạng đường Morgue
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0544.jpg
+image: https://nhavantuonglai.com/image/cover/001-544.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -281,4 +281,4 @@ _Để anh ấy nói,_ Dupin nói, người không thấy cần phải phản h�
 
 Tôi nói đến cách anh ấy đã _de nier ce qui est, et d'expliquer ce qui n'est pas._ (Phủ nhận những gì có và giải thích những gì không).
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

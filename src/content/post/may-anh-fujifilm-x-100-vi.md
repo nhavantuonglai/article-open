@@ -3,7 +3,7 @@ pubDatetime: 2022-10-22T10:10:00Z
 title: Máy ảnh Fujifilm X100 VI
 description: Máy ảnh Mirrorless Digital Fujifilm X100 VI sở hữu con chip cảm biến X-Trans CMOS II APS-C 16,3MP độc quyền cùng bộ xử lý hình ảnh EXR II mạnh mẽ. Fujfilim X100 VI được cấu tạo bằng hợp kim magie nhẹ và bền.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0393.jpg
+image: https://nhavantuonglai.com/image/cover/001-393.jpg
 tags:
   - affiliate
   - affiliate
@@ -162,4 +162,4 @@ Ngoài ra với kết nối không dây, Fujifilm X100 VI cho phép điều khi�
 
 – Trọng Lượng: 556 g.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0302.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-302.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

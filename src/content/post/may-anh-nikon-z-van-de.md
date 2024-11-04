@@ -3,7 +3,7 @@ pubDatetime: 2022-11-30T10:10:00Z
 title: Các vấn đề thường gặp với Nikon Z series theo nhiếp ảnh gia
 description: Nikon Z8 là một thiết bị cao cấp được thiết kế để đáp ứng nhu cầu của những người sáng tạo nội dung hiện đại. Với cảm biến full-frame 24,5MP và bộ xử lý hình ảnh EXPEED 7 mạnh mẽ, máy ảnh này mang lại chất lượng hình ảnh xuất sắc.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0397.jpg
+image: https://nhavantuonglai.com/image/cover/001-397.jpg
 tags:
   - affiliate
   - may anh
@@ -101,4 +101,4 @@ Hiện tại, thông tin cụ thể về Nikon Z9 vẫn chưa được công b�
 
 Tuy nhiên, đây chỉ là các dự đoán dựa trên các kinh nghiệm từ các mẫu máy ảnh trước đó và không thể xác định chính xác vấn đề mà người dùng có thể phàn nàn về Nikon Z9 cho đến khi sản phẩm được phát hành và sử dụng rộng rãi.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

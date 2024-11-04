@@ -3,7 +3,7 @@ pubDatetime: 2010-07-17T10:10:00Z
 title: Montague Rhodes James | Giếng thở than (Chương 27)
 description: Montague Rhodes James à tác giả của những tập truyện ma kinh điển nổi tiếng nhất và có ảnh hưởng nhất trong văn học viết bằng tiếng Anh, một trong số đó chính là tác phẩm Giếng thở than.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0627.jpg
+image: https://nhavantuonglai.com/image/cover/001-627.jpg
 tags:
   - montague rhodes james
   - gieng tho than
@@ -102,6 +102,6 @@ Có tiếng sột soạt khe khẽ ở khung cửa sổ. John Poole hoảng ngư
 
 Đọc [Giếng thở than, chương 30](https://nhavantuonglai.com/article/montague-rhodes-james-gieng-tho-than-chuong-30) tại đây.
 
-Đọc [Giếng thở than, toàn tập](https://data.nhavantuonglai.com/ebook/montague-rhodes-james-gieng-tho-than.pdf) tại đây.
+Đọc [Giếng thở than, toàn tập](https://nhavantuonglai.com/ebook/montague-rhodes-james-gieng-tho-than.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="Giếng thở than." title="Giếng thở than." height=100% width=100%><figcaption><p>Giếng thở than.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="Giếng thở than." title="Giếng thở than." height=100% width=100%><figcaption><p>Giếng thở than.</p></figcaption></figure>

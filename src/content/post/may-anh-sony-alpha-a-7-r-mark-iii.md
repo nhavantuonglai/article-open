@@ -3,7 +3,7 @@ pubDatetime: 2022-12-14T10:10:00Z
 title: Giới thiệu và đánh giá máy ảnh Sony A7R Mark III
 description: Năm nay, Sony đem đến cho người hâm mộ phiên bản nâng cấp trên chiếc Sony Alpha A7R Mark III với những tính năng mạnh mẽ. Lần đầu tiên trên thế giới, Sony đem khả năng chống rung 5 trục lên chiếc máy Mirrorless full-frame của họ. Bên cạnh đó, một vài thay đổi trong thiết kế giúp việc thao tác trở nên thuận tiện hơn.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0412.jpg
+image: https://nhavantuonglai.com/image/cover/001-412.jpg
 tags:
   - affiliate
   - may anh
@@ -28,19 +28,19 @@ Sony A7R Mark III giữ lại nhiều nét đặc trưng từ dòng A7 trước 
 
 Bố trí các nút điều khiển trên Sony A7R Mark III được thiết kế hợp lý, với các nút và bánh xe điều chỉnh được đặt ở những vị trí dễ tiếp cận. Đặc biệt, nút AF-ON và cần gạt lấy nét đã được cải tiến để dễ dàng sử dụng hơn, giúp người dùng có thể nhanh chóng lấy nét và chụp ảnh mà không cần rời mắt khỏi kính ngắm. Kính ngắm điện tử OLED Tru-Finder với độ phân giải cao cũng là một điểm mạnh của Sony A7R Mark III, cung cấp hình ảnh rõ nét và màu sắc chính xác, hỗ trợ tốt cho việc chụp ảnh và quay video.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-01.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-01.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-02.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-02.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-03.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-03.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-04.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-04.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-05.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-05.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Cấu hình Sony A7R Mark III
 
@@ -48,15 +48,15 @@ Sony A7R Mark III được trang bị bộ vi xử lý hình ảnh BIONZ X nâng
 
 Hệ thống lấy nét tự động của Sony A7R Mark III được cải tiến đáng kể so với người tiền nhiệm, với 399 điểm lấy nét theo pha và 425 điểm lấy nét theo tương phản, giúp tăng độ chính xác và tốc độ lấy nét. Khả năng chụp liên tiếp của máy cũng được nâng lên đến 10 khung hình mỗi giây với tính năng AF/AE tracking, mang lại sự linh hoạt cho những tình huống chụp ảnh nhanh hoặc chụp ảnh thể thao.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-06.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-07.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-08.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-08.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-09.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-09.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-10.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-10.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ### Thông số cấu hình
 
@@ -138,19 +138,19 @@ Hệ thống lấy nét tự động của Sony A7R Mark III được cải ti�
 
 – Trọng lượng: 657g (bao gồm pin và thẻ nhớ).
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-11.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-11.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-12.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-12.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-13.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-13.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-14.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-14.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-15.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-15.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Cảm biến và chất lượng ảnh Sony A7R Mark III
 
@@ -158,15 +158,15 @@ Cảm biến CMOS Exmor R 42.4 megapixel của Sony A7R Mark III tiếp tục l�
 
 Chất lượng ảnh của Sony A7R Mark III thực sự ấn tượng với khả năng tái tạo màu sắc chính xác và dải động rộng, cho phép người dùng chụp được những bức ảnh có chiều sâu và chân thực. Khả năng xử lý nhiễu cũng rất tốt, đặc biệt khi chụp ở các mức ISO cao. Điều này khiến cho Sony A7R Mark III trở thành một công cụ lý tưởng cho những ai muốn chụp ảnh phong cảnh, chân dung hoặc những bối cảnh có sự chênh lệch lớn về độ sáng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-16.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-17.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-18.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-18.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-19.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-19.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-20.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-20.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Đánh giá Sony A7R Mark III từ chuyên gia
 
@@ -174,15 +174,15 @@ Sony A7R Mark III đã nhận được nhiều lời khen ngợi từ các chuy�
 
 Chuyên gia nổi tiếng khác, Jason Lanier, cũng đã nhận xét rằng Sony A7R Mark III là một trong những máy ảnh tốt nhất trên thị trường vào thời điểm ra mắt. Ông đặc biệt ấn tượng với khả năng xử lý nhiễu của máy, cũng như chất lượng ảnh tuyệt vời ngay cả trong điều kiện ánh sáng yếu. Jason tin rằng Sony A7R Mark III là một lựa chọn lý tưởng cho những ai yêu cầu chất lượng ảnh cao và khả năng hoạt động linh hoạt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-21.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-21.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-22.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-22.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-23.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-23.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-24.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-24.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-25.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-25.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Đánh giá Sony A7R Mark III từ người dùng
 
@@ -194,18 +194,18 @@ Tuy nhiên, một số người dùng cũng bày tỏ sự không hài lòng v�
 
 Tính đến năm 2024, Sony A7R Mark III vẫn giữ được giá trị của mình trên thị trường, với mức giá dao động từ 1,500 đến 2,000 USD, tùy thuộc vào tình trạng máy và phụ kiện đi kèm. Đây vẫn là một mức giá khá hợp lý cho một chiếc máy ảnh có cảm biến full-frame với nhiều tính năng tiên tiến như Sony A7R Mark III. Việc giữ giá ổn định sau nhiều năm ra mắt chứng tỏ sự bền bỉ và chất lượng vượt trội của Sony A7R Mark III trong lòng người dùng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-26.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-26.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-27.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-27.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-28.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-a-7-r-mark-ii-28.jpg" alt="sony alpha a7r mark iii" title="sony alpha a7r mark iii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 ## Sony A7R Mark III trong 2024 có còn giá trị hay không?
 
 Trong năm 2024, Sony A7R Mark III vẫn giữ được giá trị của mình như một chiếc máy ảnh full-frame đa năng và mạnh mẽ. Với chất lượng ảnh tuyệt vời, tốc độ chụp nhanh và khả năng lấy nét chính xác, Sony A7R Mark III vẫn là một công cụ lý tưởng cho các nhiếp ảnh gia chuyên nghiệp và những người đam mê nhiếp ảnh. Tuy nhiên, nếu bạn cần một chiếc máy ảnh với thời lượng pin tốt hơn, khả năng quay video 4K chất lượng cao hơn, hoặc muốn trải nghiệm các tính năng hiện đại hơn, thì có thể cân nhắc đến các dòng máy mới như Sony A7RIV hoặc Sony A7SIII.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/may-anh-sony-alpha-7-r.jpg" alt="so sanh sony alpha a7r mark ii" title="so sanh sony alpha a7r mark ii" height=100% width=100%><figcaption><p>sony alpha a7 mark ii</p></figcaption></figure>
 
 Nếu bạn đang tìm kiếm một chiếc máy ảnh với độ phân giải cao và chất lượng ảnh xuất sắc mà không cần phải chi quá nhiều tiền, thì Sony A7R Mark III vẫn là một lựa chọn đáng giá. Tuy nhiên, nếu nhu cầu của bạn là quay video chuyên nghiệp hoặc chụp ảnh với tốc độ cực nhanh, thì việc nâng cấp lên các mẫu máy mới hơn là điều nên xem xét.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

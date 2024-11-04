@@ -3,7 +3,7 @@ pubDatetime: 2024-03-08T10:10:00Z
 title: Loạt án mạng bí ẩn trong bộ tộc da đỏ giàu nhất hành tinh
 description: Những năm 1920, người thuộc bộ tộc Osage ở Oklahoma thành triệu phú nhờ dầu mỏ song bỗng mất tích hàng loạt hoặc chết bí ẩn, để lại tài sản khổng lồ vào tay bạn đời người da trắng.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0519.jpg
+image: https://nhavantuonglai.com/image/cover/001-519.jpg
 tags:
   - thu vien
   - ngan hang
@@ -76,4 +76,4 @@ Ernest được ân xá vào năm vợ mất. Ra tù, anh ta tiếp tục cướ
 
 Vụ án tạo cảm hứng cho hàng loạt tác phẩm văn hóa đại chúng, trong đó có cuốn _Killers of the Flower Moon,_ của nhà báo David Grann. Năm 2023, cuốn sách được chuyển thể thành bộ phim cùng tên, dưới tay đạo diễn lừng danh Martin Scorsese, với sự góp mặt của hai tài tử Leonardo DiCaprio (vai Ernest), Robert de Niro (vai William Hale) và Lily Gladstone đóng vai Mollie.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

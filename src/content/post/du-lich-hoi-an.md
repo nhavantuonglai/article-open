@@ -3,7 +3,7 @@ pubDatetime: 2021-08-22T10:10:00Z
 title: Cẩm nang du lịch Hội An
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0627.jpg
+image: https://nhavantuonglai.com/image/cover/001-627.jpg
 tags:
   - cam nang du lich
   - du lich mien trung
@@ -19,7 +19,7 @@ Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại
 
 Từ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-326.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-326.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 Tháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm.
 
@@ -45,7 +45,7 @@ Homestay ở Hội An cũng mọc lên nhanh chóng những năm gần đây, c�
 
 Một số homestay đẹp được các bạn trẻ truyền tai nhau là Maison de Tau, Under The Coconut Tree, An Bàng Beach Hideaway, Heron House, Le Bleu…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-327.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-327.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu?
 
@@ -61,7 +61,7 @@ Ngoài ra nếu chịu khó tìm kiếm trong các ngõ ngách phố cổ bạn 
 
 Rời trung tâm phố Hội 4-7 km, du khách có thể khám phá các [quán cà phê giữa đồng lúa](https://info.nhavantuonglai.com/topick) như Roving Chillhouse, Cà phê Xóm Chiêu, Cà phê Lò Gạch Cũ… để tận hưởng không khí trong lành.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-328.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-328.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ### Phố cổ
 
@@ -69,7 +69,7 @@ Chỉ riêng khu phố cổ Hội An cũng là một nơi đi mỏi chân cũng 
 
 Với vé tham quan giá 80.000 đồng cho một người giá trị trong 24h bạn có cơ hội tham quan ba trong số những điểm di tích nổi bật nhất ở phố cổ. Đó là Chùa Cầu, các hội quán Phúc Kiến, Quảng Triệu, Hải Nam, Triều Châu, các nhà cổ Quân Thắng, Đức An, Phùng Hưng, Tấn Ký… Ngoài ra vé tham quan cũng bao gồm các hoạt động nghệ thuật đường phố, trò chơi dân gian, chợ đêm… diễn ra sau 7 giờ tối.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-329.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-329.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 Các hoạt động trên sông Hoài thường nhộn nhịp nhất từ 18h đến 22h. Để đi thuyền, bạn thuê 200.000 đồng một thuyền và mua hoa đăng thả với giá 10.000 đồng một chiếc.
 
@@ -83,7 +83,7 @@ _Bãi biển Hà My_ năm 2017 được báo Anh _Telegraph_ chọn là một tr
 
 _Bãi biển Cửa Đại_ là một điểm đến quen thuộc của Hội An, năm 2013 đã được _Tripadvisor_ bình chọn vào top 25 bãi biển đẹp nhất châu Á. Cửa Đại nằm cách trung tâm Hội An 5 km, là bãi tắm rộng khoảng vài chục ha với bãi cát trắng mịn, nước trong xanh, sóng nhỏ. Du khách có thể nằm hàng giờ trên cát để tắm nắng, nghe sóng vỗ rì rào, hoặc đi câu cá gần bờ, thuê thuyền đi lênh đênh cùng dân chài, hay tham gia các môn thể thao dưới nước…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-330.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-330.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ### Cù Lao Chàm
 
@@ -95,7 +95,7 @@ Không chỉ cung cấp dịch vụ ăn, ngủ, nghỉ, những nhà nghỉ và 
 
 Những điểm tham quan là Nhà bảo tàng biển Cù Lao Chàm, Chùa Hải Tạng, Giếng cổ Chăm, Chợ Tân Hiệp, đảo Yến, miếu tổ nghề Yến, bãi Đá Chồng…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-331.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-331.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ### Làng nghề
 
@@ -103,7 +103,7 @@ _Làng rau Trà Quế_ nổi tiếng với các loại rau tươi ngon được 
 
 Du khách còn được trải nghiệm cuộc sống nông dân thực thụ khi tự tay xới đất, ươm trồng và thu hoạch các loại rau. Sau đó là thưởng thức đặc sản Hội An chế biến cùng các loại tươi ngon vừa thu hoạch như bánh vạc, hến trộn, tôm hữu, mì Quảng, cao lầu…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-332.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-332.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 _Làng gốm Thanh Hà_ có từ cuối thế kỷ 15, nằm cách phố cổ Hội An khoảng 3 km về phía tây, ngay cạnh sông Thu Bồn. Các sản phẩm của làng không chỉ có nồi niêu, gạch ngói, chén đĩa, mà còn có nhiều đồ lưu niệm độc đáo. Khách tới làng vừa được tìm hiểu về nghề vừa tự tay nhào nặn làm sản phẩm gốm riêng cho mình.
 
@@ -113,7 +113,7 @@ _Làng đúc đồng Phước Kiều_ có tuổi đời lên tới 400 năm. Đ�
 
 _Làng du lịch cộng đồng Cẩm Phú_ ở xã Điện Phong, thị xã Điện Bàn, nằm cách Hội An khoảng 15 km là vùng đất sở hữu nhiều giá trị văn hóa, nghề truyền thống độc đáo như điêu khắc gỗ, trồng hoa, ươm tơ dệt lụa, nuôi tằm… Du khách thăm làng sẽ được trải nghiệm khung cảnh đồng quê, tham quan các xưởng mộc, dệt, xem dân trình diễn bắt tôm cá trên sông Thu Bồn…
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-333.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-333.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ### Rừng dừa Bảy Mẫu
 
@@ -121,9 +121,9 @@ Từ trung tâm phố cổ Hội An, men theo dọc bờ sông Hoài hơn 3 km l
 
 Ngoài đi thuyền thúng, du khách còn được xem biểu diễn múa thuyền, hướng dẫn làm những đồ chơi nhỏ xinh bằng lá dừa nước như bông hoa, con cào cào, vòng tay, mắt kính, nhẫn, hay mũ… làm quà lưu niệm. Nếu đến Bảy Mẫu vào tháng 8 âm lịch, du khách sẽ được thưởng thức quả dừa nước chín với lớp cùi giòn và ngọt.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-334.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-334.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-335.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-335.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 ### Lịch trình tham khảo
 
@@ -137,7 +137,7 @@ Ngoài đi thuyền thúng, du khách còn được xem biểu diễn múa thuy�
 
 ## Đặc sản
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-336.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-336.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 Tới Hội An du khách không bao giờ sợ đói và thiếu lựa chọn đồ ăn. Từ sáng sớm tới tối khuya phố Hội luôn đầy ắp hàng quán mở đón khách ăn uống tấp nập. Giá cả còn rất _dễ chịu_ với các món chè bán vỉa hè chỉ 5.000 – 10.000 đồng một cốc, bánh mì giá 15.000 – 25.000 đồng một ổ hay tô cao lầu, mì Quảng chỉ 25.000 đồng.
 
@@ -151,11 +151,11 @@ _Đèn lồng_ là món quà gắn liền với Hội An. Bạn nên tìm mua �
 
 _Tượng đồng_ được bày bán khắp nơi trong phố cổ, giá từ 130.000 đến 350.000 đồng tùy kích cỡ. Đây đều là sản phẩm của làng đúc đồng Phước Kiều nức tiếng Hội An.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-337.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-337.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 _Tò he đất_ là một sản phẩm từ làng gốm Thanh Hà, Hội An. Không có mẫu mã đa dạng nhưng đây vẫn là đồ lưu niệm được ưa chuộng vì giá rẻ, khoảng 5.000 đồng.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-338.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-hoi-an-338.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
 Làng nghề phố Hội còn nổi tiếng với _đồ khắc gỗ._ Nghệ nhân chế tác đều xuất thân từ làng mộc Kim Bồng, một số mở hẳn xưởng chế tác trực tiếp trong phố cổ. Giá một món đồ dao động từ 120.000 đến 300.000 đồng.
 
@@ -163,4 +163,4 @@ _Lụa tơ tằm_ Hội An có đặc điểm thoáng mát, nhẹ và mềm mạ
 
 Nếu muốn mua đồ ăn Hội An làm quà, gợi ý cho bạn là _bánh đậu xanh, bánh thuẫn, bánh phu thê, tương ớt_ cũng là lựa chọn hay.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

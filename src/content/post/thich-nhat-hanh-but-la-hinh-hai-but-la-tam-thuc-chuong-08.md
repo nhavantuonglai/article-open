@@ -3,7 +3,7 @@ pubDatetime: 2013-04-08T10:10:00Z
 title: Thích Nhất Hạnh | Bụt là hình hài, Bụt là tâm thức (Chương 08)
 description: Thiền sư Thích Nhất Hạnh là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân, khai sáng chánh niệm giúp con người tĩnh tâm, hạnh phúc và hòa hợp với thiên nhiên.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0526.jpg
+image: https://nhavantuonglai.com/image/cover/001-526.jpg
 tags:
   - thu vien
   - van hoc
@@ -181,6 +181,6 @@ Bốn yếu tố của tình thương chân thật là matri (từ), karuna (bi)
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/thich-nhat-hanh-but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://data.nhavantuonglai.com/ebook/thich-nhat-hanh-but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://nhavantuonglai.com/ebook/thich-nhat-hanh-but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

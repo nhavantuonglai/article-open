@@ -3,7 +3,7 @@ pubDatetime: 2021-08-13T10:10:00Z
 title: Cẩm nang du lịch Đồng Văn
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0619.jpg
+image: https://nhavantuonglai.com/image/cover/001-619.jpg
 tags:
   - cam nang du lich
   - du lich mien bac
@@ -21,7 +21,7 @@ _Huyện Đồng Văn có hai thị trấn là Đồng Văn và Phó Bảng, cù
 
 Tại thị trấn Đồng Văn, du khách có thể thuê xe máy với giá khoảng 100.000 đồng một ngày.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-245.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-245.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 ## Lưu trú
 
@@ -39,7 +39,7 @@ Nằm trong vùng lõi của công viên địa chất toàn cầu cao nguyên �
 
 Dốc Thẩm Mã
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-246.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-246.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 Dốc Thẩm Mã là đường đèo nằm trên quốc lộ 4C, tiếp giáp giữa huyện Yên Minh và Đồng Văn. Con dốc được biết đến là một trong những cung đường nguy hiểm nhất miền Bắc, dài 5 km với 9 khúc quanh uốn lượn. Cũng chính vì lý do này mà nhiều người thích chinh phục dốc Thẩm Mã. Dừng chân tại đây, nơi có góc chụp ảnh cực đẹp, bạn sẽ có cơ hội nghe nhiều huyền thoại về con dốc này.
 
@@ -53,7 +53,7 @@ Sông Nho Quế
 
 Sông Nho Quế bắt nguồn từ Vân Nam, Trung Quốc chảy theo hướng tây bắc – đông nam, qua các huyện Đồng Văn, [Mèo Vạc](https://nhavantuonglai.com/article/du-lich-meo-vac) thuộc địa phận tỉnh Hà Giang để nhập vào sông Gâm ở Cao Bằng. Sông Nho Quế phần chảy vào Việt Nam dài 46 km, từ Lũng Cú qua hẻm núi Tu Sản và sau đó chạy dọc theo đèo Mã Pí Lèng. Một điểm đặc sắc của sông là phần lớn thời gian trong năm, nước có màu xanh ngọc. Những năm gần đây, các công ty du lịch tại địa phương cung cấp dịch vụ đi thuyền ngắm cảnh hoặc chèo kayak cho du khách. Giá thuê từ 50.000 đồng đến 150.000 đồng một thuyền, tùy loại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-247.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-247.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 Lưu ý: Để tới được bến thuyền, du khách sẽ phải vượt quãng đường ngoằn ngoèo. Nên thuê người địa phương có tay lái vững và quen đường chở đi.
 
@@ -63,7 +63,7 @@ Cột cờ nằm ở đỉnh Lũng Cú hay còn gọi là đỉnh núi Rồng c�
 
 Cánh đồng hoa tam giác mạch Sủng Là
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-248.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-248.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 Cách thị trấn Đồng Văn gần 20 km, xã Sủng Là có khung cảnh như cổ tích, nằm dưới những vách núi đá tai mèo. Đồng bào dân tộc Mông ở Sủng Là thường trồng tam giác mạch ở các triền đồi cao, nên nơi này được xem là một trong những điểm ngắm hoa đẹp nhất tại [Hà Giang](https://nhavantuonglai.com/article/du-lich-ha-giang). Thời điểm lý tưởng nhất là từ tháng 10 đến tháng 11.
 
@@ -73,7 +73,7 @@ Cũng nằm tại xã Sủng Là, _Nhà của Pao_ thực chất là căn nhà c
 
 Điểm đến này thu phí 10.000 đồng với mỗi khách du lịch.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-249.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-249.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 Thị trấn Phó Bảng
 
@@ -89,7 +89,7 @@ Món ăn ở Đồng Văn cũng chính là những món ăn tiêu biểu ở Hà
 
 Cháo ấu tẩu
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-250.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-250.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 [Cháo ấu tẩu](https://info.nhavantuonglai.com/topick) là món ăn đặc trưng ở Hà Giang. Nguyên liệu nấu cháo gồm củ ấu tẩu, gạo, thịt lợn, giò, trứng, rau và một số thứ khác. Ấu tẩu là một loại cây quen thuộc của người địa phương, còn có tên gọi khác là ấu tàu, thủ ô… được trồng nhiều ở vùng cao Hà Giang. Củ ấu tẩu tươi có độc, qua bàn tay chế biến của người dân đã trở thành món ăn ngon miệng. Ấu tẩu còn là một loại dược liệu quý, có tác dụng giải cảm, giãn gân cốt, giảm mệt mỏi, giúp ngủ ngon. Để làm cháo, củ ấu tẩu phải được ngâm trong nước vo gạo đậm đặc khoảng 10 tiếng, sau đó ninh nhiều giờ nữa cho đến khi củ mềm bở, chất độc biến mất.
 
@@ -111,7 +111,7 @@ Trong số những món ăn vặt của Hà Giang, không thể không nhắc đ
 
 Mèn mén
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-251.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/cam-nang-du-lich-dong-van-251.jpg" alt="cam-nang-du-lich-dong-van" height=100% width=100%><figcaption><p>cam-nang-du-lich-dong-van-nhavantuonglai</p></figcaption></figure>
 
 Mèn mén là món ăn dân dã gắn liền với đời sống người bản địa. Vùng cao nguyên đá không canh tác được lúa nên cơm ngô (hay mèn mén) là thực phẩm chính của người Mông. Ban đầu, mèn mén chỉ là một món ăn thường ngày của người dân, dần dần được bán nhiều ở các phiên chợ để giới thiệu nét văn hóa ẩm thực. Để có mèn mén, ngô được phơi thật khô và chế biến qua nhiều công đoạn như giã, loại bỏ cặn, hấp. Mèn mén có vị thơm của ngô, có thể chan nước canh vào ăn cùng.
 
@@ -119,4 +119,4 @@ Cà phê Cực Bắc
 
 Quán cà phê Cực Bắc nằm ở bản Lô Lô Chải, một ngôi làng nhỏ ngay dưới chân cột cờ Lũng Cú, cách biên giới Việt – Trung chưa đầy 1 km, thuộc xã Lũng Cú. Quán do ông Ogura Yasushy, người Nhật từng nhiều năm sinh sống tại Việt Nam và đặc biệt yêu mến [Hà Giang](https://nhavantuonglai.com/article/du-lich-ha-giang), xây dựng. Quán có kiến trúc nhà trình tường mang bản sắc văn hóa người Lô Lô, mộc mạc và cũ kỹ với hàng rào đá, mái lợp ngói âm dương, tường đắp đất và cổng gỗ. Điều đặc biệt là quán không chỉ có cà phê pha phin truyền thống của người Việt Nam mà còn có trà xanh matcha Nhật Bản.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

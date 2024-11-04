@@ -3,7 +3,7 @@ pubDatetime: 2023-10-07T10:10:00Z
 title: Tại sao The Hunt For Red October khiến Hải quân Mỹ sợ hãi?
 description: Bên dưới vùng biển đóng băng của Bắc Đại Tây Dương, một tàu ngầm khổng lồ của Liên Xô, Tháng Mười Đỏ nặng 30.000 tấn, lớn hơn nhiều lần so với bất kỳ tàu ngầm nào của Mỹ, lướt qua vực sâu…
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0293.jpg
+image: https://nhavantuonglai.com/image/cover/001-293.jpg
 tags:
   - thu vien
   - van hoc nuoc ngoai
@@ -100,4 +100,4 @@ Nghe có vẻ như là một thuyết âm mưu đầy màu sắc, mặc dù cự
 
 Bất kể sự thật đằng sau The Hunt for Red October là gì, Tom Clancy chắc chắn biết công cụ của mình.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

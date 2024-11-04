@@ -3,7 +3,7 @@ pubDatetime: 2018-02-10T10:10:00Z
 title: Top 5 gimbal chống rung cho điện thoại tốt nhất 2024
 description: Một chiếc gimbal chống rung cho điện thoại là một gợi ý rất tuyệt để sở hữu những bức hình, video mượt mà. Bởi giờ đây, camera của smartphone chụp ảnh không khác gì một chiếc máy ảnh, máy quay.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0578.jpg
+image: https://nhavantuonglai.com/image/cover/001-578.jpg
 tags:
   - gimbal
   - affiliate
@@ -16,9 +16,9 @@ _Gimbal chống rung cho điện thoại là một thiết bị hỗ trợ quay 
 
 Gimbal chống rung cho điện thoại là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại một cách chuyên nghiệp, ổn định và mượt mà. Gimbal có thể giúp bạn tạo ra những thước phim đẹp, sáng tạo và ấn tượng. Gimbal cũng có nhiều tính năng thông minh và đa dạng, phù hợp với nhiều nhu cầu và mục đích sử dụng khác nhau.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Trong bài viết này, chúng ta sẽ tìm hiểu về gimbal chống rung cho điện thoại, cơ chế hoạt động, các loại gimbal phổ biến và lợi ích của việc sử dụng gimbal.
 
@@ -74,33 +74,33 @@ Bạn đang muốn quay phim, chụp ảnh bằng điện thoại một cách ch
 
 DJI Osmo Mobile 5 là một gimbal chống rung cho điện thoại được sản xuất bởi DJI, một thương hiệu nổi tiếng với các sản phẩm drone và gimbal chất lượng cao. DJI Osmo Mobile 5 là phiên bản nâng cấp của DJI Osmo Mobile 4, với nhiều cải tiến về thiết kế, tính năng và hiệu năng. DJI Osmo Mobile 5 có thiết kế gập gọn, nhẹ và tiện lợi. Gimbal có cơ chế ổn định 3 trục, khả năng nhận diện vật thể thông minh, nút điều khiển đa chức năng và nhiều hiệu ứng đặc biệt. Gimbal cũng có thể kết nối với ứng dụng DJI Mimo để tận dụng nhiều tính năng hấp dẫn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-001.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-002.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-002.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-003.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-003.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-004.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-004.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-005.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-005.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-006.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-006.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-007.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-007.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ### Các tính năng nổi bật của DJI Osmo Mobile 5
 
 Chọn mua [DJI Osmo Mobile](https://shope.ee/9evouKNuAl) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-009.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-009.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-010.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-010.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-011.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-011.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-012.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-012.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-013.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-013.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 DJI Osmo Mobile 5 có nhiều tính năng nổi bật, giúp bạn quay phim, chụp ảnh bằng điện thoại một cách dễ dàng và chuyên nghiệp. Một số tính năng nổi bật của DJI Osmo Mobile 5 là:
 
@@ -138,9 +138,9 @@ Bước 5: Bắt đầu quay phim hoặc chụp ảnh và thưởng thức kết
 
 – DJI Osmo Mobile 5 có nhiều tính năng thông minh và sáng tạo, giú người dùng thao tác nhanh chóng, hiệu quả hơn.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-014.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-014.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-015.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-015.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ## Zhiyun Smooth
 
@@ -152,9 +152,9 @@ Zhiyun Smooth 4 là một gimbal chống rung cho điện thoại bán chạy nh
 
 Zhiyun Smooth 4 là một gimbal chống rung cho điện thoại được sản xuất bởi Zhiyun, một thương hiệu nổi tiếng với các sản phẩm gimbal chất lượng cao. Zhiyun Smooth 4 là phiên bản nâng cấp của Zhiyun Smooth 3, với nhiều cải tiến về thiết kế, tính năng và hiệu năng. Zhiyun Smooth 4 có thiết kế nhỏ gọn, nhẹ, chống nước và chống rung tốt. Gimbal có nút xoay OLED để điều chỉnh các thông số như ISO, EV, WB… Gimbal cũng có nhiều chế độ quay phim như Inception Mode, Portrait Mode, Selfie Mode… Gimbal có thời lượng pin khoảng 9 tiếng và có thể kết nối với ứng dụng ZY Play để điều khiển từ xa và sử dụng nhiều tính năng hữu ích.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-016.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-016.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ### Các tính năng nổi bật của Zhiyun Smooth 4
 
@@ -174,11 +174,11 @@ Zhiyun Smooth 4 có nhiều tính năng nổi bật, giúp bạn quay phim, ch�
 
 ### Cách sử dụng Zhiyun Smooth 4
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-017.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-018.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-018.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-019.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-019.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Chọn mua [Zhiyun Smooth](https://shope.ee/3py1xZ2r0q) tại đây.
 
@@ -196,9 +196,9 @@ Bước 5: Bắt đầu quay phim hoặc chụp ảnh và thưởng thức kết
 
 ### Lý do tại sao bạn nên sở hữu Zhiyun Smooth 4
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-020.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-020.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-021.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-021.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 – Zhiyun Smooth 4 là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại đáng đồng tiền bát gạo. Bạn nên sở hữu Zhiyun Smooth 4 vì những lý do sau:
 
@@ -216,15 +216,15 @@ Feiyu G6 Max là một gimbal chống rung cho điện thoại đa năng, có th
 
 Trong bài viết này, hãy cùng tìm hiểu về Feiyu G6 Max, các tính năng nổi bật, cách sử dụng và lý do tại sao bạn nên sở hữu nó.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-022.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-022.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-023.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-023.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-024.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-024.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-025.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-025.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-026.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-026.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ### Feiyu G6 Max là gì?
 
@@ -244,15 +244,15 @@ Feiyu G6 Max là một gimbal chống rung cho điện thoại được sản xu
 
 – Selfie Mode: Đây là một chế độ quay phim tiện lợi cho việc tự sướng hoặc livestream. Bạn có thể chuyển đổi nhanh giữa camera trước và sau bằng cách nhấn nút FN hai lần.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-027.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-027.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-028.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-029.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-029.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-030.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-030.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-031.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-031.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ### Cách sử dụng Feiyu G6 Max
 
@@ -282,23 +282,23 @@ Feiyu G6 Max có nhiều tính năng thông minh và sáng tạo, giúp bạn t�
 
 Feiyu G6 Max có thời lượng pin lên đến 9 tiếng và có thể sạc lại cho điện thoại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-032.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-032.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-033.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-033.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-034.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-034.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-035.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-035.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-036.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-036.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ## Feiyu Vlog Pocket
 
 Chọn mua [Feiyu Vlog Pocket](https://shope.ee/6zv3jDuuIw) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-037.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-037.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-038.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-038.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Feiyu Vlog Pocket là một gimbal chống rung cho điện thoại nhỏ gọn, tiện lợi và giá rẻ. Feiyu Vlog Pocket có thiết kế gập được, trọng lượng chỉ 272g, dễ dàng mang theo bất cứ đâu. Gimbal có cơ chế ổn định 3 trục, khả năng chuyển đổi nhanh giữa chế độ ngang và dọc, nút điều khiển đơn giản và dễ sử dụng. Gimbal có thời lượng pin khoảng 8 tiếng và có thể kết nối với ứng dụng Vicool để tùy chỉnh các thông số và hiệu ứng.
 
@@ -322,11 +322,11 @@ Kết nối với ứng dụng Vicool: Đây là một tính năng hữu ích, g
 
 Chọn mua [Feiyu Vlog Pocket](https://shope.ee/6zv3jDuuIw) tại đây.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-039.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-039.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-040.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-040.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-041.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-041.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Để sử dụng Feiyu Vlog Pocket, bạn cần làm theo các bước sau:
 
@@ -356,7 +356,7 @@ Chọn mua [Moza Mini S](https://shope.ee/4AasLxBi0Y) tại đây.
 
 Moza Mini S là một gimbal chống rung cho điện thoại có thiết kế gập gọn, nhẹ và tiện lợi. Gimbal có khả năng ổn định 3 trục, chuyển đổi nhanh giữa chế độ ngang và dọc, nút điều khiển đa chức năng và nhiều hiệu ứng đặc biệt. Gimbal cũng có thể kết nối với ứng dụng Moza Genie để tùy chỉnh các thông số và hiệu ứng quay phim, chụp ảnh.
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-042.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-042.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 ## Moza Mini S là gì?
 
@@ -390,15 +390,15 @@ Bước 5: Bắt đầu quay phim hoặc chụp ảnh và thưởng thức kết
 
 ### Lý do tại sao bạn nên sở hữu Moza Mini S
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-046.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-046.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-047.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-047.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-048.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-048.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-049.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-049.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
-<figure><img src="https://data.nhavantuonglai.com/image/article/thiet-bi-quay-phim-050.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/article/thiet-bi-quay-phim-050.jpg" alt="Mua gimbal chống rung cho điện thoại, máy ảnh" title="Mua gimbal chống rung cho điện thoại, máy ảnh" height=100% width=100%><figcaption><p>Mua gimbal chống rung cho điện thoại, máy ảnh.</p></figcaption></figure>
 
 Moza Mini S là một thiết bị hỗ trợ quay phim, chụp ảnh bằng điện thoại đáng đồng tiền bát gạo. Bạn nên sở hữu Moza Mini S vì những lý do sau:
 
@@ -408,4 +408,4 @@ Moza Mini S có cơ chế ổn định 3 trục, giúp bạn quay phim, chụp �
 
 Moza Mini S có nút điều khiển đa chức năng, giúp bạn điều khiển các chức năng như bắt đầu hoặc dừng quay phim, chụp ảnh, zoom, focus, chuyển chế độ ổn định, theo dõi vật thể, xoay máy… một cách dễ dàng và nhanh chóng, không cần chạm vào màn hình điện thoại.
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

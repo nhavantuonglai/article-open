@@ -3,7 +3,7 @@ pubDatetime: 2006-02-04T10:10:00Z
 title: Edgar Allan Poe | The gold bug
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0544.jpg
+image: https://nhavantuonglai.com/image/cover/001-544.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -605,4 +605,4 @@ _Yes, I perceive; and now there is only one point which puzzles me. What are we 
 
 _That is a question I am no more able to answer than yourself. There seems, however, only one plausible way of accounting for them – and yet it is dreadful to believe in such atrocity as my suggestion would imply. It is clear that Kidd – if Kidd indeed secreted this treasure, which I doubt not – it is clear that he must have had assistance in the labor. But, the worst of this labor concluded, he may have thought it expedient to remove all participants in his secret. Perhaps a couple of blows with a mattock were sufficient, while his coadjutors were busy in the pit; perhaps it required a dozen – who shall tell?_
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

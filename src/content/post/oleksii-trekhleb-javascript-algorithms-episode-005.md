@@ -3,7 +3,7 @@ pubDatetime: 2018-05-16T10:10:00Z
 title: Oleksii Trekhleb | Javascript algorithms (Binary representation of floating-point numbers)
 description: This is a series of books diving deep into the core mechanisms of the JavaScript language.
 featured: false
-image: https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0505.jpg
+image: https://nhavantuonglai.com/image/cover/001-505.jpg
 tags:
   - developer
   - github
@@ -115,4 +115,4 @@ You might also want to check out the following resources to get a deeper underst
   - [Float Exposed](https://float.exposed/)
   - [IEEE754 Visualization](https://bartaz.github.io/ieee754-visualization/)
 
-<figure><img src="https://data.nhavantuonglai.com/image/illustrations/cover-nhavantuonglai-com-0127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-127.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
