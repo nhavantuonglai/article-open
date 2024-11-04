@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 87
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0001.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0002.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0003.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0121.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0121.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0122.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0122.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0123.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0123.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0124.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0124.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0125.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0125.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0126.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0126.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0127.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0127.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0128.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0128.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0129.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0129.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0130.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0130.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0131.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0131.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0132.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0132.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0133.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0133.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0134.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0134.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0135.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0135.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0136.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0136.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0137.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0137.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0138.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0138.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0139.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0139.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0140.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0140.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0141.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0141.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0142.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0142.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0143.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0143.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0144.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0144.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0145.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0145.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0146.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0146.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0147.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0147.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0148.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0148.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0149.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0149.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0150.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0150.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0151.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0151.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0152.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0152.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0153.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0153.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0154.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0154.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0155.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0155.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0156.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0156.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0157.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0157.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0158.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0158.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0159.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0159.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/11-0160.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0011-0160.jpg" alt="Chim lửa (Hi no Tori) chương 87." title="Chim lửa (Hi no Tori) chương 87." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 87.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

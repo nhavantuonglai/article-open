@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 31
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0001.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0001.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0002.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0002.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0003.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0003.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0004.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0004.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0005.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0005.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0006.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0006.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0161.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0161.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0162.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0162.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0163.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0163.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0164.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0164.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0165.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0165.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0166.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0166.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0167.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0167.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0168.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0168.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0169.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0169.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0170.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0170.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0171.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0171.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0172.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0172.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0173.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0173.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0174.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0174.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0175.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0175.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0176.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0176.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0177.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0177.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0178.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0178.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0179.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0179.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0180.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0180.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0181.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0181.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0182.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0182.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0183.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0183.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0184.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0184.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0185.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0185.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0186.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0186.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0187.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0187.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0188.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0188.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0189.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0189.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0190.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0190.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0191.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0191.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0192.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0192.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0193.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0193.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0194.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0194.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0195.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0195.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0196.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0196.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0197.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0197.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0198.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0198.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0199.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0199.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0200.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0200.jpg" alt="Chim lửa (Hi no Tori) chương 31." title="Chim lửa (Hi no Tori) chương 31." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 31.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

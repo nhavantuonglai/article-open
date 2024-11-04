@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 65
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0001.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0001.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0002.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0002.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0003.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0003.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0121.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0121.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0122.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0122.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0123.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0123.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0124.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0124.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0125.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0125.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0126.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0126.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0127.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0127.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0128.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0128.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0129.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0129.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0130.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0130.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0131.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0131.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0132.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0132.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0133.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0133.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0134.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0134.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0135.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0135.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0136.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0136.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0137.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0137.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0138.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0138.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0139.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0139.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0140.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0140.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0141.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0141.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0142.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0142.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0143.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0143.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0144.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0144.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0145.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0145.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0146.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0146.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0147.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0147.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0148.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0148.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0149.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0149.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0150.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0150.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0151.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0151.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0152.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0152.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0153.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0153.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0154.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0154.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0155.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0155.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0156.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0156.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0157.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0157.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0158.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0158.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0159.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0159.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/08-0160.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0008-0160.jpg" alt="Chim lửa (Hi no Tori) chương 65." title="Chim lửa (Hi no Tori) chương 65." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 65.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

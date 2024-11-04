@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 78
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0001.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0001.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0002.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0002.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0003.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0003.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0081.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0081.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0082.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0082.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0083.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0083.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0084.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0084.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0085.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0085.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0086.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0086.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0087.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0087.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0088.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0088.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0089.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0089.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0090.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0090.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0091.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0091.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0092.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0092.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0093.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0093.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0094.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0094.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0095.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0095.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0096.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0096.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0097.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0097.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0098.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0098.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0099.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0099.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0100.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0100.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0101.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0101.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0102.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0102.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0103.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0103.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0104.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0104.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0105.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0105.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0106.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0106.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0107.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0107.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0108.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0108.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0109.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0109.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0110.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0110.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0111.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0111.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0112.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0112.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0113.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0113.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0114.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0114.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0115.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0115.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0116.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0116.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0117.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0117.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0118.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0118.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0119.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0119.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/10-0120.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0010-0120.jpg" alt="Chim lửa (Hi no Tori) chương 78." title="Chim lửa (Hi no Tori) chương 78." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 78.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

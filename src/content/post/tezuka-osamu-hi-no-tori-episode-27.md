@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 27
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0001.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0001.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0002.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0002.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0003.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0003.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0004.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0004.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0005.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0005.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0006.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0006.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0007.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0007.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0008.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0008.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0009.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0009.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0010.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0010.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0011.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0011.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0012.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0012.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0013.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0013.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0014.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0014.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0015.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0015.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0016.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0016.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0017.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0017.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0018.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0018.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0019.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0019.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0020.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0020.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0021.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0021.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0022.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0022.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0023.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0023.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0024.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0024.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0025.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0025.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0026.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0026.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0027.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0027.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0028.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0028.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0029.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0029.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0030.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0030.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0031.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0031.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0032.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0032.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0033.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0033.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0034.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0034.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0035.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0035.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0036.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0036.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0037.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0037.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0038.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0038.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0039.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0039.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0040.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0040.jpg" alt="Chim lửa (Hi no Tori) chương 27." title="Chim lửa (Hi no Tori) chương 27." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 27.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

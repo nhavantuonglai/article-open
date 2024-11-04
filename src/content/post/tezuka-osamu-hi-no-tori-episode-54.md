@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 54
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0001.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0001.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0002.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0002.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0003.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0003.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0004.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0004.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0005.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0005.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0006.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0006.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0007.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0007.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0008.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0008.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0009.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0009.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0010.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0010.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0011.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0011.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0012.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0012.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0013.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0013.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0014.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0014.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0015.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0015.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0016.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0016.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0017.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0017.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0018.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0018.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0019.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0019.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0020.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0020.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0021.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0021.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0022.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0022.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0023.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0023.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0024.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0024.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0025.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0025.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0026.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0026.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0027.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0027.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0028.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0028.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0029.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0029.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0030.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0030.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0031.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0031.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0032.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0032.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0033.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0033.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0034.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0034.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0035.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0035.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0036.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0036.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0037.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0037.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0038.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0038.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0039.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0039.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0040.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0040.jpg" alt="Chim lửa (Hi no Tori) chương 54." title="Chim lửa (Hi no Tori) chương 54." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 54.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

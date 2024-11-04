@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 34
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0001.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0001.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0002.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0002.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0003.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0003.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0004.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0004.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0005.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0005.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0006.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0006.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0281.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0281.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0282.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0282.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0283.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0283.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0284.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0284.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0285.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0285.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0286.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0286.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0287.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0287.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0288.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0288.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0289.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0289.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0290.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0290.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0291.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0291.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0292.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0292.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0293.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0293.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0294.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0294.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0295.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0295.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0296.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0296.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0297.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0297.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0298.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0298.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0299.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0299.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0300.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0300.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0301.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0301.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0302.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0302.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0303.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0303.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0304.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0304.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0305.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0305.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0306.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0306.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0307.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0307.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0308.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0308.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0309.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0309.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0310.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0310.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0311.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0311.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0312.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0312.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0313.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0313.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0314.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0314.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0315.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0315.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0316.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0316.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0317.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0317.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0318.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0318.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0319.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0319.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/04-0320.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0004-0320.jpg" alt="Chim lửa (Hi no Tori) chương 34." title="Chim lửa (Hi no Tori) chương 34." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 34.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

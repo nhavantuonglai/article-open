@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 52
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0001.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0001.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0002.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0002.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0003.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0003.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0321.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0321.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0322.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0322.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0323.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0323.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0324.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0324.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0325.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0325.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0326.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0326.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0327.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0327.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0328.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0328.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0329.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0329.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0330.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0330.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0331.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0331.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0332.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0332.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0333.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0333.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0334.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0334.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0335.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0335.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0336.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0336.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0337.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0337.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0338.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0338.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0339.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0339.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0340.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0340.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0341.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0341.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0342.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0342.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0343.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0343.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0344.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0344.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0345.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0345.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0346.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0346.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0347.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0347.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0348.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0348.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0349.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0349.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0350.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0350.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0351.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0351.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0352.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0352.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0353.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0353.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0354.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0354.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0355.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0355.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0356.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0356.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0357.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0357.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0358.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0358.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0359.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0359.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/06-0360.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0006-0360.jpg" alt="Chim lửa (Hi no Tori) chương 52." title="Chim lửa (Hi no Tori) chương 52." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 52.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 57
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0001.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0001.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0002.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0002.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0003.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0003.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0121.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0121.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0122.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0122.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0123.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0123.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0124.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0124.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0125.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0125.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0126.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0126.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0127.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0127.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0128.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0128.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0129.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0129.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0130.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0130.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0131.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0131.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0132.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0132.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0133.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0133.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0134.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0134.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0135.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0135.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0136.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0136.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0137.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0137.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0138.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0138.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0139.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0139.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0140.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0140.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0141.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0141.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0142.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0142.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0143.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0143.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0144.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0144.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0145.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0145.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0146.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0146.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0147.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0147.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0148.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0148.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0149.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0149.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0150.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0150.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0151.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0151.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0152.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0152.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0153.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0153.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0154.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0154.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0155.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0155.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0156.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0156.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0157.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0157.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0158.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0158.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0159.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0159.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/07-0160.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0007-0160.jpg" alt="Chim lửa (Hi no Tori) chương 57." title="Chim lửa (Hi no Tori) chương 57." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 57.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 

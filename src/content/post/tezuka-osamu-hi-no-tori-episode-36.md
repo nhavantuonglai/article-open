@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 35
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0001.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0001.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0002.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0002.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0003.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0003.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0004.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0004.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0005.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0005.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0006.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0006.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0007.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0007.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0008.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0008.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0009.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0009.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0010.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0010.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0011.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0011.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0012.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0012.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0013.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0013.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0014.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0014.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0015.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0015.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0016.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0016.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0017.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0017.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0018.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0018.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0019.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0019.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0020.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0020.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0021.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0021.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0022.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0022.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0023.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0023.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0024.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0024.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0025.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0025.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0026.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0026.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0027.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0027.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0028.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0028.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0029.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0029.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0030.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0030.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0031.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0031.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0032.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0032.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0033.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0033.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0034.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0034.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0035.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0035.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0036.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0036.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0037.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0037.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0038.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0038.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0039.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0039.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
-<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/05-0040.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
+<figure><img src="https://manga.nhavantuonglai.com/image/tezuka-osamu/hi-no-tori/0005-0040.jpg" alt="Chim lửa (Hi no Tori) chương 36." title="Chim lửa (Hi no Tori) chương 36." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 36.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
