@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0519
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-01.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-01.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-02.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-02.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-03.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-03.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-04.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-04.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-05.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-05.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-06.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-06.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-07.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-07.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-08.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-08.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-09.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-09.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-10.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-10.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-11.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-11.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-12.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-12.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-13.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-13.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-14.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-14.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-15.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-15.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-16.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-16.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-17.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-17.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0519-18.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0519-18.jpg" alt="Conan chương 0519." title="Conan chương 0519." height=100% width=100%><figcaption></p>Conan chương 0519.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

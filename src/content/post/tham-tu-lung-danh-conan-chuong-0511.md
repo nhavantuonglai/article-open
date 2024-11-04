@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0511
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-01.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-01.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-02.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-02.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-03.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-03.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-04.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-04.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-05.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-05.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-06.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-06.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-07.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-07.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-08.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-08.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-09.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-09.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-10.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-10.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-11.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-11.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-12.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-12.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-13.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-13.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-14.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-14.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-15.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-15.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-16.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-16.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-17.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-17.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0511-18.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0511-18.jpg" alt="Conan chương 0511." title="Conan chương 0511." height=100% width=100%><figcaption></p>Conan chương 0511.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

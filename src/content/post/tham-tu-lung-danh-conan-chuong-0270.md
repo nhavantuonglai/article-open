@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0270
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-01.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-01.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-02.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-02.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-03.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-03.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-04.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-04.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-05.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-05.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-06.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-06.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-07.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-07.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-08.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-08.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-09.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-09.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-10.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-10.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-11.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-11.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-12.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-12.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-13.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-13.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-14.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-14.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-15.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-15.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-16.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-16.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-17.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-17.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0270-18.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0270-18.jpg" alt="Conan chương 0270." title="Conan chương 0270." height=100% width=100%><figcaption></p>Conan chương 0270.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

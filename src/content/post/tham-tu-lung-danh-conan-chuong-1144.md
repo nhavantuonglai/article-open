@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1144
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-01.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-01.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-02.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-02.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-03.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-03.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-04.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-04.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-05.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-05.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-06.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-06.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-07.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-07.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-08.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-08.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-09.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-09.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-10.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-10.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-11.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-11.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-12.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-12.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-13.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-13.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-14.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-14.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-15.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-15.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-16.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-16.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-17.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-17.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1144-18.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1144-18.jpg" alt="Conan chương 1144." title="Conan chương 1144." height=100% width=100%><figcaption></p>Conan chương 1144.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1203
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-01.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-01.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-02.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-02.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-03.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-03.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-04.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-04.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-05.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-05.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-06.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-06.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-07.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-07.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-08.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-08.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-09.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-09.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-10.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-10.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-11.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-11.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-12.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-12.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-13.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-13.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-14.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-14.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-15.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-15.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-16.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-16.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-17.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-17.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1203-18.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1203-18.jpg" alt="Conan chương 1203." title="Conan chương 1203." height=100% width=100%><figcaption></p>Conan chương 1203.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1084
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-01.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-01.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-02.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-02.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-03.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-03.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-04.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-04.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-05.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-05.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-06.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-06.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-07.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-07.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-08.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-08.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-09.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-09.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-10.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-10.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-11.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-11.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-12.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-12.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-13.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-13.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-14.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-14.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-15.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-15.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-16.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-16.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-17.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-17.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1084-18.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1084-18.jpg" alt="Conan chương 1084." title="Conan chương 1084." height=100% width=100%><figcaption></p>Conan chương 1084.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

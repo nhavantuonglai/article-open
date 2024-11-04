@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1188
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-01.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-01.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-02.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-02.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-03.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-03.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-04.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-04.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-05.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-05.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-06.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-06.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-07.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-07.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-08.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-08.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-09.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-09.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-10.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-10.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-11.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-11.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-12.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-12.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-13.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-13.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-14.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-14.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-15.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-15.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-16.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-16.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-17.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-17.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1188-18.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1188-18.jpg" alt="Conan chương 1188." title="Conan chương 1188." height=100% width=100%><figcaption></p>Conan chương 1188.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

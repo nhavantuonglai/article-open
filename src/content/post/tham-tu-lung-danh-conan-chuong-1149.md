@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1149
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-01.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-01.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-02.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-02.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-03.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-03.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-04.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-04.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-05.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-05.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-06.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-06.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-07.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-07.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-08.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-08.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-09.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-09.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-10.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-10.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-11.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-11.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-12.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-12.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-13.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-13.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-14.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-14.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-15.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-15.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-16.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-16.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-17.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-17.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1149-18.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1149-18.jpg" alt="Conan chương 1149." title="Conan chương 1149." height=100% width=100%><figcaption></p>Conan chương 1149.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

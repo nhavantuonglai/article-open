@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1400
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-01.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-01.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-02.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-02.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-03.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-03.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-04.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-04.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-05.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-05.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-06.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-06.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-07.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-07.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-08.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-08.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-09.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-09.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-10.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-10.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-11.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-11.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-12.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-12.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-13.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-13.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-14.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-14.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-15.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-15.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-16.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-16.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-17.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-17.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1400-18.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1400-18.jpg" alt="Conan chương 1400." title="Conan chương 1400." height=100% width=100%><figcaption></p>Conan chương 1400.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

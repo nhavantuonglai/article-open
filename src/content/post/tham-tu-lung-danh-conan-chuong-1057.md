@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1057
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-01.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-01.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-02.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-02.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-03.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-03.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-04.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-04.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-05.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-05.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-06.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-06.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-07.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-07.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-08.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-08.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-09.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-09.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-10.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-10.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-11.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-11.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-12.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-12.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-13.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-13.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-14.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-14.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-15.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-15.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-16.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-16.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-17.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-17.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1057-18.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1057-18.jpg" alt="Conan chương 1057." title="Conan chương 1057." height=100% width=100%><figcaption></p>Conan chương 1057.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

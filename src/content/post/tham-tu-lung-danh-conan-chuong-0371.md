@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0371
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-01.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-01.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-02.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-02.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-03.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-03.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-04.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-04.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-05.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-05.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-06.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-06.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-07.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-07.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-08.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-08.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-09.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-09.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-10.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-10.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-11.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-11.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-12.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-12.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-13.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-13.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-14.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-14.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-15.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-15.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-16.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-16.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-17.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-17.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0371-18.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0371-18.jpg" alt="Conan chương 0371." title="Conan chương 0371." height=100% width=100%><figcaption></p>Conan chương 0371.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

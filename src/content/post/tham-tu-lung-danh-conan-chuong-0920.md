@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0920
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-01.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-01.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-02.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-02.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-03.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-03.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-04.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-04.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-05.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-05.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-06.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-06.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-07.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-07.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-08.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-08.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-09.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-09.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-10.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-10.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-11.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-11.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-12.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-12.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-13.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-13.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-14.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-14.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-15.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-15.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-16.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-16.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-17.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-17.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0920-18.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0920-18.jpg" alt="Conan chương 0920." title="Conan chương 0920." height=100% width=100%><figcaption></p>Conan chương 0920.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

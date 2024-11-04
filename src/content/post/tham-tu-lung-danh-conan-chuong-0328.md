@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0328
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-01.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-01.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-02.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-02.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-03.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-03.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-04.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-04.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-05.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-05.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-06.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-06.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-07.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-07.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-08.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-08.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-09.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-09.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-10.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-10.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-11.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-11.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-12.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-12.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-13.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-13.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-14.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-14.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-15.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-15.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-16.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-16.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-17.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-17.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0328-18.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0328-18.jpg" alt="Conan chương 0328." title="Conan chương 0328." height=100% width=100%><figcaption></p>Conan chương 0328.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

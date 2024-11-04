@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0774
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-01.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-01.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-02.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-02.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-03.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-03.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-04.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-04.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-05.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-05.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-06.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-06.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-07.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-07.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-08.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-08.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-09.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-09.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-10.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-10.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-11.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-11.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-12.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-12.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-13.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-13.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-14.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-14.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-15.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-15.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-16.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-16.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-17.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-17.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0774-18.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0774-18.jpg" alt="Conan chương 0774." title="Conan chương 0774." height=100% width=100%><figcaption></p>Conan chương 0774.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

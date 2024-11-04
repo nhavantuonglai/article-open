@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0800
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-01.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-01.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-02.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-02.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-03.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-03.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-04.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-04.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-05.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-05.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-06.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-06.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-07.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-07.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-08.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-08.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-09.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-09.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-10.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-10.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-11.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-11.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-12.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-12.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-13.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-13.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-14.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-14.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-15.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-15.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-16.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-16.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-17.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-17.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0800-18.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0800-18.jpg" alt="Conan chương 0800." title="Conan chương 0800." height=100% width=100%><figcaption></p>Conan chương 0800.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

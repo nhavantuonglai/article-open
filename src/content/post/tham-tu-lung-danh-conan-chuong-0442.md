@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0442
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-01.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-01.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-02.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-02.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-03.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-03.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-04.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-04.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-05.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-05.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-06.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-06.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-07.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-07.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-08.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-08.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-09.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-09.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-10.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-10.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-11.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-11.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-12.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-12.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-13.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-13.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-14.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-14.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-15.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-15.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-16.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-16.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-17.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-17.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0442-18.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0442-18.jpg" alt="Conan chương 0442." title="Conan chương 0442." height=100% width=100%><figcaption></p>Conan chương 0442.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

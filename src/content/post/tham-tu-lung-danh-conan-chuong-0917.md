@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0917
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-01.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-01.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-02.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-02.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-03.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-03.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-04.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-04.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-05.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-05.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-06.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-06.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-07.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-07.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-08.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-08.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-09.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-09.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-10.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-10.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-11.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-11.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-12.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-12.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-13.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-13.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-14.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-14.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-15.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-15.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-16.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-16.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-17.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-17.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0917-18.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0917-18.jpg" alt="Conan chương 0917." title="Conan chương 0917." height=100% width=100%><figcaption></p>Conan chương 0917.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

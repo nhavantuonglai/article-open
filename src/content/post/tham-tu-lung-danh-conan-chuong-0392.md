@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0392
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-01.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-01.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-02.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-02.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-03.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-03.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-04.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-04.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-05.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-05.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-06.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-06.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-07.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-07.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-08.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-08.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-09.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-09.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-10.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-10.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-11.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-11.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-12.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-12.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-13.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-13.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-14.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-14.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-15.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-15.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-16.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-16.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-17.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-17.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0392-18.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0392-18.jpg" alt="Conan chương 0392." title="Conan chương 0392." height=100% width=100%><figcaption></p>Conan chương 0392.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

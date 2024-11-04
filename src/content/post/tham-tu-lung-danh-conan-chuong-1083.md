@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1083
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-01.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-01.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-02.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-02.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-03.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-03.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-04.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-04.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-05.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-05.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-06.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-06.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-07.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-07.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-08.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-08.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-09.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-09.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-10.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-10.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-11.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-11.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-12.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-12.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-13.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-13.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-14.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-14.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-15.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-15.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-16.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-16.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-17.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-17.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1083-18.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1083-18.jpg" alt="Conan chương 1083." title="Conan chương 1083." height=100% width=100%><figcaption></p>Conan chương 1083.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

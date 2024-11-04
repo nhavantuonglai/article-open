@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1173
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-01.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-01.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-02.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-02.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-03.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-03.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-04.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-04.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-05.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-05.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-06.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-06.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-07.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-07.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-08.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-08.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-09.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-09.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-10.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-10.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-11.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-11.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-12.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-12.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-13.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-13.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-14.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-14.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-15.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-15.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-16.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-16.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-17.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-17.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1173-18.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1173-18.jpg" alt="Conan chương 1173." title="Conan chương 1173." height=100% width=100%><figcaption></p>Conan chương 1173.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1338
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-01.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-01.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-02.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-02.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-03.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-03.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-04.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-04.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-05.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-05.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-06.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-06.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-07.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-07.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-08.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-08.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-09.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-09.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-10.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-10.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-11.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-11.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-12.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-12.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-13.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-13.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-14.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-14.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-15.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-15.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-16.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-16.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-17.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-17.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1338-18.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1338-18.jpg" alt="Conan chương 1338." title="Conan chương 1338." height=100% width=100%><figcaption></p>Conan chương 1338.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

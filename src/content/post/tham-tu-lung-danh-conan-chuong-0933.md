@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0933
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-01.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-01.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-02.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-02.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-03.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-03.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-04.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-04.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-05.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-05.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-06.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-06.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-07.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-07.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-08.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-08.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-09.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-09.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-10.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-10.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-11.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-11.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-12.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-12.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-13.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-13.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-14.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-14.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-15.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-15.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-16.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-16.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-17.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-17.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0933-18.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0933-18.jpg" alt="Conan chương 0933." title="Conan chương 0933." height=100% width=100%><figcaption></p>Conan chương 0933.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

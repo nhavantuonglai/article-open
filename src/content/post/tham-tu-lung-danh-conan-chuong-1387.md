@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1387
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-01.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-01.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-02.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-02.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-03.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-03.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-04.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-04.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-05.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-05.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-06.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-06.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-07.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-07.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-08.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-08.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-09.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-09.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-10.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-10.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-11.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-11.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-12.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-12.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-13.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-13.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-14.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-14.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-15.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-15.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-16.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-16.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-17.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-17.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1387-18.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1387-18.jpg" alt="Conan chương 1387." title="Conan chương 1387." height=100% width=100%><figcaption></p>Conan chương 1387.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

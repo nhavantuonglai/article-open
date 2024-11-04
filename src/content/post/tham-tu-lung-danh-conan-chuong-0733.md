@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0733
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-01.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-01.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-02.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-02.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-03.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-03.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-04.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-04.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-05.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-05.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-06.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-06.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-07.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-07.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-08.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-08.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-09.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-09.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-10.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-10.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-11.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-11.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-12.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-12.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-13.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-13.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-14.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-14.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-15.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-15.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-16.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-16.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-17.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-17.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0733-18.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0733-18.jpg" alt="Conan chương 0733." title="Conan chương 0733." height=100% width=100%><figcaption></p>Conan chương 0733.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

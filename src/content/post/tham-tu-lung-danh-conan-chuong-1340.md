@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1340
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-01.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-01.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-02.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-02.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-03.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-03.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-04.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-04.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-05.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-05.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-06.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-06.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-07.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-07.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-08.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-08.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-09.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-09.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-10.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-10.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-11.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-11.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-12.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-12.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-13.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-13.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-14.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-14.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-15.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-15.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-16.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-16.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-17.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-17.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1340-18.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1340-18.jpg" alt="Conan chương 1340." title="Conan chương 1340." height=100% width=100%><figcaption></p>Conan chương 1340.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

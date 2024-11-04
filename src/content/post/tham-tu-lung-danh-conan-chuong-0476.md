@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0476
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-01.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-01.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-02.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-02.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-03.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-03.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-04.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-04.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-05.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-05.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-06.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-06.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-07.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-07.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-08.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-08.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-09.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-09.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-10.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-10.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-11.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-11.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-12.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-12.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-13.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-13.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-14.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-14.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-15.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-15.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-16.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-16.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-17.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-17.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0476-18.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0476-18.jpg" alt="Conan chương 0476." title="Conan chương 0476." height=100% width=100%><figcaption></p>Conan chương 0476.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

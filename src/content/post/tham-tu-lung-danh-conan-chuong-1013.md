@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1013
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-01.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-01.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-02.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-02.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-03.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-03.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-04.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-04.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-05.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-05.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-06.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-06.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-07.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-07.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-08.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-08.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-09.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-09.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-10.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-10.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-11.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-11.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-12.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-12.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-13.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-13.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-14.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-14.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-15.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-15.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-16.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-16.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-17.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-17.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1013-18.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1013-18.jpg" alt="Conan chương 1013." title="Conan chương 1013." height=100% width=100%><figcaption></p>Conan chương 1013.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

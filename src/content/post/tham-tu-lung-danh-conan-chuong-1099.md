@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1099
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-01.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-01.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-02.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-02.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-03.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-03.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-04.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-04.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-05.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-05.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-06.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-06.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-07.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-07.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-08.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-08.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-09.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-09.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-10.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-10.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-11.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-11.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-12.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-12.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-13.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-13.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-14.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-14.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-15.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-15.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-16.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-16.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-17.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-17.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1099-18.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1099-18.jpg" alt="Conan chương 1099." title="Conan chương 1099." height=100% width=100%><figcaption></p>Conan chương 1099.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0225
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-01.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-01.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-02.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-02.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-03.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-03.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-04.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-04.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-05.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-05.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-06.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-06.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-07.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-07.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-08.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-08.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-09.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-09.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-10.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-10.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-11.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-11.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-12.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-12.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-13.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-13.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-14.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-14.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-15.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-15.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-16.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-16.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-17.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-17.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0225-18.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0225-18.jpg" alt="Conan chương 0225." title="Conan chương 0225." height=100% width=100%><figcaption></p>Conan chương 0225.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0702
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-01.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-01.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-02.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-02.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-03.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-03.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-04.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-04.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-05.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-05.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-06.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-06.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-07.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-07.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-08.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-08.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-09.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-09.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-10.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-10.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-11.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-11.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-12.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-12.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-13.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-13.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-14.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-14.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-15.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-15.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-16.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-16.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-17.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-17.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0702-18.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0702-18.jpg" alt="Conan chương 0702." title="Conan chương 0702." height=100% width=100%><figcaption></p>Conan chương 0702.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

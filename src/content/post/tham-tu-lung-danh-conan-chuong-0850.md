@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0850
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-01.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-01.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-02.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-02.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-03.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-03.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-04.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-04.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-05.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-05.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-06.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-06.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-07.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-07.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-08.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-08.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-09.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-09.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-10.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-10.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-11.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-11.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-12.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-12.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-13.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-13.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-14.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-14.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-15.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-15.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-16.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-16.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-17.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-17.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0850-18.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0850-18.jpg" alt="Conan chương 0850." title="Conan chương 0850." height=100% width=100%><figcaption></p>Conan chương 0850.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

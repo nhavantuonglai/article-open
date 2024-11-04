@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1100
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-01.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-01.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-02.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-02.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-03.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-03.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-04.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-04.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-05.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-05.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-06.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-06.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-07.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-07.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-08.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-08.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-09.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-09.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-10.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-10.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-11.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-11.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-12.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-12.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-13.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-13.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-14.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-14.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-15.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-15.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-16.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-16.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-17.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-17.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/1100-18.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/1100-18.jpg" alt="Conan chương 1100." title="Conan chương 1100." height=100% width=100%><figcaption></p>Conan chương 1100.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 

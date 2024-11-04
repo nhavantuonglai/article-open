@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0639
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-01.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-01.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-02.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-02.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-03.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-03.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-04.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-04.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-05.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-05.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-06.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-06.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-07.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-07.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-08.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-08.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-09.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-09.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-10.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-10.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-11.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-11.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-12.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-12.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-13.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-13.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-14.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-14.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-15.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-15.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-16.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-16.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-17.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-17.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/case-closed/0639-18.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/tham-tu-lung-danh-conan/0639-18.jpg" alt="Conan chương 0639." title="Conan chương 0639." height=100% width=100%><figcaption></p>Conan chương 0639.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 
