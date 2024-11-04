@@ -16,29 +16,29 @@ tags:
   - hoc vien canh sat
 ---
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-01.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-01.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-02.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-02.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-03.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-03.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-04.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-04.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-05.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-05.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-06.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-06.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-07.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-07.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-08.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-08.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-09.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-09.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-10.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-10.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-11.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-11.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/06-12.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/06-12.jpg" alt="Wild police story chương 06" title="Wild police story chương 06" height=100% width=100%><figcaption><p>Wild police story chương 06</p></figcaption></figure>
 
 ## Giới thiệu truyện tranh Gosho Aoyama | Wild police story (Học viện cảnh sát)
 

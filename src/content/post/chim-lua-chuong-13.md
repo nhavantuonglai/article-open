@@ -3,7 +3,7 @@ pubDatetime: 2018-07-13T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 13
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 13 trong phần dưới đây.
 featured: false
-image: https://nhavantuonglai.blog/manga/cover/001-463.jpg
+image: https://nhavantuonglai.com/image/cover/001-463.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 13
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0001.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0001.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0002.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0002.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0003.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0003.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0004.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0004.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0005.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0005.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0006.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0006.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0121.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0121.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0122.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0122.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0123.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0123.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0124.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0124.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0125.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0125.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0126.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0126.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0127.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0127.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0128.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0128.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0129.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0129.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0130.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0130.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0131.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0131.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0132.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0132.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0133.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0133.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0134.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0134.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0135.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0135.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0136.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0136.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0137.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0137.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0138.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0138.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0139.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0139.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0140.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0140.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0141.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0141.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0142.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0142.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0143.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0143.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0144.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0144.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0145.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0145.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0146.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0146.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0147.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0147.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0148.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0148.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0149.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0149.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0150.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0150.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0151.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0151.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0152.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0152.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0153.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0153.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0154.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0154.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0155.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0155.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0156.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0156.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0157.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0157.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0158.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0158.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0159.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0159.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0002-0160.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0002-0160.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -387,4 +387,4 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, tập 02](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-02.pdf) tại đây.
 
-<figure><img src="https://nhavantuonglai.blog/manga/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 13." title="Chim lửa (Hi no Tori) chương 13." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 13.</p></figcaption></figure>

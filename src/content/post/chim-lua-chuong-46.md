@@ -3,7 +3,7 @@ pubDatetime: 2018-08-16T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 46
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 46 trong phần dưới đây.
 featured: false
-image: https://nhavantuonglai.blog/manga/cover/001-446.jpg
+image: https://nhavantuonglai.com/image/cover/001-446.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 46
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0001.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0001.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0002.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0002.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0003.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0003.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0081.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0081.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0082.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0082.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0083.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0083.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0084.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0084.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0085.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0085.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0086.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0086.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0087.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0087.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0088.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0088.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0089.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0089.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0090.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0090.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0091.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0091.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0092.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0092.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0093.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0093.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0094.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0094.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0095.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0095.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0096.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0096.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0097.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0097.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0098.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0098.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0099.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0099.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0100.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0100.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0101.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0101.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0102.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0102.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0103.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0103.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0104.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0104.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0105.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0105.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0106.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0106.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0107.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0107.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0108.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0108.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0109.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0109.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0110.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0110.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0111.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0111.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0112.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0112.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0113.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0113.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0114.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0114.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0115.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0115.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0116.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0116.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0117.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0117.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0118.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0118.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0119.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0119.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/000006-0120.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/000006-0120.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -381,4 +381,4 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, tập 06](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-06.pdf) tại đây.
 
-<figure><img src="https://nhavantuonglai.blog/manga/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 46." title="Chim lửa (Hi no Tori) chương 46." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 46.</p></figcaption></figure>

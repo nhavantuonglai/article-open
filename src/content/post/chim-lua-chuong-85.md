@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-15T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 85
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 85 trong phần dưới đây.
-image: https://nhavantuonglai.blog/manga/cover/001-545.jpg
+image: https://nhavantuonglai.com/image/cover/001-545.jpg
 featured: false
 tags:
   - manga
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 85
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0041.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0041.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0042.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0042.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0043.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0043.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0044.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0044.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0045.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0045.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0046.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0046.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0047.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0047.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0048.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0048.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0049.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0049.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0050.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0050.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0051.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0051.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0052.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0052.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0053.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0053.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0054.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0054.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0055.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0055.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0056.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0056.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0057.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0057.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0058.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0058.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0059.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0059.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0060.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0060.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0061.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0061.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0062.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0062.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0063.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0063.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0064.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0064.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0065.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0065.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0066.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0066.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0067.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0067.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0068.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0068.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0069.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0069.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0070.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0070.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0071.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0071.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0072.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0072.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0073.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0073.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0074.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0074.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0075.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0075.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0076.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0076.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0077.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0077.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0078.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0078.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0079.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0079.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0011-0080.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0011-0080.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -381,4 +381,4 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, tập 11](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-11.pdf) tại đây.
 
-<figure><img src="https://nhavantuonglai.blog/manga/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 85." title="Chim lửa (Hi no Tori) chương 85." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 85.</p></figcaption></figure>

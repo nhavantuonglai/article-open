@@ -3,7 +3,7 @@ pubDatetime: 2018-07-26T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 26
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 26 trong phần dưới đây.
 featured: false
-image: https://nhavantuonglai.blog/manga/cover/001-426.jpg
+image: https://nhavantuonglai.com/image/cover/001-426.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,67 +19,67 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 26
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0306.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0306.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0307.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0307.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0308.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0308.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0309.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0309.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0310.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0310.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0311.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0311.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0312.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0312.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0313.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0313.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0314.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0314.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0315.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0315.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0316.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0316.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0317.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0317.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0318.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0318.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0319.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0319.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0320.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0320.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0321.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0321.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0322.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0322.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0323.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0323.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0324.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0324.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0325.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0325.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0326.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0326.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0327.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0327.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0328.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0328.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0329.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0329.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0003-0330.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0003-0330.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -357,4 +357,4 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, tập 04](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-04.pdf) tại đây.
 
-<figure><img src="https://nhavantuonglai.blog/manga/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 26." title="Chim lửa (Hi no Tori) chương 26." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 26.</p></figcaption></figure>

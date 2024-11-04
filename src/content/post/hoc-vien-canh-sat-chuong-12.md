@@ -16,33 +16,33 @@ tags:
   - hoc vien canh sat
 ---
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-01.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-01.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-02.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-02.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-03.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-03.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-04.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-04.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-05.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-05.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-06.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-06.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-07.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-07.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-08.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-08.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-09.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-09.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-10.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-10.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-11.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-11.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-12.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-12.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-13.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-13.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/12-14.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/12-14.jpg" alt="Wild police story chương 12" title="Wild police story chương 12" height=100% width=100%><figcaption><p>Wild police story chương 12</p></figcaption></figure>
 
 ## Giới thiệu truyện tranh Gosho Aoyama | Wild police story (Học viện cảnh sát)
 

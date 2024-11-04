@@ -16,31 +16,31 @@ tags:
   - hoc vien canh sat
 ---
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-01.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-01.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-02.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-02.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-03.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-03.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-04.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-04.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-05.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-05.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-06.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-06.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-07.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-07.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-08.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-08.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-09.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-09.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-10.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-10.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-11.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-11.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-12.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-12.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/wild-police-story/08-13.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/gosho-aoyama/hoc-vien-canh-sat/08-13.jpg" alt="Wild police story chương 08" title="Wild police story chương 08" height=100% width=100%><figcaption><p>Wild police story chương 08</p></figcaption></figure>
 
 ## Giới thiệu truyện tranh Gosho Aoyama | Wild police story (Học viện cảnh sát)
 

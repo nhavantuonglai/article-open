@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-28T10:10:00Z
 title: Tezuka Osamu | Chim lửa | Chương 98
 description: Thông qua Chim lửa, Tezuka Osamu đặt ra nhiều câu hỏi lớn về cuộc sống, cái chết và ý nghĩa của sự tồn tại, nhấn mạnh con người chỉ thực sự tồn tại khi hòa hợp với thiên nhiên. Cùng đọc tác phẩm Chim lửa (Hi no Tori) chương 98 trong phần dưới đây.
-image: https://nhavantuonglai.blog/manga/cover/001-558.jpg
+image: https://nhavantuonglai.com/image/cover/001-558.jpg
 featured: false
 tags:
   - manga
@@ -19,77 +19,77 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 98
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0161.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0161.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0162.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0162.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0163.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0163.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0164.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0164.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0165.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0165.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0166.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0166.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0167.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0167.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0168.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0168.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0169.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0169.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0170.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0170.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0171.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0171.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0172.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0172.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0173.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0173.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0174.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0174.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0175.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0175.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0176.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0176.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0177.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0177.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0178.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0178.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0179.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0179.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0180.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0180.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0181.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0181.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0182.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0182.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0183.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0183.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0184.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0184.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0185.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0185.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0186.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0186.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0187.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0187.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0188.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0188.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0189.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0189.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0190.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0190.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0191.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0191.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0192.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0192.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
-<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/hi-no-tori/0012-0193.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.blog/manga/tezuka-osamu/chim-lua/0012-0193.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -367,4 +367,4 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, tập 12](https://nhavantuonglai.com/ebook/tezuka-osamu-hi-no-tori-episode-12.pdf) tại đây.
 
-<figure><img src="https://nhavantuonglai.blog/manga/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 98." title="Chim lửa (Hi no Tori) chương 98." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 98.</p></figcaption></figure>
