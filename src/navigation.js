@@ -5,19 +5,19 @@ export const headerData = {
 	links: [
 		{
 			text: 'Giới thiệu',
-			href: 'https://nhavantuonglai.com/about',
+			href: '/about',
 		},
 		{
 			text: 'Bài viết',
-			href: 'https://nhavantuonglai.com/article',
+			href: '/article',
 		},
 		{
-			text: 'Dịch vụ',
+			text: 'Công cụ',
 			href: 'https://nhavantuonglai.com/analytics',
 		},
 		{
 			text: 'Liên hệ',
-			href: 'https://nhavantuonglai.com/contact',
+			href: '/contact',
 		},
 	],
 
@@ -42,8 +42,8 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/analytics/unicode'
 				},
 				{
-					text: 'Chuẩn hóa dữ liệu',
-					href: 'https://nhavantuonglai.com/analytics/normalize'
+					text: 'Biểu tượng Emoji',
+					href: 'https://nhavantuonglai.com/analytics/emoji'
 				},
 				{
 					text: 'Thống kê văn bản',
@@ -56,19 +56,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com/tags/viet-lach'
+					href: '/tags/viet-lach'
 				},
 				{
-					text: 'Tôn giáo',
-					href: 'https://nhavantuonglai.com/tags/ton-giao'
+					text: 'Viết thuê',
+					href: '/tags/viet-thue'
 				},
 				{
-					text: 'Khoa học',
-					href: 'https://nhavantuonglai.com/tags/khoa-hoc'
+					text: 'Đoản văn',
+					href: '/tags/doan-van'
 				},
 				{
-					text: 'Triết học',
-					href: 'https://nhavantuonglai.com/tags/triet-hoc'
+					text: 'Nghiên cứu',
+					href: '/tags/nghien-cuu'
 				},
 				],
 		},
@@ -76,20 +76,20 @@ export const footerData = {
 			title: 'Chuyên mục',
 			links: [
 				{
-					text: 'Phật giáo',
-					href: 'https://nhavantuonglai.com/tags/phat-giao'
+					text: 'Tôn giáo',
+					href: '/tags/ton-giao'
 				},
 				{
-					text: 'Tiến hóa',
-					href: 'https://nhavantuonglai.com/tags/tien-hoa'
+					text: 'Triết học',
+					href: '/tags/triet-hoc'
 				},
 				{
-					text: 'Môi trường',
-					href: 'https://nhavantuonglai.com/tags/moi-truong'
+					text: 'Khoa học',
+					href: '/tags/khoa-hoc'
 				},
 				{
-					text: 'Nhận thức',
-					href: 'https://nhavantuonglai.com/tags/nhan-thuc'
+					text: 'Tâm lý',
+					href: '/tags/tam-ly-hoc'
 				},
 			],
 		},
@@ -97,20 +97,20 @@ export const footerData = {
 			title: 'Chuyên đề',
 			links: [
 				{
-					text: 'Vũ trụ học',
-					href: 'https://nhavantuonglai.com/tags/vu-tru-hoc'
+					text: 'Học viết lách',
+					href: '/tags/ky-nang-viet'
 				},
 				{
-					text: 'Sinh học',
-					href: 'https://nhavantuonglai.com/tags/sinh-hoc'
+					text: 'Tự dựng website',
+					href: '/tags/website'
 				},
 				{
-					text: 'Tâm lý học',
-					href: 'https://nhavantuonglai.com/tags/tam-ly-hoc'
+					text: 'Khủng hoảng tâm lý',
+					href: '/tags/khung-hoang'
 				},
 				{
-					text: 'Xã hội học',
-					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc'
+					text: 'Đạo đức xã hội',
+					href: '/tags/dao-duc-hoc'
 				},
 			],
 		},
