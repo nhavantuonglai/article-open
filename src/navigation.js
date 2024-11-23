@@ -56,19 +56,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Viết lách',
-					href: '/tags/viet-lach'
+					href: 'https://nhavantuonglai.com//tags/viet-lach'
 				},
 				{
 					text: 'Viết thuê',
-					href: '/tags/viet-thue'
+					href: 'https://nhavantuonglai.com//tags/viet-thue'
 				},
 				{
 					text: 'Đoản văn',
-					href: '/tags/doan-van'
+					href: 'https://nhavantuonglai.com//tags/doan-van'
 				},
 				{
 					text: 'Nghiên cứu',
-					href: '/tags/nghien-cuu'
+					href: 'https://nhavantuonglai.com//tags/nghien-cuu'
 				},
 				],
 		},
@@ -77,19 +77,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Tôn giáo',
-					href: '/tags/ton-giao'
+					href: 'https://nhavantuonglai.com//tags/ton-giao'
 				},
 				{
 					text: 'Triết học',
-					href: '/tags/triet-hoc'
+					href: 'https://nhavantuonglai.com//tags/triet-hoc'
 				},
 				{
 					text: 'Khoa học',
-					href: '/tags/khoa-hoc'
+					href: 'https://nhavantuonglai.com//tags/khoa-hoc'
 				},
 				{
 					text: 'Tâm lý',
-					href: '/tags/tam-ly-hoc'
+					href: 'https://nhavantuonglai.com//tags/tam-ly-hoc'
 				},
 			],
 		},
@@ -98,19 +98,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Học viết lách',
-					href: '/tags/ky-nang-viet'
+					href: 'https://nhavantuonglai.com//tags/ky-nang-viet'
 				},
 				{
 					text: 'Tự dựng website',
-					href: '/tags/website'
+					href: 'https://nhavantuonglai.com//tags/website'
 				},
 				{
 					text: 'Khủng hoảng tâm lý',
-					href: '/tags/khung-hoang'
+					href: 'https://nhavantuonglai.com//tags/khung-hoang'
 				},
 				{
 					text: 'Đạo đức xã hội',
-					href: '/tags/dao-duc-hoc'
+					href: 'https://nhavantuonglai.com//tags/dao-duc-hoc'
 				},
 			],
 		},
