@@ -1,0 +1,82 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+					Công cụ đếm tần suất văn bản
+				</h1>
+
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<textarea id="input" placeholder="Nhập dữ liệu cần thống kê vào đây." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<button id="convert-btn" class="btn-primary w-auto mb-6">Thống kê</button>
+
+				<div id="output" class="text-lg grid grid-cols-3 gap-4">
+
+					<div class="border border-gray-300 p-4 rounded-lg">
+						<h3 class="text-justify text-lg dark:text-slate-400 font-bold">Tổng ký tự</h3>
+						<p id="charCount"></p>
+					</div>
+					
+					<div class="border border-gray-300 p-4 rounded-lg">
+						<h3 class="text-justify text-lg dark:text-slate-400 font-bold">Thống kê ký tự</h3>
+						<p id="letterCount"></p>
+					</div>
+					
+					<div class="border border-gray-300 p-4 rounded-lg">
+						<h3 class="text-justify text-lg dark:text-slate-400 font-bold">Thống kê đoạn văn</h3>
+						<p id="paragraphCount"></p>
+					</div>
+				</div>
+
+			</div>
+
+			<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+					const buttonConvert = document.getElementById('convert-btn');
+					const buttonCopy = document.getElementById('copy-btn');
+					const input = document.getElementById('input');
+					const charCountOutput = document.getElementById('charCount');
+					const letterCountOutput = document.getElementById('letterCount');
+					const paragraphCountOutput = document.getElementById('paragraphCount');
+
+					buttonConvert.addEventListener('click', function() {
+						const inputText = input.value;
+
+						const totalCharacters = inputText.length;
+
+						const letterFrequency = {};
+						const letters = inputText.match(/[a-zA-Z]/g);
+						if (letters) {
+							letters.forEach(function(letter) {
+								const lowerLetter = letter.toLowerCase();
+								if (letterFrequency[lowerLetter]) {
+									letterFrequency[lowerLetter]++;
+								} else {
+									letterFrequency[lowerLetter] = 1;
+								}
+							});
+						}
+
+						const paragraphs = inputText.split(/(?<=[.!?])\s+/);
+						const totalParagraphs = paragraphs.length;
+
+						charCountOutput.innerText = `Tổng số ký tự: ${totalCharacters}`;
+						
+						let letterCountText = '';
+						for (const letter in letterFrequency) {
+							letterCountText += `${letter}: ${letterFrequency[letter]}\n`;
+						}
+						letterCountOutput.innerText = letterCountText || "Không có chữ cái nào.";
+
+						paragraphCountOutput.innerText = `Tổng số đoạn văn: ${totalParagraphs}`;
+					});
+				});
+			</script>
+		</div>
+</section>

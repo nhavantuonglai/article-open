@@ -10,13 +10,13 @@ import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
 import { findImage } from '~/utils/images';
 import type { MetaData } from '~/types';
 
-import Progress from '~/components/blog/progress.astro';
+import Progress from '~/components/javascript/progress.astro';
 
-import SinglePost from '~/components/blog/single-post.astro';
+import Article from '~/components/article/single.astro';
 
-import ToBlogLink from '~/components/blog/to-blog-link.astro';
-import RelatedPosts from '~/components/blog/related-post.astro';
-import CTA from '~/components/content/call-to-action.astro';
+import Link from '~/components/article/link.astro';
+import Related from '~/components/article/related.astro';
+import Action from '~/components/content/action.astro';
 
 export const prerender = true;
 
@@ -53,12 +53,12 @@ const metadata = merge(
 
 	<Progress/>
 
-	<SinglePost post={{ ...post, image: image }} url={url}/>
+	<Article post={{ ...post, image: image }} url={url}/>
 
-	<ToBlogLink/>
+	<Link/>
 
-	<RelatedPosts post={post}/>
+	<Related post={post}/>
 
-	<CTA/>
+	<Action/>
 
 </Layout>

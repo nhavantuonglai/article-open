@@ -1,0 +1,19 @@
+---
+import Layout from '~/layouts/page-layout.astro';
+
+import Normalize from '~/components/analytics/normalize.astro';
+import Content from '~/components/content/normalize.astro';
+
+const metadata = {
+	title: 'Công cụ chuẩn hóa dữ liệu thô | nhavantuonglai',
+	ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Normalize/>
+
+	<Content/>
+
+</Layout>

@@ -1,0 +1,80 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					callToAction={{
+						text: 'Nhắn tin',
+						href: 'https://www.instagram.com/nhavantuonglai/',
+					}}
+
+
+					items={[
+						{
+						title: 'Chuẩn hóa dữ liệu',
+						description:
+							'Giúp nhanh chóng và dễ dàng chuyển chữ hoa thành chữ thường để sử dụng, đăng lên mạng xã hội.',
+						icon: 'tabler:bell-school',
+						},
+						{
+						title: 'Lọc bỏ ký tự lỗi',
+						description:
+							'Giúp chuẩn hóa dữ liệu đầu ra, để đồng nhất và đảm bảo tính nguyên vẹn của dữ liệu.',
+						icon: 'tabler:brand-codecov',
+						},
+					]}
+
+					image={{
+						src: 'https://nhavantuonglai.com/image/cover/001-688.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+					<Fragment slot="content">
+						Công cụ chuyển đổi chữ hoa thành chữ thường là công cụ trực tuyến giúp dữ liệu của bạn sạch và dễ sử dụng với công cụ chuẩn hóa dữ liệu thô!
+					</Fragment>
+
+				</CTA>
+		</div>
+</section>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng công cụ chuyển đổi chữ hoa thành chữ thường, bạn chỉ cần dán văn bản vào ô, nhấn Chuyển đổi là dữ liệu sẽ sẵn sàng cho các dự án SEO và định dạng markdown.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ chuyển đổi chữ hoa thành chữ thường không giới hạn số lần sử dụng, nhưng với dữ liệu lớn, kết quả có thể mất thêm thời gian.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu chuyển đổi chữ hoa thành chữ thường',
+		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

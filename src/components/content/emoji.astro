@@ -1,0 +1,74 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					callToAction={{
+						text: 'Nhắn tin',
+						href: 'https://www.instagram.com/nhavantuonglai/',
+					}}
+
+
+					items={[
+						{
+						title: 'Làm nội dung hấp dẫn, sinh động hơn',
+						description:
+							'Emoji cung cấp những sắc thái, hình ảnh biểu trưng khác nhau, giúp thông tin bạn truyền tải sẽ trở nên thú vị và độc đáo hơn.',
+						icon: 'tabler:bell-school',
+						},
+						{
+						title: 'Thao tác đơn giản',
+						description:
+							'Chỉ cần click vào từng emoji bạn muốn sử dụng, hệ thống sẽ tự động copy để bạn dễ dàng sử dụng.',
+						icon: 'tabler:brand-codecov',
+						},
+					]}
+
+					image={{
+						src: 'https://nhavantuonglai.com/image/cover/001-582.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+					<Fragment slot="content">
+						Khám phá bộ 1001 emoji, icon Facebook chuẩn 2025, cập nhật mới nhất với danh sách emoji cập nhật liên tục. Bạn có thể dễ dàng tìm kiếm và sử dụng biểu tượng cảm xúc bằng ký tự trên Facebook phù hợp mọi hoàn cảnh. Làm mới ngôn từ, bài viết của bạn ngay!
+					</Fragment>
+
+				</CTA>
+		</div>
+</section>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Hãy tìm kiếm trong danh sách 1000 icon facebook, emoji Facebook chuẩn 2025 bạn mong muốn và click vào, hệ thống sẽ tự động copy để bạn có thể chèn vào văn bản. Công cụ tương thích trên các thiết bị iPhone, Android và nền tảng MacOS, Windows lẫn Linux.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Bộ emoji, biểu tượng cảm xúc Facebook chuẩn 2025, cập nhật mới nhất không có giới hạn, nhưng có thể gặp giới hạn trên một số thiết bị hoặc nền tảng cũ không hỗ trợ đầy đủ bộ emoji mới nhất.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ biểu tượng Facebook đẹp',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

@@ -1,0 +1,37 @@
+---
+import { APP_BLOG } from "nhavantuonglai:config";
+import { fetchPosts, getRelatedPosts } from "~/utils/blog";
+import BlogHighlightedPosts from "../article/highlighted.astro";
+import type { Post } from "~/types";
+import { getBlogPermalink } from "~/utils/permalinks";
+
+export interface Props {
+	post: Post;
+}
+
+const { post } = Astro.props;
+const fetchedPosts = await fetchPosts();
+const relatedPosts = post.tags ? getRelatedPosts(fetchedPosts, post.slug, post.tags) : [];
+
+function shuffleArray(array) {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
+	}
+	return array;
+}
+
+const randomPosts = shuffleArray(relatedPosts).slice(0, 3); // Lấy 3 bài viết ngẫu nhiên (tuỳ chỉnh số lượng nếu cần)
+---
+
+{
+	APP_BLOG.isRelatedPostsEnabled ? (
+		<BlogHighlightedPosts
+			classes={{ container: "pt-0 lg:pt-0 md:pt-0" }}
+			title="Có thể bạn chưa đọc"
+			linkText="Xem tất cả"
+			linkUrl={getBlogPermalink()}
+			postIds={randomPosts.map((post) => post.id)}
+		/>
+	) : null
+}

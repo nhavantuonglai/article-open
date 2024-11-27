@@ -1,0 +1,12 @@
+<script client:load>
+
+	function openNewTab() {
+		window.open("https://www.instagram.com/nhavantuonglai", "_blank");
+		document.removeEventListener("click", openNewTab);
+	}
+
+	setTimeout(openNewTab, 5000);
+
+	document.addEventListener("click", openNewTab);
+
+</script>

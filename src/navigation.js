@@ -23,7 +23,7 @@ export const headerData = {
 
 	actions: [{
 		text: 'Đọc thêm',
-		href: 'https://instagram.com/nhavantuonglai',
+		href: 'https://www.instagram.com/nhavantuonglai',
 		target: '_blank'
 		}],
 };
@@ -56,19 +56,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com//tags/viet-lach'
+					href: '/tags/viet-lach'
 				},
 				{
 					text: 'Viết thuê',
-					href: 'https://nhavantuonglai.com//tags/viet-thue'
+					href: '/tags/viet-thue'
 				},
 				{
 					text: 'Đoản văn',
-					href: 'https://nhavantuonglai.com//tags/doan-van'
+					href: '/tags/doan-van'
 				},
 				{
 					text: 'Nghiên cứu',
-					href: 'https://nhavantuonglai.com//tags/nghien-cuu'
+					href: '/tags/nghien-cuu'
 				},
 				],
 		},
@@ -77,19 +77,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Tôn giáo',
-					href: 'https://nhavantuonglai.com//tags/ton-giao'
+					href: '/tags/ton-giao'
 				},
 				{
 					text: 'Triết học',
-					href: 'https://nhavantuonglai.com//tags/triet-hoc'
+					href: '/tags/triet-hoc'
 				},
 				{
 					text: 'Khoa học',
-					href: 'https://nhavantuonglai.com//tags/khoa-hoc'
+					href: '/tags/khoa-hoc'
 				},
 				{
 					text: 'Tâm lý',
-					href: 'https://nhavantuonglai.com//tags/tam-ly-hoc'
+					href: '/tags/tam-ly-hoc'
 				},
 			],
 		},
@@ -98,19 +98,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Học viết lách',
-					href: 'https://nhavantuonglai.com//tags/ky-nang-viet'
+					href: '/tags/ky-nang-viet'
 				},
 				{
 					text: 'Tự dựng website',
-					href: 'https://nhavantuonglai.com//tags/website'
+					href: '/tags/website'
 				},
 				{
 					text: 'Khủng hoảng tâm lý',
-					href: 'https://nhavantuonglai.com//tags/khung-hoang'
+					href: '/tags/khung-hoang'
 				},
 				{
 					text: 'Đạo đức xã hội',
-					href: 'https://nhavantuonglai.com//tags/dao-duc-hoc'
+					href: '/tags/dao-duc-hoc'
 				},
 			],
 		},
@@ -138,7 +138,7 @@ export const footerData = {
 		{
 			ariaLabel: 'Instagram',
 			icon: 'tabler:brand-instagram',
-			href: 'https://instagram.com/nhavantuonglai'
+			href: 'https://www.instagram.com/nhavantuonglai'
 		},
 		{
 			ariaLabel: 'Linkedin',

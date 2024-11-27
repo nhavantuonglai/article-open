@@ -8,7 +8,7 @@ metadata:
   title:
     default: nhavantuonglai
     template: '%s | nhavantuonglai'
-  description: "nhavantuonglai là website cá nhân, thông qua kỹ năng viết lách và vốn hiểu biết xã hội để phán ánh góc nhìn cá nhân thông qua hình ảnh và câu từ, tập trung thể hiện chủ yếu dưới hình thức đoản văn và nghiên cứu."
+  description: "nhavantuonglai là website cá nhân, chia sẻ góc nhìn qua viết lách, hình ảnh, đoản văn và nghiên cứu, phản ánh kỹ năng và hiểu biết xã hội."
   robots:
     index: true
     follow: true
@@ -26,7 +26,7 @@ metadata:
     image:
       url: 'https://nhavantuonglai.com/image/cover/001-746.jpg'
     title: Đọc nhiều, hiểu sâu, viết hay cùng nhavantuonglai.
-    description: nhavantuonglai là website cá nhân, thông qua kỹ năng viết lách và vốn hiểu biết xã hội để phán ánh góc nhìn cá nhân thông qua hình ảnh và câu từ, tập trung thể hiện chủ yếu dưới hình thức đoản văn và nghiên cứu.
+    description: nhavantuonglai là thương hiệu cá nhân, thông qua viết lách để chia sẻ góc nhìn, hiểu biết về những mối quan tâm, niềm đam mê và mục tiêu sống của bản thân.
 
 i18n:
   language: vi
