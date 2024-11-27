@@ -1,0 +1,39 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+					Công cụ chuyển đổi chữ hoa thành chữ thường
+				</h1>
+
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<textarea id="input" placeholder="Nhập dữ liệu cần chuyển đổi chữ hoa thành chữ thường vào đây." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<button id="convert-btn" class="btn-primary w-auto  mb-6">Chuyển đổi</button>
+
+				<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+
+			</div>
+
+			<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+					const buttonConvert = document.getElementById('convert-btn');
+					const input = document.getElementById('input');
+					const output = document.getElementById('output');
+
+					buttonConvert.addEventListener('click', function() {
+						const inputText = input.value;
+						const lowerCaseText = inputText.toLowerCase();
+						output.innerText = lowerCaseText;
+
+					});
+
+				});
+			</script>
+		</div>
+</section>
