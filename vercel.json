@@ -1,15 +1,4 @@
 {
-	"routes": [
-	  {
-		"src": "/_vercel/speed-insights/(.*)",
-		"dest": "/speed-insights/$1"
-	  }
-	]
-  }
-  
-
-
-{
 	"cleanUrls": true,
 	"trailingSlash": false,
 	"headers": [
