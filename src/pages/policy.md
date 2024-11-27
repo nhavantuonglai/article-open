@@ -1,5 +1,5 @@
 ---
-layout: '~/layouts/markdown-layout.astro'
+layout: '~/layouts/markdown.astro'
 title: "Chính sách bảo mật, bảo vệ dữ liệu"
 ---
 

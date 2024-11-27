@@ -1,5 +1,5 @@
 ---
-layout: '~/layouts/markdown-layout.astro'
+layout: '~/layouts/markdown.astro'
 title: "Điều khoản khai thác, sử dụng dữ liệu"
 ---
 

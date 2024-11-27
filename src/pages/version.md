@@ -1,5 +1,5 @@
 ---
-layout: '~/layouts/markdown-layout.astro'
+layout: '~/layouts/markdown.astro'
 title: "Lịch sử phiên bản"
 ---
 
