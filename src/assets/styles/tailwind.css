@@ -52,13 +52,14 @@ p {
   line-height: 1.75;
 }
 
-#header.expanded nav {
-	position: fixed;
-	top: 70px;
-	left: 0;
-	right: 0;
-	bottom: 70px !important;
-	padding: 0 5px;
+.hidden {
+  display: none;
+}
+
+#index ul {
+  padding: 0em;
+  margin: 0;
+  list-style: none;
 }
 
 .dropdown:hover .dropdown-menu {
