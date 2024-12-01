@@ -35,6 +35,8 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 ### Chi tiết cập nhật
 
+2024.11.30: Kích hoạt tính năng [mục lục bài viết](https://nhavantuonglai.com/article/tao-muc-luc-bai-viet).
+
 2024.11.11: Cập nhật bộ [biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
 
 2024.10.28: Cập nhật thuộc tính _index_ cho các trang phụ trong mục _Article_.
