@@ -1,7 +1,6 @@
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
 
-const API_KEY = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // API Key directly in the code (NOT RECOMMENDED for production)
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
@@ -13,7 +12,7 @@ const API_KEY = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // API Key directly i
 
 			<div class="mx-auto max-w-7xl md:px-6 px-4">
 
-				<textarea id="input" placeholder="Nhập câu hỏi của bạn..." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+				<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
 
 				<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi</button>
 
@@ -40,7 +39,7 @@ const API_KEY = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // API Key directly i
 
 						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
-						output.innerText = "Đang xử lý...";
+						output.innerText = "Đang xử lý…";
 
 						try {
 							const response = await fetch(endpoint, {
