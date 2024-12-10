@@ -7,7 +7,7 @@ import CTA from '~/components/widgets/services.astro';
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 	<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-		Trợ lý ảo Gemini AI tích hợp sâu
+		Chat AI Cá Nhân
 	</h1>
 
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
@@ -29,14 +29,15 @@ import CTA from '~/components/widgets/services.astro';
 			buttonConvert.addEventListener('click', async function () {
 				const inputText = input.value.trim();
 				if (!inputText) {
-					output.textContent = "Lỗi nhập liệu không có thông tin, vui lòng kiểm tra lại thông tin đầu vào.";
+					output.innerText = "Vui lòng nhập nội dung.";
 					return;
 				}
 
-				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";
+				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";  // Access the API key
+
 				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
-				output.textContent = "Đang xử lý…";
+				output.innerText = "Đang xử lý…";
 
 				try {
 					const response = await fetch(endpoint, {
@@ -60,36 +61,35 @@ import CTA from '~/components/widgets/services.astro';
 						try {
 							const errorJSON = JSON.parse(error);
 							if (errorJSON.error && errorJSON.error.message) {
-								output.textContent = `Lỗi máy chủ: ${errorJSON.error.message}. Vui lòng liên hệ quản trị viên để được hỗ trợ.`;
+								output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
 							} else {
-								output.textContent = 'Lỗi máy chủ không rõ nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
+								output.innerText = `Lỗi từ máy chủ.`;
 							}
 						} catch (parseError) {
-							output.textContent = 'Lỗi máy chủ không phân tích được nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
-							console.error('Could not parse error response as JSON:', parseError);
+							output.innerText = `Lỗi từ máy chủ.`;
+							console.error("Could not parse error response as JSON:", parseError);
 						}
 						console.error('Error response:', response.status, error);
 						return;
 					}
 
-					try {
-						const result = await response.json();
-						const aiResponse = result.candidates[0].content;
+					const result = await response.json();
+					const aiResponse = result.candidates[0].content;
 
-						// Loại bỏ mọi thẻ HTML và chỉ hiển thị văn bản thuần
-						if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
-							output.textContent = aiResponse.parts[0].text.replace(/<\/?[^>]+(>|$)/g, ""); // Loại bỏ thẻ HTML
-						} else if (typeof aiResponse === 'string') {
-							output.textContent = aiResponse.replace(/<\/?[^>]+(>|$)/g, ""); // Loại bỏ thẻ HTML
-						} else {
-							output.textContent = "Lỗi nhập liệu không hỗ trợ định dạng, vui lòng chuẩn hóa thông tin trước.";
-							console.error("Unexpected response format:", aiResponse);
-						}
-					} catch (error) {
-						console.error('Error:', error);
-						output.textContent = 'Lỗi máy chủ kết nối không thành công, vui lòng kiểm tra mạng hoặc thử lại sau.';
+          // Extract the text from the response
+					if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
+						output.innerText = aiResponse.parts[0].text;
+					} else if (typeof aiResponse === 'string') {
+              output.innerText = aiResponse;
+          } else {
+						output.innerText = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết.";
+						console.error("Unexpected response format:", aiResponse);
 					}
-				});
+
+				} catch (error) {
+					console.error('Error:', error);
+					output.innerText = 'Lỗi kết nối với máy chủ.';
+				}
 			});
 		});
 	</script>
