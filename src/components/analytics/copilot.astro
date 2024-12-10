@@ -84,6 +84,8 @@ import CTA from '~/components/widgets/services.astro';
 						text = text.replace(/\.{3}/g, '…');
 						// Remove '*' and '"'
 						text = text.replace(/[*"]/g, '');
+						// Replace two or more consecutive newline characters with a single newline
+						text = text.replace(/(\n\s*){2,}/g, '\n');
 						return text;
 					}
 
