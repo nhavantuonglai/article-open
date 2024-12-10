@@ -34,8 +34,8 @@ import CTA from '~/components/widgets/services.astro';
 						}
 
 						// Cấu hình API
-						const API_KEY = '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';
-						const endpoint = 'https://api.openai.com/v1/chat/completions';
+						const API_KEY = 'AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY';
+						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
 
 						output.innerText = "Đang xử lý...";
 
@@ -44,27 +44,26 @@ import CTA from '~/components/widgets/services.astro';
 								method: 'POST',
 								headers: {
 									'Content-Type': 'application/json',
-									'Authorization': `Bearer ${API_KEY}`,
-									'OpenAI-Organization': `org-TJzGBt7pAte0BeEv65OG3PQ3`,
-									'OpenAI-Project': `$proj_mg1KKIyuh7IAkMcUeqS4OOi6`
 								},
 								body: JSON.stringify({
-									model: "gpt-4",
-									messages: [
-										{ role: "user", content: inputText }
-									],
-									max_tokens: 200,
-									temperature: 0.7
+									contents: [
+										{
+											parts: [
+												{ text: inputText }
+											]
+										}
+									]
 								})
 							});
 
 							if (response.ok) {
 								const result = await response.json();
-								const aiResponse = result.choices[0].message.content;
+								// Tùy thuộc vào cấu trúc phản hồi từ Google API
+								const aiResponse = result?.contents?.[0]?.parts?.[0]?.text || "Không có phản hồi.";
 								output.innerText = aiResponse;
 							} else {
 								const errorData = await response.json();
-								output.innerText = `Lỗi từ máy chủ. Vui lòng liên hệ quản trị viên để được hỗ trợ.`;
+								output.innerText = `Lỗi từ máy chủ: ${errorData.error?.message || 'Không rõ lỗi.'}`;
 							}
 						} catch (error) {
 							console.error('Error:', error);
