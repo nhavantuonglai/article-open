@@ -29,8 +29,7 @@ import CTA from '~/components/widgets/services.astro';
 					buttonConvert.addEventListener('click', async function() {
 						const inputText = input.value;
 
-						// API Configuration
-						const API_KEY = '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';
+						const API_KEY = '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';
 						const endpoint = 'https://api.openai.com/v1/chat/completions';
 
 						try {
@@ -58,7 +57,7 @@ import CTA from '~/components/widgets/services.astro';
 							}
 						} catch (error) {
 							console.error('Error:', error);
-							output.innerText = 'Không thể kết nối với máy chủ. Vui lòng kiểm tra kết nối mạng hoặc thử lại sau.';
+							output.innerText = 'Không thể kết nối với máy chủ.';
 						}
 					});
 				});
