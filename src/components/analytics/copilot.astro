@@ -76,12 +76,23 @@ import CTA from '~/components/widgets/services.astro';
 					const result = await response.json();
 					const aiResponse = result.candidates[0].content;
 
-          // Extract the text from the response
+					// Function to replace markdown-like syntax with plain text
+					function formatText(text) {
+						// Replace '—', '-', '*' with '–'
+						text = text.replace(/—|-/g, '–');
+						// Replace '...' with '…'
+						text = text.replace(/\.{3}/g, '…');
+						// Remove '*' and '"'
+						text = text.replace(/[*"]/g, '');
+						return text;
+					}
+
+					// Extract the text from the response
 					if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
-						output.innerText = aiResponse.parts[0].text;
+						output.innerText = formatText(aiResponse.parts[0].text);
 					} else if (typeof aiResponse === 'string') {
-              output.innerText = aiResponse;
-          } else {
+						output.innerText = formatText(aiResponse);
+					} else {
 						output.innerText = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết.";
 						console.error("Unexpected response format:", aiResponse);
 					}
