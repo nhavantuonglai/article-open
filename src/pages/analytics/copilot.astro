@@ -1,0 +1,19 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Copilot from '~/components/analytics/copilot.astro';
+import Content from '~/components/content/copilot.astro';
+
+const metadata = {
+	title: 'Công cụ Copilot demo | nhavantuonglai',
+	ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Copilot/>
+
+	<Content/>
+
+</Layout>

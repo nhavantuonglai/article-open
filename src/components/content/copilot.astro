@@ -1,0 +1,80 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					callToAction={{
+						text: 'Nhắn tin',
+						href: 'https://www.instagram.com/nhavantuonglai/',
+					}}
+
+
+					items={[
+						{
+						title: 'Công cụ Copilot demo',
+						description:
+							'Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo Công cụ Copilot demo.',
+						icon: 'tabler:bell-school',
+						},
+						{
+						title: 'Hỗ trợ giải mật mã thay thế',
+						description:
+							'Dựa vào khả năng thống kê tần suất văn bản, kết hợp cùng suy đoán để đưa ra ngữ cảnh, kết cấu chữ phù hợp để hoàn diễn dịch ra nội dung gốc.',
+						icon: 'tabler:brand-codecov',
+						},
+					]}
+
+					image={{
+						src: 'https://nhavantuonglai.com/image/cover/001-324.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+					<Fragment slot="content">
+						Bạn muốn biết từ hoặc cụm từ nào xuất hiện nhiều nhất trong văn bản? Công cụ đếm tần suất văn bản là trợ thủ đắc lực giúp bạn xác định số lần xuất hiện của bất kỳ giá trị nào.
+					</Fragment>
+
+				</CTA>
+		</div>
+</section>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng công cụ đếm tần suất văn bản xuất hiện giá trị, chỉ cần dán dữ liệu và nhấn Chuyển đổi, kết quả sẽ hiển thị tức thì.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ đếm tần suất văn bản không giới hạn số lần sử dụng, nhưng nếu lượng dữ liệu quá lớn, quá trình phân tích có thể chậm lại.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu đếm tần suất văn bản',
+		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>
