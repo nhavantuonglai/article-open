@@ -59,15 +59,15 @@ import CTA from '~/components/widgets/services.astro';
 							if (response.ok) {
 								const result = await response.json();
 								// Tùy thuộc vào cấu trúc phản hồi từ Google API
-								const aiResponse = result?.contents?.[0]?.parts?.[0]?.text || "Không có phản hồi.";
+								const aiResponse = result?.contents?.[0]?.parts?.[0]?.text || "Lỗi nhập liệu không đúng.";
 								output.innerText = aiResponse;
 							} else {
 								const errorData = await response.json();
-								output.innerText = `Lỗi từ máy chủ: ${errorData.error?.message || 'Không rõ lỗi.'}`;
+								output.innerText = `Lỗi phát sinh từ máy chủ.'}`;
 							}
 						} catch (error) {
 							console.error('Error:', error);
-							output.innerText = 'Không thể kết nối với máy chủ. Vui lòng thử lại sau.';
+							output.innerText = 'Lỗi kết nối với máy chủ.';
 						}
 					});
 				});
