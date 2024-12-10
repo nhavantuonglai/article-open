@@ -29,15 +29,14 @@ import CTA from '~/components/widgets/services.astro';
 			buttonConvert.addEventListener('click', async function () {
 				const inputText = input.value.trim();
 				if (!inputText) {
-					output.innerText = "Lỗi nhập liệu không có thông tin, vui lòng kiểm tra lại thông tin đầu vào.";
+					output.textContent = "Lỗi nhập liệu không có thông tin, vui lòng kiểm tra lại thông tin đầu vào.";
 					return;
 				}
 
 				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";
-
 				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
-				output.innerText = "Đang xử lý…";
+				output.textContent = "Đang xử lý…";
 
 				try {
 					const response = await fetch(endpoint, {
@@ -61,12 +60,12 @@ import CTA from '~/components/widgets/services.astro';
 						try {
 							const errorJSON = JSON.parse(error);
 							if (errorJSON.error && errorJSON.error.message) {
-								output.innerText = `Lỗi máy chủ: ${errorJSON.error.message}. Vui lòng liên hệ quản trị viên để được hỗ trợ.`;
+								output.textContent = `Lỗi máy chủ: ${errorJSON.error.message}. Vui lòng liên hệ quản trị viên để được hỗ trợ.`;
 							} else {
-								output.innerText = 'Lỗi máy chủ không rõ nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
+								output.textContent = 'Lỗi máy chủ không rõ nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
 							}
 						} catch (parseError) {
-							output.innerText = 'Lỗi máy chủ không phân tích được nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
+							output.textContent = 'Lỗi máy chủ không phân tích được nguyên nhân. Vui lòng liên hệ quản trị viên để được hỗ trợ.';
 							console.error('Could not parse error response as JSON:', parseError);
 						}
 						console.error('Error response:', response.status, error);
@@ -77,20 +76,20 @@ import CTA from '~/components/widgets/services.astro';
 						const result = await response.json();
 						const aiResponse = result.candidates[0].content;
 
+						// Loại bỏ mọi thẻ HTML và chỉ hiển thị văn bản thuần
 						if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
-							output.innerText = aiResponse.parts[0].text;
+							output.textContent = aiResponse.parts[0].text.replace(/<\/?[^>]+(>|$)/g, ""); // Loại bỏ thẻ HTML
 						} else if (typeof aiResponse === 'string') {
-							output.innerText = aiResponse;
+							output.textContent = aiResponse.replace(/<\/?[^>]+(>|$)/g, ""); // Loại bỏ thẻ HTML
 						} else {
-							output.innerText = "Lỗi nhập liệu không hỗ trợ định dạng, vui lòng chuẩn hóa thông tin trước.";
+							output.textContent = "Lỗi nhập liệu không hỗ trợ định dạng, vui lòng chuẩn hóa thông tin trước.";
 							console.error("Unexpected response format:", aiResponse);
 						}
 					} catch (error) {
 						console.error('Error:', error);
-						output.innerText = 'Lỗi máy chủ kết nối không thành công, vui lòng kiểm tra mạng hoặc thử lại sau.';
+						output.textContent = 'Lỗi máy chủ kết nối không thành công, vui lòng kiểm tra mạng hoặc thử lại sau.';
 					}
-
-
+				});
 			});
 		});
 	</script>
