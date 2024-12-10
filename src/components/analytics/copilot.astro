@@ -62,11 +62,11 @@ import CTA from '~/components/widgets/services.astro';
 								output.innerText = aiResponse;
 							} else {
 								const errorData = await response.json();
-								output.innerText = `Lỗi từ máy chủ.`;
+								output.innerText = `Lỗi từ máy chủ. Vui lòng liên hệ quản trị viên để được hỗ trợ.`;
 							}
 						} catch (error) {
 							console.error('Error:', error);
-							output.innerText = 'Không thể kết nối với máy chủ.';
+							output.innerText = 'Không thể kết nối với máy chủ. Vui lòng thử lại sau.';
 						}
 					});
 				});
