@@ -1,4 +1,4 @@
 .astro/
 node_modules/
 .vscode/
-src/env.d.ts
+.env
