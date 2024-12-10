@@ -7,14 +7,14 @@ import CTA from '~/components/widgets/services.astro';
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 	<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-		Chat AI Cá Nhân
+		Công cụ Integrate AI cá nhân hóa
 	</h1>
 
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
 
 		<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
 
-		<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi</button>
+		<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi yêu cầu</button>
 
 		<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
 
@@ -33,7 +33,7 @@ import CTA from '~/components/widgets/services.astro';
 					return;
 				}
 
-				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";  // Access the API key
+				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";
 
 				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
@@ -76,20 +76,13 @@ import CTA from '~/components/widgets/services.astro';
 					const result = await response.json();
 					const aiResponse = result.candidates[0].content;
 
-					// Function to replace markdown-like syntax with plain text
 					function formatText(text) {
-						// Replace '—', '-', '*' with '–'
 						text = text.replace(/—|-/g, '–');
-						// Replace '...' with '…'
 						text = text.replace(/\.{3}/g, '…');
-						// Remove '*' and '"'
 						text = text.replace(/[*"]/g, '');
-						// Replace two or more consecutive newline characters with a single newline
-						text = text.replace(/(\n\s*){2,}/g, '\n');
 						return text;
 					}
 
-					// Extract the text from the response
 					if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
 						output.innerText = formatText(aiResponse.parts[0].text);
 					} else if (typeof aiResponse === 'string') {
