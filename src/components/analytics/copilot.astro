@@ -1,0 +1,57 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+					Công cụ chuyển đổi chữ hoa thành chữ thường
+				</h1>
+
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<textarea id="input" placeholder="Nhập dữ liệu cần chuyển đổi chữ hoa thành chữ thường vào đây." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<button id="convert-btn" class="btn-primary w-auto  mb-6">Chuyển đổi</button>
+
+				<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+
+			</div>
+
+			<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+					const buttonConvert = document.getElementById('convert-btn');
+					const input = document.getElementById('input');
+					const output = document.getElementById('output');
+
+					buttonConvert.addEventListener('click', async function() {
+						const inputText = input.value;
+
+						// Thực hiện gọi API
+						try {
+							const response = await fetch('https://api.copilot.com/v1/process', {
+								method: 'POST',
+								headers: {
+									'Content-Type': 'application/json',
+									'Authorization': 'Bearer 5b86b4e5036546198f71cafd438e742c.87aabec5b14f408a'
+								},
+								body: JSON.stringify({ input: inputText })
+							});
+
+							if (response.ok) {
+								const result = await response.json();
+								output.innerText = result.output; // Hiển thị nội dung phản hồi
+							} else {
+								output.innerText = 'Đã xảy ra lỗi khi xử lý yêu cầu. Vui lòng thử lại.';
+							}
+						} catch (error) {
+							console.error('Error:', error);
+							output.innerText = 'Không thể kết nối với máy chủ. Vui lòng kiểm tra kết nối mạng.';
+						}
+					});
+				});
+			</script>
+		</div>
+</section>
