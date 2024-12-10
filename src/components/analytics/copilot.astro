@@ -9,10 +9,15 @@ import CTA from '~/components/widgets/services.astro';
 	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
 		Chat AI Cá Nhân
 	</h1>
+
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
+
 		<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
 		<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi</button>
+
 		<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+
 	</div>
 
 	<script client:load>
@@ -28,7 +33,8 @@ import CTA from '~/components/widgets/services.astro';
 					return;
 				}
 
-				const apiKey = API_KEY;
+				const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY";  // Access the API key
+
 				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
 				output.innerText = "Đang xử lý…";
@@ -51,28 +57,34 @@ import CTA from '~/components/widgets/services.astro';
 					});
 
 					if (!response.ok) {
-						output.innerText = `Lỗi từ máy chủ.`;
-						console.error('Error response:', response.status, await response.text());
+						const error = await response.text();
+						try {
+							const errorJSON = JSON.parse(error);
+							if (errorJSON.error && errorJSON.error.message) {
+								output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+							} else {
+								output.innerText = `Lỗi từ máy chủ.`;
+							}
+						} catch (parseError) {
+							output.innerText = `Lỗi từ máy chủ.`;
+							console.error("Could not parse error response as JSON:", parseError);
+						}
+						console.error('Error response:', response.status, error);
 						return;
 					}
 
 					const result = await response.json();
-					let aiResponseText = ""; // Khởi tạo biến để lưu trữ văn bản
+					const aiResponse = result.candidates[0].content;
 
-					if (result.candidates && result.candidates.length > 0 && result.candidates[0].content) {
-                        const aiResponse = result.candidates[0].content;
-						if (typeof aiResponse === 'object' && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
-                            aiResponseText = aiResponse.parts[0].text;
-						} else if (typeof aiResponse === 'string') {
-                            aiResponseText = aiResponse;
-						} else {
-							console.error("Unexpected response format:", aiResponse);
-							aiResponseText = "Định dạng phản hồi không được hỗ trợ.";
-						}
-					} else {
-						aiResponseText = "Định dạng phản hồi không được hỗ trợ.";
-						console.error("Unexpected response structure:", result);
-                    }
+          // Extract the text from the response
+					if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
+						output.innerText = aiResponse.parts[0].text;
+					} else if (typeof aiResponse === 'string') {
+              output.innerText = aiResponse;
+          } else {
+						output.innerText = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết.";
+						console.error("Unexpected response format:", aiResponse);
+					}
 
                     // Format the output text
                     aiResponseText = aiResponseText.replace(/—|[*-]/g, '–'); // Replace —, *, - with –
@@ -80,8 +92,6 @@ import CTA from '~/components/widgets/services.astro';
                     aiResponseText = aiResponseText.trim();
 
 					output.innerText = aiResponseText; // Set formatted text to output
-
-
 
 				} catch (error) {
 					console.error('Error:', error);
