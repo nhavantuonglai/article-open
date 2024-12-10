@@ -1,6 +1,7 @@
----
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
+
+const API_KEY = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // API Key directly in the code (NOT RECOMMENDED for production)
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
@@ -26,6 +27,8 @@ import CTA from '~/components/widgets/services.astro';
 					const input = document.getElementById('input');
 					const output = document.getElementById('output');
 
+          const apiKey = "{API_KEY}"; // Access the server-side variable
+
 					buttonConvert.addEventListener('click', async function () {
 						const inputText = input.value.trim();
 						if (!inputText) {
@@ -33,13 +36,9 @@ import CTA from '~/components/widgets/services.astro';
 							return;
 						}
 
-						// Cấu hình API -  Use environment variables for security
-						const API_KEY = import.meta.env.VITE_API_KEY; //Get API key from .env file
-						if (!API_KEY) {
-							output.innerText = "API key is missing. Please configure environment variables.";
-							return;
-						}
-						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY`;
+
+
+						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
 						output.innerText = "Đang xử lý...";
 
@@ -61,14 +60,23 @@ import CTA from '~/components/widgets/services.astro';
 							});
 
 							if (!response.ok) {
-								const error = await response.text(); // Get more detailed error message
+								const error = await response.text();
 								output.innerText = `Lỗi từ máy chủ: ${error}`;
+                let errorJSON;
+                try {
+                    errorJSON = JSON.parse(error);
+                    if (errorJSON.error && errorJSON.error.message) {
+                      output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+                    }
+                } catch (parseError) {
+                    console.error("Could not parse error response as JSON:", parseError);
+                }
 								console.error('Error response:', response.status, error);
 								return;
 							}
 
 							const result = await response.json();
-							const aiResponse = result.candidates[0].content; // more robust path
+							const aiResponse = result.candidates[0].content;
 							output.innerText = aiResponse || "Lỗi xử lý phản hồi.";
 
 						} catch (error) {
