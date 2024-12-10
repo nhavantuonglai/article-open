@@ -9,7 +9,7 @@ title: "Lịch sử phiên bản"
 
 – Hosting: [Vercel](https://nhavantuonglai.com/article/vercel-cai-dat).
 
-– Quản lý dữ liệu: Github.
+– Quản lý dữ liệu: [Github](https://github.com/nhavantuonglai).
 
 – Theo dõi trạng thái: [Openstatus](https://nhavantuonglai.com/article/openstatus).
 
@@ -34,6 +34,8 @@ Việc cập nhật được diễn ra tự động, không ảnh hưởng đế
 v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập trung vào những tính năng mới sẽ áp dụng trên website. Mục tiêu của v24.09. là tạo ra các không gian tương tác, ứng dụng tính năng để thu hút và giữ chân người dùng trên website.
 
 ### Chi tiết cập nhật
+
+2024.12.08: Cập nhật lại tiêu đề và mô tả website.
 
 2024.11.30: Kích hoạt tính năng [mục lục bài viết](https://nhavantuonglai.com/article/tao-muc-luc-bai-viet).
 

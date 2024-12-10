@@ -3,50 +3,24 @@ layout: '~/layouts/markdown.astro'
 title: "Thông tin về nhavantuonglai"
 ---
 
-_nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật. Thể hiện vốn hiểu biết đời sống phong phú và kinh nghiệm viết vững vàng, nhavantuonglai biết cách kể những câu chuyện mang nặng tính cá nhân hóa nhưng vẫn sâu sắc mà có tính phổ quát cao._
+_Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về._
 
-## Giới thiệu về nhavantuonglai
+Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai thể hiện kỹ năng viết, vốn hiểu biết và sự chiêm nghiệm với những điều đã trải qua. Chúng là những dòng văn vừa mang nặng tính cá nhân, lại rất phổ quát và sâu sắc.
 
-nhavantuonglai là thương hiệu cá nhân của Nguyễn Kỳ Lân, sử dụng khả năng viết lách và vốn hiểu biết xã hội để phán ánh góc nhìn cá nhân thông qua hình ảnh và câu từ, tập trung thể hiện chủ yếu dưới hình thức đoản văn và nghiên cứu. Là sự kết hợp giữa trải nghiệm cá nhân và kỹ năng viết lách, nhavantuonglai biết cách tạo ra những câu chuyện vừa dung hòa được tính cá nhân hóa, lại mang tính phổ quát và sâu sắc cao.
+## Đôi nét trải lòng
 
-Về tính cá nhân hóa, văn phong viết của nhavantuonglai thiên về trải nghiệm và đánh giá dưới góc nhìn phiến diện. Dù vậy, nhavantuonglai vẫn luôn cố gắng thể hiện sự trung dung, không quá thành kiến khi nói về một vấn đề, chủ đề cụ thể nhằm tránh sự tổn thương không đáng có với những người liên quan.
+Mình là một người không muốn người khác nhớ tên, chỉ muốn được gọi là _nhavantuonglai_ và biết thông qua chữ nghĩa mình tạo ra. Mình thích viết, cũng là định hướng sự nghiệp, khi muốn đi theo con đường viết lách chuyên nghiệp, _nhavantuonglai_ phần nào đó đã thể hiện rõ định hướng này. Là một người chỉ biết lắng nghe mà không giỏi để lên tiếng trình bày, mình tìm thấy chính mình trong từng câu chữ và sử dụng chúng để nói thay những điều muốn nói. Khi thực hành viết, mình hướng vào bên trong để kết nối với những gì đang hứng thú mà tạo ra động lực viết rõ ràng hơn, và cũng hướng ra bên ngoài - để ngôn từ khi sử dụng được chỉnh chu và trọn vẹn nhất có thể.
 
-Về tính phố quát, nội dung viết của nhavantuonglai phản ánh đời sống, nhịp sống của xã hội đương thời, với nhiều câu chuyện và trải nghiệm có được trong hành trình sống và tận hưởng cuộc sống ở khắp mọi miền tổ quốc mà tác giả đã đi qua.
+Mình muốn xuất bản sách, nhưng không muốn tổng hợp những bài đã, và đang được đăng trên website này, cũng như Instagram cá nhân, bởi vì ai cũng có thể tiếp cận, và cuốn sách khi đến tay độc giả khi ấy - phần nào là sự ủng hộ chứ chẳng xuất phát từ động lực muốn đọc những điều mình viết. Thế nên là, khi xuất bản sách, dù là cuốn đầu tiên, đó phải là những ngôn từ (của mình) mà chưa ai được đọc, và chúng phải thật xứng đáng với số tiền mà mọi người bỏ ra.
 
-Thông qua website cá nhân, các bài viết được thống kê và tổng hợp đầy đủ trong một giao diện trực quan và sinh động, giúp trải nghiệm đọc luôn xuyên suốt và liền mạch. Thông qua instagram cá nhân, các bài viết được trình bày đẹp mắt và dễ dàng tương tác, giúp kết nối nhanh và hiệu quả với tác giả hơn.
+Mình cũng chỉ muốn được biết đến với vai trò là người viết, được công nhận tài năng thông qua con chữ chứ không phải điều gì khác. Nên dù có chụp ảnh lâu năm, kinh nghiệm làm Marketing dày dạn, thì đó cũng chỉ là những điều thứ yếu bên cạnh giá trị mình theo đuổi. Nên nếu một khi mình chưa được sống, được công nhận tài năng với điều ấy, thì chứng tỏ ra mình vẫn chưa thật sự thành công - theo cách mình muốn.
 
-Bên cạnh đó, nhavantuonglai cũng nhận outsource các dự án thiết kế website, Marketing thương hiệu cho các cá nhân, tổ chức và doanh nghiệp trong nước. Với kinh nghiệm và khả năng chuyên môn vững vàng, nhavantuonglai tự tin tạo ra sự thay đổi và tích cực với những sản phẩm, dự án mà tác giả tiếp nhận triển khai.
+## Động viên tinh thần
 
-## Ủng hộ
+Nếu nội dung trên website phần nào đó là hữu ích với bạn, hay đơn thuần là bạn muốn ủng hộ mình, hãy follow [Instagram](https://www.instagram.com/nhavantuonglai) của mình nhé.
 
-Nếu những nội dung mà bạn đọc từ nhavantuonglai là hữu ích và thiết thực, cũng như sẵn lòng hỗ trợ để tiếp thêm động lực cho nhavantuonglai tạo ra nhiều tài nguyên, giá trị hữu ích hơn, thì hãy ủng hộ bằng cách bấm follow [Instagram](https://www.instagram.com/nhavantuonglai/).
+Nếu bạn muốn kết nối, trao đổi thư từ với mình, hãy gửi tin nhắn qua Instagram theo đường link ở trên. Hoặc email đến [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com), mình hứa sẽ đọc và trả lời lại với những gì có thể.
 
-## Thông tin liên lạc
+Nếu bạn muốn xem ảnh mình chụp, hãy đến với [500px](https://500px.com/p/nhavantuonglai) hoặc [Flickr](https://www.flickr.com/photos/nhavantuonglai), không cần follow, chỉ cần xem rồi cảm nhận. Và tất nhiên, Instagram của mình luôn ngập tràn ảnh film đã chụp từ 2018 đến nay.
 
-### Kênh mạng xã hội
-
-– Instagram: https://www.instagram.com/nhavantuonglai/
-
-– Fanpage: https://www.facebook.com/tacphamtuonglai/
-
-– Twitter: https://x.com/nhavantuonglai/
-
-### Kênh chia hình ảnh
-
-– 500px: https://500px.com/p/nhavantuonglai/
-
-– Flickr: https://www.flickr.com/photos/nhavantuonglai/
-
-### Kênh lưu trữ dữ liệu
-
-– Github: https://github.com/nhavantuonglai/
-
-– Github: null
-
-### Kênh khác
-
-_Chưa cập nhật._
-
-## Hỗ trợ kỹ thuật
-
-Nếu bạn có bất kỳ câu hỏi, cần hỗ trợ hay hợp tác làm việc, đừng ngần ngại liên hệ với @nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com) để kết nối nhanh và thuận tiện nhất.
+Website được vận hành bởi [Vercel](https://nhavantuonglai.com/article/vercel-cai-dat), lưu trữ database thông qua [Github](https://github.com/nhavantuonglai), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm [tại đây](https://nhavantuonglai.com/article/xay-dung-website) để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.
