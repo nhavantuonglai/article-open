@@ -29,7 +29,7 @@ import CTA from '~/components/widgets/services.astro';
 			buttonConvert.addEventListener('click', async function () {
 				const inputText = input.value.trim();
 				if (!inputText) {
-					output.innerText = "Vui lòng nhập nội dung.";
+					output.textContent = "Vui lòng nhập nội dung."; // Use textContent for plain text
 					return;
 				}
 
@@ -37,7 +37,7 @@ import CTA from '~/components/widgets/services.astro';
 
 				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
-				output.innerText = "Đang xử lý…";
+				output.textContent = "Đang xử lý…"; // Use textContent for plain text
 
 				try {
 					const response = await fetch(endpoint, {
@@ -61,12 +61,12 @@ import CTA from '~/components/widgets/services.astro';
 						try {
 							const errorJSON = JSON.parse(error);
 							if (errorJSON.error && errorJSON.error.message) {
-								output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+								output.textContent = `Lỗi từ máy chủ: ${errorJSON.error.message}`; // Use textContent for plain text
 							} else {
-								output.innerText = `Lỗi từ máy chủ.`;
+								output.textContent = `Lỗi từ máy chủ.`; // Use textContent for plain text
 							}
 						} catch (parseError) {
-							output.innerText = `Lỗi từ máy chủ.`;
+							output.textContent = `Lỗi từ máy chủ.`; // Use textContent for plain text
 							console.error("Could not parse error response as JSON:", parseError);
 						}
 						console.error('Error response:', response.status, error);
@@ -76,19 +76,19 @@ import CTA from '~/components/widgets/services.astro';
 					const result = await response.json();
 					const aiResponse = result.candidates[0].content;
 
-          // Extract the text from the response
+					// Extract the plain text from the response
 					if (typeof aiResponse === 'object' && aiResponse !== null && aiResponse.parts && Array.isArray(aiResponse.parts) && aiResponse.parts.length > 0 && aiResponse.parts[0].text) {
-						output.innerText = aiResponse.parts[0].text;
+						output.textContent = aiResponse.parts[0].text; // Use textContent for plain text
 					} else if (typeof aiResponse === 'string') {
-              output.innerText = aiResponse;
-          } else {
-						output.innerText = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết.";
+						output.textContent = aiResponse; // Use textContent for plain text
+					} else {
+						output.textContent = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết."; // Use textContent for plain text
 						console.error("Unexpected response format:", aiResponse);
 					}
 
 				} catch (error) {
 					console.error('Error:', error);
-					output.innerText = 'Lỗi kết nối với máy chủ.';
+					output.textContent = 'Lỗi kết nối với máy chủ.'; // Use textContent for plain text
 				}
 			});
 		});
