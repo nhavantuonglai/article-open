@@ -86,13 +86,6 @@ import CTA from '~/components/widgets/services.astro';
 						console.error("Unexpected response format:", aiResponse);
 					}
 
-                    // Format the output text
-                    aiResponseText = aiResponseText.replace(/—|[*-]/g, '–'); // Replace —, *, - with –
-                    aiResponseText = aiResponseText.replace(/\.{3}/g, '…'); // Replace ... with …
-                    aiResponseText = aiResponseText.trim();
-
-					output.innerText = aiResponseText; // Set formatted text to output
-
 				} catch (error) {
 					console.error('Error:', error);
 					output.innerText = 'Lỗi kết nối với máy chủ.';
