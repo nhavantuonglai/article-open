@@ -22,65 +22,48 @@ import CTA from '~/components/widgets/services.astro';
 
 			<script client:load>
 				document.addEventListener("DOMContentLoaded", function () {
-					const buttonConvert = document.getElementById('convert-btn');
-					const input = document.getElementById('input');
-					const output = document.getElementById('output');
+					// ... (other code remains the same)
 
-					buttonConvert.addEventListener('click', async function () {
-						const inputText = input.value.trim();
-						if (!inputText) {
-							output.innerText = "Vui lòng nhập nội dung.";
+					try {
+						const response = await fetch(endpoint, {
+							// ...
+						});
+
+						if (!response.ok) {
+							const error = await response.text();
+							try { // Try to parse JSON for a better error message
+								const errorJSON = JSON.parse(error);
+								if (errorJSON.error && errorJSON.error.message) {
+									output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+								} else {
+										output.innerText = `Lỗi từ máy chủ.`;
+								}
+							} catch (parseError) {
+								output.innerText = `Lỗi từ máy chủ.`;
+								console.error("Could not parse error response as JSON:", parseError);
+							}
+							console.error('Error response:', response.status, error);
 							return;
 						}
 
-						const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // Access the server-side variable
+						const result = await response.json();
+						const aiResponse = result.candidates[0].content;
 
-						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
-
-						output.innerText = "Đang xử lý…";
-
-						try {
-							const response = await fetch(endpoint, {
-								method: 'POST',
-								headers: {
-									'Content-Type': 'application/json',
-								},
-								body: JSON.stringify({
-									contents: [
-										{
-											parts: [
-												{ text: inputText }
-											]
-										}
-									]
-								})
-							});
-
-							if (!response.ok) {
-								const error = await response.text();
-								output.innerText = `Lỗi từ máy chủ.`;
-                let errorJSON;
-                try {
-                    errorJSON = JSON.parse(error);
-                    if (errorJSON.error && errorJSON.error.message) {
-                      output.innerText = `Lỗi từ máy chủ.`;
-                    }
-                } catch (parseError) {
-                    console.error("Could not parse error response as JSON:", parseError);
-                }
-								console.error('Error response:', response.status, error);
-								return;
+						if (typeof aiResponse === 'string') {
+							output.innerText = aiResponse;
+						} else if (typeof aiResponse === 'object' && aiResponse !== null) {
+							if (aiResponse.hasOwnProperty('text')) {
+								output.innerText = aiResponse.text;
+							} else {
+								output.innerText = JSON.stringify(aiResponse, null, 2); // Fallback to JSON stringify
 							}
-
-							const result = await response.json();
-							const aiResponse = result.candidates[0].content;
-							output.innerText = aiResponse || "Lỗi xử lý phản hồi.";
-
-						} catch (error) {
-							console.error('Error:', error);
-							output.innerText = 'Lỗi kết nối với máy chủ.';
+						} else {
+							output.innerText = "Định dạng phản hồi không được hỗ trợ.";
 						}
-					});
+
+					} catch (error) {
+						// ...
+					}
 				});
 			</script>
 		</div>
