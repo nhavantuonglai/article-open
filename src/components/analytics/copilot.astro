@@ -1,6 +1,6 @@
+---
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
-
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
@@ -26,8 +26,6 @@ import CTA from '~/components/widgets/services.astro';
 					const input = document.getElementById('input');
 					const output = document.getElementById('output');
 
-          const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // Access the server-side variable
-
 					buttonConvert.addEventListener('click', async function () {
 						const inputText = input.value.trim();
 						if (!inputText) {
@@ -35,7 +33,7 @@ import CTA from '~/components/widgets/services.astro';
 							return;
 						}
 
-
+						const apiKey = "AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY"; // Access the server-side variable
 
 						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
@@ -60,12 +58,12 @@ import CTA from '~/components/widgets/services.astro';
 
 							if (!response.ok) {
 								const error = await response.text();
-								output.innerText = `Lỗi từ máy chủ: ${error}`;
+								output.innerText = `Lỗi từ máy chủ.`;
                 let errorJSON;
                 try {
                     errorJSON = JSON.parse(error);
                     if (errorJSON.error && errorJSON.error.message) {
-                      output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+                      output.innerText = `Lỗi từ máy chủ.`;
                     }
                 } catch (parseError) {
                     console.error("Could not parse error response as JSON:", parseError);
