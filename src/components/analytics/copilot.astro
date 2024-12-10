@@ -33,8 +33,12 @@ import CTA from '~/components/widgets/services.astro';
 							return;
 						}
 
-						// Cấu hình API
-						const API_KEY = 'AIzaSyB5gdj9sFmuVAdygdrt1M6K9YM8dWow-kY';
+						// Cấu hình API -  Use environment variables for security
+						const API_KEY = import.meta.env.VITE_API_KEY; //Get API key from .env file
+						if (!API_KEY) {
+							output.innerText = "API key is missing. Please configure environment variables.";
+							return;
+						}
 						const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
 
 						output.innerText = "Đang xử lý...";
@@ -56,15 +60,17 @@ import CTA from '~/components/widgets/services.astro';
 								})
 							});
 
-							if (response.ok) {
-								const result = await response.json();
-								// Tùy thuộc vào cấu trúc phản hồi từ Google API
-								const aiResponse = result?.contents?.[0]?.parts?.[0]?.text || "Lỗi nhập liệu không đúng.";
-								output.innerText = aiResponse;
-							} else {
-								const errorData = await response.json();
-								output.innerText = `Lỗi phát sinh từ máy chủ.'}`;
+							if (!response.ok) {
+								const error = await response.text(); // Get more detailed error message
+								output.innerText = `Lỗi từ máy chủ: ${error}`;
+								console.error('Error response:', response.status, error);
+								return;
 							}
+
+							const result = await response.json();
+							const aiResponse = result.candidates[0].content; // more robust path
+							output.innerText = aiResponse || "Lỗi xử lý phản hồi.";
+
 						} catch (error) {
 							console.error('Error:', error);
 							output.innerText = 'Lỗi kết nối với máy chủ.';
