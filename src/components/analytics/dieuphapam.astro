@@ -18,69 +18,73 @@ import CTA from '~/components/widgets/services.astro';
     <div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
   </div>
 
-<script client:load>
-  async function getNewUrl(inputUrl) {
-    try {
-      // Tìm phần số ở cuối URL
-      const regex = /(\d+)\/?$/;
-      const match = inputUrl.match(regex);
-      
-      if (!match) {
-        throw new Error("Không tìm thấy dãy số trong URL");
-      }
+<section>
+  <h2>Nhập URL và nhận link tải</h2>
+  <textarea id="input" placeholder="Nhập URL trang chứa các liên kết tải…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+  <button id="convert-btn" class="btn-primary w-auto mb-6">Chuyển đổi</button>
+  <div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+</section>
 
-      const number = match[1];
-      const newUrl = `https://media.dieuphapam.net/portal/download.php?f=${number}.dieuphapam.list`;
-      
-      // Kiểm tra URL mới bằng fetch để tránh lỗi 403 hay Failed to fetch
-      const response = await fetch(newUrl, {
-        method: 'GET',
-        headers: {
-          'User-Agent': 'Mozilla/5.0',  // Thêm User-Agent để tránh bị chặn
-          'Accept': 'application/json',
-        },
-        // Đặt thời gian chờ kết nối (timeout)
-      });
+	<script>
+	  async function processInputUrl(inputUrl) {
+		try {
+		  // Sử dụng RegEx để tìm dãy số cuối trong URL
+		  const regex = /(\d+)\/?$/;
+		  const match = inputUrl.match(regex);
 
-      if (!response.ok) {
-        if (response.status === 403) {
-          throw new Error("Lỗi 403: Truy cập bị từ chối.");
-        } else if (response.status === 404) {
-          throw new Error("Lỗi 404: Không tìm thấy trang.");
-        } else {
-          throw new Error(`Lỗi HTTP: ${response.status}`);
-        }
-      }
+		  if (!match) {
+			throw new Error("Không tìm thấy dãy số trong URL");
+		  }
 
-      return newUrl; // Trả về URL mới nếu thành công
+		  const number = match[1];
+		  const newUrl = `https://media.dieuphapam.net/portal/download.php?f=${number}.dieuphapam.list`;
 
-    } catch (error) {
-      console.error("Lỗi xảy ra:", error);
+		  // Kiểm tra kết nối với URL mới
+		  const response = await fetch(newUrl, {
+			method: 'GET',
+			headers: {
+			  'User-Agent': 'Mozilla/5.0',  // Thêm User-Agent để tránh bị chặn
+			  'Accept': 'application/json',
+			},
+		  });
 
-      // Kiểm tra lỗi liên quan đến mạng hoặc kết nối
-      if (error.message === "Failed to fetch") {
-        return "Lỗi mạng: Không thể kết nối đến máy chủ. Vui lòng thử lại sau.";
-      }
+		  if (!response.ok) {
+			if (response.status === 403) {
+			  throw new Error("Lỗi 403: Truy cập bị từ chối.");
+			} else if (response.status === 404) {
+			  throw new Error("Lỗi 404: Không tìm thấy trang.");
+			} else {
+			  throw new Error(`Lỗi HTTP: ${response.status}`);
+			}
+		  }
 
-      return `Lỗi: ${error.message}`;
-    }
-  }
+		  return newUrl; // Trả về URL mới nếu thành công
 
-  document.addEventListener("DOMContentLoaded", function () {
-    const buttonConvert = document.getElementById('convert-btn');
-    const inputField = document.getElementById('input');
-    const output = document.getElementById('output');
+		} catch (error) {
+		  console.error("Lỗi xảy ra:", error);
+		  if (error.message === "Failed to fetch") {
+			return "Lỗi mạng: Không thể kết nối đến máy chủ.";
+		  }
+		  return `Lỗi: ${error.message}`;
+		}
+	  }
 
-    buttonConvert.addEventListener('click', async function () {
-      const input = inputField.value.trim();
-      output.innerHTML = "Đang xử lý…";
+	  document.addEventListener("DOMContentLoaded", function () {
+		const buttonConvert = document.getElementById('convert-btn');
+		const inputField = document.getElementById('input');
+		const output = document.getElementById('output');
 
-      // Gọi hàm để xử lý URL và nhận kết quả
-      const newURL = await getNewUrl(input);
+		buttonConvert.addEventListener('click', async function () {
+		  const input = inputField.value.trim();
+		  output.innerHTML = "Đang xử lý…";
 
-      // Hiển thị kết quả hoặc thông báo lỗi
-      output.innerHTML = newURL;
-    });
-  });
-</script>
+		  // Gọi hàm để xử lý URL và nhận kết quả
+		  const newURL = await processInputUrl(input);
+
+		  // Hiển thị kết quả hoặc thông báo lỗi
+		  output.innerHTML = `<a href="${newURL}" target="_blank">${newURL}</a>`;
+		});
+	  });
+	</script>
+
 </section>
