@@ -18,69 +18,76 @@ import CTA from '~/components/widgets/services.astro';
     <div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
   </div>
 
-  <script client:load>
-    document.getElementById("convert-btn").addEventListener("click", async () => {
-      const input = document.getElementById("input").value.trim();
-      const outputElement = document.getElementById("output");
+	<script client:load>
+		document.addEventListener("DOMContentLoaded", function () {
+			const buttonConvert = document.getElementById('convert-btn');
+			const input = document.getElementById('input');
+			const output = document.getElementById('output');
 
-      // Reset output
-      outputElement.innerHTML = "Đang xử lý...";
+			buttonConvert.addEventListener('click', async function () {
+				const inputURL = input.value.trim();
+				output.innerHTML = "Đang xử lý…"; // Set initial message
 
-      // Kiểm tra URL hợp lệ
-      if (!input || !input.startsWith("http")) {
-        outputElement.innerHTML = "Vui lòng nhập URL hợp lệ!";
-        return;
-      }
 
-      try {
-        // Lấy dãy số cuối từ URL
-        const match = input.match(/\.([0-9]+)\/?$/);
-        if (!match) {
-          outputElement.innerHTML = "Không tìm thấy dãy số hợp lệ trong URL!";
-          return;
-        }
+				try {
+					const match = inputURL.match(/\.(\d+)\/?$/);
+					if (!match) {
+						output.innerHTML = "Định dạng URL đầu vào không hợp lệ.";
+						return;
+					}
+					const number = match[1];
+					const newURL = `https://media.dieuphapam.net/portal/download.php?f=${number}.dieuphapam.list`;
 
-        const fileId = match[1];
-        const targetUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
 
-        // Fetch nội dung từ URL mới
-        const response = await fetch(targetUrl, {
-          method: "GET",
-          headers: {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Referer": "https://dieuphapam.net/",
-          },
-        });
+					const response = await fetch(newURL, {
+						mode: 'no-cors',
+						credentials: 'include',
+						redirect: 'follow'
+					});
 
-        if (!response.ok) {
-          throw new Error(`Lỗi HTTP: ${response.status} - ${response.statusText}`);
-        }
 
-        const htmlContent = await response.text();
 
-        // Phân tích nội dung để lấy liên kết
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(htmlContent, "text/html");
-        const links = Array.from(doc.querySelectorAll("a[href]")).map((a) => a.href);
+					if (!response.ok) {
+						if (response.status === 403) {
+							output.innerHTML = "Lỗi 403: Không có quyền truy cập.";
+						} else {
+                            output.innerHTML = "Lỗi từ máy chủ."
+							console.error('Error response:', response.status, await response.text()); // Log for debugging
+                        }
+						return;
+					}
 
-        if (links.length === 0) {
-          outputElement.innerHTML = "Không tìm thấy liên kết tải nào.";
-          return;
-        }
+					const text = await response.text();
+					const urlRegex = /(https?:\/\/[^\s]+)/g;
+					const urls = text.match(urlRegex) || [];
 
-        // Hiển thị danh sách liên kết
-        outputElement.innerHTML = `
-          <p>Danh sách liên kết:</p>
-          <ul>
-            ${links.map((link) => `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${link}</a></li>`).join("")}
-          </ul>
-        `;
-      } catch (error) {
-        // Hiển thị lỗi chi tiết
-        outputElement.innerHTML = `Lỗi khi xử lý: ${error.message}`;
-        console.error(error);
-      }
-    });
-  </script>
+
+					if (urls.length === 0) {
+						output.innerHTML = "Không tìm thấy liên kết nào.";
+					} else {
+						let outputHTML = "";
+						urls.forEach(url => {
+							outputHTML += `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a><br>`;
+						});
+						output.innerHTML = outputHTML;
+					}
+
+				} catch (error) {
+					console.error("Lỗi không xác định:", error);
+					if (error.message === "Failed to fetch") {
+						output.innerHTML = "Lỗi mạng: Không thể kết nối đến máy chủ.";
+					} else {
+						output.innerHTML = "Lỗi không xác định. Vui lòng kiểm tra console để biết thêm chi tiết.";
+					}
+				}
+			});
+		});
+	</script>
+
+
+
+
+
+
+
 </section>
