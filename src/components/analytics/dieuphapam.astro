@@ -18,72 +18,82 @@ import CTA from '~/components/widgets/services.astro';
     <div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
   </div>
 
-  <script client:load>
-    document.getElementById('convert-btn').addEventListener('click', async () => {
-      const url = document.getElementById('input').value;
-      const outputElement = document.getElementById('output');
+<script client:load>
+  document.getElementById('convert-btn').addEventListener('click', async () => {
+    const url = document.getElementById('input').value.trim();
+    const outputElement = document.getElementById('output');
 
-      // Clear previous output
-      outputElement.innerHTML = 'Đang xử lý...';
+    // Clear previous output
+    outputElement.innerHTML = 'Đang xử lý...';
 
-      if (!url) {
-        outputElement.innerHTML = 'Vui lòng nhập URL hợp lệ!';
+    if (!url || !url.startsWith('http')) {
+      outputElement.innerHTML = 'Vui lòng nhập URL hợp lệ!';
+      return;
+    }
+
+    try {
+      // Proxy URL to bypass CORS issues
+      const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // Dùng proxy miễn phí để bỏ qua lỗi CORS
+      const fetchUrl = proxyUrl + url;
+
+      // Fetch the HTML content of the webpage
+      const response = await fetch(fetchUrl);
+      
+      if (!response.ok) {
+        throw new Error(`Lỗi HTTP: ${response.status} - ${response.statusText}`);
+      }
+
+      const htmlContent = await response.text();
+
+      // Regular expression to extract file identifiers (xxx) from the download links
+      const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
+      const links = [];
+      let match;
+
+      // Extract all matching links
+      while ((match = regex.exec(htmlContent)) !== null) {
+        links.push(match[0]);
+      }
+
+      if (links.length === 0) {
+        outputElement.innerHTML = 'Không tìm thấy liên kết tải nào.';
         return;
       }
 
-      try {
-        // Fetch the HTML content of the webpage
-        const response = await fetch(url);
-        const htmlContent = await response.text();
+      // Track download progress
+      let successfulDownloads = 0;
+      let totalSize = 0;
 
-        // Regular expression to extract file identifiers (xxx) from the download links
-        const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
-        const links = [];
-        let match;
+      for (let i = 0; i < links.length; i++) {
+        try {
+          const fileResponse = await fetch(links[i]);
 
-        // Extract all matching links
-        while ((match = regex.exec(htmlContent)) !== null) {
-          links.push(match[0]);
-        }
+          if (fileResponse.ok) {
+            // Get the file size from the response headers
+            const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10) || 0;
 
-        if (links.length === 0) {
-          outputElement.innerHTML = 'Không tìm thấy liên kết tải nào.';
-          return;
-        }
+            // Update the total size and count of successful downloads
+            totalSize += fileSize;
+            successfulDownloads++;
 
-        // Track download progress
-        let successfulDownloads = 0;
-        let totalSize = 0;
-
-        for (let i = 0; i < links.length; i++) {
-          try {
-            const fileResponse = await fetch(links[i]);
-
-            if (fileResponse.ok) {
-              // Get the file size from the response headers
-              const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10) || 0;
-
-              // Update the total size and count of successful downloads
-              totalSize += fileSize;
-              successfulDownloads++;
-
-              console.log(`Đã tải: ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
-            } else {
-              console.error(`Không tải được: ${links[i]}`);
-            }
-          } catch (err) {
-            console.error(`Lỗi khi tải ${links[i]}: ${err.message}`);
+            console.log(`Đã tải: ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
+          } else {
+            console.error(`Không tải được: ${links[i]}`);
           }
+        } catch (err) {
+          console.error(`Lỗi khi tải ${links[i]}: ${err.message}`);
         }
-
-        // Output results
-        outputElement.innerHTML = `
-          Đã tải thành công: ${successfulDownloads} tệp.<br>
-          Tổng dung lượng: ${(totalSize / 1024 / 1024).toFixed(2)} MB.
-        `;
-      } catch (err) {
-        outputElement.innerHTML = `Lỗi khi tải dữ liệu từ trang: ${err.message}`;
       }
-    });
-  </script>
+
+      // Output results
+      outputElement.innerHTML = `
+        Đã tải thành công: ${successfulDownloads} tệp.<br>
+        Tổng dung lượng: ${(totalSize / 1024 / 1024).toFixed(2)} MB.
+      `;
+    } catch (err) {
+      outputElement.innerHTML = `Lỗi khi tải dữ liệu từ trang: ${err.message}`;
+    }
+  });
+</script>
+
 </section>
