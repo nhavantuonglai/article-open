@@ -26,76 +26,64 @@ import CTA from '~/components/widgets/services.astro';
     // Clear previous output
     outputElement.innerHTML = 'Đang xử lý...';
 
+    // Kiểm tra URL hợp lệ
     if (!url || !url.startsWith('http')) {
       outputElement.innerHTML = 'Vui lòng nhập URL hợp lệ!';
       return;
     }
 
     try {
-      // Proxy URL để bỏ qua hạn chế CORS
-      const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-      const fetchUrl = proxyUrl + url;
+      // Lấy dãy số cuối cùng từ URL đầu vào
+      const match = url.match(/\.([0-9]+)\/?$/);
+      if (!match) {
+        outputElement.innerHTML = 'Không tìm thấy dãy số hợp lệ trong URL!';
+        return;
+      }
 
-      // Gửi yêu cầu với headers giả lập trình duyệt
-      const response = await fetch(fetchUrl, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-        },
-      });
+      const fileId = match[1];
+      const downloadListUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
 
+      // Fetch nội dung từ URL mới
+      const response = await fetch(downloadListUrl);
       if (!response.ok) {
         throw new Error(`Lỗi HTTP: ${response.status} - ${response.statusText}`);
       }
 
       const htmlContent = await response.text();
 
-      // Regex để tìm các liên kết tải xuống
-      const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
-      const links = [];
-      let match;
-
-      while ((match = regex.exec(htmlContent)) !== null) {
-        links.push(match[0]);
-      }
+      // Tìm tất cả các link trong nội dung trả về
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(htmlContent, 'text/html');
+      const links = Array.from(doc.querySelectorAll('a[href]')).map((a) => a.href);
 
       if (links.length === 0) {
         outputElement.innerHTML = 'Không tìm thấy liên kết tải nào.';
         return;
       }
 
+      // Tải các link tự động
       let successfulDownloads = 0;
-      let totalSize = 0;
-
-      for (let i = 0; i < links.length; i++) {
+      for (const link of links) {
         try {
-          const fileResponse = await fetch(links[i], {
-            headers: {
-              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-            },
-          });
+          const a = document.createElement('a');
+          a.href = link;
+          a.download = ''; // Gợi ý trình duyệt tải xuống
+          a.click();
 
-          if (fileResponse.ok) {
-            const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10) || 0;
-            totalSize += fileSize;
-            successfulDownloads++;
-            console.log(`Đã tải: ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
-          } else {
-            console.error(`Không tải được: ${links[i]}`);
-          }
+          successfulDownloads++;
         } catch (err) {
-          console.error(`Lỗi khi tải ${links[i]}: ${err.message}`);
+          console.error(`Lỗi khi tải ${link}: ${err.message}`);
         }
       }
 
-      outputElement.innerHTML = `
-        Đã tải thành công: ${successfulDownloads} tệp.<br>
-        Tổng dung lượng: ${(totalSize / 1024 / 1024).toFixed(2)} MB.
-      `;
+      // Hiển thị kết quả
+      outputElement.innerHTML = `Đã bắt đầu tải ${successfulDownloads} tệp.`;
     } catch (err) {
-      outputElement.innerHTML = `Lỗi khi tải dữ liệu từ trang: ${err.message}`;
+      outputElement.innerHTML = `Lỗi khi xử lý: ${err.message}`;
     }
   });
 </script>
+
 
 
 </section>
