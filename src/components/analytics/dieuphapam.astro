@@ -19,7 +19,7 @@ import CTA from '~/components/widgets/services.astro';
   </div>
 
 <script client:load>
-  document.getElementById("process-btn").addEventListener("click", async () => {
+document.getElementById("process-btn").addEventListener("click", async () => {
     const input = document.getElementById("input").value.trim();
     const outputElement = document.getElementById("output");
 
@@ -82,6 +82,7 @@ import CTA from '~/components/widgets/services.astro';
       console.error(error);
     }
   });
+
 </script>
 
 
