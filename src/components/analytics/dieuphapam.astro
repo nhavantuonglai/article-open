@@ -32,25 +32,28 @@ import CTA from '~/components/widgets/services.astro';
     }
 
     try {
-      // Proxy URL to bypass CORS issues
-      const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // Dùng proxy miễn phí để bỏ qua lỗi CORS
+      // Proxy URL để bỏ qua hạn chế CORS
+      const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
       const fetchUrl = proxyUrl + url;
 
-      // Fetch the HTML content of the webpage
-      const response = await fetch(fetchUrl);
-      
+      // Gửi yêu cầu với headers giả lập trình duyệt
+      const response = await fetch(fetchUrl, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+        },
+      });
+
       if (!response.ok) {
         throw new Error(`Lỗi HTTP: ${response.status} - ${response.statusText}`);
       }
 
       const htmlContent = await response.text();
 
-      // Regular expression to extract file identifiers (xxx) from the download links
+      // Regex để tìm các liên kết tải xuống
       const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
       const links = [];
       let match;
 
-      // Extract all matching links
       while ((match = regex.exec(htmlContent)) !== null) {
         links.push(match[0]);
       }
@@ -60,22 +63,21 @@ import CTA from '~/components/widgets/services.astro';
         return;
       }
 
-      // Track download progress
       let successfulDownloads = 0;
       let totalSize = 0;
 
       for (let i = 0; i < links.length; i++) {
         try {
-          const fileResponse = await fetch(links[i]);
+          const fileResponse = await fetch(links[i], {
+            headers: {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+            },
+          });
 
           if (fileResponse.ok) {
-            // Get the file size from the response headers
             const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10) || 0;
-
-            // Update the total size and count of successful downloads
             totalSize += fileSize;
             successfulDownloads++;
-
             console.log(`Đã tải: ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
           } else {
             console.error(`Không tải được: ${links[i]}`);
@@ -85,7 +87,6 @@ import CTA from '~/components/widgets/services.astro';
         }
       }
 
-      // Output results
       outputElement.innerHTML = `
         Đã tải thành công: ${successfulDownloads} tệp.<br>
         Tổng dung lượng: ${(totalSize / 1024 / 1024).toFixed(2)} MB.
@@ -95,5 +96,6 @@ import CTA from '~/components/widgets/services.astro';
     }
   });
 </script>
+
 
 </section>
