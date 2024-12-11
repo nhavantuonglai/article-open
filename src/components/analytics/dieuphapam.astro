@@ -40,17 +40,28 @@ import CTA from '~/components/widgets/services.astro';
           'Accept': 'application/json',
         },
         // Đặt thời gian chờ kết nối (timeout)
-        timeout: 10000,
       });
 
       if (!response.ok) {
-        throw new Error(`Lỗi HTTP: ${response.status}`);
+        if (response.status === 403) {
+          throw new Error("Lỗi 403: Truy cập bị từ chối.");
+        } else if (response.status === 404) {
+          throw new Error("Lỗi 404: Không tìm thấy trang.");
+        } else {
+          throw new Error(`Lỗi HTTP: ${response.status}`);
+        }
       }
 
       return newUrl; // Trả về URL mới nếu thành công
 
     } catch (error) {
       console.error("Lỗi xảy ra:", error);
+
+      // Kiểm tra lỗi liên quan đến mạng hoặc kết nối
+      if (error.message === "Failed to fetch") {
+        return "Lỗi mạng: Không thể kết nối đến máy chủ. Vui lòng thử lại sau.";
+      }
+
       return `Lỗi: ${error.message}`;
     }
   }
