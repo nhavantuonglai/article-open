@@ -19,38 +19,37 @@ import CTA from '~/components/widgets/services.astro';
   </div>
 
 <script client:load>
-  document.getElementById('convert-btn').addEventListener('click', async () => {
-    const url = document.getElementById('input').value.trim();
-    const outputElement = document.getElementById('output');
+  document.getElementById("process-btn").addEventListener("click", async () => {
+    const input = document.getElementById("input").value.trim();
+    const outputElement = document.getElementById("output");
 
-    // Clear previous output
-    outputElement.innerHTML = 'Đang xử lý...';
+    // Reset output
+    outputElement.innerHTML = "Đang xử lý...";
 
     // Kiểm tra URL hợp lệ
-    if (!url || !url.startsWith('http')) {
-      outputElement.innerHTML = 'Vui lòng nhập URL hợp lệ!';
+    if (!input || !input.startsWith("http")) {
+      outputElement.innerHTML = "Vui lòng nhập URL hợp lệ!";
       return;
     }
 
     try {
-      // Lấy dãy số cuối cùng từ URL đầu vào
-      const match = url.match(/\.([0-9]+)\/?$/);
+      // Lấy dãy số cuối từ URL
+      const match = input.match(/\.([0-9]+)\/?$/);
       if (!match) {
-        outputElement.innerHTML = 'Không tìm thấy dãy số hợp lệ trong URL!';
+        outputElement.innerHTML = "Không tìm thấy dãy số hợp lệ trong URL!";
         return;
       }
 
       const fileId = match[1];
-      const downloadListUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
+      const targetUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
 
       // Fetch nội dung từ URL mới
-      const response = await fetch(downloadListUrl, {
-        method: 'GET',
+      const response = await fetch(targetUrl, {
+        method: "GET",
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-          'Referer': 'https://dieuphapam.net/', // Thêm Referer để giả lập nguồn hợp lệ
-          'Origin': 'https://dieuphapam.net',    // Thêm Origin nếu cần
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Referer": "https://dieuphapam.net/",
         },
       });
 
@@ -60,27 +59,27 @@ import CTA from '~/components/widgets/services.astro';
 
       const htmlContent = await response.text();
 
-      // Tìm tất cả các link tải xuống từ nội dung trả về
+      // Phân tích nội dung để lấy liên kết
       const parser = new DOMParser();
-      const doc = parser.parseFromString(htmlContent, 'text/html');
-      const links = Array.from(doc.querySelectorAll('a[href]')).map((a) => a.href);
+      const doc = parser.parseFromString(htmlContent, "text/html");
+      const links = Array.from(doc.querySelectorAll("a[href]")).map((a) => a.href);
 
       if (links.length === 0) {
-        outputElement.innerHTML = 'Không tìm thấy liên kết tải nào.';
+        outputElement.innerHTML = "Không tìm thấy liên kết tải nào.";
         return;
       }
 
-      // Hiển thị danh sách liên kết dưới dạng có thể click
+      // Hiển thị danh sách liên kết
       outputElement.innerHTML = `
-        <p>Danh sách liên kết tải:</p>
+        <p>Danh sách liên kết:</p>
         <ul>
-          ${links.map((link) => `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${link}</a></li>`).join('')}
+          ${links.map((link) => `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${link}</a></li>`).join("")}
         </ul>
       `;
-    } catch (err) {
+    } catch (error) {
       // Hiển thị lỗi chi tiết
-      outputElement.innerHTML = `Lỗi khi xử lý: ${err.message}`;
-      console.error(err);
+      outputElement.innerHTML = `Lỗi khi xử lý: ${error.message}`;
+      console.error(error);
     }
   });
 </script>
