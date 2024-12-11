@@ -4,81 +4,86 @@ import CTA from '~/components/widgets/services.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-	<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-		dieuphapam
-	</h1>
+  <div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+  <div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+  <h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+    dieuphapam
+  </h1>
 
-	<div class="mx-auto max-w-7xl md:px-6 px-4">
+  <div class="mx-auto max-w-7xl md:px-6 px-4">
+    <textarea id="input" placeholder="Nhập URL trang chứa các liên kết tải…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
 
-		<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+    <button id="convert-btn" class="btn-primary w-auto mb-6">Gửi yêu cầu</button>
 
-		<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi yêu cầu</button>
+    <div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+  </div>
 
-		<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
+  <script client:load>
+    document.getElementById('convert-btn').addEventListener('click', async () => {
+      const url = document.getElementById('input').value;
+      const outputElement = document.getElementById('output');
 
-	</div>
+      // Clear previous output
+      outputElement.innerHTML = 'Đang xử lý...';
 
-	<script client:load>
-		async function downloadFiles(url) {
-		  try {
-			// Fetch the HTML content of the webpage
-			const response = await fetch(url);
-			const htmlContent = await response.text();
+      if (!url) {
+        outputElement.innerHTML = 'Vui lòng nhập URL hợp lệ!';
+        return;
+      }
 
-			// Regular expression to extract file identifiers (xxx) from the download links
-			const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
-			const links = [];
-			let match;
+      try {
+        // Fetch the HTML content of the webpage
+        const response = await fetch(url);
+        const htmlContent = await response.text();
 
-			// Extract all matching links
-			while ((match = regex.exec(htmlContent)) !== null) {
-			  links.push(match[0]);
-			}
+        // Regular expression to extract file identifiers (xxx) from the download links
+        const regex = /https:\/\/media\.dieuphapam\.net\/portal\/download\.php\?f=([a-zA-Z0-9_-]+)/g;
+        const links = [];
+        let match;
 
-			if (links.length === 0) {
-			  console.log("No download links found.");
-			  return;
-			}
+        // Extract all matching links
+        while ((match = regex.exec(htmlContent)) !== null) {
+          links.push(match[0]);
+        }
 
-			// Track download progress
-			let successfulDownloads = 0;
-			let totalSize = 0;
+        if (links.length === 0) {
+          outputElement.innerHTML = 'Không tìm thấy liên kết tải nào.';
+          return;
+        }
 
-			for (let i = 0; i < links.length; i++) {
-			  try {
-				const fileResponse = await fetch(links[i]);
+        // Track download progress
+        let successfulDownloads = 0;
+        let totalSize = 0;
 
-				if (fileResponse.ok) {
-				  // Get the file size from the response headers
-				  const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10);
+        for (let i = 0; i < links.length; i++) {
+          try {
+            const fileResponse = await fetch(links[i]);
 
-				  // Update the total size and count of successful downloads
-				  totalSize += fileSize;
-				  successfulDownloads++;
+            if (fileResponse.ok) {
+              // Get the file size from the response headers
+              const fileSize = parseInt(fileResponse.headers.get('Content-Length'), 10) || 0;
 
-				  console.log(`Downloaded ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
-				} else {
-				  console.error(`Failed to download ${links[i]}`);
-				}
-			  } catch (err) {
-				console.error(`Error downloading ${links[i]}: ${err.message}`);
-			  }
-			}
+              // Update the total size and count of successful downloads
+              totalSize += fileSize;
+              successfulDownloads++;
 
-			// Output results
-			console.log(`Successfully downloaded ${successfulDownloads} files.`);
-			console.log(`Total size: ${(totalSize / 1024 / 1024).toFixed(2)} MB`);
+              console.log(`Đã tải: ${links[i]} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
+            } else {
+              console.error(`Không tải được: ${links[i]}`);
+            }
+          } catch (err) {
+            console.error(`Lỗi khi tải ${links[i]}: ${err.message}`);
+          }
+        }
 
-		  } catch (err) {
-			console.error(`Error fetching the webpage: ${err.message}`);
-		  }
-		}
-
-		// Example usage
-		const url = 'YOUR_WEBSITE_URL'; // Replace with the actual URL
-		downloadFiles(url);
-
-	</script>
+        // Output results
+        outputElement.innerHTML = `
+          Đã tải thành công: ${successfulDownloads} tệp.<br>
+          Tổng dung lượng: ${(totalSize / 1024 / 1024).toFixed(2)} MB.
+        `;
+      } catch (err) {
+        outputElement.innerHTML = `Lỗi khi tải dữ liệu từ trang: ${err.message}`;
+      }
+    });
+  </script>
 </section>
