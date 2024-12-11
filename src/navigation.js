@@ -34,8 +34,8 @@ export const footerData = {
 			title: 'Công cụ',
 			links: [
 				{
-					text: 'Chuyển đổi chữ thường',
-					href: 'https://nhavantuonglai.com/analytics/lower'
+					text: 'Công cụ Integrate',
+					href: 'https://nhavantuonglai.com/analytics/integrate'
 				},
 				{
 					text: 'Chuẩn hóa unicode',
