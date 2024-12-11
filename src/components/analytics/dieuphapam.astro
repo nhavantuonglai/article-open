@@ -44,14 +44,20 @@ import CTA from '~/components/widgets/services.astro';
       const downloadListUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
 
       // Fetch nội dung từ URL mới
-      const response = await fetch(downloadListUrl);
+      const response = await fetch(downloadListUrl, {
+        headers: {
+          // Giả lập trình duyệt bằng User-Agent
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+        },
+      });
+
       if (!response.ok) {
         throw new Error(`Lỗi HTTP: ${response.status} - ${response.statusText}`);
       }
 
       const htmlContent = await response.text();
 
-      // Tìm tất cả các link trong nội dung trả về
+      // Tìm tất cả các link tải xuống từ nội dung trả về
       const parser = new DOMParser();
       const doc = parser.parseFromString(htmlContent, 'text/html');
       const links = Array.from(doc.querySelectorAll('a[href]')).map((a) => a.href);
@@ -79,10 +85,13 @@ import CTA from '~/components/widgets/services.astro';
       // Hiển thị kết quả
       outputElement.innerHTML = `Đã bắt đầu tải ${successfulDownloads} tệp.`;
     } catch (err) {
+      // Hiển thị lỗi chi tiết
       outputElement.innerHTML = `Lỗi khi xử lý: ${err.message}`;
+      console.error(err);
     }
   });
 </script>
+
 
 
 
