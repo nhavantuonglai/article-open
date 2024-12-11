@@ -44,14 +44,13 @@ import CTA from '~/components/widgets/services.astro';
       const downloadListUrl = `https://media.dieuphapam.net/portal/download.php?f=${fileId}.dieuphapam.list`;
 
       // Fetch nội dung từ URL mới
-      const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // Sử dụng proxy nếu cần
-      const fetchUrl = proxyUrl + downloadListUrl;
-
-      const response = await fetch(fetchUrl, {
+      const response = await fetch(downloadListUrl, {
         method: 'GET',
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-          'Accept': 'text/html',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'Referer': 'https://dieuphapam.net/', // Thêm Referer để giả lập nguồn hợp lệ
+          'Origin': 'https://dieuphapam.net',    // Thêm Origin nếu cần
         },
       });
 
@@ -85,6 +84,7 @@ import CTA from '~/components/widgets/services.astro';
     }
   });
 </script>
+
 
 
 
