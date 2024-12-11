@@ -46,7 +46,6 @@ import CTA from '~/components/widgets/services.astro';
       // Fetch nội dung từ URL mới
       const response = await fetch(downloadListUrl, {
         headers: {
-          // Giả lập trình duyệt bằng User-Agent
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
         },
       });
@@ -67,23 +66,13 @@ import CTA from '~/components/widgets/services.astro';
         return;
       }
 
-      // Tải các link tự động
-      let successfulDownloads = 0;
-      for (const link of links) {
-        try {
-          const a = document.createElement('a');
-          a.href = link;
-          a.download = ''; // Gợi ý trình duyệt tải xuống
-          a.click();
-
-          successfulDownloads++;
-        } catch (err) {
-          console.error(`Lỗi khi tải ${link}: ${err.message}`);
-        }
-      }
-
-      // Hiển thị kết quả
-      outputElement.innerHTML = `Đã bắt đầu tải ${successfulDownloads} tệp.`;
+      // Hiển thị danh sách liên kết dưới dạng có thể click
+      outputElement.innerHTML = `
+        <p>Danh sách liên kết tải:</p>
+        <ul>
+          ${links.map((link) => `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${link}</a></li>`).join('')}
+        </ul>
+      `;
     } catch (err) {
       // Hiển thị lỗi chi tiết
       outputElement.innerHTML = `Lỗi khi xử lý: ${err.message}`;
@@ -91,6 +80,7 @@ import CTA from '~/components/widgets/services.astro';
     }
   });
 </script>
+
 
 
 
