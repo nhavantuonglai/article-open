@@ -63,9 +63,9 @@ ui:
   tokens:
     default:
       fonts:
-        sans: sans-serif
-        serif: sans-serif
-        heading: sans-serif
+        sans: OpenSans
+        serif: OpenSans
+        heading: OpenSans
       colors:
         default: rgb(33 39 55)
         heading: rgb(234 237 243)
