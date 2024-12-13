@@ -1,0 +1,67 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
+					Công cụ đối chiếu văn bản
+				</h1>
+
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<!-- Khung nhập văn bản thứ nhất -->
+				<textarea id="input1" placeholder="Nhập văn bản thứ nhất." class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<!-- Khung nhập văn bản thứ hai -->
+				<textarea id="input2" placeholder="Nhập văn bản thứ hai." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+
+				<!-- Nút Đối chiếu -->
+				<button id="compare-btn" class="btn-primary w-auto mb-6">Đối chiếu</button>
+
+				<!-- Khung hiển thị kết quả -->
+				<div id="output" class="text-lg border border-gray-300 p-4 rounded-lg bg-white dark:bg-slate-900">
+					<h3 class="text-lg dark:text-slate-400 font-bold mb-4">Kết quả đối chiếu</h3>
+					<p id="output-text"></p>
+				</div>
+
+			</div>
+
+			<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+					const buttonCompare = document.getElementById('compare-btn');
+					const input1 = document.getElementById('input1');
+					const input2 = document.getElementById('input2');
+					const outputText = document.getElementById('output-text');
+
+					buttonCompare.addEventListener('click', function() {
+						// Lấy dữ liệu từ hai khung nhập
+						const text1 = input1.value.split("\n").map(line => line.trim());
+						const text2 = input2.value.split("\n").map(line => line.trim());
+
+						// Tạo tập hợp để so sánh
+						const set1 = new Set(text1);
+						const set2 = new Set(text2);
+
+						// Dòng chỉ có trong khung thứ nhất
+						const onlyInFirst = text1.filter(line => !set2.has(line));
+						// Dòng chỉ có trong khung thứ hai
+						const onlyInSecond = text2.filter(line => !set1.has(line));
+
+						// Kết quả cuối cùng
+						const result = [
+							...onlyInFirst.map(line => `Chỉ có trong khung thứ nhất: ${line}`),
+							...onlyInSecond.map(line => `Chỉ có trong khung thứ hai: ${line}`)
+						].join("\n");
+
+						// Hiển thị kết quả
+						outputText.innerText = result || "Không có sự khác biệt giữa hai văn bản.";
+					});
+				});
+			</script>
+		</div>
+
+</section>
