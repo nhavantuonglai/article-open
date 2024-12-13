@@ -13,38 +13,34 @@ export const headerData = {
 		},
 		{
 			text: 'Công cụ',
-			href: 'https://nhavantuonglai.com/analytics',
-		},
-		{
-			text: 'Công cụ',
 			links: [
 				{
 					text: 'Trợ lý Chat AI',
-					href: getPermalink('https://nhavantuonglai.com/analytics/integrate'),
+					href: getPermalink('/analytics/integrate'),
 				},
 				{
 					text: 'Emoji, icon Facebook chuẩn',
-					href: getPermalink('https://nhavantuonglai.com/analytics/emoji'),
+					href: getPermalink('/analytics/emoji'),
 				},
 				{
 					text: 'Đối chiếu văn bản',
-					href: getPermalink('https://nhavantuonglai.com/analytics/compare'),
+					href: getPermalink('/analytics/compare'),
 				},
 				{
 					text: 'Đếm tần suất văn bản',
-					href: getPermalink('https://nhavantuonglai.com/analytics/count'),
+					href: getPermalink('/analytics/count'),
 				},
 				{
-					text: 'Chuyển đổi chữ hoa thành chữ thường',
-					href: getPermalink('https://nhavantuonglai.com/analytics/lower'),
+					text: 'Chuyển đổi văn bản',
+					href: getPermalink('/analytics/lower'),
 				},
 				{
-					text: 'Chuẩn hóa dữ liệu thô',
-					href: getPermalink('https://nhavantuonglai.com/analytics/normalize'),
+					text: 'Chuẩn hóa văn bản',
+					href: getPermalink('/analytics/normalize'),
 				},
 				{
 					text: 'Chuyển đổi văn bản Unicode',
-					href: getPermalink('https://nhavantuonglai.com/analytics/unicode'),
+					href: getPermalink('/analytics/unicode'),
 				},
 			],
 		},
