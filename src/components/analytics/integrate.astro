@@ -4,10 +4,11 @@ import CTA from '~/components/widgets/services.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
+
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 	<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-		Công cụ Integrate AI cá nhân hóa
+		Trợ lý AI Google tích hợp Gemini API
 	</h1>
 
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
@@ -29,13 +30,13 @@ import CTA from '~/components/widgets/services.astro';
 			buttonConvert.addEventListener('click', async function () {
 				const inputText = input.value.trim();
 				if (!inputText) {
-					output.innerText = "Vui lòng nhập nội dung.";
+					output.innerText = "Lỗi nhập liệu, không tìm thấy dữ liệu đầu vào, vui lòng kiểm tra lại.";
 					return;
 				}
 
-				const apiKey = "AIzaSyDdLtr1xSz2xxxxxxXVpcHgoXhMvHlEHPo";
+				const apiKey = "AIzaSyDdLtr1xSz2DRc9BlXVpcHgoXhMvHlEHPo";
 
-				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
+				const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`;
 
 				output.innerText = "Đang xử lý…";
 
@@ -61,12 +62,12 @@ import CTA from '~/components/widgets/services.astro';
 						try {
 							const errorJSON = JSON.parse(error);
 							if (errorJSON.error && errorJSON.error.message) {
-								output.innerText = `Lỗi từ máy chủ: ${errorJSON.error.message}`;
+								output.innerText = `Lỗi máy chủ xác định được nguyên nhân: ${errorJSON.error.message}, vui lòng thử lại sau và báo cáo với quản trị viên.`;
 							} else {
-								output.innerText = `Lỗi từ máy chủ.`;
+								output.innerText = `Lỗi máy chủ liên quan đến thư viện Google Cloud Platform, vui lòng thử lại sau và báo cáo với quản trị viên.`;
 							}
 						} catch (parseError) {
-							output.innerText = `Lỗi từ máy chủ.`;
+							output.innerText = `Lỗi nhập liệu, định dạng dữ liệu không hợp lệ, vui lòng kiểm tra lại.`;
 							console.error("Could not parse error response as JSON:", parseError);
 						}
 						console.error('Error response:', response.status, error);
@@ -88,15 +89,16 @@ import CTA from '~/components/widgets/services.astro';
 					} else if (typeof aiResponse === 'string') {
 						output.innerText = formatText(aiResponse);
 					} else {
-						output.innerText = "Định dạng phản hồi không được hỗ trợ. Vui lòng kiểm tra console để biết thêm chi tiết.";
+						output.innerText = "Lỗi máy chủ liên quan đến hệ thống Google AI, vui lòng thử lại sau và báo cáo với quản trị viên.";
 						console.error("Unexpected response format:", aiResponse);
 					}
 
 				} catch (error) {
 					console.error('Error:', error);
-					output.innerText = 'Lỗi kết nối với máy chủ.';
+					output.innerText = 'Lỗi máy chủ không thể kết nối, vui lòng thử lại sau và báo cáo với quản trị viên.';
 				}
 			});
 		});
 	</script>
+	
 </section>
