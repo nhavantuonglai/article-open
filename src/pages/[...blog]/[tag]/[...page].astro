@@ -9,6 +9,10 @@ import Headline from '~/components/article/headline.astro';
 import BlogList from '~/components/article/list.astro';
 import Pagination from '~/components/article/pagination.astro';
 
+import Action from '~/components/content/action.astro';
+
+import Flowschart from '~/components/widgets/flowschart.astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) =>{
@@ -41,6 +45,11 @@ const metadata = {
 		<BlogList posts={page.data}/>
 
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
+
 	</section>
+
+	<Action/>
+
+	<Flowschart/>
 
 </Layout>

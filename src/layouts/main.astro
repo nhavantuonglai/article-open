@@ -23,8 +23,11 @@ export interface Props {
 const { metadata = {} } = Astro.props;
 const { language, textDirection } = I18N;
 ---
+
 <!doctype html>
+
 <html lang={language} dir={textDirection} class="2xl:text-[20px]">
+
 	<head>
 
 		<Schema/>
@@ -46,9 +49,16 @@ const { language, textDirection } = I18N;
 	</head>
 
 	<body class="antialiased text-default bg-page tracking-tight">
+
 		<slot/>
 
 		<BasicScripts/>
+
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WN6L7TJP"
+			height="0" width="0" style="display:none;visibility:hidden">
+			</iframe>
+		</noscript>
 
 		<style is:global>
 			img {
@@ -57,4 +67,5 @@ const { language, textDirection } = I18N;
 		</style>
 
 	</body>
+
 </html>

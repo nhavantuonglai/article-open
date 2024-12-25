@@ -1,28 +1,24 @@
 ---
 import Layout from '~/layouts/page.astro';
 
-import Unicode from '~/components/analytics/unicode.astro';
-import Content from '~/components/content/unicode.astro';
+import Hero from '~/components/content/hero.astro';
 
 import Action from '~/components/content/action.astro';
 
 import Flowschart from '~/components/widgets/flowschart.astro';
 
 const metadata = {
-	title: 'Công cụ chuyển đổi văn bản Unicode | nhavantuonglai',
+	title: 'Thông tin liên hệ | nhavantuonglai.',
 	ignoreTitleTemplate: true,
+	noindex: true,
 };
 ---
-
 <Layout metadata={metadata}>
 
-	<Unicode/>
-
-	<Content/>
+	<Hero/>
 
 	<Action/>
 
 	<Flowschart/>
-
 
 </Layout>

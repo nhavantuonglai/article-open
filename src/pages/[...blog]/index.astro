@@ -18,6 +18,8 @@ import Link from '~/components/article/link.astro';
 import Related from '~/components/article/related.astro';
 import Action from '~/components/content/action.astro';
 
+import Flowschart from '~/components/widgets/flowschart.astro';
+
 export const prerender = true;
 
 export const getStaticPaths = (async () =>{
@@ -60,5 +62,7 @@ const metadata = merge(
 	<Related post={post}/>
 
 	<Action/>
+
+	<Flowschart/>
 
 </Layout>

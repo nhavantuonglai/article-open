@@ -4,7 +4,18 @@ import Layout from '~/layouts/page.astro';
 import Hero from '~/components/content/hero.astro';
 import Article from '~/components/content/article.astro';
 
+import Services from '~/components/content/services.astro';
+import Prices from '~/components/content/prices.astro';
+
+
+import Brands from '~/components/content/brands.astro';
+import Testimonials from '~/components/content/testimonials.astro';
+
+import Aks from '~/components/content/asked.astro';
+
 import Action from '~/components/content/action.astro';
+
+import Flowschart from '~/components/widgets/flowschart.astro';
 
 const metadata = {
 	title: 'Văn hay trong hiện tại, chữ tốt ở tương lai | nhavantuonglai',
@@ -18,6 +29,18 @@ const metadata = {
 
 	<Article/>
 
+	<Services/>
+
+	<Prices/>
+
+	<Brands/>
+
+	<Testimonials/>
+
+	<Aks/>
+
 	<Action/>
+
+	<Flowschart/>
 
 </Layout>

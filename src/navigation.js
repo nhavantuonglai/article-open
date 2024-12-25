@@ -9,7 +9,28 @@ export const headerData = {
 		},
 		{
 			text: 'Bài viết',
-			href: '/article',
+			links: [
+				{
+					text: 'Đọc thêm',
+					href: getPermalink('/article'),
+				},
+				{
+					text: 'Viết lách',
+					href: getPermalink('/tags/viet-lach'),
+				},
+				{
+					text: 'Lập trình',
+					href: getPermalink('/tags/developer'),
+				},
+				{
+					text: 'Nghiên cứu',
+					href: getPermalink('/tags/nghien-cuu'),
+				},
+				{
+					text: 'Văn chương',
+					href: getPermalink('/tags/van-hoc'),
+				},
+			],
 		},
 		{
 			text: 'Công cụ',
@@ -19,27 +40,27 @@ export const headerData = {
 					href: getPermalink('/analytics/integrate'),
 				},
 				{
-					text: 'Emoji, icon Facebook chuẩn',
-					href: getPermalink('/analytics/emoji'),
-				},
-				{
 					text: 'Đối chiếu văn bản',
 					href: getPermalink('/analytics/compare'),
-				},
-				{
-					text: 'Đếm tần suất văn bản',
-					href: getPermalink('/analytics/count'),
-				},
-				{
-					text: 'Chuyển đổi văn bản',
-					href: getPermalink('/analytics/lower'),
 				},
 				{
 					text: 'Chuẩn hóa văn bản',
 					href: getPermalink('/analytics/normalize'),
 				},
 				{
-					text: 'Chuyển đổi văn bản Unicode',
+					text: 'Tần suất văn bản',
+					href: getPermalink('/analytics/count'),
+				},
+				{
+					text: 'Chuyển đổi chữ thường',
+					href: getPermalink('/analytics/lower'),
+				},
+				{
+					text: 'Biểu tượng Unicode',
+					href: getPermalink('/analytics/emoji'),
+				},
+				{
+					text: 'Chuyển đổi Unicode',
 					href: getPermalink('/analytics/unicode'),
 				},
 			],
@@ -67,15 +88,15 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/analytics/integrate'
 				},
 				{
-					text: 'Chuẩn hóa unicode',
+					text: 'Chuyển đổi Unicode',
 					href: 'https://nhavantuonglai.com/analytics/unicode'
 				},
 				{
-					text: 'Biểu tượng Emoji',
+					text: 'Biểu tượng Unicode',
 					href: 'https://nhavantuonglai.com/analytics/emoji'
 				},
 				{
-					text: 'Thống kê văn bản',
+					text: 'Tần suất văn bản',
 					href: 'https://nhavantuonglai.com/analytics/count'
 				},
 			],
@@ -126,20 +147,20 @@ export const footerData = {
 			title: 'Chuyên đề',
 			links: [
 				{
-					text: 'Học viết lách',
+					text: 'Kỹ năng viết lách',
 					href: '/tags/ky-nang-viet'
 				},
 				{
-					text: 'Tự dựng website',
+					text: 'Tối ưu website',
 					href: '/tags/website'
 				},
 				{
-					text: 'Khủng hoảng tâm lý',
-					href: '/tags/khung-hoang'
+					text: 'Vũ trụ rộng lớn',
+					href: '/tags/vu-tru'
 				},
 				{
-					text: 'Đạo đức xã hội',
-					href: '/tags/dao-duc-hoc'
+					text: 'Kỹ năng thông minh',
+					href: '/tags/ky-nang'
 				},
 			],
 		},
