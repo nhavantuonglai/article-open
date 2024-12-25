@@ -8,20 +8,40 @@ const title = `404`;
 <Layout metadata={{ title}}>
 
 	<section class="flex items-center h-full p-16">
+
 		<div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
+
 			<div class="max-w-md text-center">
+
 				<h2 class="mb-6 font-bold text-9xl">
 					<span class="text-primary">404.</span>
 				</h2>
+
 				<p class="mt-4 mb-6 text-lg justify-center text-muted dark:text-slate-400">
-					Một hoặc nhiều các vấn đề sau đã phát sinh: website bảo trì, link không khả dụng, quyền truy cập hạn chế.
+					Liên kết hiện không khả dụng, về trang chủ sau <span id="timer">5</span> giây.
 				</p>
 
-				<meta http-equiv="refresh" content="1;url=https://nhavantuonglai.com">
+				<script>
 
-				<a rel="noopener noreferrer" href={getHomePermalink()} class="btn ml-4">Về nguồn.</a>
+					let countdown = 5;
+					const timerElement = document.getElementById('timer');
+
+					const interval = setInterval(() => {
+						countdown--;
+						timerElement.textContent = countdown;
+
+						if (countdown <= 0) {
+							clearInterval(interval);
+							window.location.href = "https://nhavantuonglai.com";
+						}
+					}, 1000);
+
+				</script>
+
 			</div>
+
 		</div>
+
 	</section>
 
 </Layout>
