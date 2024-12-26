@@ -3,7 +3,6 @@ import { APP_BLOG } from 'nhavantuonglai:config';
 import type { Post } from '~/types';
 
 import Image from '~/components/common/image.astro';
-
 import { findImage } from '~/utils/images';
 import { getPermalink } from '~/utils/permalinks';
 
@@ -12,62 +11,50 @@ export interface Props {
 }
 
 const { post } = Astro.props;
-const image = (await findImage(post.image));
+const image = await findImage(post.image);
 
-const truncateDescription = (text, maxWords = 30) => {
+const truncateText = (text: string, maxLength: number, isTitle: boolean = false) => {
 	const words = text.match(/[^\s,]+/g) || [];
-	const truncated = words.slice(0, maxWords).join(' ');
-	return words.length > maxWords ? truncated + '…' : truncated;
-};
-
-const truncateTitle = (description, maxLength = 60) => {
-	if (description.length > maxLength) {
-	return description.slice(0, maxLength) + '…';
-	}
-	return description;
+	const truncated = words.slice(0, maxLength).join(' ');
+	return isTitle && text.length > maxLength ? truncated + '…' : truncated + (words.length > maxLength ? '…' : '');
 };
 
 ---
 
 <article class="mb-6 transition">
 
-	<div class="relative md:h-64 bg-gray-400 dark:bg-slate-700 rounded shadow-lg mb-6">
-		{
-			image && (
-				<a href={getPermalink(post.permalink, 'post')} target="_blank">
-					<Image
-						src={image}
-						class="w-full md:h-full rounded shadow-lg bg-gray-400 dark:bg-slate-700"
-							width={600}
-							height={407}
-							widths={[600, 407]}
-						alt={post.title}
-						layout="cover"
-						loading="lazy"
-						decoding="async"
-					/>
-				</a>
-			)
-		}
-	</div>
+	{image && (
+		<div class="relative md:h-64 bg-gray-400 dark:bg-slate-700 rounded shadow-lg mb-6">
+			<a href={getPermalink(post.permalink, 'post')} target="_blank">
+				<Image
+					src={image}
+					class="w-full md:h-full rounded shadow-lg bg-gray-400 dark:bg-slate-700"
+					width={600}
+					height={407}
+					widths={[600, 407]}
+					alt={post.title}
+					layout="cover"
+					loading="lazy"
+					decoding="async"
+				/>
+			</a>
+		</div>
+	)}
 
 	<h3 class="mb-6 text-xl font-bold leading-tight sm:text-2xl font-heading">
-
-		{
-			!APP_BLOG?.post?.isEnabled ? (
-				post.title
-			) : (
-				<a
-					href={getPermalink(post.permalink, 'post')}
-					class="hover:text-primary dark:hover:text-secondary	transition ease-in duration-200"
-					target="_blank"
-				>
-					{truncateTitle(post.title)
-				</a>
-			)
-		}
+		{APP_BLOG?.post?.isEnabled ? (
+			<a
+				href={getPermalink(post.permalink, 'post')}
+				class="hover:text-primary dark:hover:text-secondary transition ease-in duration-200"
+				target="_blank"
+			>
+				{truncateText(post.title, 60, true)}
+			</a>
+		) : (
+			truncateText(post.title, 60, true)
+		)}
 	</h3>
 
-	<p class="text-justify text-muted dark:text-slate-400 text-lg">{truncateDescription(post.description)}</p>
+	<p class="text-justify text-muted dark:text-slate-400 text-lg">{truncateText(post.description, 30)}</p>
 
 </article>

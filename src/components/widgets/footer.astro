@@ -34,72 +34,67 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 	<div class="bg-white dark:bg-black absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 
 	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 dark:text-slate-300">
-		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
-			<div class="col-span-12 lg:col-span-4">
 
+		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
+
+			<div class="col-span-12 lg:col-span-4">
 				<div class="text-sm text-muted mb-4">
-					{
-						secondaryLinks.map(({ text, href }) =>(
+					{secondaryLinks.map(({ text, href }) => (
+						text && href && (
 							<a
+								key={href}
 								class="text-muted hover:text-gray-700 dark:text-gray-400 hover:underline transition duration-150 ease-in-out mr-2 rtl:mr-0 rtl:ml-2"
 								href={href}
 								set:html={text}
 							/>
-						))
-					}
+						)
+					))}
 				</div>
-
-			<DCMA/>
-
+				<DCMA/>
 			</div>
-			{
-				links.map(({ title, links }) =>(
-					<div class="col-span-6 md:col-span-3 lg:col-span-2">
-						<div class="dark:text-gray-300 font-medium mb-2">{title}</div>
-						{links && Array.isArray(links) && links.length >0 && (
-							<ul class="text-sm">
-								{links.map(({ text, href, ariaLabel }) =>(
-									<li class="mb-2">
-										<a
-											class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
-											href={href}
-											aria-label={ariaLabel}
-											target="_blank"
-										>
-											<Fragment set:html={text}/>
-										</a>
-									</li>
-								))}
-							</ul>
-						)}
-					</div>
-				))
-			}
+
+			{links.map(({ title, links }) => (
+				<div key={title} class="col-span-6 md:col-span-3 lg:col-span-2">
+					{title && <div class="dark:text-gray-300 font-medium mb-2">{title}</div>}
+					{links && links.length > 0 && (
+						<ul class="text-sm">
+							{links.map(({ text, href, ariaLabel }) => (
+								<li key={href} class="mb-2">
+									<a
+										class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
+										href={href}
+										aria-label={ariaLabel}
+										target="_blank"
+									>
+										<Fragment set:html={text}/>
+									</a>
+								</li>
+							))}
+						</ul>
+					)}
+				</div>
+			))}
+
 		</div>
 
 		<div class="md:flex md:items-center md:justify-between py-6 md:py-8">
-
-			{
-				socialLinks?.length ? (
-					<ul class="flex mb-4 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
-						{socialLinks.map(({ ariaLabel, href, text, icon }) =>(
-							<li>
-								<a
-									class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center"
-									aria-label={ariaLabel}
-									href={href}
-									target="_blank"
-								>
-									{icon && <Icon name={icon} class="w-5 h-5"/>}
-									<Fragment set:html={text}/>
-								</a>
-							</li>
-						))}
-					</ul>
-				) : (
-					''
-				)
-			}
+			{socialLinks.length > 0 && (
+				<ul class="flex mb-4 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
+					{socialLinks.map(({ ariaLabel, href, text, icon }) => (
+						<li key={href}>
+							<a
+								class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center"
+								aria-label={ariaLabel}
+								href={href}
+								target="_blank"
+							>
+								{icon && <Icon name={icon} class="w-5 h-5"/>}
+								<Fragment set:html={text}/>
+							</a>
+						</li>
+					))}
+				</ul>
+			)}
 
 			<Openstatus/>
 
@@ -108,19 +103,20 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 			</div>
 
 			<script client:load>
-				const startDate = new Date('2015-03-19');
-				const currentDate = new Date();
+				function calculateDateDifference() {
+					const startDate = new Date('2015-03-19');
+					const currentDate = new Date();
+					const years = currentDate.getFullYear() - startDate.getFullYear();
+					let months = currentDate.getMonth() - startDate.getMonth() + (years * 12);
+					const currentMonthStart = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1); 
+					const days = Math.floor((currentDate - currentMonthStart) / (1000 * 60 * 60 * 24));
+					const fullYears = Math.floor(months / 12);
+					const remainingMonths = months % 12;
 
-				const years = currentDate.getFullYear() - startDate.getFullYear();
+					return { fullYears, remainingMonths, days };
+				}
 
-				let months = currentDate.getMonth() - startDate.getMonth() + (years * 12);
-
-				const currentMonthStart = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1); 
-				const days = Math.floor((currentDate - currentMonthStart) / (1000 * 60 * 60 * 24));
-
-				const fullYears = Math.floor(months / 12);
-				const remainingMonths = months % 12;
-
+				const { fullYears, remainingMonths, days } = calculateDateDifference();
 				document.getElementById('years').textContent = fullYears;
 				document.getElementById('months').textContent = remainingMonths;
 				document.getElementById('days').textContent = days;

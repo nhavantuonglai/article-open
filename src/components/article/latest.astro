@@ -1,8 +1,6 @@
 ---
 import { APP_BLOG } from "nhavantuonglai:config";
-
 import Grid from "~/components/article/grid.astro";
-
 import { getBlogPermalink } from "~/utils/permalinks";
 import { findLatestPosts } from "~/utils/blog";
 import Wrapper from "~/components/ui/wrapper.astro";
@@ -23,7 +21,6 @@ const {
 	linkUrl = getBlogPermalink(),
 	information = await Astro.slots.render("information"),
 	count = 12,
-
 	id,
 	isDark = false,
 	classes = {},
@@ -33,32 +30,27 @@ const {
 const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
 ---
 
-{
-	APP_BLOG.isEnabled ? (
-		<Wrapper id={id} isDark={isDark} containerClass={classes?.container as string} bg={bg}>
+{APP_BLOG.isEnabled && (
+
+	<Wrapper id={id} isDark={isDark} containerClass={classes?.container as string} bg={bg}>
+
+		<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
+			{title && (
+				<div class="md:max-w-sm">
+					<h2 class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading" set:html={title} />
+				</div>
+			)}
+			
+			{information && <p class="text-muted text-justify dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
+		</div>
+
+		<Grid posts={posts} />
+
+		{APP_BLOG.list.isEnabled && linkText && linkUrl && (
 			<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
-				{title && (
-					<div class="md:max-w-sm">
-						<h2
-							class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading"
-							set:html={title}
-						/>
-					</div>
-				)}
-
-				{information && <p class="text-muted text-justify dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information}/>}
+				<Button variant="link" href={linkUrl}>{linkText} »</Button>
 			</div>
+		)}
+	</Wrapper>
 
-			<Grid posts={posts}/>
-
-			<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
-				{APP_BLOG.list.isEnabled && linkText && linkUrl && (
-					<Button variant="link" href={linkUrl}>{linkText} »</Button>
-				)}
-			</div>
-
-		</Wrapper>
-	) : (
-		<Fragment/>
-	)
-}
+)}

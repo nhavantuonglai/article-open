@@ -1,4 +1,5 @@
 <script type="module">
+
 	function generateTOC() {
 		const index = document.getElementById('index');
 		const headings = document.querySelectorAll('h2, h3, h4');
@@ -37,7 +38,7 @@
 
 		index.appendChild(tocList);
 
-		hideLastTOCItems(tocList, 20);
+		hideLastTOCItems(tocList, 21);
 	}
 
 	function hideLastTOCItems(tocList, count) {
@@ -52,4 +53,5 @@
 	}
 
 	window.onload = generateTOC;
+
 </script>

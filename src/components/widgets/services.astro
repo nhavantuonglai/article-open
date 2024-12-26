@@ -17,7 +17,6 @@ const {
 	image = await Astro.slots.render('image'),
 	isReversed = false,
 	isAfterContent = false,
-
 	id,
 	isDark = false,
 	classes = {},
@@ -26,12 +25,10 @@ const {
 ---
 
 <Wrapper
-
 	id={id}
 	isDark={isDark}
 	containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
 	bg={bg}
-
 >
 
 	<Headline
@@ -48,51 +45,55 @@ const {
 	<div class="md:mx-auto text-center">
 		<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
 			<div class="md:basis-1/2 self-center">
-				{content && <div class="text-justify mb-6 text-lg dark:text-slate-400" set:html={content}/>}
+				{/* Render Content */}
+				{content && (
+					<div class="text-justify mb-6 text-lg dark:text-slate-400" set:html={content}/>
+				)}
 
-				{
-					callToAction && (
-						<div class="btn-primary w-auto mb-6">
-							<Button variant="link" {...callToAction}/>
-						</div>
-					)
-				}
+				{/* Render Call to Action Button */}
+				{callToAction && (
+					<div class="btn-primary w-auto mb-6">
+						<Button variant="link" {...callToAction}/>
+					</div>
+				)}
 
-				<ItemGrid
-					items={items}
-					columns={columns}
-					defaultIcon="tabler:check"
-					classes={{
-						container: `gap-y-4 md:gap-y-8`,
-						panel: 'max-w-none',
-						title: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
-						description: 'text-muted dark:text-slate-400 ml-2 rtl:ml-0 rtl:mr-2',
-						icon: 'flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1',
-						action: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
-					}}
-				/>
+				{/* Render Item Grid */}
+				{items && items.length > 0 && (
+					<ItemGrid
+						items={items}
+						columns={columns}
+						defaultIcon="tabler:check"
+						classes={{
+							container: `gap-y-4 md:gap-y-8`,
+							panel: 'max-w-none',
+							title: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
+							description: 'text-muted dark:text-slate-400 ml-2 rtl:ml-0 rtl:mr-2',
+							icon: 'flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1',
+							action: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
+						}}
+					/>
+				)}
 			</div>
 
 			<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
-				{
-					image && (
-						<div class="relative m-auto max-w-4xl">
-							{typeof image === 'string' ? (
-								<Fragment set:html={image}/>
-							) : (
-								<Image
-									class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-									width={600}
-									height={407}
-									widths={[400, 768]}
-									sizes="(max-width: 768px) 100vw, 432px"
-									layout="responsive"
-									{...(image as any)}
-								/>
-							)}
-						</div>
-					)
-				}
+				{/* Render Image */}
+				{image && (
+					<div class="relative m-auto max-w-4xl">
+						{typeof image === 'string' ? (
+							<Fragment set:html={image}/>
+						) : (
+							<Image
+								class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
+								width={600}
+								height={407}
+								widths={[400, 768]}
+								sizes="(max-width: 768px) 100vw, 432px"
+								layout="responsive"
+								{...(image as any)}
+							/>
+						)}
+					</div>
+				)}
 			</div>
 		</div>
 	</div>

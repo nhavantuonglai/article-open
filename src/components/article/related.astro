@@ -13,25 +13,21 @@ const { post } = Astro.props;
 const fetchedPosts = await fetchPosts();
 const relatedPosts = post.tags ? getRelatedPosts(fetchedPosts, post.slug, post.tags) : [];
 
-function shuffleArray(array) {
-	for (let i = array.length - 1; i > 0; i--) {
-		const j = Math.floor(Math.random() * (i + 1));
-		[array[i], array[j]] = [array[j], array[i]];
-	}
-	return array;
-}
-
-const randomPosts = shuffleArray(relatedPosts).slice(0, 99);
+const randomPosts = relatedPosts
+	.sort(() => Math.random() - 0.5) // Shuffle array
+	.slice(0, 99);
 ---
 
-{
-	APP_BLOG.isRelatedPostsEnabled ? (
-		<BlogHighlightedPosts
-			classes={{ container: "pt-0 lg:pt-0 md:pt-0" }}
-			title="Có thể bạn chưa đọc"
-			linkText="Xem tất cả"
-			linkUrl={getBlogPermalink()}
-			postIds={randomPosts.map((post) => post.id)}
-		/>
-	) : null
-}
+{APP_BLOG.isRelatedPostsEnabled && (
+
+	<BlogHighlightedPosts
+
+		classes={{ container: "pt-0 lg:pt-0 md:pt-0" }}
+		title="Có thể bạn chưa đọc"
+		linkText="Xem tất cả"
+		linkUrl={getBlogPermalink()}
+		postIds={randomPosts.map((post) => post.id)}
+
+	/>
+
+)}

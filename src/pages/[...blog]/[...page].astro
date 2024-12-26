@@ -10,7 +10,7 @@ import Pagination from '~/components/article/pagination.astro';
 
 import Action from '~/components/content/action.astro';
 
-import Flowschart from '~/components/widgets/flowschart.astro';
+import Soundcloud from '~/components/javascript/soundcloud.astro';
 
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
 
@@ -46,9 +46,7 @@ const metadata = {
 		<Headline
 			subtitle="đã xuất bản trên website."
 		>
-
 		Bài viết
-
 		</Headline>
 
 		<BlogList posts={page.data}/>
@@ -59,6 +57,6 @@ const metadata = {
 
 	<Action/>
 
-	<Flowschart/>
+	<Soundcloud/>
 
 </Layout>
