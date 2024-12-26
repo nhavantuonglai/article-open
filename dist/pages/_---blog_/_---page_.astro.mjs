@@ -1,10 +1,10 @@
-import { d as createAstro, c as createComponent, r as renderTemplate, a as renderComponent, m as maybeRenderHead } from '../../chunks/astro/server_Cx2nMEd_.mjs';
+import { b as createAstro, c as createComponent, r as renderTemplate, a as renderComponent, m as maybeRenderHead } from '../../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { $ as $$Page } from '../../chunks/page_KtSAXQmz.mjs';
-import { $ as $$Hero } from '../../chunks/hero_A5_4sfW0.mjs';
-import { $ as $$Headline, a as $$List, b as $$Pagination } from '../../chunks/pagination_CY5CJCye.mjs';
-import { $ as $$Action, a as $$Flowschart } from '../../chunks/flowschart_CXfL3AIE.mjs';
-import { a as getStaticPathsBlogList, c as blogListRobots } from '../../chunks/blog_Bd1KP6W8.mjs';
+import { $ as $$Page } from '../../chunks/page_DQk_4Keq.mjs';
+import { $ as $$Hero } from '../../chunks/hero_DomAbGkL.mjs';
+import { $ as $$Headline, a as $$List, b as $$Pagination } from '../../chunks/pagination_CSguwpaG.mjs';
+import { $ as $$Action, a as $$Soundcloud } from '../../chunks/soundcloud_DahVq9O8.mjs';
+import { a as getStaticPathsBlogList, c as blogListRobots } from '../../chunks/blog_ChQAVSFU.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const $$Astro = createAstro("https://nhavantuonglai.com");
@@ -29,7 +29,7 @@ const $$ = createComponent(async ($$result, $$props, $$slots) => {
   };
   return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Hero", $$Hero, {})} ${maybeRenderHead()}<section class="px-6 sm:px-6 py-20 mx-auto max-w-4xl"> ${renderComponent($$result2, "Headline", $$Headline, { "subtitle": "\u0111\xE3 xu\u1EA5t b\u1EA3n tr\xEAn website." }, { "default": ($$result3) => renderTemplate`
 Bài viết
-` })} ${renderComponent($$result2, "BlogList", $$List, { "posts": page.data })} ${renderComponent($$result2, "Pagination", $$Pagination, { "prevUrl": page.url.prev, "nextUrl": page.url.next })} </section> ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, {})} ` })}`;
+` })} ${renderComponent($$result2, "BlogList", $$List, { "posts": page.data })} ${renderComponent($$result2, "Pagination", $$Pagination, { "prevUrl": page.url.prev, "nextUrl": page.url.next })} </section> ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/[...blog]/[...page].astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/[...blog]/[...page].astro";

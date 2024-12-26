@@ -1,9 +1,9 @@
-import { c as createComponent, r as renderTemplate, a as renderComponent, F as Fragment, m as maybeRenderHead } from './astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, r as renderTemplate, a as renderComponent, F as Fragment, m as maybeRenderHead } from './astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { b as $$Services$1 } from './flowschart_CXfL3AIE.mjs';
+import { b as $$Services$1 } from './soundcloud_DahVq9O8.mjs';
 
 const $$Services = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Services", $$Services$1, { "title": "D\u1ECBch v\u1EE5 cung c\u1EA5p", "items": [
+  return renderTemplate`${renderComponent($$result, "Services", $$Services$1, { "title": "D\u1ECBch v\u1EE5 \u0111ang v\u1EADn h\xE0nh", "items": [
     {
       title: "N\u1ED9i dung h\u1EA5p d\u1EABn v\u1EDBi ng\u01B0\u1EDDi \u0111\u1ECDc",
       description: "N\u1ED9i dung vi\u1EBFt c\u1EE7a @nhavantuonglai lu\xF4n \u0111\u01B0\u1EE3c ch\xFA tr\u1ECDng \u0111\u1EC3 \u0111em l\u1EA1i tr\u1EA3i nghi\u1EC7m \u0111\u1ECDc t\u1ED1t nh\u1EA5t, kh\xF4ng ch\u1EC9 h\u1EA5p d\u1EABn v\u1EC1 m\u1EB7t n\u1ED9i dung m\xE0 c\xF2n m\u1EA1ch l\u1EA1c trong tr\xECnh b\xE0y."

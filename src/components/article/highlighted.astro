@@ -26,7 +26,7 @@ const {
 	bg = await Astro.slots.render("bg"),
 } = Astro.props;
 
-const posts = APP_BLOG.isEnabled ? await findPostsByIds(postIds) : [];
+const isEnabled = myObject?.isEnabled ?? false await findPostsByIds(postIds) : [];
 ---
 
 {APP_BLOG.isEnabled && (

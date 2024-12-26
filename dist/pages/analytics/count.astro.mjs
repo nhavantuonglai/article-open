@@ -1,9 +1,9 @@
-import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { $ as $$Page } from '../../chunks/page_KtSAXQmz.mjs';
+import { $ as $$Page } from '../../chunks/page_DQk_4Keq.mjs';
 import 'clsx';
-import { $ as $$Count$2 } from '../../chunks/count_DDro-IAO.mjs';
-import { $ as $$Action, a as $$Flowschart } from '../../chunks/flowschart_CXfL3AIE.mjs';
+import { $ as $$Count$2 } from '../../chunks/count_CZkYR-pS.mjs';
+import { $ as $$Action, a as $$Soundcloud } from '../../chunks/soundcloud_DahVq9O8.mjs';
 export { renderers } from '../../renderers.mjs';
 
 var __freeze = Object.freeze;
@@ -105,7 +105,7 @@ const $$Count = createComponent(($$result, $$props, $$slots) => {
     title: "C\xF4ng c\u1EE5 \u0111\u1EBFm t\u1EA7n su\u1EA5t v\u0103n b\u1EA3n | nhavantuonglai",
     ignoreTitleTemplate: true
   };
-  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Count", $$Count$1, {})} ${renderComponent($$result2, "Content", $$Count$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, {})} ` })}`;
+  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Count", $$Count$1, {})} ${renderComponent($$result2, "Content", $$Count$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/analytics/count.astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/analytics/count.astro";

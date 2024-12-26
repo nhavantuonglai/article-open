@@ -1,8 +1,8 @@
 import pLimit from 'p-limit';
 import { A as AstroError, U as UnknownContentCollectionError, p as prependForwardSlash } from './astro/assets-service_DJeI9GCj.mjs';
-import { c as createComponent, f as renderUniqueStylesheet, g as renderScriptElement, h as createHeadAndContent, r as renderTemplate, a as renderComponent, u as unescapeHTML } from './astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, f as renderUniqueStylesheet, g as renderScriptElement, h as createHeadAndContent, r as renderTemplate, a as renderComponent, u as unescapeHTML } from './astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { A as APP_BLOG, B as BLOG_BASE, T as TAG_BASE, e as cleanSlug, P as POST_PERMALINK_PATTERN, t as trimSlash } from './permalinks_DNkgwRsR.mjs';
+import { A as APP_BLOG, B as BLOG_BASE, T as TAG_BASE, d as cleanSlug, P as POST_PERMALINK_PATTERN, t as trimSlash } from './permalinks_CK5jjW5e.mjs';
 
 function createCollectionToGlobResultMap({
   globResult,
@@ -275,8 +275,10 @@ const load = async function() {
   return results;
 };
 let _posts;
+APP_BLOG.category.isEnabled;
 const blogListRobots = APP_BLOG.list.robots;
 const blogPostRobots = APP_BLOG.post.robots;
+APP_BLOG.category.robots;
 const blogTagRobots = APP_BLOG.tag.robots;
 const blogPostsPerPage = APP_BLOG?.postsPerPage;
 const fetchPosts = async () => {

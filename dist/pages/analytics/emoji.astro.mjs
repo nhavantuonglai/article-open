@@ -1,10 +1,10 @@
-import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { $ as $$Page } from '../../chunks/page_KtSAXQmz.mjs';
+import { $ as $$Page } from '../../chunks/page_DQk_4Keq.mjs';
 import 'clsx';
 /* empty css                                    */
-import { $ as $$Emoji$2 } from '../../chunks/emoji_BTW3uAyM.mjs';
-import { $ as $$Action, a as $$Flowschart } from '../../chunks/flowschart_CXfL3AIE.mjs';
+import { $ as $$Emoji$2 } from '../../chunks/emoji_BtmH4LAt.mjs';
+import { $ as $$Action, a as $$Soundcloud } from '../../chunks/soundcloud_DahVq9O8.mjs';
 export { renderers } from '../../renderers.mjs';
 
 var __freeze = Object.freeze;
@@ -30,7 +30,7 @@ const $$Emoji = createComponent(($$result, $$props, $$slots) => {
     title: "B\u1ED9 emoji, icon Facebook chu\u1EA9n 2025, c\u1EADp nh\u1EADt m\u1EDBi nh\u1EA5t | nhavantuonglai",
     ignoreTitleTemplate: true
   };
-  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Emoji", $$Emoji$1, {})} ${renderComponent($$result2, "Content", $$Emoji$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, {})} ` })}`;
+  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Emoji", $$Emoji$1, {})} ${renderComponent($$result2, "Content", $$Emoji$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/analytics/emoji.astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/analytics/emoji.astro";

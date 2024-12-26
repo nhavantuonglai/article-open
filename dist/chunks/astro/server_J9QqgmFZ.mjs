@@ -1797,4 +1797,4 @@ function createVNode(type, props) {
   return vnode;
 }
 
-export { AstroJSX as A, Fragment as F, renderComponent as a, addAttribute as b, createComponent as c, createAstro as d, renderSlot as e, renderUniqueStylesheet as f, renderScriptElement as g, createHeadAndContent as h, defineScriptVars as i, renderHead as j, renderJSX as k, createVNode as l, maybeRenderHead as m, renderTemplate as r, spreadAttributes as s, unescapeHTML as u };
+export { AstroJSX as A, Fragment as F, renderComponent as a, createAstro as b, createComponent as c, renderSlot as d, addAttribute as e, renderUniqueStylesheet as f, renderScriptElement as g, createHeadAndContent as h, defineScriptVars as i, renderHead as j, renderJSX as k, createVNode as l, maybeRenderHead as m, renderTemplate as r, spreadAttributes as s, unescapeHTML as u };

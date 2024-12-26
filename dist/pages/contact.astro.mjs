@@ -1,8 +1,8 @@
-import { c as createComponent, r as renderTemplate, a as renderComponent } from '../chunks/astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, r as renderTemplate, a as renderComponent } from '../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { $ as $$Page } from '../chunks/page_KtSAXQmz.mjs';
-import { $ as $$Hero } from '../chunks/hero_A5_4sfW0.mjs';
-import { $ as $$Action, a as $$Flowschart } from '../chunks/flowschart_CXfL3AIE.mjs';
+import { $ as $$Page } from '../chunks/page_DQk_4Keq.mjs';
+import { $ as $$Hero } from '../chunks/hero_DomAbGkL.mjs';
+import { $ as $$Action, a as $$Soundcloud } from '../chunks/soundcloud_DahVq9O8.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Contact = createComponent(($$result, $$props, $$slots) => {
@@ -11,7 +11,7 @@ const $$Contact = createComponent(($$result, $$props, $$slots) => {
     ignoreTitleTemplate: true,
     noindex: true
   };
-  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Hero", $$Hero, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, {})} ` })}`;
+  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Hero", $$Hero, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/contact.astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/contact.astro";

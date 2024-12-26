@@ -1,10 +1,9 @@
-import { d as createAstro, c as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML, b as addAttribute, e as renderSlot, a as renderComponent, F as Fragment, s as spreadAttributes } from './astro/server_Cx2nMEd_.mjs';
+import { b as createAstro, c as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML, e as addAttribute, d as renderSlot, a as renderComponent, F as Fragment, s as spreadAttributes } from './astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
 import 'clsx';
 import { twMerge } from 'tailwind-merge';
-import { g as getImage, f as findImage, a as $$Icon, b as $$Button } from './page_KtSAXQmz.mjs';
+import { g as getImage, f as findImage, a as $$Icon, b as $$Button } from './page_DQk_4Keq.mjs';
 import { parseUrl, transformUrl } from 'unpic';
-/* empty css                          */
 
 const $$Astro$5 = createAstro("https://nhavantuonglai.com");
 const $$Headline = createComponent(async ($$result, $$props, $$slots) => {
@@ -263,31 +262,23 @@ const $$Image = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$2, $$props, $$slots);
   Astro2.self = $$Image;
   const props = Astro2.props;
-  if (props.alt === void 0 || props.alt === null) {
-    throw new Error();
-  }
-  if (typeof props.width === "string") {
-    props.width = parseInt(props.width);
-  }
-  if (typeof props.height === "string") {
-    props.height = parseInt(props.height);
-  }
-  if (!props.loading) {
-    props.loading = "lazy";
-  }
-  if (!props.decoding) {
-    props.decoding = "async";
-  }
+  if (!props.alt) throw new Error();
+  props.width = typeof props.width === "string" ? parseInt(props.width) : props.width;
+  props.height = typeof props.height === "string" ? parseInt(props.height) : props.height;
+  props.loading = props.loading || "lazy";
+  props.decoding = props.decoding || "async";
   const _image = await findImage(props.src);
   let image = void 0;
-  if (_image !== null && typeof _image === "object") {
-    image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
-  } else if (typeof _image === "string" && (_image.startsWith("http://") || _image.startsWith("https://"))) {
-    image = await getImagesOptimized(_image, props, unpicOptimizer);
-  } else if (_image) {
-    image = await getImagesOptimized(_image, props);
+  if (_image) {
+    if (typeof _image === "object") {
+      image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
+    } else if (typeof _image === "string" && (_image.startsWith("http://") || _image.startsWith("https://"))) {
+      image = await getImagesOptimized(_image, props, unpicOptimizer);
+    } else {
+      image = await getImagesOptimized(_image, props);
+    }
   }
-  return renderTemplate`${!image ? renderTemplate`${renderComponent($$result, "Fragment", Fragment, {})}` : renderTemplate`${maybeRenderHead()}<img title="nhavantuonglai"${addAttribute(image.src, "src")}${spreadAttributes(image.attributes)}>`}`;
+  return renderTemplate`${image ? renderTemplate`${maybeRenderHead()}<img title="nhavantuonglai"${addAttribute(image.src, "src")}${spreadAttributes(image.attributes)}>` : renderTemplate`${renderComponent($$result, "Fragment", Fragment, {})}`}`;
 }, "D:/OneCode/article-open/src/components/common/image.astro", void 0);
 
 const $$Astro$1 = createAstro("https://nhavantuonglai.com");
@@ -333,18 +324,18 @@ const $$Services = createComponent(async ($$result, $$props, $$slots) => {
     container: "max-w-xl sm:mx-auto lg:max-w-2xl",
     title: "text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-4 font-heading",
     subtitle: "max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400"
-  } })} ${maybeRenderHead()}<div class="md:mx-auto text-center"> <div${addAttribute(`md:flex ${isReversed ? "md:flex-row-reverse" : ""} md:gap-16`, "class")}> <div class="md:basis-1/2 self-center"> ${content && renderTemplate`<div class="text-justify mb-6 text-lg dark:text-slate-400">${unescapeHTML(content)}</div>`} ${callToAction && renderTemplate`<div class="btn-primary w-auto mb-6"> ${renderComponent($$result2, "Button", $$Button, { "variant": "link", ...callToAction })} </div>`} ${renderComponent($$result2, "ItemGrid", $$ItemGrid, { "items": items, "columns": columns, "defaultIcon": "tabler:check", "classes": {
+  } })} ${maybeRenderHead()}<div class="md:mx-auto text-center"> <div${addAttribute(`md:flex ${isReversed ? "md:flex-row-reverse" : ""} md:gap-16`, "class")}> <div class="md:basis-1/2 self-center">  ${content && renderTemplate`<div class="text-justify mb-6 text-lg dark:text-slate-400">${unescapeHTML(content)}</div>`}  ${callToAction && renderTemplate`<div class="btn-primary w-auto mb-6"> ${renderComponent($$result2, "Button", $$Button, { "variant": "link", ...callToAction })} </div>`}  ${items && items.length > 0 && renderTemplate`${renderComponent($$result2, "ItemGrid", $$ItemGrid, { "items": items, "columns": columns, "defaultIcon": "tabler:check", "classes": {
     container: `gap-y-4 md:gap-y-8`,
     panel: "max-w-none",
     title: "text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2",
     description: "text-muted dark:text-slate-400 ml-2 rtl:ml-0 rtl:mr-2",
     icon: "flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1",
     action: "text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2"
-  } })} </div> <div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2"> ${image && renderTemplate`<div class="relative m-auto max-w-4xl"> ${typeof image === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(image)}` })}` : renderTemplate`${renderComponent($$result2, "Image", $$Image, { "class": "mx-auto w-full rounded-lg bg-gray-500 shadow-lg", "width": 600, "height": 407, "widths": [400, 768], "sizes": "(max-width: 768px) 100vw, 432px", "layout": "responsive", ...image })}`} </div>`} </div> </div> </div> ` })}`;
+  } })}`} </div> <div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">  ${image && renderTemplate`<div class="relative m-auto max-w-4xl"> ${typeof image === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(image)}` })}` : renderTemplate`${renderComponent($$result2, "Image", $$Image, { "class": "mx-auto w-full rounded-lg bg-gray-500 shadow-lg", "width": 600, "height": 407, "widths": [400, 768], "sizes": "(max-width: 768px) 100vw, 432px", "layout": "responsive", ...image })}`} </div>`} </div> </div> </div> ` })}`;
 }, "D:/OneCode/article-open/src/components/widgets/services.astro", void 0);
 
 const $$Action = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${maybeRenderHead()}<h2 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">Đăng ký nhận bảng tin hàng tuần</h2> <form class="mx-auto max-w-7xl md:px-6 px-4" action="https://formspree.io/f/xeooodne" method="post"> <label class="mb-3 block text-lg font-medium">Họ và tên</label> <input type="text" name="ho-va-ten" name="Họ và tên" class="mx-auto max-w-7xl mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <label class="mb-3 block text-lg font-medium">Email liên lạc</label> <input type="email" name="email" name="Email liên lạc" class="mx-auto max-w-7xl mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <label class="mb-3 block text-lg font-medium">Nội dung trao đổi</label> <input type="text" name="noi-dung" content="Nội dung trao đổi" class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <button type="submit" class="btn-primary mb-6">Đăng ký</button> </form> ${renderComponent($$result, "CTA", $$Services, { "title": "Li\xEAn l\u1EA1c trao \u0111\u1ED5i", "callToAction": {
+  return renderTemplate`${maybeRenderHead()}<h2 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">Chia sẻ điều cần nói</h2> <form class="mx-auto max-w-7xl md:px-6 px-4" action="https://formspree.io/f/xeooodne" method="post"> <label class="mb-3 block text-lg font-medium">Họ và tên</label> <input type="text" name="ho-va-ten" name="Họ và tên của bạn" class="mx-auto max-w-7xl mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <label class="mb-3 block text-lg font-medium">Email liên lạc</label> <input type="email" name="email" name="Email trao đổi" class="mx-auto max-w-7xl mb-4 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <label class="mb-3 block text-lg font-medium">Nội dung trao đổi</label> <input type="text" name="noi-dung" content="Nội dung cần chia sẻ" class="px-4 mb-4 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required> <button type="submit" class="btn-primary mb-6">Gửi thông tin</button> </form> ${renderComponent($$result, "CTA", $$Services, { "title": "Li\xEAn l\u1EA1c trao \u0111\u1ED5i", "callToAction": {
     text: "Nh\u1EAFn tin",
     href: "https://www.instagram.com/nhavantuonglai"
   }, "items": [
@@ -385,8 +376,8 @@ Thông qua email cá nhân, bạn có thể trao đổi thỏa thuận hợp tá
 ` })}` })}`;
 }, "D:/OneCode/article-open/src/components/content/action.astro", void 0);
 
-const $$Flowschart = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${maybeRenderHead()}<h2 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">Thống kê lưu lượng dữ liệu</h2> <div id="main-chart" class="relative mx-auto max-w-7xl mb-6"></div>  `;
-}, "D:/OneCode/article-open/src/components/widgets/flowschart.astro", void 0);
+const $$Soundcloud = createComponent(($$result, $$props, $$slots) => {
+  return renderTemplate`${maybeRenderHead()}<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1842301365&color=%23ff725e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nhavantuonglai" title="nhavantuonglai" target="_blank" style="color: #cccccc; text-decoration: none;">nhavantuonglai</a> · <a href="https://soundcloud.com/nhavantuonglai/sets/ghiblis-piano" title="Ghiblis Music Piano Playlist" target="_blank" style="color: #cccccc; text-decoration: none;">Ghiblis Music Piano Playlist</a></div>`;
+}, "D:/OneCode/article-open/src/components/javascript/soundcloud.astro", void 0);
 
-export { $$Action as $, $$Flowschart as a, $$Services as b, $$Wrapper as c, $$Headline as d, $$ItemGrid as e, $$Image as f, $$Background as g };
+export { $$Action as $, $$Soundcloud as a, $$Services as b, $$Wrapper as c, $$Headline as d, $$ItemGrid as e, $$Image as f, $$Background as g };

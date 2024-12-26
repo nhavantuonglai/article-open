@@ -1,12 +1,12 @@
-import { d as createAstro, c as createComponent, r as renderTemplate, a as renderComponent, m as maybeRenderHead, u as unescapeHTML, e as renderSlot, F as Fragment, b as addAttribute } from '../chunks/astro/server_Cx2nMEd_.mjs';
+import { b as createAstro, c as createComponent, r as renderTemplate, a as renderComponent, m as maybeRenderHead, u as unescapeHTML, d as renderSlot, F as Fragment, e as addAttribute } from '../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { b as $$Button, a as $$Icon, $ as $$Page } from '../chunks/page_KtSAXQmz.mjs';
-import { $ as $$Hero } from '../chunks/hero_A5_4sfW0.mjs';
-import { $ as $$Grid } from '../chunks/grid_DQhb9N2s.mjs';
-import { c as getBlogPermalink } from '../chunks/permalinks_DNkgwRsR.mjs';
-import { d as findLatestPosts } from '../chunks/blog_Bd1KP6W8.mjs';
-import { c as $$Wrapper, g as $$Background, d as $$Headline, f as $$Image, e as $$ItemGrid, $ as $$Action, a as $$Flowschart } from '../chunks/flowschart_CXfL3AIE.mjs';
-import { $ as $$Services } from '../chunks/services_OUdWa3nh.mjs';
+import { b as $$Button, a as $$Icon, $ as $$Page } from '../chunks/page_DQk_4Keq.mjs';
+import { $ as $$Hero } from '../chunks/hero_DomAbGkL.mjs';
+import { $ as $$Grid } from '../chunks/grid_BI_ep33F.mjs';
+import { b as getBlogPermalink } from '../chunks/permalinks_CK5jjW5e.mjs';
+import { d as findLatestPosts } from '../chunks/blog_ChQAVSFU.mjs';
+import { c as $$Wrapper, g as $$Background, d as $$Headline, f as $$Image, e as $$ItemGrid, $ as $$Action, a as $$Soundcloud } from '../chunks/soundcloud_DahVq9O8.mjs';
+import { $ as $$Services } from '../chunks/services_pr8yYGle.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Astro$5 = createAstro("https://nhavantuonglai.com");
@@ -25,11 +25,11 @@ const $$Latest = createComponent(async ($$result, $$props, $$slots) => {
     bg = await Astro2.slots.render("bg")
   } = Astro2.props;
   const posts = await findLatestPosts({ count }) ;
-  return renderTemplate`${renderTemplate`${renderComponent($$result, "Wrapper", $$Wrapper, { "id": id, "isDark": isDark, "containerClass": classes?.container, "bg": bg }, { "default": ($$result2) => renderTemplate`${maybeRenderHead()}<div class="flex flex-col lg:justify-between lg:flex-row mb-6">${title && renderTemplate`<div class="md:max-w-sm"><h2 class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">${unescapeHTML(title)}</h2></div>`}${information && renderTemplate`<p class="text-muted text-justify dark:text-slate-400 lg:text-sm lg:max-w-md">${unescapeHTML(information)}</p>`}</div>${renderComponent($$result2, "Grid", $$Grid, { "posts": posts })}<div class="flex flex-col lg:justify-between lg:flex-row mb-6">${linkText && linkUrl && renderTemplate`${renderComponent($$result2, "Button", $$Button, { "variant": "link", "href": linkUrl }, { "default": ($$result3) => renderTemplate`${linkText} »` })}`}</div>` })}` }`;
+  return renderTemplate`${renderTemplate`${renderComponent($$result, "Wrapper", $$Wrapper, { "id": id, "isDark": isDark, "containerClass": classes?.container, "bg": bg }, { "default": ($$result2) => renderTemplate`${maybeRenderHead()}<div class="flex flex-col lg:justify-between lg:flex-row mb-6">${title && renderTemplate`<div class="md:max-w-sm"><h2 class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">${unescapeHTML(title)}</h2></div>`}${information && renderTemplate`<p class="text-muted text-justify dark:text-slate-400 lg:text-sm lg:max-w-md">${unescapeHTML(information)}</p>`}</div>${renderComponent($$result2, "Grid", $$Grid, { "posts": posts })}${linkText && linkUrl && renderTemplate`<div class="flex flex-col lg:justify-between lg:flex-row mb-6">${renderComponent($$result2, "Button", $$Button, { "variant": "link", "href": linkUrl }, { "default": ($$result3) => renderTemplate`${linkText} »` })}</div>`}` })}`}`;
 }, "D:/OneCode/article-open/src/components/article/latest.astro", void 0);
 
 const $$Article = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Article", $$Latest, { "title": "B\xE0i m\u1EDBi nh\u1EA5t", "information": `Danh s\xE1ch 4 b\xE0i m\u1EDBi nh\u1EA5t, c\u1EADp nh\u1EADt theo th\u1EE9 t\u1EF1 ng\xE0y th\xE1ng tr\xEAn website, gi\xFAp d\xF2ng ch\u1EA3y th\xF4ng tin lu\xF4n \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt v\xE0 c\u1EA3m h\u1EE9ng vi\u1EBFt l\xE1ch lu\xF4n tu\xF4n tr\xE0o.` })}`;
+  return renderTemplate`${renderComponent($$result, "Article", $$Latest, { "title": "B\xE0i vi\u1EBFt g\u1EA7n \u0111\xE2y", "information": `Bam g\u1ED3m 12 b\xE0i m\u1EDBi xu\u1EA5t b\u1EA3n g\u1EA7n \u0111\xE2y, ch\u1EE9a nhi\u1EC1u n\u1ED9i dung m\u1EDBi m\u1EBB v\xE0 h\u1EA5p d\u1EABn, th\xFA v\u1ECB \u0111\u1EE3i b\u1EA1n kh\xE1m ph\xE1.` })}`;
 }, "D:/OneCode/article-open/src/components/content/article.astro", void 0);
 
 const $$Astro$4 = createAstro("https://nhavantuonglai.com");
@@ -55,13 +55,20 @@ const $$Pricing = createComponent(async ($$result, $$props, $$slots) => {
     classes = {},
     bg = await Astro2.slots.render("bg")
   } = Astro2.props;
-  return renderTemplate`${renderComponent($$result, "WidgetWrapper", $$WidgetWrapper, { "id": id, "isDark": isDark, "containerClass": `max-w-7xl mx-auto ${classes?.container ?? ""}`, "bg": bg }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Headline", $$Headline, { "title": title, "subtitle": subtitle, "tagline": tagline })} ${maybeRenderHead()}<div class="flex items-stretch justify-center"> <div class="grid grid-cols-3 gap-4 dark:text-white sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3"> ${prices && prices.map(({ title: title2, subtitle: subtitle2, price, period, items, callToAction, hasRibbon = false, ribbonTitle }) => renderTemplate`<div class="col-span-3 mx-auto flex w-full sm:col-span-1 md:col-span-1 lg:col-span-1 xl:col-span-1"> ${price && period && renderTemplate`<div class="rounded-lg backdrop-blur border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900 shadow px-6 py-8 flex w-full max-w-sm flex-col justify-between text-center"> ${hasRibbon && ribbonTitle && renderTemplate`<div class="absolute right-[-5px] 2xl:right-[-8px] rtl:right-auto rtl:left-[-8px] rtl:2xl:left-[-10px] top-[-5px] 2xl:top-[-10px] z-[1] h-[100px] w-[100px] overflow-hidden text-right"> <span class="absolute top-[19px] right-[-21px] rtl:right-auto rtl:left-[-21px] block w-full rotate-45 rtl:-rotate-45 bg-green-700 text-center text-[10px] font-bold uppercase leading-5 text-white shadow-[0_3px_10px_-5px_rgba(0,0,0,0.3)] before:absolute before:left-0 before:top-full before:z-[-1] before:border-[3px] before:border-r-transparent before:border-b-transparent before:border-l-green-800 before:border-t-green-800 before:content-[''] after:absolute after:right-0 after:top-full after:z-[-1] after:border-[3px] after:border-l-transparent after:border-b-transparent after:border-r-green-800 after:border-t-green-800 after:content-['']"> ${ribbonTitle} </span> </div>`} <div class="px-2 py-0"> ${title2 && renderTemplate`<h3 class="text-center text-xl font-semibold uppercase leading-6 tracking-wider mb-2">${title2}</h3>`} ${subtitle2 && renderTemplate`<p class="font-light sm:text-lg text-gray-600 dark:text-slate-400">${subtitle2}</p>`} <div class="my-8"> <div class="flex items-center justify-center text-center mb-1"> <span class="text-4xl font-extrabold">${price}</span> <span class="text-4xl">000 đ</span> </div> <span class="text-base leading-6 lowercase text-gray-600 dark:text-slate-400">${period}</span> </div> ${items && renderTemplate`<ul role="list" class="my-8 md:my-10 space-y-2 text-left"> ${items.map(
-    ({ description, icon }) => description && renderTemplate`<li class="mb-1.5 flex items-start space-x-3 leading-7"> <div class="rounded-full bg-primary mt-1"> ${renderComponent($$result2, "Icon", $$Icon, { "name": icon ? icon : "tabler:check", "class": "w-5 h-5 font-bold p-1 text-white" })} </div> <span>${description}</span> </li>`
-  )} </ul>`} </div> ${callToAction && renderTemplate`<div${addAttribute(`flex justify-center`, "class")}> ${typeof callToAction === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(callToAction)}` })}` : callToAction && callToAction.href && renderTemplate`${renderComponent($$result2, "Button", $$Button, { ...hasRibbon ? { variant: "primary" } : {}, ...callToAction })}`} </div>`} </div>`} </div>`)} </div> </div> ` })}`;
+  return renderTemplate`${renderComponent($$result, "WidgetWrapper", $$WidgetWrapper, { "id": id, "isDark": isDark, "containerClass": `max-w-7xl mx-auto ${classes?.container ?? ""}`, "bg": bg }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Headline", $$Headline, { "title": title, "subtitle": subtitle, "tagline": tagline })} ${maybeRenderHead()}<div class="flex items-stretch justify-center"> <div class="grid grid-cols-3 gap-4 dark:text-white sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3"> ${prices && prices.length > 0 && prices.map(({
+    title: title2,
+    subtitle: subtitle2,
+    price,
+    period,
+    items,
+    callToAction,
+    hasRibbon = false,
+    ribbonTitle
+  }, index) => renderTemplate`<div${addAttribute(index, "key")} class="col-span-3 mx-auto flex w-full sm:col-span-1 md:col-span-1 lg:col-span-1 xl:col-span-1"> ${price && period && renderTemplate`<div class="rounded-lg backdrop-blur border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900 shadow px-6 py-8 flex w-full max-w-sm flex-col justify-between text-center">  ${hasRibbon && ribbonTitle && renderTemplate`<div class="absolute right-[-5px] 2xl:right-[-8px] rtl:right-auto rtl:left-[-8px] rtl:2xl:left-[-10px] top-[-5px] 2xl:top-[-10px] z-[1] h-[100px] w-[100px] overflow-hidden text-right"> <span class="absolute top-[19px] right-[-21px] rtl:right-auto rtl:left-[-21px] block w-full rotate-45 rtl:-rotate-45 bg-green-700 text-center text-[10px] font-bold uppercase leading-5 text-white shadow-[0_3px_10px_-5px_rgba(0,0,0,0.3)] before:absolute before:left-0 before:top-full before:z-[-1] before:border-[3px] before:border-r-transparent before:border-b-transparent before:border-l-green-800 before:border-t-green-800 before:content-[''] after:absolute after:right-0 after:top-full after:z-[-1] after:border-[3px] after:border-l-transparent after:border-b-transparent after:border-r-green-800 after:border-t-green-800 after:content-['']"> ${ribbonTitle} </span> </div>`} <div class="px-2 py-0">  ${title2 && renderTemplate`<h3 class="text-center text-xl font-semibold uppercase leading-6 tracking-wider mb-2">${title2}</h3>`} ${subtitle2 && renderTemplate`<p class="font-light sm:text-lg text-gray-600 dark:text-slate-400">${subtitle2}</p>`}  <div class="my-8"> <div class="flex items-center justify-center text-center mb-1"> <span class="text-4xl font-extrabold">${price}</span> <span class="text-4xl">000 đ</span> </div> <span class="text-base leading-6 lowercase text-gray-600 dark:text-slate-400">${period}</span> </div>  ${items && items.length > 0 && renderTemplate`<ul role="list" class="my-8 md:my-10 space-y-2 text-left"> ${items.map(({ description, icon }, index2) => description && renderTemplate`<li${addAttribute(index2, "key")} class="mb-1.5 flex items-start space-x-3 leading-7"> <div class="rounded-full bg-primary mt-1"> ${renderComponent($$result2, "Icon", $$Icon, { "name": icon || "tabler:check", "class": "w-5 h-5 font-bold p-1 text-white" })} </div> <span>${description}</span> </li>`)} </ul>`} </div>  ${callToAction && renderTemplate`<div class="flex justify-center"> ${typeof callToAction === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(callToAction)}` })}` : callToAction?.href && renderTemplate`${renderComponent($$result2, "Button", $$Button, { ...hasRibbon ? { variant: "primary" } : {}, ...callToAction })}`} </div>`} </div>`} </div>`)} </div> </div> ` })}`;
 }, "D:/OneCode/article-open/src/components/widgets/pricing.astro", void 0);
 
 const $$Prices = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Prices", $$Pricing, { "title": "B\xE1o gi\xE1 d\u1ECBch v\u1EE5", "prices": [
+  return renderTemplate`${renderComponent($$result, "Prices", $$Pricing, { "title": "B\xE1o gi\xE1 chi ph\xED d\u1ECBch v\u1EE5", "prices": [
     {
       title: "Vi\u1EBFt b\xE0i",
       subtitle: "Ph\u1ED5 bi\u1EBFn v\u1EDBi c\xE1 nh\xE2n",
@@ -163,7 +170,7 @@ const $$Brands$1 = createComponent(async ($$result, $$props, $$slots) => {
 }, "D:/OneCode/article-open/src/components/widgets/brands.astro", void 0);
 
 const $$Brands = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Brands", $$Brands$1, { "title": "\u0110\u01B0\u1EE3c tin \u0111\u1ECDc b\u1EDFi c\xE1c kh\xE1ch h\xE0ng c\u1EE7a", "images": [
+  return renderTemplate`${renderComponent($$result, "Brands", $$Brands$1, { "title": "Tin t\u01B0\u1EDFng b\u1EDFi kh\xE1ch h\xE0ng c\u1EE7a", "images": [
     {
       src: "https://nhavantuonglai.com/image/clients/facebook.png",
       alt: "Facebook"
@@ -210,36 +217,36 @@ const $$Testimonials$1 = createComponent(async ($$result, $$props, $$slots) => {
     classes = {},
     bg = await Astro2.slots.render("bg")
   } = Astro2.props;
-  return renderTemplate`${renderComponent($$result, "WidgetWrapper", $$WidgetWrapper, { "id": id, "isDark": isDark, "containerClass": `max-w-6xl mx-auto ${classes?.container ?? ""}`, "bg": bg }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Headline", $$Headline, { "title": title, "subtitle": subtitle, "tagline": tagline })} ${maybeRenderHead()}<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"> ${testimonials && testimonials.map(({ title: title2, testimonial, name, job, image }) => renderTemplate`<div class="flex h-auto"> <div class="text-justify flex flex-col p-4 md:p-6 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600"> ${title2 && renderTemplate`<h2 class="text-lg font-medium leading-6 pb-4">${title2}</h2>`} ${testimonial && renderTemplate`<blockquote class="flex-auto"> <p class="text-muted">" ${testimonial} "</p> </blockquote>`} <hr class="border-slate-200 dark:border-slate-600 my-4"> <div class="flex items-center"> ${image && renderTemplate`<div class="h-10 w-10 rounded-full border border-slate-200 dark:border-slate-600"> ${typeof image === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(image)}` })}` : renderTemplate`${renderComponent($$result2, "Image", $$Image, { "class": "h-10 w-10 rounded-full border border-slate-200 dark:border-slate-600 min-w-full min-h-full", "width": 40, "height": 40, "widths": [400, 768], "layout": "fixed", ...image })}`} </div>`} <div${addAttribute(title2, "title")} class="grow ml-3 rtl:ml-0 rtl:mr-3"> ${name && renderTemplate`<p class="text-base font-semibold">${name}</p>`} ${job && renderTemplate`<p class="text-xs text-muted">${job}</p>`} </div> </div> </div> </div>`)} </div> ${callToAction && renderTemplate`<div class="flex justify-center mx-auto w-fit mt-8 md:mt-12 font-medium"> ${renderComponent($$result2, "Button", $$Button, { ...callToAction })} </div>`}` })}`;
+  return renderTemplate`${renderComponent($$result, "WidgetWrapper", $$WidgetWrapper, { "id": id, "isDark": isDark, "containerClass": `max-w-6xl mx-auto ${classes?.container ?? ""}`, "bg": bg }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Headline", $$Headline, { "title": title, "subtitle": subtitle, "tagline": tagline })} ${maybeRenderHead()}<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"> ${testimonials && testimonials.length > 0 && testimonials.map(({ title: title2, testimonial, name, job, image }) => renderTemplate`<div class="flex h-auto"> <div class="text-justify flex flex-col p-4 md:p-6 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600"> ${title2 && renderTemplate`<h2 class="text-lg font-medium leading-6 pb-4">${title2}</h2>`} ${testimonial && renderTemplate`<blockquote class="flex-auto"> <p class="text-muted italic">${testimonial}</p> </blockquote>`} <hr class="border-slate-200 dark:border-slate-600 my-4"> <div class="flex items-center"> ${image && renderTemplate`<div class="h-10 w-10 rounded-full border border-slate-200 dark:border-slate-600"> ${typeof image === "string" ? renderTemplate`${renderComponent($$result2, "Fragment", Fragment, {}, { "default": ($$result3) => renderTemplate`${unescapeHTML(image)}` })}` : renderTemplate`${renderComponent($$result2, "Image", $$Image, { "class": "h-10 w-10 rounded-full border border-slate-200 dark:border-slate-600 min-w-full min-h-full", "width": 40, "height": 40, "widths": [400, 768], "layout": "fixed", ...image })}`} </div>`} <div${addAttribute(title2, "title")} class="grow ml-3 rtl:ml-0 rtl:mr-3"> ${name && renderTemplate`<p class="text-base font-semibold">${name}</p>`} ${job && renderTemplate`<p class="text-xs text-muted">${job}</p>`} </div> </div> </div> </div>`)} </div> ${callToAction && renderTemplate`<div class="flex justify-center mx-auto w-fit mt-8 md:mt-12 font-medium"> ${renderComponent($$result2, "Button", $$Button, { ...callToAction })} </div>`}` })}`;
 }, "D:/OneCode/article-open/src/components/widgets/testimonials.astro", void 0);
 
 const $$Testimonials = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Testimonials", $$Testimonials$1, { "title": "B\u1EB1ng ch\u1EE9ng x\xE3 h\u1ED9i", "testimonials": [
+  return renderTemplate`${renderComponent($$result, "Testimonials", $$Testimonials$1, { "title": "\u0110\xE1nh gi\xE1 t\u1EEB kh\xE1ch h\xE0ng", "testimonials": [
     {
-      testimonial: "T\xF4i \u0111\xE1nh gi\xE1 cao chuy\xEAn m\xF4n c\u1EE7a @nhavantuonglai, khi c\xE1c b\xE0i vi\u1EBFt kh\xF4ng ch\u1EC9 chu\u1EA9n SEO m\xE0 c\xF2n mang t\xEDnh s\xE1ng t\u1EA1o cao, gi\xFAp thu h\xFAt l\u01B0\u1EE3ng l\u1EDBn \u0111\u1ED9c gi\u1EA3 v\xE0o website c\u1EE7a t\xF4i.",
-      name: "Ph\u1EA1m Vy",
-      job: "Ch\u1EE7 shop qu\u1EA7n \xE1o",
+      testimonial: "D\u1ECBch v\u1EE5 vi\u1EBFt b\xE0i SEO c\u1EE7a nhavantuonglai kh\xE1 ch\u1EA5t l\u01B0\u1EE3ng, gi\xFAp t\u0103ng l\u01B0\u1EE3ng truy c\u1EADp website c\u1EE7a t\xF4i t\u0103ng r\xF5 r\u1EC7t. C\u1EADu \u1EA5y c\u0169ng r\u1EA5t c\u1EA7u th\u1ECB khi lu\xF4n l\u1EAFng nghe v\xE0 \u0111i\u1EC1u ch\u1EC9nh theo y\xEAu c\u1EA7u c\u1EE7a kh\xE1ch h\xE0ng.",
+      name: "Nguy\u1EC5n \u0110an Nguy\xEAn",
+      job: "Marketing Manager t\u1EA1i Hygge Vietnam",
       image: {
-        src: "https://nhavantuonglai.com/image/clients/people-one.jpg",
-        alt: "nhavantuonglai-pham-vy"
+        src: "https://nhavantuonglai.com/image/member/nguyen-dan-nguyen.jpg",
+        alt: "nhavantuonglai-nguyen-dan-nguyen"
       }
     },
     {
-      testimonial: "S\u1EA3n ph\u1EA9m content t\u1EEB @nhavantuonglai kh\xE1 \u1EA5n t\u01B0\u1EE3ng v\xE0 s\xE2u s\u1EAFc, th\u1EC3 hi\u1EC7n s\u1EF1 am hi\u1EC3u s\xE2u v\u1EC1 ng\xE0nh m\xE0 anh \u1EA5y vi\u1EBFt c\u0169ng nh\u01B0 tinh th\u1EA7n h\u1ECDc h\u1ECFi cao \u0111\u1ED9.",
-      name: "V\u0103n Nh\xE0n",
-      job: "Content Leader",
+      testimonial: "nhavantuonglai gi\xFAp t\xF4i t\u1ED1i \u01B0u SEO website hi\u1EC7u qu\u1EA3 v\u1EDBi chi ph\xED h\u1EE3p l\xFD. Th\u1EE9 h\u1EA1ng t\u1EEB kh\xF3a v\xE0 b\xE0i vi\u1EBFt \u0111\u01B0\u1EE3c c\u1EA3i thi\u1EC7n r\xF5 r\u1EC7t. D\u1ECBch v\u1EE5 c\u1EADu \u1EA5y cung c\u1EA5p r\u1EA5t thi\u1EBFt th\u1EF1c, \u0111\xE1p \u1EE9ng \u0111\xFAng v\xE0 \u0111\u1EE7 nhu c\u1EA7u c\u1EE7a t\xF4i.",
+      name: "Tr\u1EA7n M\u1EF9 Anh",
+      job: "Content Leader t\u1EA1i Drafticle",
       image: {
-        src: "https://nhavantuonglai.com/image/clients/people-two.jpg",
-        alt: "nhavantuonglai-van-nhan"
+        src: "https://nhavantuonglai.com/image/member/tran-my-anh.jpg",
+        alt: "nhavantuonglai-tran-my-anh"
       }
     },
     {
-      testimonial: "@nhavantuonglai l\xE0 m\u1ED9t tr\u01B0\u1EDDng h\u1EE3p \u0111\u1EB7c bi\u1EC7t, khi v\u1EEBa gi\u1ECFi chuy\xEAn m\xF4n vi\u1EBFt m\xE0 c\xF2n c\xF3 tinh th\u1EA7n h\u1ECDc h\u1ECFi, c\u1EA7u ti\u1EBFn trong ng\xE0nh analysis.",
-      name: "Tr\u1EA7n An",
-      job: "Data Analysis",
+      testimonial: "Website c\u1EE7a t\xF4i \u0111\u01B0\u1EE3c nhavantuonglai thi\u1EBFt k\u1EBF l\u1EA1i tr\xF4ng \u0111\u1EB9p, d\u1EC5 s\u1EED d\u1EE5ng v\xE0 t\u1ED1i \u01B0u tr\u1EA3i nghi\u1EC7m. Chi ph\xED c\u0169ng h\u1EE3p l\xFD, ch\u1EA5t l\u01B0\u1EE3ng v\u01B0\u1EE3t tr\u1ED9i v\u1EDBi th\xE1i \u0111\u1ED9 chuy\xEAn nghi\u1EC7p, t\u1EADn t\xE2m v\xE0 lu\xF4n h\u1ED7 tr\u1EE3 t\xF4i trong su\u1ED1t qu\xE1 tr\xECnh tri\u1EC3n khai v\xE0 v\u1EADn h\xE0nh website.",
+      name: "L\xEA M\u1EF9 Kim",
+      job: "Website Analysis t\u1EA1i Rawfulness",
       image: {
-        src: "https://nhavantuonglai.com/image/clients/people-three.jpg",
-        alt: "nhavantuonglai-tran-an"
+        src: "https://nhavantuonglai.com/image/member/le-my-kim.jpg",
+        alt: "nhavantuonglai-le-my-kim"
       }
     }
   ] })}`;
@@ -467,7 +474,7 @@ const $$Index = createComponent(($$result, $$props, $$slots) => {
     title: "V\u0103n hay trong hi\u1EC7n t\u1EA1i, ch\u1EEF t\u1ED1t \u1EDF t\u01B0\u01A1ng lai | nhavantuonglai",
     ignoreTitleTemplate: true
   };
-  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Hero", $$Hero, {})} ${renderComponent($$result2, "Article", $$Article, {})} ${renderComponent($$result2, "Services", $$Services, {})} ${renderComponent($$result2, "Prices", $$Prices, {})} ${renderComponent($$result2, "Brands", $$Brands, {})} ${renderComponent($$result2, "Testimonials", $$Testimonials, {})} ${renderComponent($$result2, "Aks", $$Asked, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, { "client:load": true, "client:component-hydration": "load", "client:component-path": "~/components/widgets/flowschart.astro", "client:component-export": "default" })} ` })}`;
+  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Hero", $$Hero, {})} ${renderComponent($$result2, "Article", $$Article, {})} ${renderComponent($$result2, "Services", $$Services, {})} ${renderComponent($$result2, "Prices", $$Prices, {})} ${renderComponent($$result2, "Brands", $$Brands, {})} ${renderComponent($$result2, "Testimonials", $$Testimonials, {})} ${renderComponent($$result2, "Aks", $$Asked, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/index.astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/index.astro";

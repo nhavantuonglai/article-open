@@ -1,9 +1,9 @@
-import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_Cx2nMEd_.mjs';
+import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent } from '../../chunks/astro/server_J9QqgmFZ.mjs';
 import 'kleur/colors';
-import { $ as $$Page } from '../../chunks/page_KtSAXQmz.mjs';
+import { $ as $$Page } from '../../chunks/page_DQk_4Keq.mjs';
 import 'clsx';
-import { $ as $$Normalize$2 } from '../../chunks/normalize_BOj06kkl.mjs';
-import { $ as $$Action, a as $$Flowschart } from '../../chunks/flowschart_CXfL3AIE.mjs';
+import { $ as $$Normalize$2 } from '../../chunks/normalize_FQS1NGDS.mjs';
+import { $ as $$Action, a as $$Soundcloud } from '../../chunks/soundcloud_DahVq9O8.mjs';
 export { renderers } from '../../renderers.mjs';
 
 var __freeze = Object.freeze;
@@ -67,7 +67,7 @@ const $$Normalize = createComponent(($$result, $$props, $$slots) => {
     title: "C\xF4ng c\u1EE5 chu\u1EA9n h\xF3a d\u1EEF li\u1EC7u th\xF4 | nhavantuonglai",
     ignoreTitleTemplate: true
   };
-  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Normalize", $$Normalize$1, {})} ${renderComponent($$result2, "Content", $$Normalize$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Flowschart", $$Flowschart, {})} ` })}`;
+  return renderTemplate`${renderComponent($$result, "Layout", $$Page, { "metadata": metadata }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "Normalize", $$Normalize$1, {})} ${renderComponent($$result2, "Content", $$Normalize$2, {})} ${renderComponent($$result2, "Action", $$Action, {})} ${renderComponent($$result2, "Soundcloud", $$Soundcloud, {})} ` })}`;
 }, "D:/OneCode/article-open/src/pages/analytics/normalize.astro", void 0);
 
 const $$file = "D:/OneCode/article-open/src/pages/analytics/normalize.astro";
