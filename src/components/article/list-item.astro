@@ -47,11 +47,27 @@ const truncateDescription = (text, maxWords = 30) => {
 	)}
 
 	<div class="mt-2">
+
 		<header>
+
 			<div class="mb-1">
 				<span class="text-sm">
-					<Icon name="tabler:clock" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400"/>
-					<time datetime={String(post.pubDatetime)} class="inline-block">{getFormattedDate(post.pubDatetime)}</time>
+
+					<p class="inline-block text-lg">
+						<time datetime={post.pubDatetime}>
+							{`${new Date(post.pubDatetime)
+								.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
+								.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
+						</time>
+
+						{post.readingTime && (
+							<>
+								&nbsp;· <span>{post.readingTime}</span> phút đọc.
+							</>
+						)}
+
+					</p>
+
 				</span>
 			</div>
 

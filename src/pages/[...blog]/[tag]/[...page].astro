@@ -11,8 +11,6 @@ import Pagination from '~/components/article/pagination.astro';
 
 import Action from '~/components/content/action.astro';
 
-import Soundcloud from '~/components/javascript/soundcloud.astro';
-
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) =>{
@@ -49,7 +47,5 @@ const metadata = {
 	</section>
 
 	<Action/>
-
-	<Soundcloud/>
 
 </Layout>

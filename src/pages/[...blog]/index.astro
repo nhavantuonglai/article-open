@@ -11,8 +11,6 @@ import Article from '~/components/article/single.astro';
 import Related from '~/components/article/related.astro';
 import Action from '~/components/content/action.astro';
 
-import Soundcloud from '~/components/javascript/soundcloud.astro';
-
 export const prerender = true;
 
 export const getStaticPaths = (async () => {
@@ -51,7 +49,5 @@ const metadata = {
 	<Related post={post}/>
 
 	<Action/>
-
-	<Soundcloud/>
 
 </Layout>

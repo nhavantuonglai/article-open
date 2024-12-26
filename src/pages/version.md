@@ -35,6 +35,8 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 ### Chi tiết cập nhật
 
+2024.12.20: Viết lại toàn bộ mã nguồn, logic và gọn nhẹ, giúp quá trình deployments nhanh hơn.
+
 2024.12.20: Cập nhật cấu trúc Navigation bar.
 
 2024.12.10: Cập nhật tính năng [Integrate AI](https://nhavantuonglai.com/analytics/integrate).
