@@ -114,19 +114,17 @@ const load = async function (): Promise<Array<Post>>{
 
 let _posts: Array<Post>;
 
-export const isBlogEnabled = APP_BLOG.isEnabled;
-export const isRelatedPostsEnabled = APP_BLOG.isRelatedPostsEnabled;
-export const isBlogListRouteEnabled = APP_BLOG.list.isEnabled;
-export const isBlogPostRouteEnabled = APP_BLOG.post.isEnabled;
-export const isBlogCategoryRouteEnabled = APP_BLOG.category.isEnabled;
-export const isBlogTagRouteEnabled = APP_BLOG.tag.isEnabled;
-
-export const blogListRobots = APP_BLOG.list.robots;
-export const blogPostRobots = APP_BLOG.post.robots;
-export const blogCategoryRobots = APP_BLOG.category.robots;
-export const blogTagRobots = APP_BLOG.tag.robots;
-
-export const blogPostsPerPage = APP_BLOG?.postsPerPage;
+export const isBlogEnabled = APP_BLOG?.isEnabled ?? false;
+export const isRelatedPostsEnabled = APP_BLOG?.isRelatedPostsEnabled ?? false;
+export const isBlogListRouteEnabled = APP_BLOG?.list?.isEnabled ?? false;
+export const isBlogPostRouteEnabled = APP_BLOG?.post?.isEnabled ?? false;
+export const isBlogCategoryRouteEnabled = APP_BLOG?.category?.isEnabled ?? false;
+export const isBlogTagRouteEnabled = APP_BLOG?.tag?.isEnabled ?? false;
+export const blogListRobots = APP_BLOG?.list?.robots ?? '';
+export const blogPostRobots = APP_BLOG?.post?.robots ?? '';
+export const blogCategoryRobots = APP_BLOG?.category?.robots ?? '';
+export const blogTagRobots = APP_BLOG?.tag?.robots ?? '';
+export const blogPostsPerPage = APP_BLOG?.postsPerPage ?? 10;
 
 export const fetchPosts = async (): Promise<Array<Post>>=>{
 	if (!_posts) {
