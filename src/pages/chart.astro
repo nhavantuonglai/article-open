@@ -1,0 +1,92 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Hero from '~/components/content/hero.astro';
+
+import Action from '~/components/content/action.astro';
+
+const metadata = {
+  title: 'Real-time Chart | nhavantuonglai.',
+  ignoreTitleTemplate: true,
+  noindex: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Nội dung của trang -->
+
+  <canvas id="realtimechart"></canvas>
+
+  <!-- Thêm mã JavaScript phía client -->
+  <script client:load>
+    const ctx = document.getElementById('realtimechart').getContext('2d');
+
+    // Khởi tạo 50 điểm dữ liệu ngẫu nhiên
+    let dataPoints = Array.from({ length: 50 }, () => Math.floor(Math.random() * (50 - 1 + 1)) + 1);
+
+    // Hàm để tạo ra một đoạn dữ liệu 10 điểm từ 50 điểm ban đầu
+    function getDisplayData() {
+      return dataPoints.slice(0, 10); // Lấy 10 điểm đầu tiên từ dataPoints
+    }
+
+    // Hàm tạo điểm dữ liệu mới theo logic tăng giảm
+    function updateDataPoints() {
+      const lastPoint = dataPoints[dataPoints.length - 1];
+
+      let newPoint;
+      if (lastPoint % 2 === 0) {
+        // Nếu số cuối cùng là chẵn, tăng ngẫu nhiên từ 0 đến 5
+        newPoint = Math.min(lastPoint + Math.floor(Math.random() * 6), 50);
+      } else {
+        // Nếu số cuối cùng là lẻ, giảm ngẫu nhiên từ 0 đến 5
+        newPoint = Math.max(lastPoint - Math.floor(Math.random() * 6), 1);
+      }
+
+      // Cập nhật dữ liệu, thêm điểm mới và loại bỏ điểm cũ nhất
+      dataPoints.push(newPoint);
+      dataPoints.shift(); // Loại bỏ điểm cũ nhất
+    }
+
+    // Khởi tạo biểu đồ
+    const chart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: Array.from({ length: 10 }, (_, i) => i), // Nhãn trục x ban đầu cho 10 điểm
+        datasets: [{
+          data: getDisplayData(),
+          borderColor: 'blue',
+          borderWidth: 2,
+          tension: 0.5, // Làm mềm các cạnh của biểu đồ
+          pointRadius: 0, // Ẩn các điểm dữ liệu
+        }]
+      },
+      options: {
+        responsive: false,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false }, // Ẩn chú thích
+        },
+        scales: {
+          x: { display: false }, // Ẩn trục x
+          y: { display: false }, // Ẩn trục y
+        },
+      }
+    });
+
+    // Hàm cập nhật biểu đồ mỗi giây
+    function updateChart() {
+      updateDataPoints(); // Cập nhật dữ liệu mới theo logic tăng giảm
+      chart.data.datasets[0].data = getDisplayData(); // Cập nhật dữ liệu mới cho biểu đồ
+
+      // Nối điểm cuối cùng với điểm đầu tiên
+      chart.data.datasets[0].data.push(chart.data.datasets[0].data[0]);
+
+      // Cập nhật biểu đồ
+      chart.update();
+    }
+
+    // Cập nhật biểu đồ mỗi giây
+    setInterval(updateChart, 1000);
+  </script>
+
+</Layout>

@@ -1,74 +1,79 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getBlogPermalink } from './utils/permalinks';
 
 export const headerData = {
 
 	links: [
+
 		{
 			text: 'Giới thiệu',
 			href: '/about',
 		},
+
 		{
 			text: 'Bài viết',
 			links: [
 				{
 					text: 'Đọc thêm',
-					href: getPermalink('/article'),
+					href: 'https://nhavantuonglai.com/article',
 				},
 				{
 					text: 'Viết lách',
-					href: getPermalink('/tags/viet-lach'),
+					href: 'https://nhavantuonglai.com/tags/viet-lach',
 				},
 				{
 					text: 'Lập trình',
-					href: getPermalink('/tags/developer'),
+					href: 'https://nhavantuonglai.com/tags/developer',
 				},
 				{
 					text: 'Nghiên cứu',
-					href: getPermalink('/tags/nghien-cuu'),
+					href: 'https://nhavantuonglai.com/tags/nghien-cuu',
 				},
 				{
 					text: 'Văn chương',
-					href: getPermalink('/tags/van-hoc'),
+					href: 'https://nhavantuonglai.com/tags/van-hoc',
 				},
 			],
 		},
+
 		{
 			text: 'Công cụ',
 			links: [
 				{
 					text: 'Trợ lý Chat AI',
-					href: getPermalink('/analytics/integrate'),
+					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
 				{
 					text: 'Đối chiếu văn bản',
-					href: getPermalink('/analytics/compare'),
+					href: 'https://nhavantuonglai.com/analytics/compare',
 				},
 				{
 					text: 'Chuẩn hóa văn bản',
-					href: getPermalink('/analytics/normalize'),
+					href: 'https://nhavantuonglai.com/analytics/normalize',
 				},
 				{
 					text: 'Tần suất văn bản',
-					href: getPermalink('/analytics/count'),
+					href: 'https://nhavantuonglai.com/analytics/count',
 				},
 				{
 					text: 'Chuyển đổi chữ thường',
-					href: getPermalink('/analytics/lower'),
+					href: 'https://nhavantuonglai.com/analytics/lower',
 				},
 				{
 					text: 'Biểu tượng Unicode',
-					href: getPermalink('/analytics/emoji'),
+					href: 'https://nhavantuonglai.com/analytics/emoji',
 				},
 				{
 					text: 'Chuyển đổi Unicode',
-					href: getPermalink('/analytics/unicode'),
+					href: 'https://nhavantuonglai.com/analytics/unicode',
 				},
 			],
 		},
+
 		{
 			text: 'Liên hệ',
-			href: '/contact',
+			href: 'https://nhavantuonglai.com/contact',
 		},
+
 	],
 
 	actions: [{
@@ -79,8 +84,11 @@ export const headerData = {
 };
 
 export const footerData = {
+
 	links: [
+
 		{
+
 			title: 'Công cụ',
 			links: [
 				{
@@ -101,104 +109,120 @@ export const footerData = {
 				},
 			],
 		},
+
 		{
 			title: 'Danh mục',
 			links: [
 				{
 					text: 'Viết lách',
-					href: '/tags/viet-lach'
+					href: 'https://nhavantuonglai.com/tags/viet-lach'
 				},
 				{
 					text: 'Viết thuê',
-					href: '/tags/viet-thue'
+					href: 'https://nhavantuonglai.com/tags/viet-thue'
 				},
 				{
 					text: 'Đoản văn',
-					href: '/tags/doan-van'
+					href: 'https://nhavantuonglai.com/tags/doan-van'
 				},
 				{
 					text: 'Nghiên cứu',
-					href: '/tags/nghien-cuu'
+					href: 'https://nhavantuonglai.com/tags/nghien-cuu'
 				},
 				],
 		},
+
 		{
 			title: 'Chuyên mục',
 			links: [
 				{
 					text: 'Tôn giáo',
-					href: '/tags/ton-giao'
+					href: 'https://nhavantuonglai.com/tags/ton-giao'
 				},
 				{
 					text: 'Triết học',
-					href: '/tags/triet-hoc'
+					href: 'https://nhavantuonglai.com/tags/triet-hoc'
 				},
 				{
 					text: 'Khoa học',
-					href: '/tags/khoa-hoc'
+					href: 'https://nhavantuonglai.com/tags/khoa-hoc'
 				},
 				{
 					text: 'Tâm lý',
-					href: '/tags/tam-ly-hoc'
+					href: 'https://nhavantuonglai.com/tags/tam-ly-hoc'
 				},
 			],
 		},
+
 		{
 			title: 'Chuyên đề',
 			links: [
 				{
 					text: 'Kỹ năng viết lách',
-					href: '/tags/ky-nang-viet'
+					href: 'https://nhavantuonglai.com/tags/ky-nang-viet'
 				},
 				{
 					text: 'Tối ưu website',
-					href: '/tags/website'
+					href: 'https://nhavantuonglai.com/tags/website'
 				},
 				{
 					text: 'Vũ trụ rộng lớn',
-					href: '/tags/vu-tru'
+					href: 'https://nhavantuonglai.com/tags/vu-tru'
 				},
 				{
 					text: 'Kỹ năng thông minh',
-					href: '/tags/ky-nang'
+					href: 'https://nhavantuonglai.com/tags/ky-nang'
 				},
 			],
 		},
+
 	],
+
 	secondaryLinks: [
+
 		{
 			text: 'Điều khoản',
 			href: 'https://nhavantuonglai.com/term'
 		},
+
 		{
 			text: 'Chính sách',
 			href: 'https://nhavantuonglai.com/policy'
 		},
+
 		{
 			text: 'Phiên bản',
 			href: 'https://nhavantuonglai.com/version'
 		},
+
 	],
+
 	socialLinks: [
+
 		{
 			ariaLabel: 'X',
 			icon: 'tabler:brand-x',
 			href: 'http://x.com/nhavantuonglai'
 		},
+
 		{
 			ariaLabel: 'Instagram',
 			icon: 'tabler:brand-instagram',
-			href: 'https://www.instagram.com/nhavantuonglai'
+			href: 'https://instagram.com/nhavantuonglai'
 		},
+
 		{
 			ariaLabel: 'Linkedin',
 			icon: 'tabler:brand-linkedin',
-			href: 'https://www.linkedin.com/in/nguyenchanhdanh'
+			href: 'https://linkedin.com/in/nguyenchanhdanh'
 		},
+
 		{
 			ariaLabel: 'RSS',
 			icon: 'tabler:rss',
-			href: getAsset('/rss.xml')
+			href: 'https://nhavantuonglai.com/rss.xml'
 		},
+
 	],
+
 };
