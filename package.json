@@ -24,6 +24,7 @@
 		"astro": "^4.11.3",
 		"astro-icon": "^1.1.0",
 		"esm": "^3.2.25",
+		"github-calendar": "^2.3.4",
 		"limax": "4.1.0",
 		"lodash.merge": "^4.6.2",
 		"react": "^19.0.0",

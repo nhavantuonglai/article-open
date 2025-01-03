@@ -4,15 +4,14 @@ import Layout from '~/layouts/page.astro';
 import Hero from '~/components/content/hero.astro';
 
 import Services from '~/components/widgets/services.astro';
-import Copywriter from '~/components/content/services/copywriter.astro';
-import SEO from '~/components/content/services/seo.astro';
-import Website from '~/components/content/services/website.astro';
+
 import Marketing from '~/components/content/services/marketing.astro';
 
 import Action from '~/components/content/action.astro';
 
 const metadata = {
-	title: 'Dịch vụ cung cấp',
+	title: 'Dịch vụ tư vấn, triển khai Marketing | nhavantuonglai',
+	ignoreTitleTemplate: true,
 };
 ---
 
@@ -22,13 +21,7 @@ const metadata = {
 
 	<Services title="Dịch vụ cung cấp"/>
 
-		<Copywriter/>
-
-		<SEO/>
-
-		<Website/>
-
-		<Marketing/>
+	<Marketing/>
 
 	<Action/>
 

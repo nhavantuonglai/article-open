@@ -93,19 +93,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Trợ lý Chat AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate'
+					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
 				{
-					text: 'Chuyển đổi Unicode',
-					href: 'https://nhavantuonglai.com/analytics/unicode'
+					text: 'Đối chiếu văn bản',
+					href: 'https://nhavantuonglai.com/analytics/compare',
 				},
 				{
-					text: 'Biểu tượng Unicode',
-					href: 'https://nhavantuonglai.com/analytics/emoji'
+					text: 'Chuẩn hóa văn bản',
+					href: 'https://nhavantuonglai.com/analytics/normalize',
 				},
 				{
 					text: 'Tần suất văn bản',
-					href: 'https://nhavantuonglai.com/analytics/count'
+					href: 'https://nhavantuonglai.com/analytics/count',
 				},
 			],
 		},
@@ -202,7 +202,7 @@ export const footerData = {
 		{
 			ariaLabel: 'X',
 			icon: 'tabler:brand-x',
-			href: 'http://x.com/nhavantuonglai'
+			href: 'https://x.com/nhavantuonglai'
 		},
 
 		{

@@ -4,7 +4,12 @@ import Layout from '~/layouts/page.astro';
 import Hero from '~/components/content/hero.astro';
 import Article from '~/components/content/article.astro';
 
-import Services from '~/components/content/services.astro';
+import Services from '~/components/widgets/services.astro';
+import Copywriter from '~/components/content/services/copywriter.astro';
+import SEO from '~/components/content/services/seo.astro';
+import Website from '~/components/content/services/website.astro';
+import Marketing from '~/components/content/services/marketing.astro';
+
 import Prices from '~/components/content/prices.astro';
 
 
@@ -27,7 +32,15 @@ const metadata = {
 
 	<Article/>
 
-	<Services/>
+	<Services title="Dịch vụ cung cấp"/>
+
+		<Copywriter/>
+
+		<SEO/>
+
+		<Website/>
+
+		<Marketing/>
 
 	<Prices/>
 
