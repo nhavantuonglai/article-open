@@ -1,14 +1,13 @@
 ---
 import { UI } from 'nhavantuonglai:config';
 
-import '@fontsource-variable/inter';
-
 const { tokens } = UI;
 
 const html = `
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 	<style>
 		:root {
-			--aw-font-sans: ${tokens.default.fonts.sans ? `'${tokens.default.fonts.sans}'` : '""'};
+			--aw-font-sans: 'Inter', ${tokens.default.fonts.sans ? `'${tokens.default.fonts.sans}'` : '""'};
 			--aw-font-serif: ${tokens.default.fonts.serif ? `'${tokens.default.fonts.serif}'` : 'var(--aw-font-sans)'};
 			--aw-font-heading: ${tokens.default.fonts.heading ? `'${tokens.default.fonts.heading}'` : 'var(--aw-font-sans)'};
 
@@ -29,8 +28,8 @@ const html = `
 		}
 
 		.dark {
-			${tokens.dark.fonts.sans ? `--aw-font-sans: '${tokens.dark.fonts.sans}';` : ''}
-			${tokens.dark.fonts.serif ? `--aw-font-serif: '${tokens.dark.fonts.serif};'` : ''}
+			${tokens.dark.fonts.sans ? `--aw-font-sans: 'Inter', '${tokens.dark.fonts.sans}';` : ''}
+			${tokens.dark.fonts.serif ? `--aw-font-serif: '${tokens.dark.fonts.serif}';` : ''}
 			${tokens.dark.fonts.heading ? `--aw-font-heading: '${tokens.dark.fonts.heading}';` : ''}
 
 			--aw-color-primary: ${tokens.dark.colors.primary};
