@@ -1,26 +1,24 @@
 ---
 import { UI } from 'nhavantuonglai:config';
 
-const { tokens } = UI;
-
 const html = `
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+CO+Guides&display=swap" rel="stylesheet">
 	<style>
 		:root {
-			--aw-font-sans: 'Inter', ${tokens.default.fonts.sans ? `'${tokens.default.fonts.sans}'` : '""'};
-			--aw-font-serif: ${tokens.default.fonts.serif ? `'${tokens.default.fonts.serif}'` : 'var(--aw-font-sans)'};
-			--aw-font-heading: ${tokens.default.fonts.heading ? `'${tokens.default.fonts.heading}'` : 'var(--aw-font-sans)'};
+			--aw-font-sans: 'Montserrat';
+			--aw-font-serif: 'Montserrat';
+			--aw-font-heading: 'Montserrat';
 
-			--aw-color-primary: ${tokens.default.colors.primary};
-			--aw-color-secondary: ${tokens.default.colors.secondary};
-			--aw-color-accent: ${tokens.default.colors.accent};
+			--aw-color-primary: ${UI.tokens.default.colors.primary};
+			--aw-color-secondary: ${UI.tokens.default.colors.secondary};
+			--aw-color-accent: ${UI.tokens.default.colors.accent};
 
-			--aw-color-text-heading: ${tokens.default.colors.heading};
-			--aw-color-text-default: ${tokens.default.colors.default};
-			--aw-color-text-muted: ${tokens.default.colors.muted};
-			--aw-color-bg-page: ${tokens.default.colors.bgPage};
+			--aw-color-text-heading: ${UI.tokens.default.colors.heading};
+			--aw-color-text-default: ${UI.tokens.default.colors.default};
+			--aw-color-text-muted: ${UI.tokens.default.colors.muted};
+			--aw-color-bg-page: ${UI.tokens.default.colors.bgPage};
 
-			--aw-color-bg-page-dark: ${tokens.dark.colors.bgPage};
+			--aw-color-bg-page-dark: ${UI.tokens.dark.colors.bgPage};
 
 			::selection {
 				background-color: lavender;
@@ -28,18 +26,18 @@ const html = `
 		}
 
 		.dark {
-			${tokens.dark.fonts.sans ? `--aw-font-sans: 'Inter', '${tokens.dark.fonts.sans}';` : ''}
-			${tokens.dark.fonts.serif ? `--aw-font-serif: '${tokens.dark.fonts.serif}';` : ''}
-			${tokens.dark.fonts.heading ? `--aw-font-heading: '${tokens.dark.fonts.heading}';` : ''}
+			--aw-font-sans: 'Montserrat';
+			--aw-font-serif: 'Montserrat';
+			--aw-font-heading: 'Montserrat';
 
-			--aw-color-primary: ${tokens.dark.colors.primary};
-			--aw-color-secondary: ${tokens.dark.colors.secondary};
-			--aw-color-accent: ${tokens.dark.colors.accent};
+			--aw-color-primary: ${UI.tokens.dark.colors.primary};
+			--aw-color-secondary: ${UI.tokens.dark.colors.secondary};
+			--aw-color-accent: ${UI.tokens.dark.colors.accent};
 
-			--aw-color-text-heading: ${tokens.dark.colors.heading};
-			--aw-color-text-default: ${tokens.dark.colors.default};
-			--aw-color-text-muted: ${tokens.dark.colors.muted};
-			--aw-color-bg-page: ${tokens.dark.colors.bgPage};
+			--aw-color-text-heading: ${UI.tokens.dark.colors.heading};
+			--aw-color-text-default: ${UI.tokens.dark.colors.default};
+			--aw-color-text-muted: ${UI.tokens.dark.colors.muted};
+			--aw-color-bg-page: ${UI.tokens.dark.colors.bgPage};
 
 			::selection {
 				background-color: black;
