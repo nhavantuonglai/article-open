@@ -35,7 +35,13 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 ### Chi tiết cập nhật
 
-2024.12.20: Viết lại toàn bộ mã nguồn, logic và gọn nhẹ, giúp quá trình deployments nhanh hơn.
+2025.01.06: Cập nhật bố cục trình bày trong mục _Article._
+
+2024.12.31: Cập nhật font chữ, chuyển sang Montserrat.
+
+2024.12.28: Cập nhật mã nguồn, giảm sự lệ thuộc vào thuộc tính Astro.
+
+2024.12.20: Cập nhật mã nguồn, tăng hiệu quả đọc và hiểu code.
 
 2024.12.20: Cập nhật cấu trúc Navigation bar.
 
@@ -47,7 +53,7 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 2024.11.11: Cập nhật bộ [biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
 
-2024.10.28: Cập nhật thuộc tính _index_ cho các trang phụ trong mục _Article_.
+2024.10.28: Cập nhật thuộc tính _index_ cho các trang phụ trong mục _Article._
 
 2024.10.26: Kích hoạt tính năng [tự động mở trang mới](https://nhavantuonglai.com/article/tu-dong-mo-trang).
 

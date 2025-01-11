@@ -35,7 +35,7 @@ const { Content } = post;
 				{post.description}
 			</p>
 
-			<div class="text-xl md:text-2xl text-muted dark:text-slate-400 flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+			<div class="text-xl md:text-2xl text-muted dark:text-slate-400 flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mb-2 px-4 sm:px-6 sm:items-center">
 
 				<p>
 					<time datetime={post.pubDatetime} class="inline-block">
@@ -90,7 +90,7 @@ const { Content } = post;
 
 		<Anticopy/>
 
-		<div class="sm:px-6 max-w-3xl px-6 text-justify mx-auto prose prose-xl md:text-2xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]">
+		<div class="sm:px-6 max-w-3xl px-6 text-xl md:text-2xl text-justify mx-auto prose prose-xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4">
 			{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
 		</div>
 
