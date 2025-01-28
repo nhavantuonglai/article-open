@@ -1,0 +1,44 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+
+		<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+				<div id="time-output" class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading dark:text-gray-200">
+						<p id="time-text"></p>
+				</div>
+
+		</div>
+
+		<script client:load>
+				document.addEventListener("DOMContentLoaded", function () {
+						const timeText = document.getElementById('time-text');
+
+						function updateTime() {
+								const now = new Date();
+
+								const localTimeOffset = now.getTimezoneOffset() * 60000;
+								const gmt7Time = new Date(now.getTime() + localTimeOffset + 7 * 3600000);
+
+								const hours = gmt7Time.getHours();
+								const minutes = gmt7Time.getMinutes();
+								const seconds = gmt7Time.getSeconds();
+
+								const formattedTime = `Bây giờ là: ${hours} giờ ${minutes} phút ${seconds} giây`;
+
+								timeText.innerText = formattedTime;
+						}
+
+						updateTime();
+						setInterval(updateTime, 1000);
+				});
+		</script>
+
+	</div>
+
+</section>

@@ -4,16 +4,11 @@ import CTA from '~/components/widgets/services.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
-
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-	<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-	<h1 class="mx-auto max-w-7xl md:px-6 leading-tighter text-center text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading">
-		Trợ lý AI Google tích hợp Gemini API
-	</h1>
 
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
 
-		<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+		<textarea id="input" placeholder="Nhập câu hỏi của bạn…" class="w-full mb-6 text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900" required style="height: 150px;"></textarea>
 
 		<button id="convert-btn" class="btn-primary w-auto mb-6">Gửi yêu cầu</button>
 

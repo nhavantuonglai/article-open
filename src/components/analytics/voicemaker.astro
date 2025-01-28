@@ -1,0 +1,79 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+
+	<div class="mx-auto max-w-7xl md:px-6 px-4">
+		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
+			<h2 class="font-bold text-lg mb-6">Nhập văn bản</h2>
+			<textarea id="input" placeholder="Nhập nội dung cần chuyển thành giọng nói tại đây." class="w-full mb-6 text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900" required style="resize: none; height: 300px;"></textarea>
+			<input type="text" id="apiKey" placeholder="Nhập API để chuyển đổi." class="block w-full text-black bg-white rounded p-2 mb-6" />
+			<button id="convertBtn" class="btn-primary w-auto mb-6">Chuyển đổi</button>
+		</div>
+
+		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
+			<h2 class="font-bold text-lg mb-6">Nhận giọng nói</h2>
+			<div id="outputArea" class="overflow-y-auto h-[calc(407px-80px)] p-2 rounded text-justify mb-6 text-lg"></div>
+			<div id="audioPlayerContainer" class="mb-6 hidden">
+				<audio id="audioPlayer" controls class="w-full">
+					Your browser does not support the audio element.
+				</audio>
+			</div>
+			<a id="downloadLink" href="#" class="hidden btn-primary w-auto mb-6">Tải file</a>
+		</div>
+	</div>
+
+	<script>
+		document.getElementById("convertBtn").addEventListener("click", async () => {
+			const apiKey = document.getElementById('apiKey').value;
+			const inputText = document.getElementById("input").value;
+			const outputArea = document.getElementById("outputArea");
+			const audioPlayerContainer = document.getElementById("audioPlayerContainer");
+			const audioPlayer = document.getElementById("audioPlayer");
+
+			outputArea.innerHTML = '';
+			audioPlayerContainer.classList.add("hidden");
+
+			if (!apiKey) {
+				addOutputMessage("Vui lòng sử dụng API miễn phí: xxx.", outputArea);
+				return;
+			}
+
+			if (!inputText.trim()) {
+				addOutputMessage("Vui lòng nhập văn bản.", outputArea);
+				return;
+			}
+
+			addOutputMessage("Đang chuyển đổi…", outputArea);
+
+			const response = await fetch("/api/convert-text-to-speech", {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify({ text: inputText, apiKey }),
+			});
+
+			const data = await response.json();
+
+			if (data.audioUrl) {
+				audioPlayer.src = data.audioUrl;
+				audioPlayerContainer.classList.remove("hidden");
+				addOutputMessage("Chuyển đổi thành công.", outputArea);
+				document.getElementById('downloadLink').href = data.audioUrl;
+				document.getElementById('downloadLink').classList.remove("hidden");
+			} else {
+				addOutputMessage("Công cụ đang bảo trì.", outputArea);
+			}
+		});
+
+		function addOutputMessage(message, outputArea) {
+			const messageElement = document.createElement("p");
+			messageElement.textContent = message;
+			outputArea.appendChild(messageElement);
+		}
+	</script>
+
+</section>

@@ -1,0 +1,123 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="mx-auto max-w-7xl md:px-6 px-4">
+		<!-- File Upload Section -->
+		<div class="bg-white text-black p-4 rounded-lg mb-6">
+			<h2 class="font-bold text-lg mb-6">Tải lên tệp ảnh</h2>
+			<div id="customDropzone" class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50 mb-6" style="resize: none; height: 150px;">
+				<p class="text-gray-500">
+					<button id="fileUploadButton" class="mb-6 text-lg font-medium leading-6 rtl:mr-2">Chọn tệp.</button>
+				</p>
+				<input type="file" id="fileInput" class="hidden" accept="image/*,.pdf,.png,.jpg" />
+			</div>
+			<button id="ocrBtn" class="btn-primary w-auto mb-6">Nhận dạng văn bản</button>
+		</div>
+		<!-- Output Section with Progress Bar -->
+		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
+			<h2 class="font-bold text-lg mb-6">Văn bản quét được</h2>
+			<pre id="ocrOutput" class="text-justify mb-6 text-lg dark:text-slate-400"></pre>
+			<div class="w-full bg-gray-200 rounded h-2 mb-6">
+				<div id="progressBar" class="h-2 bg-primary rounded" style="width: 0%;"></div>
+			</div>
+			<a id="downloadLink" href="#" class="hidden btn-primary w-auto mb-6">Tải tệp</a>
+		</div>
+	</div>
+
+	<script>
+		const dropzone = document.getElementById("customDropzone");
+		const fileInput = document.getElementById("fileInput");
+		const uploadButton = document.getElementById("fileUploadButton");
+		const ocrBtn = document.getElementById("ocrBtn");
+		const ocrOutput = document.getElementById("ocrOutput");
+		const progressBar = document.getElementById("progressBar");
+		const downloadLink = document.getElementById("downloadLink");
+
+		dropzone.addEventListener("dragover", (e) => {
+			e.preventDefault();
+			dropzone.classList.add("bg-blue-100");
+		});
+
+		dropzone.addEventListener("dragleave", () => {
+			dropzone.classList.remove("bg-blue-100");
+		});
+
+		dropzone.addEventListener("drop", (e) => {
+			e.preventDefault();
+			dropzone.classList.remove("bg-blue-100");
+			const file = e.dataTransfer.files[0];
+			handleFile(file);
+		});
+
+		uploadButton.addEventListener("click", () => {
+			fileInput.click();
+		});
+
+		fileInput.addEventListener("change", () => {
+			const file = fileInput.files[0];
+			handleFile(file);
+		});
+
+		function handleFile(file) {
+			ocrOutput.textContent = "";
+			if (!file) {
+				ocrOutput.textContent = "Vui lòng chọn tệp.";
+				return;
+			}
+
+			const validExtensions = ["image", "pdf"];
+			const fileType = file.type.split("/")[0];
+
+			if (!validExtensions.includes(fileType)) {
+				ocrOutput.textContent = "Vui lòng chọn tệp hình ảnh hoặc PDF.";
+				return;
+			}
+
+			ocrOutput.textContent = "Đang xử lý tệp…";
+			progressBar.style.width = "0%";
+		}
+
+		ocrBtn.addEventListener("click", async () => {
+			const file = fileInput.files[0];
+
+			if (!file) {
+				ocrOutput.textContent = "Vui lòng chọn tệp hình ảnh hoặc PDF.";
+				return;
+			}
+
+			const formData = new FormData();
+			formData.append("file", file);
+
+			ocrOutput.textContent = "Đang xử lý…";
+			progressBar.style.width = "50%";
+
+			try {
+				const response = await fetch("/api/ocr", {
+					method: "POST",
+					body: formData,
+				});
+
+				if (!response.ok) {
+					throw new Error("Không thể thực hiện OCR. Vui lòng thử lại sau.");
+				}
+
+				const data = await response.json();
+				ocrOutput.textContent = data.text || "Không tìm thấy văn bản trong tệp đã tải lên.";
+				progressBar.style.width = "100%";
+
+				if (data.downloadUrl) {
+					downloadLink.href = data.downloadUrl;
+					downloadLink.textContent = "Tải tệp đã xử lý";
+					downloadLink.style.display = "block";
+				}
+			} catch (error) {
+				console.error(error);
+				ocrOutput.textContent = `Đã xảy ra lỗi trong quá trình nhận dạng văn bản:\n${error.message}`;
+				progressBar.style.width = "0%";
+			}
+		});
+	</script>
+</section>
