@@ -1,0 +1,80 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+
+		<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+			<div id="time-output" class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading dark:text-gray-200">
+					<p id="time-text"></p>
+			</div>
+
+		</div>
+
+		<script client:load>
+			document.addEventListener("DOMContentLoaded", function () {
+				const timeText = document.getElementById('time-text');
+
+				function updateCountdown() {
+					const now = new Date();
+					const targetDate = new Date(2025, 0, 29, 0, 0, 0);
+
+					const timeDifference = targetDate - now;
+
+					if (timeDifference <= 0) {
+						timeText.innerText = "Chúc mừng năm mới!";
+						return;
+					}
+
+					const seconds = Math.floor((timeDifference / 1000) % 60);
+					const minutes = Math.floor((timeDifference / (1000 * 60)) % 60);
+					const hours = Math.floor((timeDifference / (1000 * 60 * 60)) % 24);
+					let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+					let months = 0;
+					let years = 0;
+
+					if (days > 30) {
+						months = Math.floor(days / 30);
+						days %= 30;
+					}
+					if (months > 12) {
+						years = Math.floor(months / 12);
+						months %= 12;
+					}
+
+					let countdownText = "Còn ";
+
+					if (years > 0) {
+						countdownText += `${years} năm `;
+					}
+
+					if (months > 0) {
+						countdownText += `${months} tháng `;
+					}
+
+					if (days > 0) {
+						countdownText += `${days} ngày `;
+					}
+
+					countdownText += `${hours} giờ ${minutes} phút ${seconds} giây nữa là giao thừa Ất Tỵ 2025.`;
+
+					if (years <= 0 && months <= 0 && days <= 0 && hours <= 0 && minutes <= 0 && seconds <= 0) {
+						timeText.style.display = 'none';
+					} else {
+						timeText.style.display = 'block';
+						timeText.innerText = countdownText;
+					}
+				}
+
+				updateCountdown();
+				setInterval(updateCountdown, 1000);
+			});
+		</script>
+
+	</div>
+
+</section>

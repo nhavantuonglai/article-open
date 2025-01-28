@@ -43,28 +43,24 @@ export const headerData = {
 					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
 				{
-					text: 'Đối chiếu văn bản',
-					href: 'https://nhavantuonglai.com/analytics/compare',
+					text: 'Dịch phụ đề AI',
+					href: 'https://nhavantuonglai.com/analytics/subtitle',
 				},
 				{
-					text: 'Chuẩn hóa văn bản',
-					href: 'https://nhavantuonglai.com/analytics/normalize',
+					text: 'Quét chữ trong ảnh',
+					href: 'https://nhavantuonglai.com/analytics/ocr',
 				},
 				{
-					text: 'Tần suất văn bản',
-					href: 'https://nhavantuonglai.com/analytics/count',
+					text: 'Radio trực tuyến',
+					href: 'https://nhavantuonglai.com/analytics/radio',
 				},
 				{
-					text: 'Chuyển đổi chữ thường',
-					href: 'https://nhavantuonglai.com/analytics/lower',
+					text: 'Kiểm tra phạt nguội',
+					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
 				},
 				{
-					text: 'Biểu tượng Unicode',
-					href: 'https://nhavantuonglai.com/analytics/emoji',
-				},
-				{
-					text: 'Chuyển đổi Unicode',
-					href: 'https://nhavantuonglai.com/analytics/unicode',
+					text: 'Từ điển tiếng Anh',
+					href: 'https://nhavantuonglai.com/analytics/dictionary',
 				},
 			],
 		},
@@ -96,16 +92,16 @@ export const footerData = {
 					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
 				{
-					text: 'Đối chiếu văn bản',
-					href: 'https://nhavantuonglai.com/analytics/compare',
+					text: 'Từ điển tiếng Anh',
+					href: 'https://nhavantuonglai.com/analytics/dictionary',
 				},
 				{
-					text: 'Chuẩn hóa văn bản',
-					href: 'https://nhavantuonglai.com/analytics/normalize',
+					text: 'Radio trực tuyến',
+					href: 'https://nhavantuonglai.com/analytics/radio',
 				},
 				{
-					text: 'Tần suất văn bản',
-					href: 'https://nhavantuonglai.com/analytics/count',
+					text: 'Kiểm tra phạt nguội',
+					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
 				},
 			],
 		},
@@ -129,7 +125,7 @@ export const footerData = {
 					text: 'Nghiên cứu',
 					href: 'https://nhavantuonglai.com/tags/nghien-cuu'
 				},
-				],
+			],
 		},
 
 		{

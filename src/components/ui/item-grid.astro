@@ -20,7 +20,7 @@ const {
 	items && (
 		<div
 			class={twMerge(
-				`grid mx-auto gap-8 md:gap-y-12 ${
+				`grid mx-auto ${
 					columns === 4
 						? 'lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2'
 						: columns === 3
@@ -44,15 +44,15 @@ const {
 							)}
 						</div>
 						<div class="mt-0.5">
-							{title && <h4 class={twMerge('text-xl font-bold', titleClass, itemClasses?.title)}>{title}</h4>}
+							{title && <h4 class={twMerge('mb-6 text-xl font-bold', titleClass, itemClasses?.title)}>{title}</h4>}
 							{description && (
 								<p
-									class={twMerge(`${title ? 'mt-3' : ''} text-muted`, descriptionClass, itemClasses?.description)}
+									class={twMerge(`${title ? 'mt-6' : ''} text-muted`, descriptionClass, itemClasses?.description)}
 									set:html={description}
 								/>
 							)}
 							{callToAction && (
-								<div class={twMerge(`${title || description ? 'mt-3' : ''}`, actionClass, itemClasses?.actionClass)}>
+								<div class={twMerge(`${title || description ? 'mt-6' : ''}`, actionClass, itemClasses?.actionClass)}>
 									<Button variant="link" {...callToAction}/>
 								</div>
 							)}

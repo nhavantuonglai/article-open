@@ -1,9 +1,26 @@
 ---
+import Hero from '~/components/widgets/hero.astro';
+import Count from '~/components/analytics/count.astro';
+
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
 import Question from '~/components/widgets/question.astro';
-
 ---
+
+<Hero
+
+	title="Công cụ đếm tần suất văn bản"
+	subtitle="Công cụ đếm tần suất văn bản giúp làm sạch và lọc văn bản, đảm bảo dữ liệu trở nên dễ sử dụng, tối ưu hóa hiệu quả công việc và phân tích."
+
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-073.jpg',
+		alt: 'nhavantuonglai-cover',
+
+	}}
+
+/>
+
+<Count/>
 
 <section class="relative md:-mt-[76px] not-prose">
 
@@ -23,7 +40,7 @@ import Question from '~/components/widgets/question.astro';
 						{
 						title: 'Thống kê, tổng hợp dữ liệu',
 						description:
-							'Giúp phân tích tần suất xuất hiện giá trị giúp phân tích số liệu lớn một cách nhanh chóng và chính xác.',
+							'Giúp phân tích tần suất xuất hiện giá trị giúp phân tích số liệu lớn nhanh chóng và chính xác.',
 						},
 						{
 						title: 'Hỗ trợ giải mật mã thay thế',
@@ -33,17 +50,157 @@ import Question from '~/components/widgets/question.astro';
 					]}
 
 					image={{
-						src: 'https://banmaixanh.org/image/cover/001-319.jpg',
+						src: 'https://banmaixanh.org/image/cover/001-629.jpg',
 						alt: 'nhan-tin-instagram',
 					}}
 				>
 
 					<Fragment slot="content">
-						Bạn muốn biết từ hoặc cụm từ nào xuất hiện nhiều nhất trong văn bản? Công cụ đếm tần suất văn bản là trợ thủ đắc lực giúp bạn xác định số lần xuất hiện của bất kỳ giá trị nào.
+						Bạn muốn biết từ hoặc cụm từ nào xuất hiện nhiều nhất trong văn bản? công cụ đếm tần suất văn bản là trợ thủ đắc lực giúp bạn xác định số lần xuất hiện của bất kỳ giá trị nào.
 					</Fragment>
 
 				</CTA>
 		</div>
+</section>
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					title="Giới thiệu về công cụ đếm tần suất văn bản"
+
+					isReversed
+
+					items={[
+						{
+						title: 'Công cụ đếm tần suất văn bản là gì?',
+						description:
+							'Công cụ đếm tần suất văn bản là giải pháp kỹ thuật số, giúp người dùng nhanh chóng xác định số lần xuất hiện của từ hoặc cụm từ trong văn bản bất kỳ. Bằng cách sử dụng công cụ này, người dùng không chỉ dễ dàng tìm ra các yếu tố quan trọng mà còn phát hiện các từ khóa chính trong nội dung. Với sự phát triển của công nghệ, các công cụ đếm tần suất văn bản ngày càng được cải tiến, cho phép xử lý dữ liệu lớn, hỗ trợ phân tích chi tiết và trực quan hơn.',
+						},
+						{
+						title: 'Tại sao cần đến công cụ đếm tần suất văn bản?',
+						description:
+							'Trong nhiều lĩnh vực, việc phân tích văn bản để tìm ra tần suất từ ngữ đóng vai trò quan trọng. Từ tiếp thị nội dung, nghiên cứu ngôn ngữ, đến quản lý dữ liệu, công cụ đếm tần suất văn bản giúp tối ưu hóa quy trình làm việc, tiết kiệm thời gian và nâng cao độ chính xác. Đặc biệt, với các tài liệu dài hoặc dữ liệu phức tạp, việc đếm tần suất thủ công không chỉ mất thời gian mà còn dễ dẫn đến sai sót.',
+						},
+					]}
+
+					image={{
+						src: 'https://banmaixanh.org/image/cover/001-650.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+				</CTA>
+		</div>
+
+</section>
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					title="Tính năng nổi bật của công cụ đếm tần suất văn bản"
+
+					items={[
+						{
+						title: 'Đếm văn bản chính xác và nhanh chóng',
+						description:
+							'Công cụ đếm tần suất văn bản sở hữu khả năng xử lý dữ liệu vượt trội: (1) Xác định tần suất từ ngữ: Dễ dàng xác định từ hoặc cụm từ nào xuất hiện nhiều nhất trong văn bản. (2) Phân tích nhanh chóng: Chỉ cần nhập văn bản, công cụ sẽ trả về kết quả tức thì, giúp tiết kiệm thời gian. (3) Hỗ trợ đa ngôn ngữ: Không chỉ giới hạn ở tiếng Anh, nhiều công cụ còn hỗ trợ tiếng Việt và các ngôn ngữ khác, phục vụ nhu cầu phân tích toàn cầu.',
+						},
+						{
+						title: 'Phân tích nâng cao',
+						description:
+							'Ngoài việc đếm tần suất, công cụ còn tích hợp các tính năng phân tích sâu: (1) Thống kê theo nhóm từ: công cụ có thể nhận diện và phân tích các cụm từ 2 - 3 từ, giúp phát hiện các xu hướng nội dung. (2) Biểu đồ trực quan: Tạo ra các biểu đồ tần suất từ ngữ, giúp người dùng dễ dàng hiểu và trình bày kết quả.',
+						},
+					]}
+
+					image={{
+						src: 'https://banmaixanh.org/image/cover/001-685.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+				</CTA>
+		</div>
+
+</section>
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					title="Lợi ích và ứng dụng thực tế của công cụ đếm tần suất văn bản"
+
+					isReversed
+
+					items={[
+						{
+						title: 'Lợi ích của công cụ đếm tần suất văn bản',
+						description:
+							'Công cụ này mang lại nhiều lợi ích thiết thực: (1) Phân tích nội dung hiệu quả: Xác định các từ khóa chính hoặc cụm từ được sử dụng nhiều nhất, hỗ trợ tối ưu hóa nội dung bài viết hoặc chiến dịch marketing. (2) Tăng độ chính xác: Giảm thiểu sai sót so với việc đếm thủ công, đặc biệt với các tài liệu dài hoặc phức tạp. (3) Tiết kiệm thời gian: Kết quả phân tích được trả về chỉ trong vài giây, giúp người dùng tập trung vào các tác vụ quan trọng khác.',
+						},
+						{
+						title: 'Ứng dụng công cụ đếm tần suất văn bản trong các lĩnh vực',
+						description:
+							'(1) Tiếp thị nội dung: Phân tích các từ khóa chính trong bài viết hoặc chiến dịch quảng cáo để đảm bảo nội dung phù hợp với xu hướng tìm kiếm. (2) Nghiên cứu ngôn ngữ: Hỗ trợ nghiên cứu tần suất từ ngữ trong các ngôn ngữ khác nhau, phục vụ mục đích học thuật. (3) Phân tích dữ liệu doanh nghiệp: Tìm kiếm các cụm từ quan trọng trong tài liệu khách hàng hoặc báo cáo nội bộ, giúp đưa ra quyết định chiến lược.',
+						},
+					]}
+
+					image={{
+						src: 'https://banmaixanh.org/image/cover/001-695.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+				</CTA>
+		</div>
+
+</section>
+
+<section class="relative md:-mt-[76px] not-prose">
+
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+
+				<CTA
+
+					title="Đánh giá trải nghiệm công cụ đếm tần suất văn bản"
+
+					items={[
+						{
+						title: 'Giao diện thân thiện và dễ sử dụng',
+						description:
+							'Hầu hết các công cụ đếm tần suất văn bản hiện nay đều được thiết kế với giao diện thân thiện, dễ dàng tiếp cận cho cả người mới bắt đầu. Chỉ cần nhập văn bản và nhấn nút phân tích, người dùng sẽ nhanh chóng nhận được kết quả chi tiết. Công cụ đếm tần suất văn bản không chỉ nhanh mà còn đảm bảo độ chính xác cao. Người dùng có thể tin tưởng vào kết quả phân tích để đưa ra các quyết định chiến lược hoặc cải thiện nội dung.',
+						},
+						{
+						title: 'Phù hợp với nhiều đối tượng người dùng',
+						description:
+							'Từ các nhà tiếp thị, nhà nghiên cứu đến học sinh sinh viên, công cụ đếm tần suất văn bản đáp ứng mọi nhu cầu khác nhau. Với tính năng đa dạng và dễ sử dụng, công cụ này đã trở thành lựa chọn hàng đầu trong việc xử lý và phân tích văn bản.',
+						},
+					]}
+
+					image={{
+						src: 'https://banmaixanh.org/image/cover/001-699.jpg',
+						alt: 'nhan-tin-instagram',
+					}}
+				>
+
+				</CTA>
+		</div>
+
 </section>
 
 <Question

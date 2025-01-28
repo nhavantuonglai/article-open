@@ -47,12 +47,12 @@ const {
 
 							<div class="px-2 py-0">
 								{/* Title and Subtitle */}
-								{title && <h3 class="text-center text-xl font-semibold uppercase leading-6 tracking-wider mb-2">{title}</h3>}
+								{title && <h3 class="text-center text-xl font-semibold uppercase leading-6 tracking-wider mb-6">{title}</h3>}
 								{subtitle && <p class="font-light sm:text-lg text-gray-600 dark:text-slate-400">{subtitle}</p>}
 								
 								{/* Price and Period */}
 								<div class="my-8">
-									<div class="flex items-center justify-center text-center mb-1">
+									<div class="flex items-center justify-center text-center mb-6">
 										<span class="text-4xl font-extrabold">{price}</span>
 										<span class="text-4xl">000 đ</span>
 									</div>
@@ -63,8 +63,8 @@ const {
 								{items && items.length > 0 && (
 									<ul role="list" class="my-8 md:my-10 space-y-2 text-left">
 										{items.map(({ description, icon }, index) => description && (
-											<li key={index} class="mb-1.5 flex items-start space-x-3 leading-7">
-												<div class="rounded-full bg-primary mt-1">
+											<li key={index} class="mb-6.5 flex items-start space-x-3 leading-7">
+												<div class="rounded-full bg-primary mt-6">
 													<Icon name={icon || 'tabler:check'} class="w-5 h-5 font-bold p-1 text-white"/>
 												</div>
 												<span>{description}</span>

@@ -38,7 +38,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
 
 			<div class="col-span-12 lg:col-span-4">
-				<div class="text-sm text-muted mb-4">
+				<div class="text-sm text-muted mb-6">
 					{secondaryLinks.map(({ text, href }) => (
 						text && href && (
 							<a
@@ -79,7 +79,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 
 		<div class="md:flex md:items-center md:justify-between py-6 md:py-8">
 			{socialLinks.length > 0 && (
-				<ul class="flex mb-4 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
+				<ul class="flex mb-6 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
 					{socialLinks.map(({ ariaLabel, href, text, icon }) => (
 						<li key={href}>
 							<a

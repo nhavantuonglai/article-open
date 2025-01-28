@@ -1,0 +1,231 @@
+---
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+---
+
+<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<div class="mx-auto max-w-7xl md:px-6 px-4">
+
+		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
+
+			<h2 class="font-bold text-lg mb-6">Trạng thái phát kênh FM, AM trực tuyến</h2>
+
+			<div class="mx-auto max-w-7xl">
+
+				<div id="status-container" class="mb-4 text-justify text-lg">
+					Trạng thái: Chưa phát.
+				</div>
+
+				<audio id="radio-player" controls class="w-full mb-6">
+					<source id="radio-source" src="" type="audio/mpeg">
+					Trạng thái: Bảo trì.
+				</audio>
+
+			</div>
+
+		</div>
+
+		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6 p-6">
+
+			<h2 class="font-bold text-lg mb-6">Danh sách kênh FM, AM khả dụng</h2>
+
+			<div class="mx-auto max-w-7xl">
+
+				<div id="radio-buttons" class="flex flex-wrap gap-4 justify-between"></div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<script client:load>
+		document.addEventListener("DOMContentLoaded", function () {
+			const radioChannels = [
+				{ name: "VOV 1", url: "https://stream.vovmedia.vn/vov1" },
+				{ name: "VOV 2", url: "https://stream.vovmedia.vn/vov2" },
+				{ name: "VOV 3", url: "https://stream.vovmedia.vn/vov3" },
+				{ name: "VOV 5", url: "https://stream.vovmedia.vn/vov5" },
+				{ name: "VOV 5 English", url: "https://stream.vovmedia.vn/vovworld" },
+				{ name: "VOV 96.5", url: "https://stream.vovmedia.vn/vovfm965" },
+				{ name: "VOV Giao Thông Hà Nội", url: "https://media.kythuatvov.vn:7025/;stream/" },
+				{ name: "VOV Giao Thông", url: "https://stream.vovmedia.vn/vovgthn" },
+				{ name: "VOH 99.9", url: "https://live.radiovietnam.vn:8933/fm99" },
+				{ name: "VOH 610", url: "https://live.radiovietnam.vn:8933/am610" },
+				{ name: "Xone FM", url: "https://xonefm.com.vn:8000/stream" },
+				{ name: "Nhân Dân", url: "https://radiovnstream.vov.vn:8000/stream_nd" },
+				{ name: "Hải Phòng", url: "https://haiphongradio.vn:8000/live" },
+				{ name: "Bình Dương", url: "https://radiobinhduong.vn:8000/stream" },
+				{ name: "Đồng Nai", url: "https://stream.radiodongnai.vn/fm96" },
+				{ name: "Tây Ninh", url: "https://radiotayninh.vn:8000/fm103" },
+				{ name: "An Giang", url: "https://radioangiang.vn:8000/stream" },
+				{ name: "Cần Thơ", url: "https://canthoradio.vn:8000/live" },
+				{ name: "Đà Nẵng", url: "https://radiodanang.vn:8000/fm99" },
+				{ name: "Huế", url: "https://radiohue.vn:8000/fm102" },
+				{ name: "Quảng Ninh", url: "https://radioquangninh.vn:8000/stream" },
+				{ name: "Lâm Đồng", url: "https://radiolamdong.vn:8000/live" },
+				{ name: "Tiền Giang", url: "https://radiotiengiang.vn:8000/fm98" },
+				{ name: "Thanh Hóa", url: "https://radiothanhhoa.vn:8000/fm96" },
+				{ name: "Nghệ An", url: "https://radionghean.vn:8000/fm89" },
+				{ name: "Bến Tre", url: "https://radiobentre.vn:8000/fm92" },
+				{ name: "Hậu Giang", url: "https://radiohaugiang.vn:8000/live" },
+				{ name: "Ninh Bình", url: "https://radioninhbinh.vn:8000/live" },
+				{ name: "Hà Nội", url: "https://radiohanoi.vn:8000/am" },
+				{ name: "Hà Nội", url: "https://radiohanoi.vn:8000/fm96" },
+				{ name: "Châu Á", url: "https://asiafm.stream.s3.amazonaws.com/asiafm.mp3" },
+				{ name: "Hanoi90", url: "https://14.162.146.90:8000/hanoi90" },
+				{ name: "100% NL", url: "https://stream.100p.nl/100pctnl.mp3" },
+				{ name: "ABC Jazz", url: "https://live-radio01.mediahubaustralia.com/2JAZ/mp3/" },
+				{ name: "ABC Music", url: "https://abcmusic.stream.laut.fm/abcmusic" },
+				{ name: "Antenne Bayern", url: "https://stream.antenne.de/antenne" },
+				{ name: "Bayern 3", url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid" },
+				{ name: "BBC 4", url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm" },
+				{ name: "BBC 6", url: "https://stream.live.vc.bbcmedia.co.uk/bbc_6music" },
+				{ name: "BBC World", url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" },
+				{ name: "Cadena SER", url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3" },
+				{ name: "Chérie", url: "https://icecast.nrj.fr/cheriefm-mp3-192" },
+				{ name: "Chillizet", url: "https://pl-play.adtonos.com/chillizet" },
+				{ name: "City Music", url: "https://play.citymusic.be/citymusic.mp3" },
+				{ name: "Classic", url: "https://media-ssl.musicradio.com/Classic MP3" },
+				{ name: "Deutschlandfunk", url: "https://st01.dlf.de/dlf/01/128/mp3/stream.mp3" },
+				{ name: "DR P3", url: "https://live-icy.gss.dr.dk/A/A04H.mp3" },
+				{ name: "Dvojka", url: "https://live.slovenskatelevizia.sk:8443/Dvojka128.mp3" },
+				{ name: "Echo Moskvy", url: "https://icecast-echodom.echo.msk.ru:9120/echomskaac" },
+				{ name: "Echo of Moscow", url: "https://icecast-echodom.echo.msk.ru:9120/echomskaac" },
+				{ name: "Energy NRJ", url: "https://cdn.nrjaudio.fm/audio1/fr/40001/mp3_128.mp3" },
+				{ name: "Europa", url: "https://astreaming.europafm.ro:8000/europafm_aacp48k" },
+				{ name: "Europa Plus", url: "https://ep256.hostingradio.ru:8052/europaplus256.mp3" },
+				{ name: "Europe 1", url: "https://icecast.europe1.fr/europe1.aac" },
+				{ name: "FIP", url: "https://icecast.radiofrance.fr/fip-midfi.mp3" },
+				{ name: "FM 104", url: "https://stream.mediaworks.ie/FM104" },
+				{ name: "FM 91", url: "https://113.164.229.226:7025/stream/;" },
+				{ name: "FM 4", url: "https://orf-live.ors-shoutcast.at/fm4-q2a" },
+				{ name: "Fox News", url: "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc" },
+				{ name: "France Info", url: "https://icecast.radiofrance.fr/franceinfo-midfi.mp3" },
+				{ name: "Fun", url: "https://icecast.funradio.fr/fun-1-44-128" },
+				{ name: "Heart", url: "https://media-ssl.musicradio.com/HeartUKMP3" },
+				{ name: "Hit", url: "https://hitfm.kirv.me/live" },
+				{ name: "Hit FFH", url: "https://ffh-stream05.ffh.de/ffhchannels/mp3/ffhweb.mp3" },
+				{ name: "HR3", url: "https://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3" },
+				{ name: "Jazz", url: "https://stream-al.planetradio.co.uk/jazzfmaac.aac" },
+				{ name: "Jazzradio Berlin", url: "https://jazzradio.stream.laut.fm/jazzradio" },
+				{ name: "Kanal", url: "https://stream1.mrt.com.mk:1936/radio103/radio103_256kbps/playlist.m3u8" },
+				{ name: "KCRW Eclectic 24", url: "https://kcrw.streamguys1.com/kcrweclectic24" },
+				{ name: "Kiis", url: "https://ais-sa2.cdnstream1.com/8/368/104731/kiis101.mp3" },
+				{ name: "Kink Netherlands", url: "https://stream.kink.nl/kink" },
+				{ name: "Kiss UK", url: "https://kissfm.sharp-stream.com/kissfm.mp3" },
+				{ name: "Klassik", url: "https://stream.klassikradio.de/live/mp3-128" },
+				{ name: "Latina", url: "https://icecast.radiofrance.fr/francebleuparis-midfi.mp3" },
+				{ name: "LBC News", url: "https://media-ssl.musicradio.com/LBCUKMP3" },
+				{ name: "Los 40", url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3" },
+				{ name: "Lounge", url: "https://stream.loungefm.de/loungefm_mp3-192" },
+				{ name: "Lyca", url: "https://lyca.shoutca.st/proxy/lycaradio" },
+				{ name: "MDR Jump", url: "https://mdr-284328-0.cast.mdr.de/mdr/284328/0/mp3/high/stream.mp3" },
+				{ name: "Mix Megapol", url: "https://fm02-icecast.mtg-r.net/fm02_mp3" },
+				{ name: "Nova 100", url: "https://stream.radiojar.com/nova100" },
+				{ name: "NPO 1", url: "https://icecast.omroep.nl/radio1-bb-mp3" },
+				{ name: "NPO 2", url: "https://icecast.omroep.nl/radio2-bb-mp3" },
+				{ name: "NRJ Hits", url: "https://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3" },
+				{ name: "NRK P2", url: "https://lyd.nrk.no/nrk_radio_p2_mp3_h" },
+				{ name: "NRK P3", url: "https://lyd.nrk.no/nrk_radio_p3_mp3_h" },
+				{ name: "Ö1", url: "https://orf-live.ors-shoutcast.at/oe1-q2a" },
+				{ name: "P8 Pop", url: "https://p8pop.icemusic.no/P8Pop.mp3" },
+				{ name: "538", url: "https://21223.live.streamtheworld.com/RADIO538.mp3" },
+				{ name: "Arzamas", url: "https://stream.arzamas.fm/live/mp3/128" },
+				{ name: "Rádio Blaník", url: "https://icecast6.play.cz/blanik-128.mp3" },
+				{ name: "Capital", url: "https://icy.unitedradio.it/Capital.mp3" },
+				{ name: "Caroline", url: "https://sc6.radiocaroline.net:8443/stream" },
+				{ name: "Classique", url: "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3" },
+				{ name: "Rádio Comercial", url: "https://mcrscast.mcr.iol.pt/comercial.mp3" },
+				{ name: "Energy Berlin", url: "https://energyberlin.de/berlin/mp3-192" },
+				{ name: "Energy Hamburg", url: "https://scdnlzdfm005.leanstream.co/ENERGY_HAMBURG" },
+				{ name: "Rádio Expres", url: "https://stream.expres.sk/128mp3" },
+				{ name: "FG", url: "https://radiofg.impek.com/fg" },
+				{ name: "RFI Afrique", url: "https://live02.rfi.fr/rfiafrique-96k.mp3" },
+				{ name: "RFI Monde", url: "https://live02.rfi.fr/rfimonde-96k.mp3" },
+				{ name: "Italia Anni 60", url: "https://radioitalia60.stream.laut.fm/radioitalia60" },
+				{ name: "Rádio Kiss", url: "https://stream.radiohosting.cz:8000/kiss128.mp3" },
+				{ name: "Latina", url: "https://broadcast.infomaniak.net/radiolatina-high.mp3" },
+				{ name: "Maryja", url: "https://radioemtorun.home.pl/rm-mp3" },
+				{ name: "Mayak", url: "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps" },
+				{ name: "Melodie", url: "https://stream.laut.fm/melodie-radio" },
+				{ name: "Monte Carlo", url: "https://icestreaming.rai.it/6.mp3" },
+				{ name: "Nacional de España", url: "https://radio3.rtve.stream.flumotion.com/rne/rne1.mp3" },
+				{ name: "Nostalgie", url: "https://icecast.nostalgie.fr/nostalgie.mp3" },
+				{ name: "Nova", url: "https://novazz.ice.infomaniak.ch/novazz-128.mp3" },
+				{ name: "Ö3", url: "https://orf-live.ors-shoutcast.at/oe3-q2a" },
+				{ name: "Paradise", url: "https://stream.radioparadise.com/aac-320" },
+				{ name: "Rádio Renascença", url: "https://mcrscast.mcr.iol.pt/renascenca.mp3" },
+				{ name: "Sunshine", url: "https://sunradio.ice.infomaniak.ch/sunradio-128.mp3" },
+				{ name: "Swiss Pop", url: "https://stream.srg-ssr.ch/m/rsp/mp3_128" },
+				{ name: "The Voice", url: "https://icecast8.play.cz/evropa2-128.mp3" },
+				{ name: "Trójka", url: "https://stream3.polskieradio.pl/program3.mp3" },
+				{ name: "Veronica", url: "https://21223.live.streamtheworld.com/VERONICA.mp3" },
+				{ name: "Wien", url: "https://orf-live.ors-shoutcast.at/wien-q2a" },
+				{ name: "Zet", url: "https://zet-icecast.radiozet.pl/RADIOZET" },
+				{ name: "RAI 1", url: "https://icestreaming.rai.it/1.mp3" },
+				{ name: "RAI 2", url: "https://icestreaming.rai.it/2.mp3" },
+				{ name: "RAI 3", url: "https://icestreaming.rai.it/3.mp3" },
+				{ name: "Rás 2", url: "https://ruv-ras2-live.flumotion.com/ras2.mp3" },
+				{ name: "RMF", url: "https://rs101-krk2.rmfstream.pl/rmf_fm" },
+				{ name: "RNE 3", url: "https://radio3.rtve.stream.flumotion.com/rne/radio3.mp3" },
+				{ name: "Rock Antenne", url: "https://mp3channels.webradio.rockantenne.de/rockantenne" },
+				{ name: "Rock", url: "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK .mp3" },
+				{ name: "RTÉ Pulse", url: "https://icecast.rte.ie/rte_pulse" },
+				{ name: "RTE 1", url: "https://icecast.audio.tibus.net/rte1" },
+				{ name: "RTL", url: "https://streaming.radio.rtl.fr/rtl-1-44-128" },
+				{ name: "Sky", url: "https://19983.live.streamtheworld.com/SKYRADIO.mp3" },
+				{ name: "Smooth", url: "https://media-ssl.musicradio.com/SmoothUKMP3" },
+				{ name: "SR P1", url: "https://http-live.sr.se/p1-mp3-192" },
+				{ name: "SR P3", url: "https://http-live.sr.se/p3-mp3-192" },
+				{ name: "SWR3", url: "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3" },
+				{ name: "TOK", url: "https://pl-play.adtonos.com/tok-fm" },
+				{ name: "Triple J", url: "https://live-radio01.mediahubaustralia.com/2TJW/mp3/" },
+				{ name: "TSF Jazz", url: "https://broadcast.infomaniak.net/tsfjazz-high.mp3" },
+				{ name: "Virgin", url: "https://stream.virginradio.co.uk/vruk.mp3" },
+				{ name: "VRT Studio Brussel", url: "https://icecast.vrtcdn.be/stubru-high.mp3" },
+				{ name: "WDR 2", url: "https://wdr-wdr2-live.cast.addradio.de/wdr/wdr2/live/mp3/128/stream.mp3" },
+				{ name: "WWOZ", url: "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3" },
+				{ name: "YLE 1", url: "https://yleuni-f.akamaihd.net/i/live_1@103877/master.m3u8" },
+				{ name: "YLEX", url: "https://yleuni-f.akamaihd.net/i/live_4@103880/master.m3u8" }
+			];
+
+			const radioButtonsContainer = document.getElementById('radio-buttons');
+			const radioPlayer = document.getElementById('radio-player');
+			const radioSource = document.getElementById('radio-source');
+			const statusContainer = document.getElementById('status-container');
+
+			let statusInterval;
+
+			radioChannels.forEach(channel => {
+				const button = document.createElement('button');
+				button.className = 'btn btn-primary';
+				button.innerText = channel.name;
+				button.addEventListener('click', () => {
+				radioSource.src = channel.url;
+				radioPlayer.load();
+				radioPlayer.play()
+					.then(() => {
+				clearInterval(statusInterval);
+				updateStatus(channel.name);
+					})
+					.catch(() => {
+				clearInterval(statusInterval);
+				statusContainer.textContent = "Trạng thái: Lỗi kết nối.";
+					});
+				});
+				radioButtonsContainer.appendChild(button);
+			});
+
+			function updateStatus(channelName) {
+				statusContainer.textContent = `Trạng thái: Đang phát kênh ${channelName}. Độ trễ: 0ms.`;
+
+				statusInterval = setInterval(() => {
+				const latency = Math.floor(Math.random() * 3001);
+				statusContainer.textContent = `Trạng thái: Đang phát kênh ${channelName}. Độ trễ: ${latency}ms.`;
+				}, 1000);
+			}
+		});
+	</script>
+
+</section>

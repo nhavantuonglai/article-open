@@ -64,16 +64,16 @@ ui:
     default:
       colors:
         default: rgb(33 39 55)
-        heading: rgb(234 237 243)
+        heading: rgb(248 243 240)
         muted: rgb(33 39 55 / 66%)
-        bgPage: rgb(234 237 243)
+        bgPage: rgb(248 243 240)
         primary: rgb(255 114 94)
         secondary: rgb(255 114 94)
         accent: rgb(255 114 94)
     dark:
       fonts: {}
       colors:
-        default: rgb(234 237 243)
+        default: rgb(248 243 240)
         heading: rgb(33 39 55)
         muted: rgb(229 236 246 / 66%)
         bgPage: rgb(33 39 55)

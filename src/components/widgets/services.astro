@@ -37,7 +37,7 @@ const {
 		tagline={tagline}
 		classes={{
 			container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
-			title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-4 font-heading',
+			title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
 			subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
 		}}
 	/>
@@ -45,38 +45,33 @@ const {
 	<div class="md:mx-auto text-center">
 		<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
 			<div class="md:basis-1/2 self-center">
-				{/* Render Content */}
 				{content && (
 					<div class="text-justify mb-6 text-lg dark:text-slate-400" set:html={content}/>
 				)}
 
-				{/* Render Call to Action Button */}
 				{callToAction && (
 					<div class="btn-primary w-auto mb-6">
 						<Button variant="link" {...callToAction}/>
 					</div>
 				)}
 
-				{/* Render Item Grid */}
 				{items && items.length > 0 && (
 					<ItemGrid
 						items={items}
 						columns={columns}
 						defaultIcon="tabler:check"
 						classes={{
-							container: `gap-y-4 md:gap-y-8`,
 							panel: 'max-w-none',
-							title: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
-							description: 'text-muted dark:text-slate-400 ml-2 rtl:ml-0 rtl:mr-2',
+							title: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
+							description: 'mb-6 text-lg text-muted dark:text-slate-400 rtl:mr-2',
 							icon: 'flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1',
-							action: 'text-lg font-medium leading-6 dark:text-white ml-2 rtl:ml-0 rtl:mr-2',
+							action: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
 						}}
 					/>
 				)}
 			</div>
 
-			<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
-				{/* Render Image */}
+			<div aria-hidden="true" class="mt-60 md:mt-0 md:basis-1/2">
 				{image && (
 					<div class="relative m-auto max-w-4xl">
 						{typeof image === 'string' ? (
