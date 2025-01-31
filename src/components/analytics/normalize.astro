@@ -1,46 +1,55 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<Analytics
 
-		<div class="mx-auto max-w-7xl md:px-6 px-4">
+		id="normalize"
+		title="Công cụ chuẩn hóa dữ liệu thô"
+		description="Nhập văn bản để chuyển đổi thành định dạng URL."
 
-			<textarea id="input" placeholder="Nhập dữ liệu cần chuẩn hóa vào đây." class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+		inputType="text"
+		outputType="text"
 
-			<button id="convert-btn" class="btn-primary w-auto mb-6">Chuẩn hóa</button>
+		placeholder="Nhập văn bản cần chuyển đổi…"
+		debounceTime={500}
 
-			<div id="output" class="mb-6 text-lg border border-gray-300 p-4 rounded-lg"></div>
-
-		</div>
-
-		<script client:load>
-			document.addEventListener("DOMContentLoaded", function () {
-				const buttonConvert = document.getElementById('convert-btn');
-				const input = document.getElementById('input');
-				const output = document.getElementById('output');
-
-				buttonConvert.addEventListener('click', function() {
-				let inputText = input.value;
-
-				const cleanedText = inputText
-				.toLowerCase()
-				.normalize('NFD')
-				.replace(/[\u0300-\u036f]/g, '')
-				.replace(/[^\w\s]/g, '')
-				.replace(/\s+/g, '-');
-
-
-				output.innerText = cleanedText;
-
-				});
-
-			});
-		</script>
-
-	</div>
+	/>
 
 </section>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const textInput = document.getElementById('normalize-input');
+		const resultOutput = document.getElementById('normalize-text-output');
+		let debounceTimeout;
+
+		function convertToSlug(text) {
+			return text
+				.toLowerCase()
+				.trim()
+				.normalize('NFD')
+				.replace(/[\u0300-\u036f]/g, '')
+				.replace(/[^\w\s-]/g, '')
+				.replace(/\s+/g, '-')
+				.replace(/-+/g, '-');
+		}
+
+		textInput.addEventListener('input', () => {
+			const inputText = textInput.value;
+			clearTimeout(debounceTimeout);
+			
+			debounceTimeout = setTimeout(() => {
+				if (!inputText.trim()) {
+					resultOutput.textContent = 'Hãy nhập văn bản để chuyển đổi.';
+					return;
+				}
+				resultOutput.textContent = convertToSlug(inputText);
+			}, 500);
+		});
+	});
+
+</script>
