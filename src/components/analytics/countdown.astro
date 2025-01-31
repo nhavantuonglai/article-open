@@ -1,80 +1,71 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
-
 <section class="relative md:-mt-[76px] not-prose">
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<Analytics
 
-		<div class="mx-auto max-w-7xl md:px-6 px-4">
+			id="countdown"
+			title="Đếm ngược đến Tết 2026"
+			description="Đếm ngược thời gian đến giao thừa Tết 2026"
 
-			<div id="time-output" class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading dark:text-gray-200">
-					<p id="time-text"></p>
-			</div>
+			inputType="hidden"
+			outputType="text"
 
-		</div>
+			placeholder=""
+			debounceTime={1000}
 
-		<script client:load>
-			document.addEventListener("DOMContentLoaded", function () {
-				const timeText = document.getElementById('time-text');
-
-				function updateCountdown() {
-					const now = new Date();
-					const targetDate = new Date(2025, 0, 29, 0, 0, 0);
-
-					const timeDifference = targetDate - now;
-
-					if (timeDifference <= 0) {
-						timeText.innerText = "Chúc mừng năm mới!";
-						return;
-					}
-
-					const seconds = Math.floor((timeDifference / 1000) % 60);
-					const minutes = Math.floor((timeDifference / (1000 * 60)) % 60);
-					const hours = Math.floor((timeDifference / (1000 * 60 * 60)) % 24);
-					let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-					let months = 0;
-					let years = 0;
-
-					if (days > 30) {
-						months = Math.floor(days / 30);
-						days %= 30;
-					}
-					if (months > 12) {
-						years = Math.floor(months / 12);
-						months %= 12;
-					}
-
-					let countdownText = "Còn ";
-
-					if (years > 0) {
-						countdownText += `${years} năm `;
-					}
-
-					if (months > 0) {
-						countdownText += `${months} tháng `;
-					}
-
-					if (days > 0) {
-						countdownText += `${days} ngày `;
-					}
-
-					countdownText += `${hours} giờ ${minutes} phút ${seconds} giây nữa là giao thừa Ất Tỵ 2025.`;
-
-					if (years <= 0 && months <= 0 && days <= 0 && hours <= 0 && minutes <= 0 && seconds <= 0) {
-						timeText.style.display = 'none';
-					} else {
-						timeText.style.display = 'block';
-						timeText.innerText = countdownText;
-					}
-				}
-
-				updateCountdown();
-				setInterval(updateCountdown, 1000);
-			});
-		</script>
-
-	</div>
+		/>
 
 </section>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const resultOutput = document.getElementById('countdown-text-output');
+		
+		function padNumber(num) {
+			return num < 10 ? `0${num}` : num;
+		}
+
+		function updateCountdown() {
+			const now = new Date();
+			const newYear = new Date(2026, 0, 1, 0, 0, 0);
+			const diff = newYear - now;
+
+			if (diff < 0) {
+				resultOutput.textContent = "Đã qua giao thừa 2026!";
+				return;
+			}
+
+			const totalSeconds = Math.floor(diff / 1000);
+			const totalMinutes = Math.floor(totalSeconds / 60);
+			const totalHours = Math.floor(totalMinutes / 60);
+			const totalDays = Math.floor(totalHours / 24);
+
+			const years = Math.floor(totalDays / 365);
+			const months = Math.floor((totalDays % 365) / 30);
+			const days = totalDays % 30;
+			const hours = totalHours % 24;
+			const minutes = totalMinutes % 60;
+			const seconds = totalSeconds % 60;
+
+			let result = "Còn ";
+			if (days > 0) result += `${padNumber(days)} ngày `;
+			if (months > 0) result += `${padNumber(months)} tháng `;
+			if (years > 0) result += `${padNumber(years)} năm `;
+			if (hours > 0) result += `${padNumber(hours)} giờ `;
+			if (minutes > 0) result += `${padNumber(minutes)} phút `;
+			if (seconds > 0) result += `${padNumber(seconds)} giây `, 
+
+			result += "là đến giao thừa 2026.";
+
+			resultOutput.textContent = result;
+		}
+
+		updateCountdown();
+
+		setInterval(updateCountdown, 1000);
+	});
+
+</script>

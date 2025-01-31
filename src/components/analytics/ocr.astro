@@ -1,123 +1,107 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
-	<div class="mx-auto max-w-7xl md:px-6 px-4">
-		<!-- File Upload Section -->
-		<div class="bg-white text-black p-4 rounded-lg mb-6">
-			<h2 class="font-bold text-lg mb-6">Tải lên tệp ảnh</h2>
-			<div id="customDropzone" class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50 mb-6" style="resize: none; height: 150px;">
-				<p class="text-gray-500">
-					<button id="fileUploadButton" class="mb-6 text-lg font-medium leading-6 rtl:mr-2">Chọn tệp.</button>
-				</p>
-				<input type="file" id="fileInput" class="hidden" accept="image/*,.pdf,.png,.jpg" />
-			</div>
-			<button id="ocrBtn" class="btn-primary w-auto mb-6">Nhận dạng văn bản</button>
-		</div>
-		<!-- Output Section with Progress Bar -->
-		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
-			<h2 class="font-bold text-lg mb-6">Văn bản quét được</h2>
-			<pre id="ocrOutput" class="text-justify mb-6 text-lg dark:text-slate-400"></pre>
-			<div class="w-full bg-gray-200 rounded h-2 mb-6">
-				<div id="progressBar" class="h-2 bg-primary rounded" style="width: 0%;"></div>
-			</div>
-			<a id="downloadLink" href="#" class="hidden btn-primary w-auto mb-6">Tải tệp</a>
-		</div>
-	</div>
 
-	<script>
-		const dropzone = document.getElementById("customDropzone");
-		const fileInput = document.getElementById("fileInput");
-		const uploadButton = document.getElementById("fileUploadButton");
-		const ocrBtn = document.getElementById("ocrBtn");
-		const ocrOutput = document.getElementById("ocrOutput");
-		const progressBar = document.getElementById("progressBar");
-		const downloadLink = document.getElementById("downloadLink");
+	<Analytics
 
-		dropzone.addEventListener("dragover", (e) => {
-			e.preventDefault();
-			dropzone.classList.add("bg-blue-100");
-		});
+		id="ocr"
+		title="OCR với Gemini API"
+		description="Trích xuất văn bản từ hình ảnh và PDF bằng Gemini API."
 
-		dropzone.addEventListener("dragleave", () => {
-			dropzone.classList.remove("bg-blue-100");
-		});
+		inputType="file"
+		outputType="text"
 
-		dropzone.addEventListener("drop", (e) => {
-			e.preventDefault();
-			dropzone.classList.remove("bg-blue-100");
-			const file = e.dataTransfer.files[0];
-			handleFile(file);
-		});
+		placeholder="Kéo thả hoặc nhấp để chọn tệp (PNG, JPG, PDF)"
+		apiKeyPlaceholder="Nhập mã API Gemini của bạn"
 
-		uploadButton.addEventListener("click", () => {
-			fileInput.click();
-		});
+		debounceTime={1000}
 
-		fileInput.addEventListener("change", () => {
-			const file = fileInput.files[0];
-			handleFile(file);
-		});
+	/>
 
-		function handleFile(file) {
-			ocrOutput.textContent = "";
-			if (!file) {
-				ocrOutput.textContent = "Vui lòng chọn tệp.";
-				return;
-			}
+</section>
 
-			const validExtensions = ["image", "pdf"];
-			const fileType = file.type.split("/")[0];
+<script client:load>
 
-			if (!validExtensions.includes(fileType)) {
-				ocrOutput.textContent = "Vui lòng chọn tệp hình ảnh hoặc PDF.";
-				return;
-			}
+	const analytics = document.querySelector('#ocr-processor');
 
-			ocrOutput.textContent = "Đang xử lý tệp…";
-			progressBar.style.width = "0%";
+	analytics.addEventListener('fileChange', async (event) => {
+		const file = event.detail;
+		if (!file) return;
+
+		const validTypes = ['image/jpeg', 'image/png', 'application/pdf'];
+		if (!validTypes.includes(file.type)) {
+			analytics.setError('Vui lòng chọn tệp PNG, JPG hoặc PDF');
+			return;
 		}
 
-		ocrBtn.addEventListener("click", async () => {
-			const file = fileInput.files[0];
+		analytics.clearOutput();
+	});
 
-			if (!file) {
-				ocrOutput.textContent = "Vui lòng chọn tệp hình ảnh hoặc PDF.";
+	analytics.addEventListener('submit', async (event) => {
+		const { file, apiKey } = event.detail;
+
+		if (!apiKey) {
+			analytics.setError('Vui lòng nhập mã API Gemini');
+			return;
+		}
+
+		if (!file) {
+			analytics.setError('Vui lòng chọn tệp để xử lý');
+			return;
+		}
+
+		try {
+			analytics.setProcessing(true);
+
+			const formData = new FormData();
+			formData.append('file', file);
+			formData.append('apiKey', apiKey);
+
+			const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}', {
+				method: 'POST',
+				body: formData
+			});
+
+			const data = await response.json();
+
+			if (!response.ok) {
+				throw new Error(data.message || 'Lỗi xử lý OCR');
+			}
+
+			if (data.error) {
+				if (data.error.includes('API key')) {
+					analytics.setError('Mã API không hợp lệ hoặc đã hết hạn');
+				} else {
+					analytics.setError(data.error);
+				}
 				return;
 			}
 
-			const formData = new FormData();
-			formData.append("file", file);
+			analytics.setOutput(data.text || 'Không tìm thấy văn bản trong tệp');
+			analytics.setSuccess(true);
 
-			ocrOutput.textContent = "Đang xử lý…";
-			progressBar.style.width = "50%";
+		} catch (error) {
+			console.error(error);
+			analytics.setError(`Lỗi: ${error.message}`);
+		} finally {
+			analytics.setProcessing(false);
+		}
+	});
 
-			try {
-				const response = await fetch("/api/ocr", {
-					method: "POST",
-					body: formData,
-				});
+	analytics.addEventListener('copy', () => {
+		const outputText = analytics.getOutput();
+		if (!outputText) return;
 
-				if (!response.ok) {
-					throw new Error("Không thể thực hiện OCR. Vui lòng thử lại sau.");
-				}
+		navigator.clipboard.writeText(outputText)
+			.then(() => {
+				analytics.showCopySuccess();
+			})
+			.catch(error => {
+				console.error('Lỗi sao chép:', error);
+				analytics.setError('Không thể sao chép văn bản');
+			});
+	});
 
-				const data = await response.json();
-				ocrOutput.textContent = data.text || "Không tìm thấy văn bản trong tệp đã tải lên.";
-				progressBar.style.width = "100%";
-
-				if (data.downloadUrl) {
-					downloadLink.href = data.downloadUrl;
-					downloadLink.textContent = "Tải tệp đã xử lý";
-					downloadLink.style.display = "block";
-				}
-			} catch (error) {
-				console.error(error);
-				ocrOutput.textContent = `Đã xảy ra lỗi trong quá trình nhận dạng văn bản:\n${error.message}`;
-				progressBar.style.width = "0%";
-			}
-		});
-	</script>
-</section>
+</script>

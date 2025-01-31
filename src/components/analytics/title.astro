@@ -1,59 +1,54 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
-
 <section class="relative md:-mt-[76px] not-prose">
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<Analytics
 
-		<div class="mx-auto max-w-7xl md:px-6 px-4">
+		id="title"
+		title="Trích xuất tiêu đề từ URL"
+		description="Nhập URL bài viết để lấy tiêu đề"
 
-			<textarea id="url-list" placeholder="Nhập danh sách URL cần trích xuất tiêu đề" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required></textarea>
+		inputType="text"
+		outputType="text"
 
-			<button id="fetch-titles-btn" class="btn-primary w-auto mb-6">Trích xuất tiêu đề</button>
+		placeholder="Nhập URL bài viết…"
+		debounceTime={500}
 
-			<div id="output" class="text-lg border border-gray-300 p-4 rounded-lg bg-white dark:bg-slate-900">
-				<h3 class="text-lg dark:text-slate-400 font-bold mb-6">Kết quả</h3>
-				<p id="output-text"></p>
-			</div>
-
-		</div>
-
-		<script client:load>
-			document.addEventListener("DOMContentLoaded", function () {
-				const fetchTitlesButton = document.getElementById('fetch-titles-btn');
-				const urlListInput = document.getElementById('url-list');
-				const outputText = document.getElementById('output-text');
-
-				fetchTitlesButton.addEventListener('click', async function () {
-						const urls = urlListInput.value.split("\n").map(url => url.trim()).filter(url => url);
-
-						if (urls.length === 0) {
-							outputText.innerText = "Lỗi url không hợp lệ.";
-							return;
-						}
-
-						outputText.innerText = "Đang xử lý…";
-
-						const results = [];
-						for (const url of urls) {
-							try {
-								const response = await fetch(url);
-								const html = await response.text();
-								const titleMatch = html.match(/<title>(.*?)<\/title>/i);
-								const title = titleMatch ? titleMatch[1] : "Lỗi khi tải url.";
-								results.push(title);
-							} catch (error) {
-								results.push("Lỗi khi xuất tiêu đề.");
-							}
-						}
-
-						outputText.innerText = results.join("\n");
-				});
-			});
-		</script>
-
-	</div>
+	/>
 
 </section>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const urlInput = document.getElementById('title-input');
+		const resultOutput = document.getElementById('title-text-output');
+		let debounceTimeout;
+
+		urlInput.addEventListener('input', () => {
+			const inputUrl = urlInput.value.trim();
+			clearTimeout(debounceTimeout);
+			
+			debounceTimeout = setTimeout(async () => {
+				if (!inputUrl) {
+					resultOutput.textContent = 'Hãy nhập URL bài viết.';
+					return;
+				}
+
+				try {
+					const response = await fetch(inputUrl);
+					const html = await response.text();
+					const parser = new DOMParser();
+					const doc = parser.parseFromString(html, 'text/html');
+					const title = doc.querySelector('title')?.textContent || 'Không tìm thấy tiêu đề';
+					
+					resultOutput.textContent = title.trim();
+				} catch (error) {
+					resultOutput.textContent = 'Có lỗi xảy ra khi truy cập URL. Vui lòng kiểm tra lại đường dẫn.';
+				}
+			}, 500);
+		});
+	});
+
+</script>

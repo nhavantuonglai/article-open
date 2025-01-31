@@ -1,292 +1,152 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
-
 <section class="relative md:-mt-[76px] not-prose">
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<Analytics
 
-	<div class="mx-auto max-w-7xl md:px-6 px-4">
+		id="tv-player"
+		title="TV Online"
+		description="Xem truyền hình trực tuyến"
 
-		<div class="mb-6">
-			<button id="play-pause-btn" class="btn-primary w-auto">Phát nhạc</button>
-			<button id="control-btn" class="btn-secondary w-auto">Trộn bài</button>
-			<button id="prev-btn" class="btn-secondary w-auto">Bài trước</button>
-			<button id="next-btn" class="btn-secondary w-auto">Bài sau</button>
-		</div>
+		outputType="video"
+		inputType="button"
 
-		<div id="music-player" class="text-lg border border-gray-300 p-4 rounded-lg bg-white dark:bg-slate-900">
-			<ul id="track-list" class="text-lg list-disc list-inside dark:text-gray-200"></ul>
-			<div id="progress-container" class="relative h-6 bg-gray-200 rounded overflow-hidden mt-4">
-				<div id="progress-bar" class="absolute left-0 top-0 h-full bg-green-500"></div>
-			</div>
-		</div>
+		channels={[
+			{ name: "VTV1 HD", url: "https://youtu.be/Fp5ghKduTK8" },
+			{ name: "VTV3 HD", url: "https://example.com/vtv3.m3u8" }
+		]}
 
-	</div>
-
-	<script client:load>
-		document.addEventListener("DOMContentLoaded", function () {
-			const trackList = [
-				{ name: "thich-nhat-hanh-am-may-ngu-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-am-may-ngu-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-am-may-ngu-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-am-may-ngu-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-am-may-ngu-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-am-may-ngu-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-am-may-ngu-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-am-may-ngu-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-am-may-ngu-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-am-may-ngu-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-an-lac-trong-tung-buoc-chan-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-bong-hong-cai-ao", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-bong-hong-cai-ao.mp3" },
-				{ name: "thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-buoc-toi-thanh-thoi-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-cua-tung-doi-mat-gai-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-09", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-09.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-10", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-10.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-11", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-11.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-12", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-12.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-13", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-13.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-14", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-14.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-15", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-15.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-16", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-16.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-17", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-17.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-18", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-18.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-19", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-19.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-20", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-20.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-21", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-21.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-22", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-22.mp3" },
-				{ name: "thich-nhat-hanh-dao-phat-nguyen-chat-chuong-23", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-dao-phat-nguyen-chat-chuong-23.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-09", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-09.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-10", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-10.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-11", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-11.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-12", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-12.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-13", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-13.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-14", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-14.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-15", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-15.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-16", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-16.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-17", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-17.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-18", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-18.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-19", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-19.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-20", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-20.mp3" },
-				{ name: "thich-nhat-hanh-duong-xua-may-trang-chuong-21", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-duong-xua-may-trang-chuong-21.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-09", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-09.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-10", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-10.mp3" },
-				{ name: "thich-nhat-hanh-gian-chuong-11", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gian-chuong-11.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-09", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-09.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-10", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-10.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-11", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-11.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-12", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-12.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-13", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-13.mp3" },
-				{ name: "thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-14", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-gieo-trong-hanh-phuc-chuong-14.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-hanh-phuc-cam-tay-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hanh-phuc-cam-tay-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-hieu-luc-cau-nguyen-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-dung-so-hai-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-khong-diet-khong-sinh-khong-so-hai-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-neo-ve-cua-y-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-neo-ve-cua-y-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-noi-voi-nguoi-xuat-gia-tre-tuoi-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-noi-voi-nguoi-xuat-gia-tre-tuoi-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-noi-voi-nguoi-xuat-gia-tre-tuoi-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-noi-voi-nguoi-xuat-gia-tre-tuoi-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-phep-la-cua-su-tinh-thuc-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-quan-am-thi-kinh-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-quan-am-thi-kinh-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-quan-am-thi-kinh-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-quan-am-thi-kinh-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-quan-am-thi-kinh-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-quan-am-thi-kinh-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-06", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-06.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-07", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-07.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-08", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-08.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-09", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-09.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-10", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-10.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-11", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-11.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-12", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-12.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-13", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-13.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-14", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-14.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-15", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-15.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-16", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-16.mp3" },
-				{ name: "thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-17", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-sen-no-troi-phuong-ngoai-chuong-17.mp3" },
-				{ name: "thich-nhat-hanh-tinh-nguoi-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-tinh-nguoi-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-tinh-nguoi-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-tinh-nguoi-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-trai-tim-mat-troi-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-trai-tim-mat-troi-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-trai-tim-mat-troi-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-trai-tim-mat-troi-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-trai-tim-mat-troi-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-trai-tim-mat-troi-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-trai-tim-mat-troi-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-trai-tim-mat-troi-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-trai-tim-mat-troi-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-trai-tim-mat-troi-chuong-05.mp3" },
-				{ name: "thich-nhat-hanh-tung-buoc-no-hoa-sen-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-tung-buoc-no-hoa-sen-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-01", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-01.mp3" },
-				{ name: "thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-02", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-02.mp3" },
-				{ name: "thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-03", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-03.mp3" },
-				{ name: "thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-04", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-04.mp3" },
-				{ name: "thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-05", url: "https://nhavantuonglai.github.io/article-streaming/thich-nhat-hanh-yeu-thuong-theo-phuong-phap-but-day-chuong-05.mp3" }
-			];
-
-			const audio = new Audio();
-			let currentTrackIndex = 0;
-			let currentMode = "shuffle";
-
-			const trackListElement = document.getElementById('track-list');
-			const playPauseButton = document.getElementById('play-pause-btn');
-			const controlButton = document.getElementById('control-btn');
-			const prevButton = document.getElementById('prev-btn');
-			const nextButton = document.getElementById('next-btn');
-			const progressBar = document.getElementById('progress-bar');
-
-			function updateTrackList() {
-				trackListElement.innerHTML = '';
-				trackList.forEach((track, index) => {
-					const li = document.createElement('li');
-					li.textContent = `${track.name}`;
-					li.style.cursor = 'pointer';
-
-					if (index === currentTrackIndex) {
-						li.style.fontWeight = 'bold';
-						li.textContent += ` (${Math.round((audio.currentTime / audio.duration) * 100) || 0}%)`;
-					}
-
-					li.addEventListener('click', () => {
-						currentTrackIndex = index;
-						playTrack();
-					});
-
-					trackListElement.appendChild(li);
-				});
-			}
-
-			function updateProgress() {
-				const progress = (audio.currentTime / audio.duration) * 100;
-				progressBar.style.width = `${progress}%`;
-				updateTrackList();
-			}
-
-			function playTrack() {
-				audio.src = trackList[currentTrackIndex].url;
-				audio.play();
-				playPauseButton.textContent = 'Tạm dừng';
-				updateTrackList();
-			}
-
-			function pauseTrack() {
-				audio.pause();
-				playPauseButton.textContent = 'Phát nhạc';
-			}
-
-			playPauseButton.addEventListener('click', function () {
-				if (audio.paused) {
-					playTrack();
-				} else {
-					pauseTrack();
-				}
-			});
-
-			prevButton.addEventListener('click', function () {
-				if (currentTrackIndex > 0) {
-					currentTrackIndex--;
-					playTrack();
-				}
-			});
-
-			nextButton.addEventListener('click', function () {
-				if (currentTrackIndex < trackList.length - 1) {
-					currentTrackIndex++;
-					playTrack();
-				}
-			});
-
-			controlButton.addEventListener('click', function () {
-				if (currentMode === "shuffle") {
-					currentMode = "repeat";
-					controlButton.textContent = "Lặp lại";
-				} else if (currentMode === "repeat") {
-					currentMode = "loop";
-					controlButton.textContent = "Vòng lặp";
-				} else {
-					currentMode = "shuffle";
-					controlButton.textContent = "Trộn bài";
-				}
-			});
-
-			audio.addEventListener('timeupdate', updateProgress);
-			audio.addEventListener('ended', function () {
-				if (currentMode === "repeat") {
-					playTrack();
-				} else if (currentMode === "shuffle") {
-					currentTrackIndex = Math.floor(Math.random() * trackList.length);
-					playTrack();
-				} else if (currentMode === "loop" && currentTrackIndex < trackList.length - 1) {
-					currentTrackIndex++;
-					playTrack();
-				}
-			});
-
-			updateTrackList();
-		});
-	</script>
+	/>
 
 </section>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const id = 'tv-player';
+		const searchInput = document.getElementById(`${id}-search`);
+		const channelList = document.getElementById(`${id}-channel-list`);
+		const videoPlayer = document.getElementById(`${id}-video-player`);
+		const videoSource = document.getElementById(`${id}-video-source`);
+		const statusDiv = document.getElementById(`${id}-status`);
+		const channelButtons = document.querySelectorAll(`#${id}-buttons button`);
+
+		let channels = [];
+		let currentChannelIndex = -1;
+		let statusInterval;
+
+		async function fetchChannels() {
+			try {
+				const response = await fetch('YOUR_API_ENDPOINT');
+				channels = await response.json();
+				renderChannelList(channels);
+			} catch (error) {
+				console.error('Error fetching channels:', error);
+				statusDiv.textContent = 'Lỗi: Không thể tải danh sách kênh.';
+			}
+		}
+
+		function renderChannelList(channelData) {
+			channelList.innerHTML = channelData.map((channel, index) => `
+				<button 
+					class="w-full px-4 py-2 text-left hover:bg-gray-100 focus:outline-none"
+					data-url="${channel.url}"
+					data-index="${index}"
+				>
+					${channel.name}
+				</button>
+			`).join('');
+
+			const buttons = channelList.querySelectorAll('button');
+			buttons.forEach(button => {
+				button.addEventListener('click', () => {
+					playChannel(parseInt(button.dataset.index));
+				});
+			});
+		}
+
+		function searchChannels(query) {
+			const filteredChannels = channels.filter(channel => 
+				channel.name.toLowerCase().includes(query.toLowerCase())
+			);
+			renderChannelList(filteredChannels);
+		}
+
+		function playChannel(index) {
+			currentChannelIndex = index;
+			const channel = channels[index];
+			
+			if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
+				videoSource.src = channel.url;
+				videoPlayer.load();
+				videoPlayer.play()
+					.then(() => {
+						updateButtons();
+						updateStatus(channel.name);
+					})
+					.catch(error => {
+						console.error(error);
+						statusDiv.textContent = 'Lỗi: Không thể phát kênh này.';
+					});
+			} else {
+
+				if (Hls.isSupported()) {
+					const hls = new Hls();
+					hls.loadSource(channel.url);
+					hls.attachMedia(videoPlayer);
+					hls.on(Hls.Events.MANIFEST_PARSED, () => {
+						videoPlayer.play();
+						updateButtons();
+						updateStatus(channel.name);
+					});
+				}
+			}
+		}
+
+		function updateButtons() {
+			channelButtons.forEach((btn, index) => {
+				btn.classList.toggle('bg-primary', index === currentChannelIndex);
+				btn.classList.toggle('text-white', index === currentChannelIndex);
+			});
+		}
+
+		function updateStatus(channelName) {
+			clearInterval(statusInterval);
+			statusInterval = setInterval(() => {
+				const quality = videoPlayer.videoHeight >= 720 ? 'HD' : 'SD';
+				statusDiv.textContent = `Đang phát: ${channelName} (${quality})`;
+			}, 1000);
+		}
+
+		searchInput.addEventListener('input', (e) => {
+			searchChannels(e.target.value);
+		});
+		document.getElementById(`${id}-play`).addEventListener('click', () => {
+			if (currentChannelIndex === -1) {
+				playChannel(0);
+			} else {
+				videoPlayer.play();
+			}
+		});
+
+		document.getElementById(`${id}-pause`).addEventListener('click', () => {
+			videoPlayer.pause();
+		});
+
+		document.getElementById(`${id}-prev`).addEventListener('click', () => {
+			if (currentChannelIndex > 0) {
+				playChannel(currentChannelIndex - 1);
+			}
+		});
+
+		document.getElementById(`${id}-next`).addEventListener('click', () => {
+			if (currentChannelIndex < channels.length - 1) {
+				playChannel(currentChannelIndex + 1);
+			}
+		});
+
+		fetchChannels();
+	});
+
+</script>

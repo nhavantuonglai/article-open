@@ -1,120 +1,97 @@
 ---
-import Button from '~/components/ui/button.astro';
-import CTA from '~/components/widgets/services.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-	<div class="mx-auto max-w-7xl md:px-6 px-4">
 
-		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
+	<Analytics
 
-			<h2 class="font-bold text-lg mb-6">Nhập biển số xe</h2>
+		id="phat-nguoi"
+		title="Kiểm tra phạt nguội"
+		description="Nhập biển số xe để kiểm tra tình trạng vi phạm giao thông"
 
-			<textarea id="input" placeholder="Nhập biển số xe cần tra cứu phạt nguội tại đây." class="w-full mb-6 text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900" required style="resize: none; height: 150px;"></textarea>
+		inputType="text"
+		outputType="text"
 
-		</div>
+		placeholder="Nhập biển số xe cần tra cứu…"
+		debounceTime={500}
 
-		<div class="border border-primary bg-white text-black p-4 rounded-lg mb-6">
-
-			<h2 class="font-bold text-lg mb-6">Kết quả phạt nguội</h2>
-
-			<div id="outputArea" class="overflow-y-auto h-[calc(407px-80px)] p-2 rounded text-justify mb-6 text-lg dark:text-slate-400">
-				Kết quả tra cứu phạt nguội hiển thị tại đây.
-			</div>
-
-			<div class="w-full bg-gray-200 rounded h-2 mb-6">
-				<div id="progressBar" class="h-2 bg-primary rounded" style="width: 0%;"></div>
-			</div>
-
-		</div>
-	</div>
-
-	<script client:load>
-		document.addEventListener('DOMContentLoaded', () => {
-			const plateNumberInput = document.getElementById('input');
-			const resultOutput = document.getElementById('outputArea');
-			const progressBar = document.getElementById('progressBar');
-
-			let debounceTimeout;
-
-			plateNumberInput.addEventListener('input', () => {
-				const plateNumber = plateNumberInput.value.trim();
-
-				clearTimeout(debounceTimeout);
-
-				if (!plateNumber) {
-					resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
-					progressBar.style.width = '0%';
-					progressBar.style.display = 'none';
-					return;
-				}
-
-				debounceTimeout = setTimeout(async () => {
-					resultOutput.textContent = 'Đang kiểm tra…';
-					progressBar.style.width = '10%';
-					progressBar.style.display = 'block';
-
-					try {
-						const response = await fetch('https://api.checkphatnguoi.vn/phatnguoi', {
-							method: 'POST',
-							headers: {
-								'Content-Type': 'application/json',
-							},
-							body: JSON.stringify({ plateNumber }),
-						});
-
-						const data = await response.json();
-
-						if (response.ok && data) {
-							progressBar.style.width = '50%';
-
-							if (data.error) {
-								resultOutput.textContent = 'Dữ liệu biển số không hợp lệ.';
-							} else {
-								const violation = data.violation || 'Biển số xe không bị phạt nguội';
-								const timestamp = data.timestamp || 'Biển số xe không bị phạt nguội';
-								const details = data.details || 'Biển số xe không bị phạt nguội';
-								const location = data.location || 'Biển số xe không bị phạt nguội';
-								const offense = data.offense || 'Biển số xe không bị phạt nguội';
-								const status = data.status || 'Biển số xe không bị phạt nguội';
-
-								const now = new Date();
-								const hours = now.getHours();
-								const minutes = now.getMinutes();
-								const day = now.getDate();
-								const month = now.getMonth() + 1;
-								const year = now.getFullYear();
-								const formattedTime = `${hours} giờ ${minutes} phút, ngày ${day} tháng ${month} năm ${year}`;
-
-								if (violation === 'Không có vi phạm' && !data.timestamp && !data.details && !data.status && !data.location && !data.offense) {
-									resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
-								} else {
-									setTimeout(() => {
-										resultOutput.innerHTML = `Thời gian kiểm tra: ${formattedTime}.<br><br>– Trạng thái: ${status}.<br>– Lỗi phát hiện: ${violation}.<br>– Ngày giờ: ${timestamp}.<br>– Thông tin lỗi: ${details}.<br>– Địa điểm: ${location}.<br>– Hành vi vi phạm: ${offense}.<br>`;
-									}, 1000);
-								}
-							}
-						} else {
-							resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
-						}
-
-					} catch (error) {
-						resultOutput.textContent = 'Biển số xe không tìm thấy trên hệ thống.';
-						console.error(error);
-					}
-					
-					setTimeout(() => {
-						progressBar.style.width = '100%';
-					}, 1000);
-
-					setTimeout(() => {
-						progressBar.style.display = 'none';
-					}, 1500);
-					
-				}, 500);
-			});
-		});
-	</script>
+	/>
 
 </section>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const plateNumberInput = document.getElementById('phat-nguoi-input');
+		const resultOutput = document.getElementById('phat-nguoi-text-output');
+		let debounceTimeout;
+
+		plateNumberInput.addEventListener('input', () => {
+			const plateNumber = plateNumberInput.value.trim();
+			clearTimeout(debounceTimeout);
+
+			if (!plateNumber) {
+				resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
+				return;
+			}
+
+			debounceTimeout = setTimeout(async () => {
+				resultOutput.textContent = 'Đang kiểm tra…';
+
+				try {
+					const response = await fetch('https://api.checkphatnguoi.vn/phatnguoi', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json',
+						},
+						body: JSON.stringify({ plateNumber }),
+					});
+
+					const data = await response.json();
+
+					if (response.ok && data) {
+						if (data.error) {
+							resultOutput.textContent = 'Dữ liệu biển số không hợp lệ.';
+						} else {
+							const violation = data.violation || 'Biển số xe không bị phạt nguội';
+							const timestamp = data.timestamp || 'Biển số xe không bị phạt nguội';
+							const details = data.details || 'Biển số xe không bị phạt nguội';
+							const location = data.location || 'Biển số xe không bị phạt nguội';
+							const offense = data.offense || 'Biển số xe không bị phạt nguội';
+							const status = data.status || 'Biển số xe không bị phạt nguội';
+
+							const now = new Date();
+							const formattedTime = `${now.getHours()} giờ ${now.getMinutes()} phút, ngày ${now.getDate()} tháng ${now.getMonth() + 1} năm ${now.getFullYear()}`;
+
+							if (violation === 'Không có vi phạm' && 
+									!data.timestamp && 
+									!data.details && 
+									!data.status && 
+									!data.location && 
+									!data.offense) {
+								resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
+							} else {
+								resultOutput.innerHTML = `
+									Thời gian kiểm tra: ${formattedTime}.<br><br>
+									– Trạng thái: ${status}.<br>
+									– Lỗi phát hiện: ${violation}.<br>
+									– Ngày giờ: ${timestamp}.<br>
+									– Thông tin lỗi: ${details}.<br>
+									– Địa điểm: ${location}.<br>
+									– Hành vi vi phạm: ${offense}.<br>
+								`;
+							}
+						}
+					} else {
+						resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
+					}
+				} catch (error) {
+					resultOutput.textContent = 'Biển số xe không tìm thấy trên hệ thống.';
+					console.error(error);
+				}
+			}, 500);
+		});
+	});
+
+</script>
