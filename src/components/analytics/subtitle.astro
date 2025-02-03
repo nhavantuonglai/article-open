@@ -2,29 +2,28 @@
 import Analytics from '~/components/widgets/analytics.astro';
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
+<Analytics
 
-	<Analytics
+	id="subtitle"
+	title="Công cụ dịch phụ đề AI trực tuyến"
+	description="Hướng dẫn: Chọn, tải lên tệp phụ đề tiếng Anh, công cụ sẽ sử dụng AI để chuyển ngữ sang tiếng Việt nhanh chóng và miễn phí."
 
-		id="subtitle"
-		title="Dịch phụ đề sang tiếng Việt"
-		description="Tải lên file phụ đề tiếng Anh để dịch sang tiếng Việt"
+	placeholder="Vui lòng nhập tệp phụ đề cần dịch sang tiếng Việt ở đây."
+	debounceTime={1000}
 
-		inputType="file"
-		outputType="text"
+	inputType="file"
+	outputType="text"
+	accept=".srt"
 
-		accept=".srt"
-
-	/>
-
-</section>
+/>
 
 <script client:load>
 
 	document.addEventListener('DOMContentLoaded', () => {
 		const fileInput = document.getElementById('subtitle-input');
 		const outputArea = document.getElementById('subtitle-text-output');
-		const apiKey = "null";
+		const apiKey = 'null';
+		let debounceTimeout;
 		
 		let originalFileName = '';
 		let translatedLines = [];
@@ -42,7 +41,7 @@ import Analytics from '~/components/widgets/analytics.astro';
 			
 			downloadButton.href = url;
 			downloadButton.download = `${originalFileName}-vi.srt`;
-			downloadButton.textContent = 'Tải xuống phụ đề đã dịch';
+			downloadButton.textContent = 'Tải xuống phụ đề đã dịch.';
 			downloadButton.style.display = 'block';
 		}
 
@@ -61,32 +60,37 @@ import Analytics from '~/components/widgets/analytics.astro';
 		}
 
 		async function translateSubtitle(text) {
-			try {
-				const response = await fetch(
-					`https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`,
-					{
-						method: 'POST',
-						headers: {
-							'Content-Type': 'application/json',
-						},
-						body: JSON.stringify({
-							contents: [{
-								parts: [{
-									text: `Translate this subtitle to Vietnamese, keep the timing and subtitle number intact: ${text}`
-								}]
-							}]
-						})
-					}
-				);
+			return new Promise((resolve, reject) => {
+				clearTimeout(debounceTimeout);
+				debounceTimeout = setTimeout(async () => {
+					try {
+						const response = await fetch(
+							`https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`,
+							{
+								method: 'POST',
+								headers: {
+									'Content-Type': 'application/json',
+								},
+								body: JSON.stringify({
+									contents: [{
+										parts: [{
+											text: `Translate this subtitle to Vietnamese, keep the timing and subtitle number intact: ${text}`
+										}]
+									}]
+								})
+							}
+						);
 
-				if (!response.ok) throw new Error('Translation failed');
-				
-				const result = await response.json();
-				return result.candidates[0].content.parts[0].text;
-			} catch (error) {
-				console.error('Translation error:', error);
-				throw error;
-			}
+						if (!response.ok) throw new Error('Có lỗi xảy ra trong quá trình xử lý.');
+						
+						const result = await response.json();
+						resolve(result.candidates[0]?.content?.parts?.[0]?.text || '');
+					} catch (error) {
+						console.error('Translation error:', error);
+						reject(error);
+					}
+				}, 500);
+			});
 		}
 
 		function parseSRT(content) {
@@ -106,7 +110,7 @@ import Analytics from '~/components/widgets/analytics.astro';
 			if (!file) return;
 			
 			if (!file.name.toLowerCase().endsWith('.srt')) {
-				updateOutput('Vui lòng chọn file phụ đề .srt', true);
+				updateOutput('Vui lòng chọn file phụ đề .srt.', true);
 				return;
 			}
 
@@ -130,16 +134,16 @@ import Analytics from '~/components/widgets/analytics.astro';
 							const translatedText = await translateSubtitle(subtitles[i].text);
 							translatedContent += `${subtitles[i].id}\n${subtitles[i].timing}\n${translatedText}\n\n`;
 						} catch (error) {
-							updateOutput(`Lỗi khi dịch đoạn ${i + 1}`, true);
+							updateOutput(`Lỗi khi dịch đoạn ${i + 1}.`, true);
 							continue;
 						}
 					}
 					
 					createDownloadButton(translatedContent);
-					updateOutput('Hoàn thành dịch phụ đề!');
+					updateOutput('Hoàn thành dịch phụ đề.');
 					
 				} catch (error) {
-					updateOutput('Có lỗi xảy ra khi xử lý file phụ đề', true);
+					updateOutput('Có lỗi xảy ra trong quá trình xử lý.', true);
 					console.error(error);
 				}
 			};

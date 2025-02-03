@@ -2,23 +2,19 @@
 import Analytics from '~/components/widgets/analytics.astro';
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
+<Analytics
 
-	<Analytics
+	id="integrate"
+	title="Công cụ Chat AI Google tích hợp Gemini API"
+	description="Hướng dẫn: Sao chép và dán nội dung cần truy vấn, công cụ sẽ đưa ra câu trả lời dựa trên trí tuệ nhân tạo Gemini mới nhất nhanh chóng và miễn phí"
 
-		id="integrate"
-		title="Trợ lý AI Google tích hợp Gemini API"
-		description="Gemini API hỗ trợ miễn phí."
+	inputType="text"
+	outputType="text"
 
-		inputType="text"
-		outputType="text"
+	placeholder="Vui lòng nhập nội dung cần tra cứu ở đây."
+	debounceTime={500}
 
-		placeholder="Xin chào, tôi có thể giúp gì?"
-		debounceTime={500}
-
-	/>
-
-</section>
+/>
 
 <script client:load>
 

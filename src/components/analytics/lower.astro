@@ -2,22 +2,19 @@
 import Analytics from '~/components/widgets/analytics.astro';
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
+<Analytics
 
-	<Analytics
+	id="lowercase"
+	title="Công cụ chuyển đổi chữ hoa thành chữ thường"
+	description="Hướng dẫn: Sao chép và dán văn bản cần chuyển đổi, công cụ sẽ trả về kết quả văn bản chữ thường tương ứng."
 
-		id="lowercase"
-		title="Chuyển chữ hoa thành chữ thường"
-		description="Nhập văn bản để chuyển đổi thành chữ thường"
+	inputType="text"
+	outputType="text"
 
-		inputType="text"
-		outputType="text"
+	placeholder="Vui lòng nhập văn bản chữ thường cần chuyển đổi ở đây."
+	debounceTime={500}
 
-		placeholder="Nhập văn bản cần chuyển đổi…"
-		debounceTime={500}
-	/>
-
-</section>
+/>
 
 <script client:load>
 

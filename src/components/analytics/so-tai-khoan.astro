@@ -1,0 +1,80 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="so-tai-khoan"
+	title="Công cụ kiểm tra số tài khoản trực tuyến"
+	description="Hướng dẫn: Sao chép và dán số tài khoản cần tra cứu thông tin, công cụ sẽ trả về thông tin đúng và đủ về người cần tìm."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập số tài khoản cần tra cứu đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const accountInput = document.getElementById('so-tai-khoan-input');
+		const resultOutput = document.getElementById('so-tai-khoan-text-output');
+		let debounceTimeout;
+
+		accountInput.addEventListener('input', () => {
+			const accountNumber = accountInput.value.trim();
+			clearTimeout(debounceTimeout);
+
+			if (!accountNumber) {
+				resultOutput.textContent = 'Vui lòng nhập số tài khoản.';
+				return;
+			}
+
+			debounceTimeout = setTimeout(async () => {
+				resultOutput.textContent = 'Đang tra cứu…';
+
+				try {
+					const response = await fetch('https://api.banklookup.net/api/bank/id-lookup-prod', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json',
+							'x-api-key': '21445c0f-7c43-40b8-92d5-355487b9d531key',
+							'x-api-secret': '29ddff8e-ea76-4e09-bd34-1996f1b117a3secret'
+						},
+						body: JSON.stringify({
+							bank: 'VPB',
+							account: accountNumber
+						}),
+					});
+
+					const data = await response.json();
+
+					if (response.ok && data) {
+						const now = new Date();
+						const formattedTime = `${now.getHours()} giờ ${now.getMinutes()} phút, ngày ${now.getDate()} tháng ${now.getMonth() + 1} năm ${now.getFullYear()}`;
+
+						if (data.error) {
+							resultOutput.textContent = 'Số tài khoản không hợp lệ hoặc không tìm thấy.';
+						} else {
+							resultOutput.innerHTML = `
+								Thời gian tra cứu: ${formattedTime}.<br><br>
+								– Ngân hàng: ${data.bank_name || 'Không có thông tin'}.<br>
+								– Số tài khoản: ${data.account_number || 'Không có thông tin'}.<br>
+								– Tên chủ tài khoản: ${data.account_name || 'Không có thông tin'}.<br>
+								– Chi nhánh: ${data.branch || 'Không có thông tin'}.<br>
+							`;
+						}
+					} else {
+						resultOutput.textContent = 'Không thể tra cứu thông tin tài khoản. Vui lòng thử lại sau.';
+					}
+				} catch (error) {
+					resultOutput.textContent = 'Có lỗi xảy ra khi tra cứu thông tin. Vui lòng thử lại sau.';
+					console.error(error);
+				}
+			}, 500);
+		});
+	});
+
+</script>

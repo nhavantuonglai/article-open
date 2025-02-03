@@ -9,8 +9,8 @@ import Question from '~/components/widgets/question.astro';
 
 <Hero
 
-	title="Công cụ trích xuất URL từ liên kết"
-	subtitle="Công cụ trích xuất URL từ liên kết giúp chuẩn hóa và tối ưu dữ liệu, phục vụ hiệu quả các chiến dịch nghiên cứu, marketing và tạo chữ độc đáo trên mạng xã hội."
+	title="Công cụ trích xuất tiêu đề từ liên kết"
+	subtitle="Công cụ trích xuất tiêu đề từ liên kết giúp chuẩn hóa và tối ưu dữ liệu, phục vụ hiệu quả các chiến dịch nghiên cứu, marketing và tạo chữ độc đáo trên mạng xã hội."
 
 	image={{
 		src: 'https://banmaixanh.org/image/cover/001-521.jpg',
@@ -22,186 +22,142 @@ import Question from '~/components/widgets/question.astro';
 
 <Title/>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					callToAction={{
-						text: 'Sử dụng công cụ',
-						href: 'https://nhavantuonglai.com/analytics/title',
-					}}
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/title',
+	}}
 
 
-					items={[
-						{
-						title: 'Trích xuất nhanh chóng',
-						description:
-							'Ngay lập tức sau khi nhập dữ liệu và chuyển đổi, hệ thống sẽ tự động trích xuất dưới 0,5 giây để trả về kết quả.',
-						},
-						{
-						title: 'Chuẩn hóa dễ dàng',
-						description:
-							'Công cụ giúp bạn tiết kiệm thời gian, chuẩn hóa thông tin để chuyển đổi SEO hiệu quả hơn.',
-						},
-					]}
+	items={[
+		{
+		title: 'Trích xuất nhanh chóng',
+		description:
+			'Ngay lập tức sau khi nhập dữ liệu và chuyển đổi, hệ thống sẽ tự động trích xuất dưới 0,5 giây để trả về kết quả.',
+		},
+		{
+		title: 'Chuẩn hóa dễ dàng',
+		description:
+			'Công cụ giúp bạn tiết kiệm thời gian, chuẩn hóa thông tin để chuyển đổi SEO hiệu quả hơn.',
+		},
+	]}
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-126.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-126.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					<Fragment slot="content">
-						Công cụ trích xuất URL từ liên kết giúp chuẩn hóa và tối ưu dữ liệu, phục vụ hiệu quả các chiến dịch nghiên cứu, marketing và tạo chữ độc đáo trên mạng xã hội.
-					</Fragment>
+	<Fragment slot="content">
+		Công cụ trích xuất tiêu đề từ liên kết giúp chuẩn hóa và tối ưu dữ liệu, phục vụ hiệu quả các chiến dịch nghiên cứu, marketing và tạo chữ độc đáo trên mạng xã hội.
+	</Fragment>
 
-				</CTA>
-		</div>
-</section>
+</CTA>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	title="Giới thiệu về công cụ trích xuất tiêu đề từ liên kết"
 
-				<CTA
+	isReversed
 
-					title="Giới thiệu về công cụ trích xuất URL từ liên kết"
+	items={[
+		{
+		title: 'Công cụ trích xuất tiêu đề từ liên kết là gì?',
+		description:
+			'Công cụ trích xuất tiêu đề từ liên kết là giải pháp trực tuyến hoặc phần mềm cho phép người dùng chuyển đổi định dạng văn bản thông thường thành các kiểu chữ Unicode khác nhau. Unicode là chuẩn mã hóa ký tự quốc tế, giúp hiển thị văn bản đồng nhất trên nhiều nền tảng, ngôn ngữ và thiết bị. Công cụ này không chỉ giúp chuẩn hóa dữ liệu trong nghiên cứu hoặc marketing mà còn được ứng dụng rộng rãi trên mạng xã hội, như tạo chữ đậm Facebook hoặc chữ Facebook độc đáo để tăng tính hấp dẫn của bài đăng.',
+		},
+		{
+		title: 'Tại sao cần sử dụng công cụ trích xuất tiêu đề từ liên kết?',
+		description:
+			'Với sự gia tăng sử dụng dữ liệu trên các nền tảng số, việc chuẩn hóa văn bản trở nên cực kỳ quan trọng. Các định dạng văn bản không đồng nhất có thể gây khó khăn trong việc đọc, phân tích và hiển thị nội dung. Công cụ trích xuất tiêu đề từ liên kết giúp giải quyết vấn đề này bằng cách tạo ra các định dạng văn bản tiêu chuẩn, dễ dàng tích hợp và sử dụng trên các nền tảng kỹ thuật số khác nhau.',
+		},
+	]}
 
-					isReversed
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-172.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					items={[
-						{
-						title: 'Công cụ trích xuất URL từ liên kết là gì?',
-						description:
-							'Công cụ trích xuất URL từ liên kết là giải pháp trực tuyến hoặc phần mềm cho phép người dùng chuyển đổi định dạng văn bản thông thường thành các kiểu chữ Unicode khác nhau. Unicode là chuẩn mã hóa ký tự quốc tế, giúp hiển thị văn bản đồng nhất trên nhiều nền tảng, ngôn ngữ và thiết bị. Công cụ này không chỉ giúp chuẩn hóa dữ liệu trong nghiên cứu hoặc marketing mà còn được ứng dụng rộng rãi trên mạng xã hội, như tạo chữ đậm Facebook hoặc chữ Facebook độc đáo để tăng tính hấp dẫn của bài đăng.',
-						},
-						{
-						title: 'Tại sao cần sử dụng công cụ trích xuất URL từ liên kết?',
-						description:
-							'Với sự gia tăng sử dụng dữ liệu trên các nền tảng số, việc chuẩn hóa văn bản trở nên cực kỳ quan trọng. Các định dạng văn bản không đồng nhất có thể gây khó khăn trong việc đọc, phân tích và hiển thị nội dung. Công cụ trích xuất URL từ liên kết giúp giải quyết vấn đề này bằng cách tạo ra các định dạng văn bản tiêu chuẩn, dễ dàng tích hợp và sử dụng trên các nền tảng kỹ thuật số khác nhau.',
-						},
-					]}
+</CTA>
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-172.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+<CTA
 
-				</CTA>
-		</div>
+	title="Tính năng nổi bật của công cụ trích xuất tiêu đề từ liên kết"
 
-</section>
+	items={[
+		{
+		title: 'Chuyển đổi linh hoạt và đa dạng',
+		description:
+			'Một trong những tính năng nổi bật nhất của công cụ trích xuất tiêu đề từ liên kết là khả năng chuyển đổi nhanh chóng và đa dạng: (1) chuyển văn bản Unicode thành nhiều kiểu chữ: Từ chữ thường, chữ hoa đến các kiểu chữ độc đáo như chữ in đậm, in nghiêng, gạch ngang, gạch chân. (2) Hỗ trợ nhiều ngôn ngữ: công cụ có thể xử lý văn bản Unicode của các ngôn ngữ khác nhau, từ tiếng Anh, tiếng Việt đến các ký tự đặc biệt như tiếng Nhật, tiếng Trung. (3) Đồng bộ hóa trên nhiều nền tảng: Các văn bản Unicode chuyển đổi có thể sử dụng trên Facebook, Instagram, hoặc tài liệu nghiên cứu mà không lo lỗi hiển thị.',
+		},
+		{
+		title: 'Tích hợp các tính năng nâng cao',
+		description:
+			'Ngoài việc chuyển văn bản, công cụ còn có nhiều tính năng bổ trợ: (1) Kiểm tra tính hợp lệ của Unicode: Xác định xem văn bản có chứa ký tự không hợp lệ hoặc không tương thích không. (2) Chuyển đổi ngược: Từ văn bản Unicode sang văn bản tiêu chuẩn để phục vụ các tác vụ yêu cầu định dạng gốc. (3) Xuất file: Hỗ trợ lưu trữ văn bản đã chuyển đổi dưới dạng các định dạng phổ biến như TXT, DOC hoặc PDF.',
+		},
+	]}
 
-<section class="relative md:-mt-[76px] not-prose">
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-125.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+</CTA>
 
-				<CTA
+<CTA
 
-					title="Tính năng nổi bật của công cụ trích xuất URL từ liên kết"
+	title="Lợi ích và ứng dụng thực tế của công cụ trích xuất tiêu đề từ liên kết"
 
-					items={[
-						{
-						title: 'Chuyển đổi linh hoạt và đa dạng',
-						description:
-							'Một trong những tính năng nổi bật nhất của công cụ trích xuất URL từ liên kết là khả năng chuyển đổi nhanh chóng và đa dạng: (1) chuyển văn bản Unicode thành nhiều kiểu chữ: Từ chữ thường, chữ hoa đến các kiểu chữ độc đáo như chữ in đậm, in nghiêng, gạch ngang, gạch chân. (2) Hỗ trợ nhiều ngôn ngữ: công cụ có thể xử lý văn bản Unicode của các ngôn ngữ khác nhau, từ tiếng Anh, tiếng Việt đến các ký tự đặc biệt như tiếng Nhật, tiếng Trung. (3) Đồng bộ hóa trên nhiều nền tảng: Các văn bản Unicode chuyển đổi có thể sử dụng trên Facebook, Instagram, hoặc tài liệu nghiên cứu mà không lo lỗi hiển thị.',
-						},
-						{
-						title: 'Tích hợp các tính năng nâng cao',
-						description:
-							'Ngoài việc chuyển văn bản, công cụ còn có nhiều tính năng bổ trợ: (1) Kiểm tra tính hợp lệ của Unicode: Xác định xem văn bản có chứa ký tự không hợp lệ hoặc không tương thích không. (2) Chuyển đổi ngược: Từ văn bản Unicode sang văn bản tiêu chuẩn để phục vụ các tác vụ yêu cầu định dạng gốc. (3) Xuất file: Hỗ trợ lưu trữ văn bản đã chuyển đổi dưới dạng các định dạng phổ biến như TXT, DOC hoặc PDF.',
-						},
-					]}
+	isReversed
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-125.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	items={[
+		{
+		title: 'Lợi ích của công cụ trích xuất tiêu đề từ liên kết',
+		description:
+			'Công cụ trích xuất tiêu đề từ liên kết mang đến nhiều lợi ích vượt trội: (1) Chuẩn hóa dữ liệu: Giúp định dạng văn bản trở nên đồng nhất, thuận tiện cho việc đọc, phân tích và hiển thị. (2) Tăng tính thẩm mỹ: Các kiểu chữ độc đáo tạo ấn tượng tốt hơn trong các bài viết trên mạng xã hội hoặc nội dung marketing. (3) Tiết kiệm thời gian: Người dùng không cần chỉnh sửa thủ công mà có thể chuyển đổi hàng loạt văn bản chỉ trong vài giây.',
+		},
+		{
+		title: 'Ứng dụng công cụ trích xuất tiêu đề từ liên kết trong các lĩnh vực',
+		description:
+			'(1) Marketing số: Tạo các bài đăng Facebook với chữ in đậm, nghiêng hoặc chữ cách điệu để thu hút sự chú ý của khách hàng. (2) Nghiên cứu học thuật: Chuẩn hóa các dữ liệu nghiên cứu để đảm bảo tính đồng nhất và dễ dàng phân tích. (3) Truyền thông xã hội: Tăng tính độc đáo và cá nhân hóa các bài viết bằng cách sử dụng chữ Unicode lạ mắt. (4) Quản lý dữ liệu doanh nghiệp: Chuyển đổi và chuẩn hóa văn bản trong các tài liệu nội bộ để tránh lỗi định dạng hoặc hiển thị.',
+		},
+	]}
 
-				</CTA>
-		</div>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-525.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-</section>
+</CTA>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	title="Đánh giá trải nghiệm công cụ trích xuất tiêu đề từ liên kết"
 
-				<CTA
+	items={[
+		{
+		title: 'Giao diện thân thiện và dễ sử dụng',
+		description:
+			'Công cụ trích xuất tiêu đề từ liên kết thường được thiết kế với giao diện đơn giản, dễ thao tác. Người dùng chỉ cần nhập văn bản, chọn kiểu chuyển đổi và nhận kết quả ngay lập tức. Với khả năng xử lý nhanh chóng và chính xác, công cụ này phù hợp cho cả những người dùng cơ bản lẫn chuyên nghiệp. Các kết quả chuyển đổi luôn đạt chất lượng cao, đảm bảo tương thích trên mọi nền tảng.',
+		},
+		{
+		title: 'Phù hợp với nhiều đối tượng người dùng',
+		description:
+			'Từ các nhà nghiên cứu, marketer, cho đến học sinh sinh viên, công cụ trích xuất tiêu đề từ liên kết là trợ thủ đắc lực giúp họ tối ưu hóa công việc. Tính linh hoạt và khả năng tích hợp cao cũng là lý do khiến công cụ này trở thành lựa chọn phổ biến.',
+		},
+	]}
 
-					title="Lợi ích và ứng dụng thực tế của công cụ trích xuất URL từ liên kết"
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-169.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					isReversed
-
-					items={[
-						{
-						title: 'Lợi ích của công cụ trích xuất URL từ liên kết',
-						description:
-							'Công cụ trích xuất URL từ liên kết mang đến nhiều lợi ích vượt trội: (1) Chuẩn hóa dữ liệu: Giúp định dạng văn bản trở nên đồng nhất, thuận tiện cho việc đọc, phân tích và hiển thị. (2) Tăng tính thẩm mỹ: Các kiểu chữ độc đáo tạo ấn tượng tốt hơn trong các bài viết trên mạng xã hội hoặc nội dung marketing. (3) Tiết kiệm thời gian: Người dùng không cần chỉnh sửa thủ công mà có thể chuyển đổi hàng loạt văn bản chỉ trong vài giây.',
-						},
-						{
-						title: 'Ứng dụng công cụ trích xuất URL từ liên kết trong các lĩnh vực',
-						description:
-							'(1) Marketing số: Tạo các bài đăng Facebook với chữ in đậm, nghiêng hoặc chữ cách điệu để thu hút sự chú ý của khách hàng. (2) Nghiên cứu học thuật: Chuẩn hóa các dữ liệu nghiên cứu để đảm bảo tính đồng nhất và dễ dàng phân tích. (3) Truyền thông xã hội: Tăng tính độc đáo và cá nhân hóa các bài viết bằng cách sử dụng chữ Unicode lạ mắt. (4) Quản lý dữ liệu doanh nghiệp: Chuyển đổi và chuẩn hóa văn bản trong các tài liệu nội bộ để tránh lỗi định dạng hoặc hiển thị.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-525.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
-
-<section class="relative md:-mt-[76px] not-prose">
-
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					title="Đánh giá trải nghiệm công cụ trích xuất URL từ liên kết"
-
-					items={[
-						{
-						title: 'Giao diện thân thiện và dễ sử dụng',
-						description:
-							'Công cụ trích xuất URL từ liên kết thường được thiết kế với giao diện đơn giản, dễ thao tác. Người dùng chỉ cần nhập văn bản, chọn kiểu chuyển đổi và nhận kết quả ngay lập tức. Với khả năng xử lý nhanh chóng và chính xác, công cụ này phù hợp cho cả những người dùng cơ bản lẫn chuyên nghiệp. Các kết quả chuyển đổi luôn đạt chất lượng cao, đảm bảo tương thích trên mọi nền tảng.',
-						},
-						{
-						title: 'Phù hợp với nhiều đối tượng người dùng',
-						description:
-							'Từ các nhà nghiên cứu, marketer, cho đến học sinh sinh viên, công cụ trích xuất URL từ liên kết là trợ thủ đắc lực giúp họ tối ưu hóa công việc. Tính linh hoạt và khả năng tích hợp cao cũng là lý do khiến công cụ này trở thành lựa chọn phổ biến.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-169.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
+</CTA>
 
 <Question
 
@@ -209,18 +165,18 @@ import Question from '~/components/widgets/question.astro';
 
 		{
 		title: 'Sử dụng công cụ như thế nào?',
-		description: 'Để sử dụng công cụ trích xuất URL từ liên kết, bạn chỉ cần dán văn bản vào và nhấn Chuyển đổi, kết quả sẽ hiện ngay lập tức.',
+		description: 'Để sử dụng công cụ trích xuất tiêu đề từ liên kết, bạn chỉ cần dán văn bản vào và nhấn Chuyển đổi, kết quả sẽ hiện ngay lập tức.',
 		icon: 'tabler:chevrons-right',
 		},
 
 		{
 		title: 'Có giới hạn khi sử dụng công cụ không?',
-		description: `Công cụ trích xuất URL từ liên kết không giới hạn số lần sử dụng, nhưng dữ liệu quá lớn có thể ảnh hưởng đến tốc độ xử lý.`,
+		description: `Công cụ trích xuất tiêu đề từ liên kết không giới hạn số lần sử dụng, nhưng dữ liệu quá lớn có thể ảnh hưởng đến tốc độ xử lý.`,
 		icon: 'tabler:chevrons-right',
 		},
 
 		{
-		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu trích xuất URL từ liên kết',
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu trích xuất tiêu đề từ liên kết',
 		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
 		icon: 'tabler:chevrons-right',
 		},

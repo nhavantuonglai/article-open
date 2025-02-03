@@ -22,187 +22,142 @@ import Question from '~/components/widgets/question.astro';
 
 <Emoji/>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					callToAction={{
-						text: 'Sử dụng công cụ',
-						href: 'https://nhavantuonglai.com/analytics/emoji',
-					}}
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/emoji',
+	}}
 
 
-					items={[
-						{
-						title: 'Làm nội dung hấp dẫn, sinh động hơn',
-						description:
-							'Emoji cung cấp những sắc thái, hình ảnh biểu trưng khác nhau, giúp thông tin bạn truyền tải sẽ trở nên thú vị và độc đáo hơn.',
-						},
-						{
-						title: 'Thao tác đơn giản',
-						description:
-							'Chỉ cần click vào từng emoji bạn muốn sử dụng, hệ thống sẽ tự động copy để bạn dễ dàng sử dụng.',
-						},
-					]}
+	items={[
+		{
+		title: 'Làm nội dung hấp dẫn, sinh động hơn',
+		description:
+			'Emoji cung cấp những sắc thái, hình ảnh biểu trưng khác nhau, giúp thông tin bạn truyền tải sẽ trở nên thú vị và độc đáo hơn.',
+		},
+		{
+		title: 'Thao tác đơn giản',
+		description:
+			'Chỉ cần click vào từng emoji bạn muốn sử dụng, hệ thống sẽ tự động copy để bạn dễ dàng sử dụng.',
+		},
+	]}
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-524.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-524.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					<Fragment slot="content">
-						Khám phá bộ 1001 emoji, icon Facebook chuẩn 2025, cập nhật mới nhất với danh sách emoji cập nhật liên tục. Bạn có thể dễ dàng tìm kiếm và sử dụng biểu tượng cảm xúc bằng ký tự trên Facebook phù hợp mọi hoàn cảnh. Làm mới ngôn từ, bài viết của bạn ngay!
-					</Fragment>
+	<Fragment slot="content">
+		Khám phá bộ 1001 emoji, icon Facebook chuẩn 2025, cập nhật mới nhất với danh sách emoji cập nhật liên tục. Bạn có thể dễ dàng tìm kiếm và sử dụng biểu tượng cảm xúc bằng ký tự trên Facebook phù hợp mọi hoàn cảnh. Làm mới ngôn từ, bài viết của bạn ngay!
+	</Fragment>
 
-				</CTA>
-		</div>
+</CTA>
 
-</section>
+<CTA
 
-<section class="relative md:-mt-[76px] not-prose">
+	title="Giới thiệu về bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	isReversed
 
-				<CTA
+	items={[
+		{
+		title: 'Emoji Facebook là gì?',
+		description:
+			'Emoji Facebook là tập hợp các biểu tượng cảm xúc và hình ảnh minh họa, được thiết kế để người dùng thể hiện cảm xúc, ý tưởng hoặc thông điệp trên nền tảng mạng xã hội. Được tích hợp trong các bài viết, bình luận, tin nhắn, emoji giúp giao tiếp trở nên sinh động và thú vị hơn. Với sự phát triển không ngừng, bộ emoji Facebook chuẩn 2025 mang đến nhiều cải tiến về hình thức và nội dung, phù hợp với xu hướng giao tiếp trực tuyến hiện đại.',
+		},
+		{
+		title: 'Sự phát triển của emoji trên Facebook',
+		description:
+			'đáp ứng nhu cầu sử dụng ngày càng cao. Năm 2025 đánh dấu bước tiến lớn với việc bổ sung nhiều emoji mới, cải thiện chất lượng hình ảnh và tối ưu hóa khả năng tương thích với Unicode.',
+		},
+	]}
 
-					title="Giới thiệu về bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-572.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					isReversed
+</CTA>
 
-					items={[
-						{
-						title: 'Emoji Facebook là gì?',
-						description:
-							'Emoji Facebook là tập hợp các biểu tượng cảm xúc và hình ảnh minh họa, được thiết kế để người dùng thể hiện cảm xúc, ý tưởng hoặc thông điệp trên nền tảng mạng xã hội. Được tích hợp trong các bài viết, bình luận, tin nhắn, emoji giúp giao tiếp trở nên sinh động và thú vị hơn. Với sự phát triển không ngừng, bộ emoji Facebook chuẩn 2025 mang đến nhiều cải tiến về hình thức và nội dung, phù hợp với xu hướng giao tiếp trực tuyến hiện đại.',
-						},
-						{
-						title: 'Sự phát triển của emoji trên Facebook',
-						description:
-							'đáp ứng nhu cầu sử dụng ngày càng cao. Năm 2025 đánh dấu bước tiến lớn với việc bổ sung nhiều emoji mới, cải thiện chất lượng hình ảnh và tối ưu hóa khả năng tương thích với Unicode.',
-						},
-					]}
+<CTA
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-572.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	title="Tính năng nổi bật của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
 
-				</CTA>
-		</div>
+	items={[
+		{
+		title: 'Cập nhật các biểu tượng mới',
+		description:
+			'Bộ emoji Facebook 2025 bổ sung hàng loạt biểu tượng mới, phản ánh đa dạng văn hóa, xã hội và các chủ đề hiện đại: (1) Biểu tượng cảm xúc phong phú: Bao gồm các biểu tượng mới về tình yêu, gia đình, thiên nhiên và công nghệ. (2) Icon đa dạng hơn: Tăng cường sự lựa chọn với các hình ảnh đại diện cho các hoạt động thể thao, thực phẩm và nghề nghiệp. (3) Hỗ trợ xu hướng toàn cầu: Các emoji mới phản ánh các sự kiện, phong cách sống và văn hóa quốc tế.',
+		},
+		{
+		title: 'Chất lượng hình ảnh được cải thiện',
+		description:
+			'Emoji Facebook 2025 nâng cấp đồ họa để hình ảnh trở nên sắc nét hơn, phù hợp với các thiết bị có độ phân giải cao. (1) Tối ưu hóa cho mọi nền tảng: Emoji hiển thị rõ nét trên cả máy tính, điện thoại và máy tính bảng. (2) Màu sắc sống động: Tăng cường sự hấp dẫn trực quan khi sử dụng trong các bài viết hoặc tin nhắn. (3) Bộ emoji Facebook chuẩn 2025 hoàn toàn tương thích với các chuẩn Unicode mới nhất, đảm bảo sự đồng nhất và hiển thị chính xác trên mọi nền tảng khác nhau.',
+		},
+	]}
 
-</section>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-545.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-<section class="relative md:-mt-[76px] not-prose">
+</CTA>
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+<CTA
 
-				<CTA
+	title="Lợi ích và ứng dụng thực tế của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
 
-					title="Tính năng nổi bật của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
+	isReversed
 
-					items={[
-						{
-						title: 'Cập nhật các biểu tượng mới',
-						description:
-							'Bộ emoji Facebook 2025 bổ sung hàng loạt biểu tượng mới, phản ánh đa dạng văn hóa, xã hội và các chủ đề hiện đại: (1) Biểu tượng cảm xúc phong phú: Bao gồm các biểu tượng mới về tình yêu, gia đình, thiên nhiên và công nghệ. (2) Icon đa dạng hơn: Tăng cường sự lựa chọn với các hình ảnh đại diện cho các hoạt động thể thao, thực phẩm và nghề nghiệp. (3) Hỗ trợ xu hướng toàn cầu: Các emoji mới phản ánh các sự kiện, phong cách sống và văn hóa quốc tế.',
-						},
-						{
-						title: 'Chất lượng hình ảnh được cải thiện',
-						description:
-							'Emoji Facebook 2025 nâng cấp đồ họa để hình ảnh trở nên sắc nét hơn, phù hợp với các thiết bị có độ phân giải cao. (1) Tối ưu hóa cho mọi nền tảng: Emoji hiển thị rõ nét trên cả máy tính, điện thoại và máy tính bảng. (2) Màu sắc sống động: Tăng cường sự hấp dẫn trực quan khi sử dụng trong các bài viết hoặc tin nhắn. (3) Bộ emoji Facebook chuẩn 2025 hoàn toàn tương thích với các chuẩn Unicode mới nhất, đảm bảo sự đồng nhất và hiển thị chính xác trên mọi nền tảng khác nhau.',
-						},
-					]}
+	items={[
+		{
+		title: 'Lợi ích của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất',
+		description:
+			'Emoji không chỉ là công cụ giao tiếp mà còn mang lại nhiều lợi ích đáng kể: (1) Cải thiện khả năng biểu đạt: Người dùng dễ dàng truyền tải cảm xúc hoặc thông điệp phức tạp thông qua các biểu tượng. (2) Tăng tương tác trên mạng xã hội: Sử dụng emoji trong bài viết hoặc bình luận giúp nội dung nổi bật hơn, thu hút người xem. (3) Thúc đẩy sự sáng tạo: Người dùng có thể kết hợp các emoji để tạo nên các câu chuyện hoặc thông điệp độc đáo.',
+		},
+		{
+		title: 'Ứng dụng bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất trong các lĩnh vực',
+		description:
+			'(1) Marketing và quảng cáo: Emoji được sử dụng trong chiến dịch tiếp thị để tạo sự gần gũi và thân thiện với khách hàng. (2) Giao tiếp cá nhân: Tăng cường sự gắn kết khi nhắn tin hoặc trò chuyện trực tuyến. (3) Học tập và giáo dục: Emoji hỗ trợ minh họa các bài giảng hoặc tài liệu học tập, giúp người học dễ dàng ghi nhớ nội dung.',
+		},
+	]}
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-545.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-565.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-				</CTA>
-		</div>
+</CTA>
 
-</section>
+<CTA
 
-<section class="relative md:-mt-[76px] not-prose">
+	title="Đánh giá trải nghiệm bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	items={[
+		{
+		title: 'Giao diện thân thiện và dễ sử dụng',
+		description:
+			'Người dùng đánh giá cao sự đa dạng và chất lượng của bộ emoji Facebook chuẩn 2025. Tính năng cập nhật tự động và khả năng tương thích vượt trội giúp việc sử dụng trở nên thuận tiện hơn bao giờ hết. Với sự phổ biến của emoji, Facebook hứa hẹn tiếp tục cải tiến và mở rộng bộ emoji để đáp ứng nhu cầu của hàng tỷ người dùng trên toàn thế giới. Việc tích hợp công nghệ AI để cá nhân hóa emoji cũng được dự đoán là xu hướng tiếp theo.',
+		},
+		{
+		title: 'Tiềm năng phát triển trong tương lai',
+		description:
+			'Bộ emoji Facebook chuẩn 2025 không chỉ đơn thuần là công cụ giao tiếp mà còn là cách để người dùng thể hiện bản thân và kết nối với thế giới. Với những tính năng nổi bật và lợi ích thiết thực, đây chắc chắn là cập nhật đáng giá nhất của Facebook.',
+		},
+	]}
 
-				<CTA
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-520.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					title="Lợi ích và ứng dụng thực tế của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
-
-					isReversed
-
-					items={[
-						{
-						title: 'Lợi ích của bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất',
-						description:
-							'Emoji không chỉ là công cụ giao tiếp mà còn mang lại nhiều lợi ích đáng kể: (1) Cải thiện khả năng biểu đạt: Người dùng dễ dàng truyền tải cảm xúc hoặc thông điệp phức tạp thông qua các biểu tượng. (2) Tăng tương tác trên mạng xã hội: Sử dụng emoji trong bài viết hoặc bình luận giúp nội dung nổi bật hơn, thu hút người xem. (3) Thúc đẩy sự sáng tạo: Người dùng có thể kết hợp các emoji để tạo nên các câu chuyện hoặc thông điệp độc đáo.',
-						},
-						{
-						title: 'Ứng dụng bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất trong các lĩnh vực',
-						description:
-							'(1) Marketing và quảng cáo: Emoji được sử dụng trong chiến dịch tiếp thị để tạo sự gần gũi và thân thiện với khách hàng. (2) Giao tiếp cá nhân: Tăng cường sự gắn kết khi nhắn tin hoặc trò chuyện trực tuyến. (3) Học tập và giáo dục: Emoji hỗ trợ minh họa các bài giảng hoặc tài liệu học tập, giúp người học dễ dàng ghi nhớ nội dung.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-565.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
-
-<section class="relative md:-mt-[76px] not-prose">
-
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					title="Đánh giá trải nghiệm bộ emoji, icon Facebook chuẩn 2025, cập nhật mới nhất"
-
-					items={[
-						{
-						title: 'Giao diện thân thiện và dễ sử dụng',
-						description:
-							'Người dùng đánh giá cao sự đa dạng và chất lượng của bộ emoji Facebook chuẩn 2025. Tính năng cập nhật tự động và khả năng tương thích vượt trội giúp việc sử dụng trở nên thuận tiện hơn bao giờ hết. Với sự phổ biến của emoji, Facebook hứa hẹn tiếp tục cải tiến và mở rộng bộ emoji để đáp ứng nhu cầu của hàng tỷ người dùng trên toàn thế giới. Việc tích hợp công nghệ AI để cá nhân hóa emoji cũng được dự đoán là xu hướng tiếp theo.',
-						},
-						{
-						title: 'Tiềm năng phát triển trong tương lai',
-						description:
-							'Bộ emoji Facebook chuẩn 2025 không chỉ đơn thuần là công cụ giao tiếp mà còn là cách để người dùng thể hiện bản thân và kết nối với thế giới. Với những tính năng nổi bật và lợi ích thiết thực, đây chắc chắn là cập nhật đáng giá nhất của Facebook.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-520.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
+</CTA>
 
 <Question
 

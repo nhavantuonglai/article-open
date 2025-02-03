@@ -1,23 +1,20 @@
 ---
 import Analytics from '~/components/widgets/analytics.astro';
 ---
-<section class="relative md:-mt-[76px] not-prose">
 
-	<Analytics
+<Analytics
 
-		id="title"
-		title="Trích xuất tiêu đề từ URL"
-		description="Nhập URL bài viết để lấy tiêu đề"
+	id="title"
+	title="Công cụ trích xuất tiêu đề từ liên kết"
+	description="Hướng dẫn: Sao chép và dán liên kết cần trích xuất tiêu đề, công cụ sẽ trả về tiêu đề tương ứng nhanh chóng và miễn phí."
 
-		inputType="text"
-		outputType="text"
+	inputType="text"
+	outputType="text"
 
-		placeholder="Nhập URL bài viết…"
-		debounceTime={500}
+	placeholder="Vui lòng nhập liên kết cần trích xuất tiêu đề ở đây."
+	debounceTime={500}
 
-	/>
-
-</section>
+/>
 
 <script client:load>
 

@@ -22,15 +22,15 @@ const {
 
 	<div class="flex items-stretch justify-center">
 		<div class="grid grid-cols-3 gap-4 dark:text-white sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3">
-			{prices && prices.length > 0 && prices.map(({ 
-				title, 
-				subtitle, 
-				price, 
-				period, 
-				items, 
-				callToAction, 
-				hasRibbon = false, 
-				ribbonTitle 
+			{prices && prices.length > 0 && prices.map(({
+				title,
+				subtitle,
+				price,
+				period,
+				items,
+				callToAction,
+				hasRibbon = false,
+				ribbonTitle
 			}, index) => (
 				<div key={index} class="col-span-3 mx-auto flex w-full sm:col-span-1 md:col-span-1 lg:col-span-1 xl:col-span-1">
 					{price && period && (

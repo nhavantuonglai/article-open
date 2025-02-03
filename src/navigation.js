@@ -43,14 +43,6 @@ export const headerData = {
 					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
 				{
-					text: 'Dịch phụ đề AI',
-					href: 'https://nhavantuonglai.com/analytics/subtitle',
-				},
-				{
-					text: 'Quét chữ trong ảnh',
-					href: 'https://nhavantuonglai.com/analytics/ocr',
-				},
-				{
 					text: 'Radio trực tuyến',
 					href: 'https://nhavantuonglai.com/analytics/radio',
 				},
@@ -61,6 +53,14 @@ export const headerData = {
 				{
 					text: 'Từ điển tiếng Anh',
 					href: 'https://nhavantuonglai.com/analytics/dictionary',
+				},
+				{
+					text: 'Dịch phụ đề AI (Beta)',
+					href: 'https://nhavantuonglai.com/analytics/subtitle',
+				},
+				{
+					text: 'Quét chữ trong ảnh (Beta)',
+					href: 'https://nhavantuonglai.com/analytics/ocr',
 				},
 			],
 		},

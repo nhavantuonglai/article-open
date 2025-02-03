@@ -1,23 +1,20 @@
 ---
 import Analytics from '~/components/widgets/analytics.astro';
 ---
-<section class="relative md:-mt-[76px] not-prose">
 
-	<Analytics
+<Analytics
 
-			id="countdown"
-			title="Đếm ngược đến Tết 2026"
-			description="Đếm ngược thời gian đến giao thừa Tết 2026"
+	id="countdown"
+	title="Công cụ đếm ngược giao thừa 2026"
+	description="Hướng dẫn: Bạn cần biết thông tin giao thừa 2026 còn bao nhiêu ngày? Dưới đây là câu trả lời dành cho bạn."
 
-			inputType="hidden"
-			outputType="text"
+	inputType="hidden"
+	outputType="text"
 
-			placeholder=""
-			debounceTime={1000}
+	placeholder="Thông tin giao thừa 2026 còn bao nhiêu ngày? sẽ hiển thị ở đây."
+	debounceTime={1000}
 
-		/>
-
-</section>
+/>
 
 <script client:load>
 
@@ -34,7 +31,7 @@ import Analytics from '~/components/widgets/analytics.astro';
 			const diff = newYear - now;
 
 			if (diff < 0) {
-				resultOutput.textContent = "Đã qua giao thừa 2026!";
+				resultOutput.textContent = "Chúc mừng năm mới!";
 				return;
 			}
 
@@ -56,7 +53,7 @@ import Analytics from '~/components/widgets/analytics.astro';
 			if (years > 0) result += `${padNumber(years)} năm `;
 			if (hours > 0) result += `${padNumber(hours)} giờ `;
 			if (minutes > 0) result += `${padNumber(minutes)} phút `;
-			if (seconds > 0) result += `${padNumber(seconds)} giây `, 
+			if (seconds > 0) result += `${padNumber(seconds)} giây `,
 
 			result += "là đến giao thừa 2026.";
 

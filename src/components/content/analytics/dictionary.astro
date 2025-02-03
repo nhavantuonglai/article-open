@@ -22,186 +22,142 @@ import Question from '~/components/widgets/question.astro';
 
 <Dictionary/>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					callToAction={{
-						text: 'Sử dụng công cụ',
-						href: 'https://nhavantuonglai.com/analytics/streaming',
-					}}
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/streaming',
+	}}
 
 
-					items={[
-						{
-						title: 'Tiết kiệm thời gian và độ chính xác cao',
-						description:
-							'Không cần mất thời gian lật từng trang sách, người dùng có thể nhập từ khóa và nhận kết quả ngay lập tức.',
-						},
-						{
-						title: 'Hỗ trợ nhiều ngôn ngữ và chức năng đa dạng',
-						description:
-							'Ngoài khả năng tra từ đơn giản, từ điển trực tuyến còn hỗ trợ dịch thuật, tra từ đồng nghĩa – trái nghĩa.',
-						},
-					]}
+	items={[
+		{
+		title: 'Tiết kiệm thời gian và độ chính xác cao',
+		description:
+			'Không cần mất thời gian lật từng trang sách, người dùng có thể nhập từ khóa và nhận kết quả ngay lập tức.',
+		},
+		{
+		title: 'Hỗ trợ nhiều ngôn ngữ và chức năng đa dạng',
+		description:
+			'Ngoài khả năng tra từ đơn giản, từ điển trực tuyến còn hỗ trợ dịch thuật, tra từ đồng nghĩa – trái nghĩa.',
+		},
+	]}
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-521.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-521.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					<Fragment slot="content">
-						Không chỉ giúp học sinh, sinh viên nâng cao vốn từ vựng, công cụ này còn hỗ trợ người đi làm, nhà nghiên cứu và bất kỳ ai cần tra từ trong công việc hoặc cuộc sống hàng ngày.
-					</Fragment>
+	<Fragment slot="content">
+		Không chỉ giúp học sinh, sinh viên nâng cao vốn từ vựng, công cụ này còn hỗ trợ người đi làm, nhà nghiên cứu và bất kỳ ai cần tra từ trong công việc hoặc cuộc sống hàng ngày.
+	</Fragment>
 
-				</CTA>
-		</div>
-</section>
+</CTA>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	title="Giới thiệu về công cụ kiểm tra từ điển trực tuyến"
 
-				<CTA
+	isReversed
 
-					title="Giới thiệu về công cụ kiểm tra từ điển trực tuyến"
+	items={[
+		{
+		title: 'Công cụ kiểm tra từ điển trực tuyến là gì?',
+		description:
+			'Từ điển trực tuyến là hệ thống tra cứu từ ngữ trên nền tảng internet, giúp người dùng nhanh chóng tìm kiếm thông tin về từ vựng, bao gồm định nghĩa, phát âm, loại từ, ngữ cảnh sử dụng, từ đồng nghĩa – trái nghĩa và dịch thuật sang các ngôn ngữ khác. Công cụ này có thể hoạt động trên trình duyệt web, ứng dụng di động hoặc tích hợp vào các phần mềm hỗ trợ ngôn ngữ. Nhờ công nghệ hiện đại, nhiều từ điển trực tuyến còn có khả năng học máy, cập nhật liên tục các thuật ngữ mới, điều chỉnh theo sự thay đổi của ngôn ngữ và cải thiện trải nghiệm người dùng theo thời gian.',
+		},
+		{
+		title: 'Tại sao cần đến công cụ kiểm tra từ điển trực tuyến?',
+		description:
+			'Sự phát triển của từ điển trực tuyến đã thay đổi hoàn toàn cách con người tiếp cận và học ngôn ngữ. Trong thời đại số, nơi thông tin cần được tiếp cận nhanh chóng và chính xác, công cụ này giúp người dùng tra cứu từ vựng mọi lúc, mọi nơi, không bị giới hạn bởi không gian và thời gian như các loại từ điển giấy truyền thống. Ngoài ra, với sự hỗ trợ của AI và dữ liệu lớn (Big Data), từ điển trực tuyến ngày càng trở nên thông minh, cung cấp kết quả phù hợp theo ngữ cảnh và nhu cầu thực tế của người dùng.',
+		},
+	]}
 
-					isReversed
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-522.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					items={[
-						{
-						title: 'Công cụ kiểm tra từ điển trực tuyến là gì?',
-						description:
-							'Từ điển trực tuyến là hệ thống tra cứu từ ngữ trên nền tảng internet, giúp người dùng nhanh chóng tìm kiếm thông tin về từ vựng, bao gồm định nghĩa, phát âm, loại từ, ngữ cảnh sử dụng, từ đồng nghĩa – trái nghĩa và dịch thuật sang các ngôn ngữ khác. Công cụ này có thể hoạt động trên trình duyệt web, ứng dụng di động hoặc tích hợp vào các phần mềm hỗ trợ ngôn ngữ. Nhờ công nghệ hiện đại, nhiều từ điển trực tuyến còn có khả năng học máy, cập nhật liên tục các thuật ngữ mới, điều chỉnh theo sự thay đổi của ngôn ngữ và cải thiện trải nghiệm người dùng theo thời gian.',
-						},
-						{
-						title: 'Tại sao cần đến công cụ kiểm tra từ điển trực tuyến?',
-						description:
-							'Sự phát triển của từ điển trực tuyến đã thay đổi hoàn toàn cách con người tiếp cận và học ngôn ngữ. Trong thời đại số, nơi thông tin cần được tiếp cận nhanh chóng và chính xác, công cụ này giúp người dùng tra cứu từ vựng mọi lúc, mọi nơi, không bị giới hạn bởi không gian và thời gian như các loại từ điển giấy truyền thống. Ngoài ra, với sự hỗ trợ của AI và dữ liệu lớn (Big Data), từ điển trực tuyến ngày càng trở nên thông minh, cung cấp kết quả phù hợp theo ngữ cảnh và nhu cầu thực tế của người dùng.',
-						},
-					]}
+</CTA>
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-522.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+<CTA
 
-				</CTA>
-		</div>
+	title="Tính năng nổi bật của công cụ kiểm tra từ điển trực tuyến"
 
-</section>
+	items={[
+		{
+		title: 'Tính năng dịch thuật đa ngôn ngữ',
+		description:
+			'Một trong những tính năng quan trọng nhất của từ điển trực tuyến là khả năng dịch thuật nhiều ngôn ngữ khác nhau. Người dùng có thể nhập từ cần tra cứu và nhận được bản dịch sang nhiều ngôn ngữ khác, kèm theo phát âm, cách sử dụng và các ví dụ minh họa. Tính năng này đặc biệt hữu ích cho người học ngoại ngữ, dịch thuật viên hoặc bất kỳ ai cần hiểu nhanh một từ hoặc cụm từ trong ngữ cảnh cụ thể. Một số công cụ tiên tiến còn có khả năng dịch văn bản dài và phát hiện ngôn ngữ tự động, giúp tối ưu hóa quá trình tra cứu.',
+		},
+		{
+		title: 'Tính năng phát âm chuẩn và luyện nghe',
+		description:
+			'Bên cạnh việc tra cứu từ ngữ, nhiều nền tảng từ điển trực tuyến còn tích hợp công nghệ nhận diện giọng nói và phát âm chuẩn từ người bản xứ. Điều này giúp người dùng cải thiện kỹ năng phát âm và nghe hiểu một cách hiệu quả. Các hệ thống tiên tiến còn cho phép người dùng thu âm giọng nói của mình và so sánh với phát âm chuẩn, giúp nâng cao khả năng giao tiếp trong ngôn ngữ đang học.',
+		},
+	]}
 
-<section class="relative md:-mt-[76px] not-prose">
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-523.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+</CTA>
 
-				<CTA
+<CTA
 
-					title="Tính năng nổi bật của công cụ kiểm tra từ điển trực tuyến"
+	title="Lợi ích và ứng dụng thực tế của công cụ kiểm tra từ điển trực tuyến"
 
-					items={[
-						{
-						title: 'Tính năng dịch thuật đa ngôn ngữ',
-						description:
-							'Một trong những tính năng quan trọng nhất của từ điển trực tuyến là khả năng dịch thuật nhiều ngôn ngữ khác nhau. Người dùng có thể nhập từ cần tra cứu và nhận được bản dịch sang nhiều ngôn ngữ khác, kèm theo phát âm, cách sử dụng và các ví dụ minh họa. Tính năng này đặc biệt hữu ích cho người học ngoại ngữ, dịch thuật viên hoặc bất kỳ ai cần hiểu nhanh một từ hoặc cụm từ trong ngữ cảnh cụ thể. Một số công cụ tiên tiến còn có khả năng dịch văn bản dài và phát hiện ngôn ngữ tự động, giúp tối ưu hóa quá trình tra cứu.',
-						},
-						{
-						title: 'Tính năng phát âm chuẩn và luyện nghe',
-						description:
-							'Bên cạnh việc tra cứu từ ngữ, nhiều nền tảng từ điển trực tuyến còn tích hợp công nghệ nhận diện giọng nói và phát âm chuẩn từ người bản xứ. Điều này giúp người dùng cải thiện kỹ năng phát âm và nghe hiểu một cách hiệu quả. Các hệ thống tiên tiến còn cho phép người dùng thu âm giọng nói của mình và so sánh với phát âm chuẩn, giúp nâng cao khả năng giao tiếp trong ngôn ngữ đang học.',
-						},
-					]}
+	isReversed
 
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-523.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
+	items={[
+		{
+		title: 'Lợi ích của công cụ kiểm tra từ điển trực tuyến',
+		description:
+			'Việc sử dụng từ điển trực tuyến mang lại nhiều lợi ích đáng kể, đặc biệt trong việc học tập và làm việc. Không chỉ giúp nâng cao vốn từ vựng, công cụ này còn giúp người dùng hiểu sâu hơn về cách sử dụng từ ngữ trong từng ngữ cảnh cụ thể. Những người học ngoại ngữ có thể tận dụng từ điển trực tuyến để trau dồi kỹ năng ngôn ngữ, đồng thời nắm bắt các xu hướng ngôn ngữ mới. Ngoài ra, những ai làm việc trong các lĩnh vực chuyên môn như y học, kỹ thuật, công nghệ thông tin cũng có thể sử dụng công cụ này để tra cứu các thuật ngữ chuyên ngành một cách chính xác.',
+		},
+		{
+		title: 'Ứng dụng công cụ kiểm tra từ điển trực tuyến trong các lĩnh vực',
+		description:
+			'Không chỉ giới hạn trong việc học tập, từ điển trực tuyến còn có ứng dụng rộng rãi trong nhiều lĩnh vực khác nhau. Các doanh nghiệp có thể sử dụng công cụ này để hỗ trợ dịch thuật tài liệu, hợp đồng, hay giao tiếp với đối tác nước ngoài. Người đi du lịch có thể nhanh chóng tra cứu các từ thông dụng để giao tiếp hiệu quả hơn trong môi trường mới. Bên cạnh đó, nhiều nền tảng từ điển trực tuyến còn cung cấp tính năng học từ vựng theo chủ đề, giúp người dùng dễ dàng hệ thống hóa kiến thức và nâng cao kỹ năng sử dụng từ ngữ trong thực tế.',
+		},
+	]}
 
-				</CTA>
-		</div>
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-524.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-</section>
+</CTA>
 
-<section class="relative md:-mt-[76px] not-prose">
+<CTA
 
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+	title="Đánh giá trải nghiệm công cụ kiểm tra từ điển trực tuyến"
 
-				<CTA
+	items={[
+		{
+		title: 'Phản hồi từ người dùng',
+		description:
+			'Phần lớn người dùng đều đánh giá cao sự tiện lợi và chính xác của từ điển trực tuyến. So với phương pháp tra cứu truyền thống, công cụ này không chỉ giúp tiết kiệm thời gian mà còn cung cấp nhiều thông tin bổ ích, giúp người học nắm bắt từ vựng nhanh hơn. Nhiều ứng dụng từ điển trực tuyến hiện nay có giao diện thân thiện, dễ sử dụng, hỗ trợ nhiều nền tảng như web, mobile app và có khả năng đồng bộ dữ liệu giữa các thiết bị. Điều này giúp người dùng có thể tra cứu mọi lúc, mọi nơi mà không gặp bất kỳ trở ngại nào.',
+		},
+		{
+		title: 'Phù hợp với nhiều đối tượng người dùng',
+		description:
+			'Với sự phát triển không ngừng của công nghệ AI và dữ liệu lớn, từ điển trực tuyến đang ngày càng được cải thiện và mở rộng tính năng. Các hệ thống AI có khả năng hiểu ngữ cảnh tốt hơn, cung cấp các gợi ý từ vựng phù hợp hơn và giúp cá nhân hóa trải nghiệm học tập của người dùng. Trong tương lai, từ điển trực tuyến có thể tích hợp thêm công nghệ nhận diện giọng nói tiên tiến, hỗ trợ dịch thuật thời gian thực và áp dụng vào nhiều lĩnh vực hơn như giáo dục, thương mại và công nghệ thông tin. Nhờ đó, công cụ này sẽ tiếp tục trở thành một phần không thể thiếu trong đời sống hiện đại.',
+		},
+	]}
 
-					title="Lợi ích và ứng dụng thực tế của công cụ kiểm tra từ điển trực tuyến"
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-525.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
 
-					isReversed
-
-					items={[
-						{
-						title: 'Lợi ích của công cụ kiểm tra từ điển trực tuyến',
-						description:
-							'Việc sử dụng từ điển trực tuyến mang lại nhiều lợi ích đáng kể, đặc biệt trong việc học tập và làm việc. Không chỉ giúp nâng cao vốn từ vựng, công cụ này còn giúp người dùng hiểu sâu hơn về cách sử dụng từ ngữ trong từng ngữ cảnh cụ thể. Những người học ngoại ngữ có thể tận dụng từ điển trực tuyến để trau dồi kỹ năng ngôn ngữ, đồng thời nắm bắt các xu hướng ngôn ngữ mới. Ngoài ra, những ai làm việc trong các lĩnh vực chuyên môn như y học, kỹ thuật, công nghệ thông tin cũng có thể sử dụng công cụ này để tra cứu các thuật ngữ chuyên ngành một cách chính xác.',
-						},
-						{
-						title: 'Ứng dụng công cụ kiểm tra từ điển trực tuyến trong các lĩnh vực',
-						description:
-							'Không chỉ giới hạn trong việc học tập, từ điển trực tuyến còn có ứng dụng rộng rãi trong nhiều lĩnh vực khác nhau. Các doanh nghiệp có thể sử dụng công cụ này để hỗ trợ dịch thuật tài liệu, hợp đồng, hay giao tiếp với đối tác nước ngoài. Người đi du lịch có thể nhanh chóng tra cứu các từ thông dụng để giao tiếp hiệu quả hơn trong môi trường mới. Bên cạnh đó, nhiều nền tảng từ điển trực tuyến còn cung cấp tính năng học từ vựng theo chủ đề, giúp người dùng dễ dàng hệ thống hóa kiến thức và nâng cao kỹ năng sử dụng từ ngữ trong thực tế.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-524.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
-
-<section class="relative md:-mt-[76px] not-prose">
-
-	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto">
-			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-
-				<CTA
-
-					title="Đánh giá trải nghiệm công cụ kiểm tra từ điển trực tuyến"
-
-					items={[
-						{
-						title: 'Phản hồi từ người dùng',
-						description:
-							'Phần lớn người dùng đều đánh giá cao sự tiện lợi và chính xác của từ điển trực tuyến. So với phương pháp tra cứu truyền thống, công cụ này không chỉ giúp tiết kiệm thời gian mà còn cung cấp nhiều thông tin bổ ích, giúp người học nắm bắt từ vựng nhanh hơn. Nhiều ứng dụng từ điển trực tuyến hiện nay có giao diện thân thiện, dễ sử dụng, hỗ trợ nhiều nền tảng như web, mobile app và có khả năng đồng bộ dữ liệu giữa các thiết bị. Điều này giúp người dùng có thể tra cứu mọi lúc, mọi nơi mà không gặp bất kỳ trở ngại nào.',
-						},
-						{
-						title: 'Phù hợp với nhiều đối tượng người dùng',
-						description:
-							'Với sự phát triển không ngừng của công nghệ AI và dữ liệu lớn, từ điển trực tuyến đang ngày càng được cải thiện và mở rộng tính năng. Các hệ thống AI có khả năng hiểu ngữ cảnh tốt hơn, cung cấp các gợi ý từ vựng phù hợp hơn và giúp cá nhân hóa trải nghiệm học tập của người dùng. Trong tương lai, từ điển trực tuyến có thể tích hợp thêm công nghệ nhận diện giọng nói tiên tiến, hỗ trợ dịch thuật thời gian thực và áp dụng vào nhiều lĩnh vực hơn như giáo dục, thương mại và công nghệ thông tin. Nhờ đó, công cụ này sẽ tiếp tục trở thành một phần không thể thiếu trong đời sống hiện đại.',
-						},
-					]}
-
-					image={{
-						src: 'https://banmaixanh.org/image/cover/001-525.jpg',
-						alt: 'nhan-tin-instagram',
-					}}
-				>
-
-				</CTA>
-		</div>
-
-</section>
+</CTA>
 
 <Question
 

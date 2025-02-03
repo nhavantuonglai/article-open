@@ -1,23 +1,20 @@
 ---
 import Analytics from '~/components/widgets/analytics.astro';
 ---
-<section class="relative md:-mt-[76px] not-prose">
 
-	<Analytics
+<Analytics
 
-		id="text-counter"
-		title="Đếm ký tự và thống kê văn bản"
-		description="Nhập văn bản để đếm số ký tự, số từ và số đoạn văn"
+	id="text-counter"
+	title="Công cụ đếm tần suất văn bản"
+	description="Hướng dẫn: Sao chép và dán văn bản đếm tần suất, công cụ sẽ trả về kết quả tương ứng."
 
-		inputType="text"
-		outputType="text"
+	inputType="text"
+	outputType="text"
 
-		placeholder="Nhập văn bản cần phân tích…"
-		debounceTime={500}
+	placeholder="Vui lòng nhập văn bản đếm tần suất ở đây."
+	debounceTime={500}
 
-	/>
-
-</section>
+/>
 
 <script client:load>
 
@@ -40,9 +37,7 @@ import Analytics from '~/components/widgets/analytics.astro';
 				.filter(para => para.trim().length > 0)
 				.length;
 
-			return `Số ký tự: ${charCount}
-Số từ: ${wordCount}
-Số đoạn văn: ${paragraphCount}`;
+			return `Số ký tự: ${charCount}. Số từ: ${wordCount}. Số đoạn văn: ${paragraphCount}.`;
 		}
 
 		textInput.addEventListener('input', () => {
@@ -54,4 +49,5 @@ Số đoạn văn: ${paragraphCount}`;
 			}, 500);
 		});
 	});
+
 </script>
