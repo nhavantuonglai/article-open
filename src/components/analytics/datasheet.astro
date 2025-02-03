@@ -2,22 +2,19 @@
 import Analytics from '~/components/widgets/analytics.astro';
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
-	<Analytics
+<Analytics
 
-		id="datasheet"
-		title="Truy vấn dữ liệu từ Google Sheets"
-		description="Nhập văn bản để tìm kiếm dữ liệu từ Google Sheets"
+	id="datasheet"
+	title="Công cụ kiểm tra dữ liệu trực tuyến"
+	description="Hướng dẫn: Sao chép và dán dữ liệu cần tra cứu ngữ nghĩa, công cụ sẽ trả về thông tin đúng và đủ về nội dung cần tìm."
 
-		inputType="text"
-		outputType="text"
+	inputType="text"
+	outputType="text"
 
-		placeholder="Nhập từ khóa để tìm kiếm…"
-		debounceTime={500}
+	placeholder="Vui lòng nhập dữ liệu cần tra cứu ở đây."
+	debounceTime={500}
 
-	/>
-
-</section>
+/>
 
 <script client:load>
 

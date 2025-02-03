@@ -1,23 +1,20 @@
 ---
 import Analytics from '~/components/widgets/analytics.astro';
 ---
-<section class="relative md:-mt-[76px] not-prose">
 
-	<Analytics
+<Analytics
 
-		id="unicode"
-		title="Chuyển văn bản sang Unicode"
-		description="Nhập văn bản để chuyển đổi sang định dạng Unicode"
+	id="unicode"
+	title="Công cụ chuyển đổi văn bản Unicode"
+	description="Hướng dẫn: Sao chép và dán văn bản cần chuyển đổi, công cụ sẽ trả về kết quả văn bản Unicode tương ứng."
 
-		inputType="text"
-		outputType="text"
+	inputType="text"
+	outputType="text"
 
-		placeholder="Nhập văn bản cần chuyển đổi…"
-		debounceTime={500}
+	placeholder="Vui lòng nhập văn bản Unicode cần chuyển đổi ở đây."
+	debounceTime={500}
 
-	/>
-
-</section>
+/>
 
 <script client:load>
 

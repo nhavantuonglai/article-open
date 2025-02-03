@@ -2,23 +2,19 @@
 import Analytics from '~/components/widgets/analytics.astro';
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
+<Analytics
 
-	<Analytics
+	id="phat-nguoi"
+	title="Công cụ kiểm tra phạt nguội trực tuyến"
+	description="Hướng dẫn: Sao chép và dán biển số xe cần kiểm tra phạt nguội, công cụ sẽ trả về kết quả phạt nguội dựa trên nội dung nhập vào."
 
-		id="phat-nguoi"
-		title="Kiểm tra phạt nguội"
-		description="Nhập biển số xe để kiểm tra tình trạng vi phạm giao thông"
+	inputType="text"
+	outputType="text"
 
-		inputType="text"
-		outputType="text"
+	placeholder="Vui lòng nhập biển số xe cần kiểm tra phạt nguội ở đây."
+	debounceTime={500}
 
-		placeholder="Nhập biển số xe cần tra cứu…"
-		debounceTime={500}
-
-	/>
-
-</section>
+/>
 
 <script client:load>
 
@@ -64,11 +60,11 @@ import Analytics from '~/components/widgets/analytics.astro';
 							const now = new Date();
 							const formattedTime = `${now.getHours()} giờ ${now.getMinutes()} phút, ngày ${now.getDate()} tháng ${now.getMonth() + 1} năm ${now.getFullYear()}`;
 
-							if (violation === 'Không có vi phạm' && 
-									!data.timestamp && 
-									!data.details && 
-									!data.status && 
-									!data.location && 
+							if (violation === 'Không có vi phạm' &&
+									!data.timestamp &&
+									!data.details &&
+									!data.status &&
+									!data.location &&
 									!data.offense) {
 								resultOutput.textContent = 'Biển số xe không bị phạt nguội.';
 							} else {
