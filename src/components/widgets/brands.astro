@@ -5,8 +5,7 @@ import Headline from '~/components/ui/headline.astro';
 import Block from '~/components/ui/block.astro';
 
 import {
-	Slideright,
-	Carousel
+	Slideright
 } from '~/assets/styles/framer.jsx';
 
 const {
@@ -32,14 +31,14 @@ const {
 			{icons && icons.map((icon) =><Icon name={icon} class="py-3 lg:py-5 w-12 h-auto mx-auto sm:mx-0 text-gray-500"/>)}
 			{
 				images &&
-						images.map(
-							(image) =>
-								image.src && (
-									<div class="flex justify-center col-span-1 my-2 lg:my-4 py-1 px-3 rounded-md dark:bg-gray-200">
-										<img title='nhavantuonglai' src={image.src} alt={image.alt || ''} class="max-h-12"/>
-									</div>
-								)
-						)
+					images.map(
+						(image) =>
+							image.src && (
+								<div class="flex justify-center col-span-1 my-2 lg:my-4 py-1 px-3 rounded-md dark:bg-gray-200">
+									<img title='nhavantuonglai' src={image.src} alt={image.alt || ''} class="max-h-12"/>
+								</div>
+							)
+					)
 			}
 		</div>
 
