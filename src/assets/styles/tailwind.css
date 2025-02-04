@@ -140,3 +140,14 @@ html::-webkit-scrollbar {
 .dd *:first-child {
 	margin-top: 0;
 }
+
+.framer-motion {
+	will-change: transform;
+}
+
+[data-motion] {
+	view-timeline-name: --motion;
+	view-timeline-axis: block;
+	animation-timeline: --motion;
+	animation-range: entry 25% cover 50%;
+}

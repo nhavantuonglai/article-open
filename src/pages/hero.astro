@@ -1,0 +1,63 @@
+---
+import Layout from '~/layouts/page.astro';
+import '~/assets/styles/tailwind.css';
+
+import Counter from '~/assets/framer/counter.jsx';
+import Slideup from '~/assets/framer/slideup.jsx';
+import Zoom from '~/assets/framer/zoom.jsx';
+
+
+const metadata = {
+	title: 'Văn hay trong hiện tại, chữ tốt ở tương lai | nhavantuonglai',
+	ignoreTitleTemplate: true,
+};
+---
+
+<Layout>
+
+	<section class="relative">
+
+		<Slideup client:visible>
+			<h1>Your Hero Title</h1>
+			<p>Your hero description</p>
+		</Slideup>
+		
+		<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+			<Zoom
+				client:visible 
+				src="/path/to/your/image.jpg" 
+				alt="Description"
+				className="rounded-lg shadow-lg"
+			/>
+
+			<div class="bg-white py-12">
+			  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+				<div class="flex justify-center space-x-8">
+				  <div class="text-center">
+					<Counter client:visible from={0} to={95} duration={2} className="text-primary" />
+					<p class="mt-2 text-lg">Khách hàng hài lòng</p>
+				  </div>
+				  <div class="text-center">
+					<Counter client:visible from={0} to={85} duration={2} className="text-secondary" />
+					<p class="mt-2 text-lg">Dự án thành công</p>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+			<style>
+
+			.stats-container {
+				@apply flex justify-center items-center gap-8 py-12;
+			}
+
+			.stat-item {
+				@apply text-center;
+			}
+			</style>
+
+		</div>
+
+	</section>
+
+</Layout>

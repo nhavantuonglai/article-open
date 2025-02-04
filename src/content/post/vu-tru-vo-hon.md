@@ -20,7 +20,7 @@ Giáo sư David Kipping của Đại học Columbia thường nhận thấy rằ
 
 Nhiều nhà khoa học và các nhân vật truyền thông cũng củng cố quan điểm này, biến cuộc trò chuyện từ _nếu_ có sự sống sang _khi nào_ chúng ta sẽ tìm thấy nó và _nó sẽ trông như thế nào._ Trong bầu không khí háo hức và suy đoán này, viễn cảnh gặp gỡ một nền văn minh ngoài hành tinh gần như trở thành điều tất yếu – trừ khi bạn tin rằng người ngoài hành tinh đã ở đây từ lâu.
 
-### Trực giác và khoa học: Một vũ trụ đông đúc hay một sự nhầm lẫn?
+## Trực giác và khoa học: Một vũ trụ đông đúc hay một sự nhầm lẫn?
 
 Kịch bản _Vũ trụ đông đúc_ có cách khiến chúng ta tin tưởng vào nó, phản ánh một số nguyên lý triết học sâu sắc nhưng đơn giản. Dao cạo Occam gợi ý rằng giả thuyết _có sự sống ngoài hành tinh_ là lời giải thích dễ dàng nhất – nó _có vẻ_ hợp lý. Nguyên lý tầm thường nhắc nhở rằng góc nhỏ bé của chúng ta trong vũ trụ có lẽ không đặc biệt đến mức duy nhất. Còn nguyên lý Copernicus thì quét sạch những ảo tưởng xưa cũ về sự quan trọng trung tâm của loài người trong vũ trụ. 
 

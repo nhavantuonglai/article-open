@@ -1,4 +1,8 @@
 ---
+import {
+	Slideup
+} from '~/assets/styles/framer.jsx';
+
 export interface Props {
   id: string;
   title?: string;
@@ -24,153 +28,157 @@ const {
 } = Astro.props;
 ---
 
-<section class="relative md:-mt-[76px] not-prose">
+<Slideup client:visible>
 
-	<div class="mx-auto max-w-7xl md:px-6 px-4">
+	<section class="relative md:-mt-[76px] not-prose">
 
-		<div class="bg-white text-black p-4 rounded-lg mb-6">
+		<div class="mx-auto max-w-7xl md:px-6 px-4">
 
-			<h2 class="text-center">{title}</h2>
-			{description && <p>{description}</p>}
+			<div class="bg-white text-black p-4 rounded-lg mb-6">
 
-			{inputType === 'text' && (
-				<textarea
-					id={`${id}-input`}
-					placeholder={placeholder}
-					class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
-					style="resize: none; height: 150px;"
-				></textarea>
-			)}
+				<h2 class="text-center">{title}</h2>
+				{description && <p>{description}</p>}
 
-			{inputType === 'file' && (
-				<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
-					<p>
-						<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
-							Choose File
-						</button>
-					</p>
-					<input
-						type="file"
-						id={`${id}-file`}
-						class="hidden"
-					/>
+				{inputType === 'text' && (
+					<textarea
+						id={`${id}-input`}
+						placeholder={placeholder}
+						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+						style="resize: none; height: 150px;"
+					></textarea>
+				)}
+
+				{inputType === 'file' && (
+					<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
+						<p>
+							<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
+								Choose File
+							</button>
+						</p>
+						<input
+							type="file"
+							id={`${id}-file`}
+							class="hidden"
+						/>
+					</div>
+				)}
+
+				{inputType === 'button' && (
+					<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
+						{channels.map((channel) => (
+							<button
+								class="btn-primary w-auto mb-6"
+								data-url={channel.url}
+							>
+								{channel.name}
+							</button>
+						))}
+					</div>
+				)}
+
+			</div>
+
+			<div class="border border-primary bg-white text-black p-4 rounded-lg">
+
+				{outputType === 'text' && (
+					<div id={`${id}-text-output`} class="overflow-y-auto min-h-[400px] h-auto p-2 rounded text-justify text-lg mb-6"></div>
+				)}
+
+				{outputType === 'file' && (
+					<div id={`${id}-file-output`} class="hidden">
+						<a id={`${id}-download`} href="#" class="btn-primary w-auto mb-6">
+							{downloadText}
+						</a>
+					</div>
+				)}
+
+				{outputType === 'audio' && (
+					<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
+						<audio id={`${id}-audio-player`} class="w-full  mb-6" controls>
+							<source id={`${id}-audio-source`} src="" type="audio/mpeg">
+						</audio>
+						<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
+					</div>
+				)}
+
+				{outputType === 'video' && (
+					<div id={`${id}-video-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
+						<video id={`${id}-video-player`} class="w-full  mb-6" controls>
+							<source id={`${id}-video-source`} src="" type="video/mp4">
+						</video>
+						<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
+					</div>
+				)}
+
+				<div id={`${id}-progress`} class="w-full bg-gray-200 rounded h-2 mb-6 hidden">
+					<div id={`${id}-progress-bar`} class="h-2 bg-primary rounded mb-6" style="width: 0%"></div>
 				</div>
-			)}
 
-			{inputType === 'button' && (
-				<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
-					{channels.map((channel) => (
-						<button
-							class="btn-primary w-auto mb-6"
-							data-url={channel.url}
-						>
-							{channel.name}
-						</button>
-					))}
-				</div>
-			)}
-
-		</div>
-
-		<div class="border border-primary bg-white text-black p-4 rounded-lg">
-
-			{outputType === 'text' && (
-				<div id={`${id}-text-output`} class="overflow-y-auto min-h-[400px] h-auto p-2 rounded text-justify text-lg mb-6"></div>
-			)}
-
-			{outputType === 'file' && (
-				<div id={`${id}-file-output`} class="hidden">
-					<a id={`${id}-download`} href="#" class="btn-primary w-auto mb-6">
-						{downloadText}
-					</a>
-				</div>
-			)}
-
-			{outputType === 'audio' && (
-				<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
-					<audio id={`${id}-audio-player`} class="w-full  mb-6" controls>
-						<source id={`${id}-audio-source`} src="" type="audio/mpeg">
-					</audio>
-					<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
-				</div>
-			)}
-
-			{outputType === 'video' && (
-				<div id={`${id}-video-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
-					<video id={`${id}-video-player`} class="w-full  mb-6" controls>
-						<source id={`${id}-video-source`} src="" type="video/mp4">
-					</video>
-					<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
-				</div>
-			)}
-
-			<div id={`${id}-progress`} class="w-full bg-gray-200 rounded h-2 mb-6 hidden">
-				<div id={`${id}-progress-bar`} class="h-2 bg-primary rounded mb-6" style="width: 0%"></div>
 			</div>
 
 		</div>
 
-	</div>
+	</section>
 
-</section>
+	<script define:vars={{ id, inputType, debounceTime }}>
 
-<script define:vars={{ id, inputType, debounceTime }}>
+		document.addEventListener('DOMContentLoaded', () => {
+			const input = document.getElementById(`${id}-input`);
+			const fileInput = document.getElementById(`${id}-file`);
+			const progressBar = document.getElementById(`${id}-progress-bar`);
+			const progressContainer = document.getElementById(`${id}-progress`);
+			const fileOutput = document.getElementById(`${id}-file-output`);
+			const uploadBtn = document.getElementById(`${id}-upload-btn`);
+			let debounceTimeout;
 
-	document.addEventListener('DOMContentLoaded', () => {
-		const input = document.getElementById(`${id}-input`);
-		const fileInput = document.getElementById(`${id}-file`);
-		const progressBar = document.getElementById(`${id}-progress-bar`);
-		const progressContainer = document.getElementById(`${id}-progress`);
-		const fileOutput = document.getElementById(`${id}-file-output`);
-		const uploadBtn = document.getElementById(`${id}-upload-btn`);
-		let debounceTimeout;
+			const processInput = async () => {
+				let progress = 0;
+				progressBar.style.width = '0%';
+				progressContainer.classList.remove('hidden');
+				if (fileOutput) fileOutput.classList.add('hidden');
 
-		const processInput = async () => {
-			let progress = 0;
-			progressBar.style.width = '0%';
-			progressContainer.classList.remove('hidden');
-			if (fileOutput) fileOutput.classList.add('hidden');
+				const interval = setInterval(() => {
+					progress += 5;
+					progressBar.style.width = `${progress}%`;
 
-			const interval = setInterval(() => {
-				progress += 5;
-				progressBar.style.width = `${progress}%`;
+					if (progress >= 100) {
+						clearInterval(interval);
+						setTimeout(() => {
+							progressContainer.classList.add('hidden');
+							if (fileOutput) fileOutput.classList.remove('hidden');
+						}, 500);
+					}
+				}, 200);
+			};
 
-				if (progress >= 100) {
-					clearInterval(interval);
-					setTimeout(() => {
+			if (inputType === 'text') {
+				input.addEventListener('input', () => {
+					clearTimeout(debounceTimeout);
+					
+					const value = input.value.trim();
+					if (!value) {
 						progressContainer.classList.add('hidden');
-						if (fileOutput) fileOutput.classList.remove('hidden');
-					}, 500);
-				}
-			}, 200);
-		};
+						if (fileOutput) fileOutput.classList.add('hidden');
+						return;
+					}
 
-		if (inputType === 'text') {
-			input.addEventListener('input', () => {
-				clearTimeout(debounceTimeout);
-				
-				const value = input.value.trim();
-				if (!value) {
-					progressContainer.classList.add('hidden');
-					if (fileOutput) fileOutput.classList.add('hidden');
-					return;
-				}
+					debounceTimeout = setTimeout(processInput, debounceTime);
+				});
+			}
 
-				debounceTimeout = setTimeout(processInput, debounceTime);
-			});
-		}
+			if (inputType === 'file') {
+				uploadBtn.addEventListener('click', () => {
+					fileInput.click();
+				});
 
-		if (inputType === 'file') {
-			uploadBtn.addEventListener('click', () => {
-				fileInput.click();
-			});
+				fileInput.addEventListener('change', (event) => {
+					if (event.target.files && event.target.files[0]) {
+						processInput();
+					}
+				});
+			}
+		});
 
-			fileInput.addEventListener('change', (event) => {
-				if (event.target.files && event.target.files[0]) {
-					processInput();
-				}
-			});
-		}
-	});
+	</script>
 
-</script>
+</Slideup>

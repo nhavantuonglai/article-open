@@ -1,0 +1,23 @@
+---
+import {
+	Notification
+} from '~/assets/styles/framer.jsx';
+
+const notifications = [
+  { 
+    message: "Website đang sử dụng các công cụ thứ 3 để thu nhập, đo lường truy cập nhằm tối ưu, đem lại nội dung tốt hơn."
+  },
+  { 
+    message: "Website đang cài đặt Google Adsen để cải thiện thu nhập, nhằm duy trì hosting."
+  },
+  { 
+    message: "Website được vận hành hoàn toàn bằng mã nguồn mở, liên hệ với quản trị viên để nhận source miễn phí."
+  }
+];
+---
+
+<Notification  client:visible
+
+	notifications={notifications}
+
+/>

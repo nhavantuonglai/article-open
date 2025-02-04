@@ -2,7 +2,13 @@
 import { Icon } from 'astro-icon/components';
 import type { Brands as Props } from '~/types';
 import Headline from '~/components/ui/headline.astro';
-import WidgetWrapper from '~/components/ui/widget-wrapper.astro';
+import Block from '~/components/ui/block.astro';
+
+import {
+	Slideright,
+	Carousel
+} from '~/assets/styles/framer.jsx';
+
 const {
 	title = '',
 	subtitle = '',
@@ -16,23 +22,27 @@ const {
 } = Astro.props;
 ---
 
-<WidgetWrapper id={id} isDark={isDark} containerClass={`max-w-6xl mx-auto ${classes?.container ?? ''}`} bg={bg}>
+<Slideright client:visible>
 
-	<Headline title={title} subtitle={subtitle} tagline={tagline} class="leading-tighter text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading"/>
+	<Block id={id} isDark={isDark} containerClass={`max-w-6xl mx-auto ${classes?.container ?? ''}`} bg={bg}>
 
-	<div class="flex flex-wrap justify-center gap-x-6 sm:gap-x-12 lg:gap-x-24 overflow-hidden px-4 md:px-6">
-		{icons && icons.map((icon) =><Icon name={icon} class="py-3 lg:py-5 w-12 h-auto mx-auto sm:mx-0 text-gray-500"/>)}
-		{
-			images &&
-				images.map(
-					(image) =>
-						image.src && (
-							<div class="flex justify-center col-span-1 my-2 lg:my-4 py-1 px-3 rounded-md dark:bg-gray-200">
-								<img title='nhavantuonglai' src={image.src} alt={image.alt || ''} class="max-h-12"/>
-							</div>
+		<Headline title={title} subtitle={subtitle} tagline={tagline} class="leading-tighter text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading"/>
+
+		<div class="flex flex-wrap justify-center gap-x-6 sm:gap-x-12 lg:gap-x-24 overflow-hidden px-4 md:px-6">
+			{icons && icons.map((icon) =><Icon name={icon} class="py-3 lg:py-5 w-12 h-auto mx-auto sm:mx-0 text-gray-500"/>)}
+			{
+				images &&
+						images.map(
+							(image) =>
+								image.src && (
+									<div class="flex justify-center col-span-1 my-2 lg:my-4 py-1 px-3 rounded-md dark:bg-gray-200">
+										<img title='nhavantuonglai' src={image.src} alt={image.alt || ''} class="max-h-12"/>
+									</div>
+								)
 						)
-				)
-		}
-	</div>
+			}
+		</div>
 
-</WidgetWrapper>
+	</Block>
+
+</Slideright>

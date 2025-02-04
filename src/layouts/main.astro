@@ -13,6 +13,9 @@ import Analytics from '~/components/javascript/analytics.astro';
 import Opentab from '~/components/javascript/open-tab.astro';
 import Schema from '~/components/javascript/schema.astro';
 
+import Notification from '~/components/content/notification.astro';
+
+
 import type { MetaData as MetaDataType } from '~/types';
 
 export interface Props {
@@ -64,6 +67,8 @@ const { language, textDirection } = I18N;
 			</iframe>
 
 		</noscript>
+
+		<Notification/>
 
 		<style is:global>
 			img {

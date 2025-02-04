@@ -1,23 +1,32 @@
 ---
 import CTA from '~/components/widgets/services.astro';
+
+import {
+	Slideright
+} from '~/assets/styles/framer.jsx';
+
 ---
 
-<h2 class="max-w-3xl mx-auto px-4 sm:px-6 text-center">Chia sẻ điều cần nói</h2>
+<Slideright client:visible>
 
-<form class="mx-auto max-w-7xl md:px-6 px-4" action="https://formspree.io/f/xeooodne" method="post">
+	<h2 class="max-w-3xl mx-auto px-4 sm:px-6 text-center">Chia sẻ điều cần nói</h2>
 
-	<label class="mb-6 block text-lg font-medium">Họ và tên</label>
-	<input type="text" name="ho-va-ten" name="Họ và tên của bạn" class="mx-auto max-w-7xl mb-6 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
+	<form class="mx-auto max-w-7xl md:px-6 px-4" action="https://formspree.io/f/xeooodne" method="post">
 
-	<label class="mb-6 block text-lg font-medium">Email liên lạc</label>
-	<input type="email" name="email" name="Email trao đổi" class="mx-auto max-w-7xl mb-6 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
+		<label class="mb-6 block text-lg font-medium">Họ và tên</label>
+		<input type="text" name="ho-va-ten" name="Họ và tên của bạn" class="mx-auto max-w-7xl mb-6 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
 
-	<label class="mb-6 block text-lg font-medium">Nội dung trao đổi</label>
-	<input type="text" name="noi-dung" content="Nội dung cần chia sẻ" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
+		<label class="mb-6 block text-lg font-medium">Email liên lạc</label>
+		<input type="email" name="email" name="Email trao đổi" class="mx-auto max-w-7xl mb-6 py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
 
-	<button type="submit" class="btn">Gửi thông tin</button>
+		<label class="mb-6 block text-lg font-medium">Nội dung trao đổi</label>
+		<input type="text" name="noi-dung" content="Nội dung cần chia sẻ" class="px-4 mb-6 py-6 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900" required>
 
-</form>
+		<button type="submit" class="btn">Gửi thông tin</button>
+
+	</form>
+
+</Slideright>
 
 <CTA
 
