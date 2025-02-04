@@ -54,6 +54,41 @@
 		opacity: 1;
 		transition: max-height 0.5s ease-in, opacity 0.3s ease-in;
 	}
+
+
+
+
+	.marquee {
+		display: flex;
+		gap: 2rem;
+		min-width: var(--slider-width);
+		animation: scroll 60s linear infinite;
+		flex-shrink: 0;
+		overflow: hidden;
+		white-space: nowrap;
+		position: relative;
+		justify-content: center;
+	}
+
+	@keyframes scroll {
+		from {
+			transform: translateX(0);
+		}
+		to {
+			transform: translateX(calc(-50%));
+		}
+	}
+
+	@keyframes marquee-scroll {
+		from {
+		transform: translateX(0%);
+		}
+		to {
+		transform: translateX(-50%);
+		}
+	}
+
+
 }
 
 #header.scroll > div:first-child {
