@@ -60,7 +60,7 @@ const { label, color } = dictionary[key]
 ---
 
 <a
-	class="hover:text-gray-700 dark:text-gray-400 transition text-sm text-muted md-0 text-foreground/70 inline-flex max-w-fit items-center gap-2 py-1 rtl:ml-0"
+	class="text-sm inline-flex items-center gap-2 mb-6"
 	href={`https://nhavantuonglai.openstatus.dev`}
 	target="_blank"
 	rel="noreferrer"
@@ -69,6 +69,7 @@ const { label, color } = dictionary[key]
 	{label}
 
 	<span class="relative flex h-2 w-2">
+
 		{
 			parsed.data.status === "operational" ? (
 				<span
@@ -86,6 +87,7 @@ const { label, color } = dictionary[key]
 				/>
 			) : null
 		}
+
 		<span
 			class:list={[
 				"relative",

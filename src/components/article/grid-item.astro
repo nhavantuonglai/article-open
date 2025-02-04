@@ -41,7 +41,7 @@ const truncateText = (text: string, maxLength: number, isTitle: boolean = false)
 		</div>
 	)}
 
-	<h3 class="mb-6 text-xl font-bold leading-tight sm:text-2xl font-heading">
+	<h3>
 		{APP_BLOG?.post?.isEnabled ? (
 			<a
 				href={getPermalink(post.permalink, 'post')}
@@ -55,6 +55,6 @@ const truncateText = (text: string, maxLength: number, isTitle: boolean = false)
 		)}
 	</h3>
 
-	<p class="text-justify text-muted dark:text-slate-400 text-lg">{truncateText(post.description, 30)}</p>
+	<p>{truncateText(post.description, 30)}</p>
 
 </article>

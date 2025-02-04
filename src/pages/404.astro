@@ -11,34 +11,30 @@ const title = `404`;
 
 		<div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
 
-			<div class="max-w-md text-center">
+			<h1 class="max-w-3xl mx-auto px-4 sm:px-6 text-9xl">
+				404.
+			</h1>
 
-				<h2 class="mb-6 font-bold text-9xl">
-					<span class="text-primary">404.</span>
-				</h2>
+			<p class="max-w-3xl mx-auto px-4 sm:px-6">
+				Liên kết hiện không khả dụng, về trang chủ sau <span id="timer">5</span> giây.
+			</p>
 
-				<p class="mt-6 mb-6 text-lg justify-center text-muted dark:text-slate-400">
-					Liên kết hiện không khả dụng, về trang chủ sau <span id="timer">5</span> giây.
-				</p>
+			<script client:load>
 
-				<script client:load>
+				let countdown = 50;
+				const timerElement = document.getElementById('timer');
 
-					let countdown = 5;
-					const timerElement = document.getElementById('timer');
+				const interval = setInterval(() => {
+					countdown--;
+					timerElement.textContent = countdown;
 
-					const interval = setInterval(() => {
-						countdown--;
-						timerElement.textContent = countdown;
+					if (countdown <= 0) {
+						clearInterval(interval);
+						window.location.href = "https://nhavantuonglai.com";
+					}
+				}, 1000);
 
-						if (countdown <= 0) {
-							clearInterval(interval);
-							window.location.href = "https://nhavantuonglai.com";
-						}
-					}, 1000);
-
-				</script>
-
-			</div>
+			</script>
 
 		</div>
 

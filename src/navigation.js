@@ -74,7 +74,7 @@ export const headerData = {
 
 	actions: [{
 		text: 'Đọc thêm',
-		href: 'https://www.instagram.com/nhavantuonglai',
+		href: 'https://instagram.com/nhavantuonglai',
 		target: '_blank'
 		}],
 };

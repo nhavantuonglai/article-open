@@ -1,7 +1,6 @@
 ---
 import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
-import '~/assets/styles/tailwind.css';
 
 interface Props {
 	title?: string;
@@ -45,7 +44,7 @@ const {
 		{items.map((item) => (
 			<div class="faq-item w-full">
 
-				<div class="flex items-center gap-3 cursor-pointer">
+				<div class="flex gap-3 cursor-pointer">
 
 					<svg
 						class="mr-2 w-6 h-6 text-primary flex-shrink-0"
@@ -61,12 +60,12 @@ const {
 						<line x1="12" y1="17" x2="12.01" y2="17"/>
 					</svg>
 
-					<h3 class="text-lg font-medium leading-6">{item.title}</h3>
+					<h3 class="text-xl">{item.title}</h3>
 
 				</div>
 				
 				<div class="faq-answer mb-6 mt-2 pl-9 transition-all duration-300 max-h-0 opacity-0 overflow-hidden">
-					<p class="text-justify mb-6 text-lg dark:text-slate-400">{item.description}</p>
+					<p class="text-xl">{item.description}</p>
 				</div>
 
 			</div>

@@ -43,25 +43,27 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 						text && href && (
 							<a
 								key={href}
-								class="text-muted hover:text-gray-700 dark:text-gray-400 hover:underline transition duration-150 ease-in-out mr-2 rtl:mr-0 rtl:ml-2"
+								class="text-sm mr-2"
 								href={href}
 								set:html={text}
 							/>
 						)
 					))}
 				</div>
+
 				<DCMA/>
+
 			</div>
 
 			{links.map(({ title, links }) => (
 				<div key={title} class="col-span-6 md:col-span-3 lg:col-span-2">
-					{title && <div class="dark:text-gray-300 font-medium mb-2">{title}</div>}
+					{title && <p class="text-sm font-bold hover:text-primary dark:text-gray-300 mb-2">{title}</p>}
 					{links && links.length > 0 && (
-						<ul class="text-sm">
+						<ul>
 							{links.map(({ text, href, ariaLabel }) => (
 								<li key={href} class="mb-2">
 									<a
-										class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
+										class="text-sm mr-2"
 										href={href}
 										aria-label={ariaLabel}
 										target="_blank"
@@ -83,7 +85,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 					{socialLinks.map(({ ariaLabel, href, text, icon }) => (
 						<li key={href}>
 							<a
-								class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center"
+								class="text-sm mr-2"
 								aria-label={ariaLabel}
 								href={href}
 								target="_blank"
@@ -98,9 +100,9 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 
 			<Openstatus/>
 
-			<div class="text-sm text-muted hover:text-gray-700 dark:text-gray-400 transition">
+			<p class="text-sm hover:text-primary">
 				Xuất bản được <span id="years"></span> năm <span id="months"></span> tháng <span id="days"></span> ngày <span id="hours"></span> giờ <span id="minutes"></span> phút <span id="seconds"></span> giây.
-			</div>
+			</p>
 
 			<script client:load>
 

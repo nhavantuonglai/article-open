@@ -29,8 +29,9 @@ const {
 	<div class="mx-auto max-w-7xl md:px-6 px-4">
 
 		<div class="bg-white text-black p-4 rounded-lg mb-6">
-			<h2 class="font-bold text-lg mb-6">{title}</h2>
-			{description && <p class="text-justify mb-6 text-lg dark:text-slate-400">{description}</p>}
+
+			<h2 class="text-center">{title}</h2>
+			{description && <p>{description}</p>}
 
 			{inputType === 'text' && (
 				<textarea
@@ -43,7 +44,7 @@ const {
 
 			{inputType === 'file' && (
 				<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
-					<p class="text-justify mb-6 text-lg dark:text-slate-400">
+					<p>
 						<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
 							Choose File
 						</button>
