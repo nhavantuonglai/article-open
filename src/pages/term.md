@@ -11,7 +11,7 @@ Website _nhavantuonglai.com_ cam kết bảo vệ quyền riêng tư và dữ li
 
 ### Thu thập dữ liệu
 
-Dữ liệu được thu thập trên _nhavantuonglai.com_ thông qua hai nguồn chính: thông tin _Người dùng_ cung cấp trực tiếp và thông tin được thu thập tự động từ hệ thống. Thông tin trực tiếp bao gồm tên, địa chỉ email hoặc các dữ liệu cá nhân mà _Người dùng_ nhập khi đăng ký nhận tin, gửi phản hồi, hoặc tương tác với nội dung. Dữ liệu tự động, như địa chỉ IP, loại trình duyệt, và lịch sử truy cập, được thu thập qua Cookies và các công cụ đo lường chuyên môn. 
+Dữ liệu được thu thập trên _nhavantuonglai.com_ thông qua hai nguồn chính: thông tin _Người dùng_ cung cấp trực tiếp và thông tin được thu thập tự động từ hệ thống. Thông tin trực tiếp bao gồm tên, địa chỉ email hoặc các dữ liệu cá nhân mà _Người dùng_ nhập khi đăng ký nhận tin, gửi phản hồi, hoặc tương tác với nội dung. Dữ liệu tự động, như địa chỉ IP, loại trình duyệt, và lịch sử truy cập, được thu thập qua Cookies và các công cụ đo lường chuyên môn.
 
 Việc thu thập này nhằm tối ưu hóa trải nghiệm _Người dùng,_ cải thiện chất lượng nội dung và hỗ trợ các chiến dịch quảng cáo. Website không yêu cầu dữ liệu nhạy cảm, như thông tin tài chính hoặc sức khỏe, và cam kết không sử dụng dữ liệu ngoài mục đích đã được thông báo.
 
@@ -19,7 +19,7 @@ Nguyên tắc và quy định thu thập, khai thác và sử dụng dữ liệu
 
 ### Sử dụng dữ liệu
 
-Dữ liệu thu thập từ _Người dùng_ được sử dụng chủ yếu để cải thiện dịch vụ, cá nhân hóa nội dung, và triển khai các chiến lược tiếp thị liên kết. Thông qua phân tích hành vi truy cập, _nhavantuonglai.com_ có thể đề xuất nội dung phù hợp với sở thích và nhu cầu của từng cá nhân. 
+Dữ liệu thu thập từ _Người dùng_ được sử dụng chủ yếu để cải thiện dịch vụ, cá nhân hóa nội dung, và triển khai các chiến lược tiếp thị liên kết. Thông qua phân tích hành vi truy cập, _nhavantuonglai.com_ có thể đề xuất nội dung phù hợp với sở thích và nhu cầu của từng cá nhân.
 
 Ngoài ra, dữ liệu còn được chia sẻ với các đối tác thứ ba phục vụ quảng cáo hoặc đo lường hiệu suất. Mọi sự chia sẻ này đều tuân thủ các điều kiện bảo mật nghiêm ngặt và chỉ thực hiện với sự đồng ý của _Người dùng._ Website không bán hoặc trao đổi dữ liệu cá nhân dưới bất kỳ hình thức nào.
 
@@ -35,7 +35,7 @@ _Người dùng_ có quyền yêu cầu cập nhật, sửa chữa, hoặc xóa 
 
 ## Bản quyền và thương hiệu
 
-Tất cả nội dung trên _nhavantuonglai.com,_ bao gồm bài viết, hình ảnh, đoản văn, nghiên cứu, và mã nguồn, đều thuộc sở hữu của chủ sở hữu website. Mọi quyền sao chép, phân phối hoặc tái sử dụng nội dung đều phải được sự chấp thuận bằng văn bản từ chủ sở hữu. 
+Tất cả nội dung trên _nhavantuonglai.com,_ bao gồm bài viết, hình ảnh, đoản văn, nghiên cứu, và mã nguồn, đều thuộc sở hữu của chủ sở hữu website. Mọi quyền sao chép, phân phối hoặc tái sử dụng nội dung đều phải được sự chấp thuận bằng văn bản từ chủ sở hữu.
 
 Việc sử dụng trái phép nội dung, kể cả trích dẫn hoặc chia sẻ mà không ghi nguồn, sẽ bị coi là vi phạm bản quyền. Website cũng có quyền thực hiện các biện pháp pháp lý cần thiết để bảo vệ tài sản trí tuệ của mình.
 

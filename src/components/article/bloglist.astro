@@ -12,8 +12,8 @@ import { findImage } from '~/utils/images';
 import { getFormattedDate } from '~/utils/utils';
 
 import {
-	Slideup, 
-	Slideleft, 
+	Slideup,
+	Slideleft,
 	Slideright
 } from '~/assets/styles/framer.jsx';
 
@@ -65,7 +65,7 @@ const truncateDescription = (text, maxWords = 30) => {
 
 			<header>
 
-				<p>
+				<p class="text-xl">
 					<time datetime={post.pubDatetime}>
 						{`${new Date(post.pubDatetime)
 							.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
@@ -95,10 +95,10 @@ const truncateDescription = (text, maxWords = 30) => {
 
 			</header>
 
-			{post.description && <p>{truncateDescription(post.description)}</p>}
+			{post.description && <p class="text-xl">{truncateDescription(post.description)}</p>}
 
-			<footer>
-				<PostTags tags={post.tags} />
+			<footer className="text-xl">
+				<PostTags tags={post.tags.slice(0, 6)} />
 			</footer>
 
 		</div>

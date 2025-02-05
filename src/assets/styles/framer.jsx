@@ -40,14 +40,14 @@ export const Slideright = ({ children, delay = 0, className = '' }) => (
 export const BounceRotate = ({ children, delay = 0, className = '' }) => (
   <motion.div
     initial={{ opacity: 0, rotate: -20, scale: 0.5 }}
-    whileInView={{ 
-      opacity: 1, 
-      rotate: 0, 
+    whileInView={{
+      opacity: 1,
+      rotate: 0,
       scale: 1,
-      transition: { 
-        type: "spring", 
-        stiffness: 300, 
-        damping: 10 
+      transition: {
+        type: "spring",
+        stiffness: 300,
+        damping: 10
       }
     }}
     viewport={{ once: true }}
@@ -82,9 +82,9 @@ export const StaggerFade = ({ children, delay = 0, className = '' }) => (
 export const RevealText = ({ children, delay = 0, className = '' }) => (
   <motion.div
     initial={{ opacity: 0, clipPath: 'inset(0 100% 0 0)' }}
-    whileInView={{ 
-      opacity: 1, 
-      clipPath: 'inset(0 0 0 0)' 
+    whileInView={{
+      opacity: 1,
+      clipPath: 'inset(0 0 0 0)'
     }}
     viewport={{ once: true }}
     transition={{ duration: 1, delay }}
@@ -97,15 +97,15 @@ export const RevealText = ({ children, delay = 0, className = '' }) => (
 export const ElasticWobble = ({ children, delay = 0, className = '' }) => (
   <motion.div
     initial={{ opacity: 0, scale: 0.5 }}
-    whileInView={{ 
-      opacity: 1, 
+    whileInView={{
+      opacity: 1,
       scale: 1,
       rotate: [0, -10, 10, -5, 5, 0],
-      transition: { 
-        type: "spring", 
+      transition: {
+        type: "spring",
         stiffness: 300,
         duration: 1,
-        delay 
+        delay
       }
     }}
     viewport={{ once: true }}

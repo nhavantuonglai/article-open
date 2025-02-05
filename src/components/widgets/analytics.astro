@@ -67,7 +67,7 @@ const {
 					<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
 						{channels.map((channel) => (
 							<button
-								class="btn-primary w-auto mb-6"
+								class="btn w-auto mb-6"
 								data-url={channel.url}
 							>
 								{channel.name}
@@ -86,7 +86,7 @@ const {
 
 				{outputType === 'file' && (
 					<div id={`${id}-file-output`} class="hidden">
-						<a id={`${id}-download`} href="#" class="btn-primary w-auto mb-6">
+						<a id={`${id}-download`} href="#" class="btn w-auto mb-6">
 							{downloadText}
 						</a>
 					</div>
