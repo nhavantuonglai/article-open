@@ -1,3 +1,4 @@
 .astro/
 node_modules/
 .vscode/
+.src/components/analytics
