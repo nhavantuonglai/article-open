@@ -143,7 +143,7 @@ Triển khai dự án trực tiếp qua Vercel là phương pháp nhanh chóng, 
 Sau đó, click vào _New Project_ và chọn _Import Git Repository,_ và nhập url repository của dự án \article-open tại:
 
 ```
-\\\
+gh repo clone nhavantuonglai/article-open
 ```
 
 Như vậy, website đã được deploy thành công.
@@ -157,7 +157,7 @@ Với phương pháp này, bạn cũng cần tạo và sử dụng Github để 
 Đầu tiên, cần clone repository \article-open về tài khoản, bằng cách nhập:
 
 ```
-\\\
+gh repo clone nhavantuonglai/article-open
 ```
 
 Sau đó, truy cập vào Vercel, đăng ký tài khoản hoặc lựa chọn đăng nhập bằng Github, rồi _Import repository_ tương tự như trên. Mã nguồn sẽ được lưu, quản lý và điều chỉnh trực tiếp trên tài khoản của bạn, giúp các cập nhật, bảo trì trở nên dễ dàng và thuận tiện. Tuy vậy, quá trình này tốn nhiều bước, và không phải ai lúc ban đầu ucxng làm quen được.
