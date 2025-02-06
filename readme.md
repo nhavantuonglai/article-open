@@ -16,6 +16,7 @@ Cấu trúc thư mục của `\article-open` được tổ chức lại, bổ su
 
 ```
 article-open/
+├── public/ | folder tài liệu.
 └── src/ | folder tổng.
 	├── assets/ | Cấu hình chung.
 	│	├── favicons/
@@ -94,7 +95,7 @@ article-open/
 	│	│	├── | Danh sách bài viết, với slug là tiêu đề.
 	│	├── config.ts | Cấu hình bài viết.
 	├── integration/
-	│	│	│	├── config-builder.ts
+	│	│	├── config-builder.ts
 	│	│	├── utils
 	│	│	├── index.mjs
 	│	│	├── types.d.ts
@@ -127,7 +128,7 @@ article-open/
 	│	├── images.ts
 	│	├── optimization.ts
 	│	├── permalinks.ts
-	├───├── utils.ts
+	│	├── utils.ts
 ```
 
 Dựa trên cấu trúc thư mục, website sẽ được triển khai thành các trang, trang con như sau:
@@ -137,20 +138,20 @@ Trang chủ/
 ├── Giới thiệu.
 ├── Bài viết.
 │	├── Trang 0.
-│		├── Bài viết 1.
-│		├── Bài viết 2.
-│		├── Bài viết 3.
+│	│	├── Bài viết 1.
+│	│	├── Bài viết 2.
+│	│	├── Bài viết 3.
 │	├── Trang 1.
 │	├── Trang 1.
 │	└── Trang 2.
 ├── Thẻ bài.
 │	├── Thẻ bài 1.
-│		├── Trang thẻ bài 1.
-│			 ├── Bài viết 1.
-│			 ├── Bài viết 2.
-│			 ├── Bài viết 3.
-│		├── Trang thẻ bài 2.
-│		├── Trang thẻ bài 3.
+│	│	├── Trang thẻ bài 1.
+│	│	│	 ├── Bài viết 1.
+│	│	│	 ├── Bài viết 2.
+│	│	│	 ├── Bài viết 3.
+│	│	├── Trang thẻ bài 2.
+│	│	├── Trang thẻ bài 3.
 │	├── Thẻ bài 2.
 │	├── Thẻ bài 3.
 ├── Dịch vụ.
