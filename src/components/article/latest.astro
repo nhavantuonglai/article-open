@@ -5,7 +5,6 @@ import { getBlogPermalink } from "~/utils/permalinks";
 import { findLatestPosts } from "~/utils/blog";
 import Wrapper from "~/components/ui/wrapper.astro";
 import type { Widget } from "~/types";
-import Button from "../ui/button.astro";
 
 import {
 	Slideright
@@ -48,16 +47,15 @@ const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
 					</div>
 				)}
 				
-				{information && <p class="text-muted text-justify dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
+				{information && <p class="text-xl text-justify max-w-md" set:html={information} />}
 			</div>
 
 			<Grid posts={posts} />
 
-			{APP_BLOG.list.isEnabled && linkText && linkUrl && (
-				<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
-					<Button variant="link" href={linkUrl}>{linkText} »</Button>
-				</div>
-			)}
+			<a class="btn hover:text-primary" href="https://instagram.com/nhavantuonglai">
+				Đọc thêm
+			</a>
+
 		</Wrapper>
 
 	)}

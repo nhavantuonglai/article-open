@@ -39,6 +39,10 @@ export const headerData = {
 			text: 'Công cụ',
 			links: [
 				{
+					text: 'Xem thêm',
+					href: 'https://nhavantuonglai.com/analytics',
+				},
+				{
 					text: 'Trợ lý Chat AI',
 					href: 'https://nhavantuonglai.com/analytics/integrate',
 				},
@@ -61,6 +65,32 @@ export const headerData = {
 				{
 					text: 'Quét chữ trong ảnh (Beta)',
 					href: 'https://nhavantuonglai.com/analytics/ocr',
+				},
+			],
+		},
+
+		{
+			text: 'Dịch vụ',
+			links: [
+				{
+					text: 'Xem thêm',
+					href: 'https://nhavantuonglai.com/services',
+				},
+				{
+					text: 'Viết bài chất lượng cao',
+					href: 'https://nhavantuonglai.com/services/copywriter',
+				},
+				{
+					text: 'Thiết kế website',
+					href: 'https://nhavantuonglai.com/services/website',
+				},
+				{
+					text: 'Triển khai Marketing',
+					href: 'https://nhavantuonglai.com/services/marketing',
+				},
+				{
+					text: 'Triển khai SEO',
+					href: 'https://nhavantuonglai.com/services/seo',
 				},
 			],
 		},

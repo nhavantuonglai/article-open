@@ -27,6 +27,46 @@ Nguồn lựa được khai thác, sử dụng nhằm tối ưu tài nguyên s�
 
 Việc cập nhật được diễn ra tự động, không ảnh hưởng đến quá trình trải nghiệm, đọc nội dung trên website.
 
+## v25.01
+
+### Tổng quan
+
+v25.01. dựa trên mã nguồn so với v24.09. để kế thừa, phát triển code toàn diện hơn. Cấu trúc code được đồng bộ, giúp các tiêu chuẩn được áp dụng lên toàn bộ trang. Ngoài ra, hiệu ứng chuyển động, và các tính năng mới cũng được phát triển mạnh, tạo ra không gian tương tác và vận hành hiệu quả hơn.
+
+### Chi tiết cập nhật
+
+2025.02.03: Cập nhật _Framer motion._
+
+2025.02.02: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính bằng CSS.
+
+2025.02.03: Cập nhật bố cục trình bày trong mục _Analytics._
+
+2025.02.02: Cập nhật tính năng [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).
+
+2025.02.01: Cập nhật tính năng [Truy vấn mã số thuế](https://nhavantuonglai.com/analytics/ma-so-thue).
+
+2025.01.30: Cập nhật tính năng [Truy vấn số tài khoản](https://nhavantuonglai.com/analytics/so-tai-khoan).
+
+2025.01.29: Cập nhật tính năng [Đếm ngược giao thừa](https://nhavantuonglai.com/analytics/countdown).
+
+2025.01.28: Cập nhật tính năng [Bây giờ là mấy giờ?](https://nhavantuonglai.com/analytics/time).
+
+2025.01.27: Cập nhật tính năng [Kiểm tra phạt nguội trực tuyến](https://nhavantuonglai.com/analytics/phat-nguoi).
+
+2025.01.26: Cập nhật tính năng [Từ điển trực tuyến](https://nhavantuonglai.com/analytics/dictionary).
+
+2025.01.25: Cập nhật tính năng [Nghe Radio trực tuyến](https://nhavantuonglai.com/analytics/radio).
+
+2025.01.24: Cập nhật tính năng [Xem video trực tuyến](https://nhavantuonglai.com/analytics/streaming).
+
+2025.01.23: Cập nhật tính năng [Dịch phụ đề bằng Ai](https://nhavantuonglai.com/analytics/subtitle).
+
+2025.01.22: Cập nhật tính năng [Chuyển văn bản thành giọng nói bằng AI](https://nhavantuonglai.com/analytics/voicemaker).
+
+2025.01.21: Cập nhật tính năng [Đọc văn bản trong tài liệu bằng AI](https://nhavantuonglai.com/analytics/ocr).
+
+2025.01.20: Cập nhật tính năng [Trích xuất tiêu đề từ liên kết](https://nhavantuonglai.com/analytics/title).
+
 ## v24.09
 
 ### Tổng quan
@@ -70,6 +110,10 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 2024.09.09: Cập nhật tính năng [thống kê tần suất văn bản](https://nhavantuonglai.com/analytics/count).
 
 2024.09.08: Launching website thành công.
+
+### Lý do chuyển sang v25.01
+
+v24.04. là phiên bản đã hoàn thiện, làm tốt nhất những gì đã có. Việc chuyển sang v25.01. giúp cải tiến, cập nhật thêm nhiều chức năng, tính năng mới trên website.
 
 ## v24.04
 

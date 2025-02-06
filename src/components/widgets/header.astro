@@ -104,7 +104,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`
 												<li key={subIndex}>
 													<a
 														class:list={[
-															"text-xl hover:text-primary dark:hover:text-link px-4 py-3 flex items-center",
+															"text-xl hover:text-primary dark:hover:text-link px-4 flex items-center",
 															{ "aw-link-active": href2 === currentPath }
 														]}
 														href={href2}
@@ -147,7 +147,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`
 			<div
 				class:list={[
 					{ "ml-auto rtl:ml-0 rtl:mr-auto": position === "left" },
-					"hidden md:flex md:items-center md:self-center"
+					"hidden md:flex mb-6"
 				]}
 			>
 
