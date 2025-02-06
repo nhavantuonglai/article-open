@@ -8,7 +8,7 @@ Dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, [\articl
 
 – Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
 
-Dự án cũng giữ lại, đảm bảo điểm _PageSpeed insights_ ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website Astro lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+Dự án cũng giữ lại, đảm bảo điểm _PageSpeed insights_ ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
 
 ## Cấu trúc thư mục dự án
 
@@ -169,9 +169,9 @@ Quá trình tạo website dựa trên mã nguồn `\article-open` có thể th�
 
 ### Triển khai trực tiếp qua Vercel
 
-Triển khai dự án trực tiếp qua Vercel là phương pháp nhanh chóng, đơn giản nhất để public website từ mã nguồn `\article-open.`
+Triển khai dự án trực tiếp qua [Vercel](https://nhavantuonglai.com/article/vercel) là phương pháp nhanh chóng, đơn giản nhất để public website từ mã nguồn `\article-open.`
 
-Đầu tiên, [đăng ký và đăng nhập Vercel](https://vercel.com/new) tại đây. Quá trình này yêu cầu tạo mới tài khoản Github, hoặc liên kết với tài khoản sẵn có để lưu trữ mã nguồn.
+Đầu tiên, [đăng ký và đăng nhập Vercel](https://vercel.com/new) tại đây. Quá trình này yêu cầu tạo mới tài khoản [GitHub](https://nhavantuonglai.com/article/github), hoặc liên kết với tài khoản sẵn có để lưu trữ mã nguồn.
 
 Sau đó, click vào _New project_ và chọn _Import git repository,_ và nhập url repository của dự án `\article-open` tại:
 
@@ -199,7 +199,7 @@ Sau khi hoàn tất, bạn có thể truy cập vào _Domain_ để chỉnh lạ
 
 ## Hướng dẫn cập nhật giao diện, nội dung website bằng VS Code
 
-Để bắt đầu, bạn cần tải và cài đặt VS Code, Node.js và các điều chỉnh liên quan. Sau đó, mở folder chứa mã nguồn dự án rồi chạy lệnh sau để cài đặt các node liên quan:
+Để bắt đầu, bạn cần tải và cài đặt [Visual Studio Code](https://nhavantuonglai.com/article/vs-code), Node.js và các điều chỉnh liên quan. Sau đó, mở folder chứa mã nguồn dự án rồi chạy lệnh sau để cài đặt các node liên quan:
 
 ```
 npm install
@@ -217,7 +217,7 @@ Tiếp theo nữa, truy cập vào url sau  để xem giao diện website trên 
 http://localhost:4321/
 ```
 
-Để điều chỉnh, cập nhật các nội dung hiển thị trên website, bạn cần tìm đúng folder, file tương ứng như phần Cấu trúc thư mục dự án nêu trên để điều chỉnh, sau khi lưu thì giao diện website ở localhost cũng nhanh chóng được cập nhật, và nếu gặp lỗi thì sẽ báo tức thì.
+Để điều chỉnh, cập nhật các nội dung hiển thị trên website, bạn cần tìm đúng folder, file tương ứng như phần _Cấu trúc thư mục dự án_ nêu trên để điều chỉnh, sau khi lưu thì giao diện website ở localhost cũng nhanh chóng được cập nhật, và nếu gặp lỗi thì sẽ báo tức thì.
 
 Sau khi hoàn tất, bạn chỉ cần mở Github Desktop lên, commit các thay đổi rồi đợi deploy website, và như vậy, website đã được cập nhật thành công.
 
