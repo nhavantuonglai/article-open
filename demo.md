@@ -35,117 +35,117 @@ Cấu trúc thư mục của AstroWind được tổ chức một cách logic v�
 ```
 article-open/
 └── src/
-    ├── assets/
+	├── assets/
 	│   ├── favicons/
-	│	│	    ├── core.astro
-	│	│	    ├── logo.astro
+	│	│		├── core.astro
+	│	│		├── logo.astro
 	│	├── styles/
-	│	│	    ├── custom.astro
-	│	│	    ├── framer.jsx
-	│	│	    ├── tailwind.css
-    ├── components/
-    │   ├── analytics/
-	│	│	    ├── ///
-    │   ├── article/
-	│	│	    ├── bloglist.astro
-	│	│	    ├── diagram.astro
-	│	│	    ├── grid.astro
-	│	│	    ├── headline.astro
-	│	│	    ├── highlighted.astro
-	│	│	    ├── latest.astro
-	│	│	    ├── link.astro
-	│	│	    ├── list.astro
-	│	│	    ├── pagination.astro
-	│	│	    ├── related.astro
-	│	│	    ├── single.astro
-	│	│	    ├── table.astro
-	│	│	    ├── tags.astro
-    │   ├── common/
-	│	│	    ├── image.astro
-	│	│	    ├── meta.astro
-	│	│	    ├── metadata.astro
-	│	│	    ├── social.astro
-	│	│	    ├── toggle-menu.astro
-	│	│	    ├── toggle-theme.astro
-    │   ├── content/
-	│	│	    ├── analytics/
-	│	│		 	    ├── ///
-	│	│	    ├── services/
-	│	│		 	    ├── ///
-	│	│	    ├── action.astro
-	│	│	    ├── article.astro
-	│	│	    ├── asked.astro
-	│	│	    ├── brands.astro
-	│	│	    ├── hero.astro
-	│	│	    ├── prices.astro
-	│	│	    ├── testimonials.astro
-    │   ├── javascript/
-	│	│	    ├── analytics.astro
-	│	│	    ├── anti-copy.astro
-	│	│	    ├── basic.astro
-	│	│	    ├── color.astro
-	│	│	    ├── dcma.astro
-	│	│	    ├── openstatus.astro
-	│	│	    ├── open-tab.astro
-	│	│	    ├── progress.astro
-	│	│	    ├── schema.astro
-	│	│	    ├── table.astro
-    │   ├── ui/
-	│	│	    ├── background.astro
-	│	│	    ├── block.astro
-	│	│	    ├── button.astro
-	│	│	    ├── divide.astro
-	│	│	    ├── headline.astro
-	│	│	    ├── wrapper.astro
-    │   ├── widgets/
-	│	│	    ├── analytics.astro
-	│	│	    ├── brands.astro
-	│	│	    ├── footer.astro
-	│	│	    ├── header.astro
-	│	│	    ├── hero.astro
-	│	│	    ├── pricing.astro
-	│	│	    ├── question.astro
-	│	│	    ├── services.astro
-	│	│	    ├── testimonials.astro
-    ├── content/
-    │   ├── blog/
-	│	│	    ├── ///
-    │   ├── config.ts
-    ├── integration/
-	│	│	    │	    ├── config-builder.ts
-	│	│	    ├── utils
-	│	│	    ├── index.mjs
-	│	│	    ├── types.d.ts
-    ├── layouts/
-	│	│	    ├── main.astro
-	│	│	    ├── markdown.astro
-	│	│	    ├── page.astro
-    ├── pages/
-    │   ├── [...blog]/
-	│	│	    ├── [tag]/
-	│	│	    │	    ├── [...page].astro
-	│	│	    ├── [...page].astro
-	│	│	    ├── index.astro
-    │   ├── analytics/
-	│	│	    ├── ///
-    │   ├── services/
-	│	│	    ├── ///
-    │   ├── 404.astro
-    │   ├── about.md
-    │   ├── policy.md
-    │   ├── term.md
-    │   ├── version.md
-    │   ├── contact.astro
-    │   ├── index.astro
-    │   ├── rss.xml.ts
-    ├── utils/
-    │   ├── blog.ts
-    │   ├── directories.ts
-    │   ├── frontmatter.mjs
-    │   ├── images.ts
-    │   ├── optimization.ts
-    │   ├── permalinks.ts
-    │   ├── utils.ts
+	│	│		├── custom.astro
+	│	│		├── framer.jsx
+	│	│		├── tailwind.css
+	├── components/
+	│   ├── analytics/
+	│	│		├── ///
+	│   ├── article/
+	│	│		├── bloglist.astro
+	│	│		├── diagram.astro
+	│	│		├── grid.astro
+	│	│		├── headline.astro
+	│	│		├── highlighted.astro
+	│	│		├── latest.astro
+	│	│		├── link.astro
+	│	│		├── list.astro
+	│	│		├── pagination.astro
+	│	│		├── related.astro
+	│	│		├── single.astro
+	│	│		├── table.astro
+	│	│		├── tags.astro
+	│   ├── common/
+	│	│		├── image.astro
+	│	│		├── meta.astro
+	│	│		├── metadata.astro
+	│	│		├── social.astro
+	│	│		├── toggle-menu.astro
+	│	│		├── toggle-theme.astro
+	│   ├── content/
+	│	│		├── analytics/
+	│	│		 		├── ///
+	│	│		├── services/
+	│	│		 		├── ///
+	│	│		├── action.astro
+	│	│		├── article.astro
+	│	│		├── asked.astro
+	│	│		├── brands.astro
+	│	│		├── hero.astro
+	│	│		├── prices.astro
+	│	│		├── testimonials.astro
+	│   ├── javascript/
+	│	│		├── analytics.astro
+	│	│		├── anti-copy.astro
+	│	│		├── basic.astro
+	│	│		├── color.astro
+	│	│		├── dcma.astro
+	│	│		├── openstatus.astro
+	│	│		├── open-tab.astro
+	│	│		├── progress.astro
+	│	│		├── schema.astro
+	│	│		├── table.astro
+	│   ├── ui/
+	│	│		├── background.astro
+	│	│		├── block.astro
+	│	│		├── button.astro
+	│	│		├── divide.astro
+	│	│		├── headline.astro
+	│	│		├── wrapper.astro
+	│   ├── widgets/
+	│	│		├── analytics.astro
+	│	│		├── brands.astro
+	│	│		├── footer.astro
+	│	│		├── header.astro
+	│	│		├── hero.astro
+	│	│		├── pricing.astro
+	│	│		├── question.astro
+	│	│		├── services.astro
+	│	│		├── testimonials.astro
+	├── content/
+	│   ├── blog/
+	│	│		├── ///
+	│   ├── config.ts
+	├── integration/
+	│	│		│		├── config-builder.ts
+	│	│		├── utils
+	│	│		├── index.mjs
+	│	│		├── types.d.ts
+	├── layouts/
+	│	│		├── main.astro
+	│	│		├── markdown.astro
+	│	│		├── page.astro
+	├── pages/
+	│   ├── [...blog]/
+	│	│		├── [tag]/
+	│	│		│		├── [...page].astro
+	│	│		├── [...page].astro
+	│	│		├── index.astro
+	│   ├── analytics/
+	│	│		├── ///
+	│   ├── services/
+	│	│		├── ///
+	│   ├── 404.astro
+	│   ├── about.md
+	│   ├── policy.md
+	│   ├── term.md
+	│   ├── version.md
+	│   ├── contact.astro
+	│   ├── index.astro
+	│   ├── rss.xml.ts
+	├── utils/
+	│   ├── blog.ts
+	│   ├── directories.ts
+	│   ├── frontmatter.mjs
+	│   ├── images.ts
+	│   ├── optimization.ts
+	│   ├── permalinks.ts
+	│   ├── utils.ts
 ```
 
 Folder assets
