@@ -105,10 +105,10 @@ article-open/
 	│	│	├── markdown.astro | Cấu hình trang định dạng markdown.
 	│	│	├── page.astro | Cấu hình trang bài viết.
 	├── pages/
-	│	├── [...blog]/
+	│	├── […blog]/
 	│	│	├── [tag]/
-	│	│	│	├── [...page].astro | Cấu hình danh sách thẻ bài viết.
-	│	│	├── [...page].astro | Cấu hình danh sách bài viết.
+	│	│	│	├── […page].astro | Cấu hình danh sách thẻ bài viết.
+	│	│	├── […page].astro | Cấu hình danh sách bài viết.
 	│	│	├── index.astro | Cấu hình giao diện bài viết.
 	│	├── analytics/ | Cấu hình giao diện trang công cụ.
 	│	│	├── Danh sách trang.
