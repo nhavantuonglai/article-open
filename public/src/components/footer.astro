@@ -1,0 +1,102 @@
+---
+const footerLinks =
+	{
+
+		"Về chúng tôi": [
+			{ title: "Giới thiệu", url: "/about" },
+			{ title: "Tầm nhìn & Sứ mệnh", url: "/vision" },
+			{ title: "Đội ngũ", url: "/team" }
+		],
+
+		"Sản phẩm": [
+			{ title: "Giải pháp A", url: "/product-a" },
+			{ title: "Giải pháp B", url: "/product-b" },
+			{ title: "Giải pháp C", url: "/product-c" }
+		],
+
+		"Tài nguyên": [
+			{ title: "Blog", url: "/blog" },
+			{ title: "Hướng dẫn", url: "/guides" },
+			{ title: "Tài liệu", url: "/docs" }
+		]
+
+	};
+
+const socialLinks =
+	[
+		{ icon: "facebook", url: "https://facebook.com" },
+		{ icon: "twitter", url: "https://twitter.com" },
+		{ icon: "linkedin", url: "https://linkedin.com" },
+		{ icon: "youtube", url: "https://youtube.com" }
+	];
+---
+
+<footer class="bg-gray-50 pt-16 pb-12">
+
+	<div class="container-width">
+
+		<div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+
+			<div class="col-span-1">
+				<img src="https://banmaixanh.org/image/favicon/favicon.ico" alt="Logo" class="h-10 w-auto mb-6"/>
+
+				<p class="body-text mb-6">
+					Chúng tôi cung cấp các giải pháp công nghệ hiện đại, 
+					giúp doanh nghiệp của bạn phát triển nhanh chóng và bền vững.
+				</p>
+
+				<div class="flex space-x-4">
+
+					{socialLinks.map(({ icon, url }) => (
+						<a 
+							href={url}
+							target="_blank"
+							rel="noopener noreferrer"
+							class="social-icon text-theme-secondary hover:text-primary"
+						>
+							<i class={`fab fa-${icon}`}></i>
+						</a>
+					))}
+
+				</div>
+
+			</div>
+
+			{Object.entries(footerLinks).map(([category, links]) => (
+
+				<div class="col-span-1">
+
+					<h3 class="heading-3 mb-6">{category}</h3>
+
+					<ul class="space-y-3">
+
+						{links.map(({ title, url }) => (
+							<li>
+								<a 
+									href={url}
+									class="body-text hover:text-primary transition-colors"
+								>
+									{title}
+								</a>
+							</li>
+						))}
+
+					</ul>
+
+				</div>
+
+			))}
+
+		</div>
+
+		<div class="border-t border-gray-200 pt-8 mt-8 text-center">
+
+			<p class="body-text">
+				© {new Date().getFullYear()} Tên Công Ty. Tất cả quyền được bảo lưu.
+			</p>
+
+		</div>
+
+	</div>
+
+</footer>

@@ -1,0 +1,130 @@
+---
+export interface Props {
+	title?: string;
+	description?: string;
+	image?: string;
+	inputType?: 'text' | 'file' | 'button';
+	outputType?: 'text' | 'file' | 'audio' | 'video';
+	placeholder?: string;
+	downloadText?: string;
+	debounceTime?: number;
+	channels?: Array<{ name: string; url: string }>;
+}
+
+const {
+	title = await Astro.slots.render('title'),
+	description = await Astro.slots.render('description'),
+	image = await Astro.slots.render('image'),
+	inputType = 'text',
+	outputType = 'text',
+	placeholder = 'Nhập nội dung cần xử lý.',
+	downloadText = 'Tải xuống.',
+	debounceTime = 500,
+	channels = []
+} = Astro.props;
+---
+
+<section class="bg-theme-secondary py-12">
+
+	<div class="container-width">
+
+			<div class="space-y-6">
+
+				{title && (
+
+					<h2 class="heading-3 hover:text-primary transition-colors">
+						<a href="#">{title}</a>
+					</h2>
+
+				)}
+
+				{description && <p class="body-text">{description}</p>}
+
+				{inputType === 'text' && (
+
+					<textarea
+						class="w-full border border-gray-300 p-4 rounded-lg bg-white dark:bg-slate-900"
+						placeholder={placeholder}
+						style="resize: none; height: 150px;"
+					></textarea>
+
+				)}
+
+				{inputType === 'file' && (
+
+						<button class="text-lg font-medium leading-6">Choose File</button>
+						<input type="file" class="hidden" />
+
+					</div>
+
+				)}
+
+				{inputType === 'button' && (
+
+					<div class="flex flex-wrap gap-2">
+
+						{channels.map((channel) => (
+
+							<button class="btn-primary" data-url={channel.url}>
+								{channel.name}
+							</button>
+
+						))}
+
+					</div>
+
+				)}
+
+			</div>
+
+			{image && (
+
+				<div class="rounded-lg overflow-hidden">
+					<img src={image} alt="Feature" class="w-full h-full object-cover hover-scale" />
+				</div>
+
+			)}
+
+		</div>
+
+	</div>
+
+</section>
+
+<section class="bg-theme-secondary py-12">
+
+	<div class="container-width">
+
+			<div class="space-y-6">
+
+				<div class="border border-primary bg-white p-4 rounded-lg">
+
+					{outputType === 'text' && (
+						<div class="overflow-y-auto min-h-[400px] p-2 rounded text-lg"></div>
+					)}
+
+					{outputType === 'file' && (
+						<div class="hidden">
+							<a href="#" class="btn-primary">{downloadText}</a>
+						</div>
+					)}
+
+					{outputType === 'audio' && (
+						<div>
+							<audio class="w-full" controls>
+								<source src="" type="audio/mpeg" />
+							</audio>
+						</div>
+					)}
+
+					{outputType === 'video' && (
+						<div>
+							<video class="w-full" controls>
+								<source src="" type="video/mp4" />
+							</video>
+						</div>
+					)}
+
+				</div>
+
+</section>

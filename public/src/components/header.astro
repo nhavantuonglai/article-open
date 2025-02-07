@@ -1,0 +1,185 @@
+---
+const menuItems =
+
+	[
+
+		{ 
+			title: 'Trang chủ', 
+			url: '/',
+		},
+
+		{ 
+			title: 'Về chúng tôi', 
+			url: '/about',
+			subItems: [
+				{ title: 'Giới thiệu', url: '/about/intro' },
+				{ title: 'Tầm nhìn', url: '/about/vision' },
+				{ title: 'Đội ngũ', url: '/about/team' },
+			]
+		},
+
+		{ 
+			title: 'Sản phẩm', 
+			url: '/products',
+			subItems: [
+				{ title: 'Giải pháp A', url: '/products/solution-a' },
+				{ title: 'Giải pháp B', url: '/products/solution-b' },
+				{ title: 'Giải pháp C', url: '/products/solution-c' },
+			]
+		},
+
+		{ 
+			title: 'Liên hệ', 
+			url: '/contact' 
+		}
+
+	];
+
+const socialLinks =
+
+	[
+		{ icon: 'facebook', url: 'https://banmaixanh.org/image/favicon/facebook.png' },
+		{ icon: 'twitter', url: 'https://banmaixanh.org/image/favicon/twitter.png' },
+		{ icon: 'linkedin', url: 'https://banmaixanh.org/image/favicon/linkedin.png' }
+	];
+
+---
+
+<header class="fixed w-full bg-white shadow-md z-50">
+
+	<div class="container-width">
+
+		<div class="flex items-center justify-between h-16">
+
+			<div class="flex-shrink-0">
+				<a href="/" class="logo">
+					<img src="https://banmaixanh.org/image/favicon/favicon.ico" alt="Logo" class="h-8 w-auto"/>
+				</a>
+			</div>
+
+			<nav class="hidden md:flex flex-1 justify-center space-x-8">
+
+				{menuItems.map(item => (
+
+					<div class="relative group">
+
+						<a 
+							href={item.url} 
+							class="text-gray-600 hover:text-gray-900 py-2 group-hover:font-bold transition-all"
+						>
+							{item.title}
+						</a>
+						
+						{item.subItems && (
+							<div class="absolute left-0 mt-2 w-48 bg-white rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+								{item.subItems.map(subItem => (
+									<a 
+										href={subItem.url}
+										class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:font-bold"
+									>
+										{subItem.title}
+									</a>
+								))}
+							</div>
+						)}
+
+					</div>
+
+				))}
+
+			</nav>
+
+			<div class="flex-shrink-0 flex space-x-4">
+
+				{socialLinks.map(({ icon, url }) => (
+					<a
+						href={url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="social-icon text-sm"
+						aria-label={`Visit our ${icon} page`}
+					>
+						<i class={`fab fa-${icon}`}></i>
+					</a>
+				))}
+
+			</div>
+
+			<div class="md:hidden">
+
+				<button type="button" class="mobile-menu-button">
+					<span class="sr-only">Open main menu</span>
+					<i class="fas fa-bars"></i>
+				</button>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="md:hidden mobile-menu hidden">
+
+		<div class="container-width py-4">
+
+			{menuItems.map(item => (
+
+				<div class="mobile-menu-item">
+
+					<a 
+						href={item.url}
+						class="block py-2 text-gray-600 hover:text-gray-900"
+					>
+						{item.title}
+					</a>
+					
+					{item.subItems && (
+						<div class="pl-4 mt-2 space-y-2">
+							{item.subItems.map(subItem => (
+								<a 
+									href={subItem.url}
+									class="block py-2 text-sm text-gray-600 hover:text-gray-900"
+								>
+									{subItem.title}
+								</a>
+							))}
+						</div>
+					)}
+				</div>
+
+			))}
+
+		</div>
+
+	</div>
+
+</header>
+
+<style>
+
+	.group:hover .group-hover\:visible {
+		visibility: visible;
+	}
+
+
+	.mobile-menu {
+		transition: all 0.3s ease-in-out;
+	}
+
+	.mobile-menu.show {
+		display: block;
+	}
+
+</style>
+
+<script>
+
+	const mobileMenuButton = document.querySelector('.mobile-menu-button');
+	const mobileMenu = document.querySelector('.mobile-menu');
+
+	mobileMenuButton?.addEventListener('click', () => {
+		mobileMenu?.classList.toggle('hidden');
+		mobileMenu?.classList.toggle('show');
+	});
+
+</script>
