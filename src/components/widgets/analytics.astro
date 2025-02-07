@@ -40,63 +40,40 @@ const {
 				{description && <p>{description}</p>}
 
 				{inputType === 'text' && (
-				  <textarea
-					id={`${id}-input`}
-					placeholder={placeholder}
-					class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
-					style="resize: none; height: 150px;"
-				  ></textarea>
+					<textarea
+						id={`${id}-input`}
+						placeholder={placeholder}
+						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+						style="resize: none; height: 150px;"
+					></textarea>
 				)}
 
 				{inputType === 'file' && (
-				  <div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
-					<p>
-					  <button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
-						Choose File
-					  </button>
-					</p>
-					<input
-					  type="file"
-					  id={`${id}-file`}
-					  class="hidden"
-					/>
-				  </div>
+					<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
+						<p>
+							<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
+								Choose File
+							</button>
+						</p>
+						<input
+							type="file"
+							id={`${id}-file`}
+							class="hidden"
+						/>
+					</div>
 				)}
 
 				{inputType === 'button' && (
-				  <div id={`${id}-buttons`} class="flex flex-wrap gap-2">
-					{channels.map((channel) => (
-					  <button
-						class="btn w-auto mb-6"
-						data-url={channel.url}
-					  >
-						{channel.name}
-					  </button>
-					))}
-				  </div>
-				)}
-
-				{inputType === 'compare-text' && (
-				  <div class="flex flex-col gap-4">
-					<div class="flex-1">
-					  <textarea
-						id={`${id}-input-1`}
-						placeholder={placeholder}
-						data-input
-						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
-						style="resize: none; height: 150px;"
-					  ></textarea>
+					<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
+						{channels.map((channel) => (
+							<button
+								class="btn w-auto mb-6"
+								data-url={channel.url}
+							>
+								{channel.name}
+							</button>
+						))}
 					</div>
-					<div class="flex-1">
-					  <textarea
-						id={`${id}-input-2`}
-						placeholder={placeholder}
-						data-input
-						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
-						style="resize: none; height: 150px;"
-					  ></textarea>
-					</div>
-				  </div>
 				)}
 
 			</div>
