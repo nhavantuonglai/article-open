@@ -1,4 +1,8 @@
-Dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, [\article-open](https://github.com/nhavantuonglai/article-open) là template website mã nguồn mở, truy cập miễn phí và không giới hạn các tính năng. Kế thừa tinh hoa của AstroWind, `\article-open` cập nhật và làm tốt hơn các tính năng cũ khi:
+`\article` là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.com/), hạn chế quyền truy cập và không giới hạn các tính năng.
+
+[\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của `\article` với quyền truy cập miễn phí và giới hạn tính năng.
+
+Mã nguồn dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, kế thừa tinh hoa của AstroWind, `\article-open` cập nhật và làm tốt hơn các tính năng cũ khi:
 
 – Cải thiện cấu trúc code, giúp mọi thứ trở nên đơn giản và dễ dàng tiếp cận.
 
@@ -8,7 +12,7 @@ Dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, [\articl
 
 – Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
 
-Dự án cũng giữ lại, đảm bảo điểm _PageSpeed insights_ ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+Dự án cũng giữ lại, đảm bảo điểm `PageSpeed Insights` ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
 
 ## Cấu trúc thư mục dự án
 
