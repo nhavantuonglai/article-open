@@ -19,6 +19,7 @@ Dự án cũng giữ lại, đảm bảo điểm `PageSpeed Insights` ấn tư�
 Cấu trúc thư mục của `\article-open` được tổ chức lại, bổ sung thêm các file, folder mới, giúp mọi thứ trở nên khoa học và dễ bảo trì, cập nhật. Cụ thể:
 
 ```
+
 article-open/
 ├── public/ | folder tài liệu.
 └── src/ | folder tổng.
@@ -108,10 +109,10 @@ article-open/
 	│	│	├── markdown.astro | Cấu hình trang định dạng markdown.
 	│	│	├── page.astro | Cấu hình trang bài viết.
 	├── pages/
-	│	├── [...blog]/
+	│	├── […blog]/
 	│	│	├── [tag]/
-	│	│	│	├── [...page].astro | Cấu hình danh sách thẻ bài viết.
-	│	│	├── [...page].astro | Cấu hình danh sách bài viết.
+	│	│	│	├── […page].astro | Cấu hình danh sách thẻ bài viết.
+	│	│	├── […page].astro | Cấu hình danh sách bài viết.
 	│	│	├── index.astro | Cấu hình giao diện bài viết.
 	│	├── analytics/ | Cấu hình giao diện trang công cụ.
 	│	│	├── Danh sách trang.
@@ -133,11 +134,13 @@ article-open/
 	│	├── optimization.ts
 	│	├── permalinks.ts
 	│	├── utils.ts
+
 ```
 
 Dựa trên cấu trúc thư mục, website sẽ được triển khai thành các trang, trang con như sau:
 
 ```
+
 Trang chủ/
 ├── Giới thiệu.
 ├── Bài viết.
@@ -163,6 +166,7 @@ Trang chủ/
 ├── Điều khoản.
 ├── Chính sách.
 └── Phiên bản.
+
 ```
 
 Mỗi mục trên trang chính dẫn đến một trang hoặc phần khác của website, giúp người dùng dễ dàng điều hướng và tìm kiếm thông tin.
