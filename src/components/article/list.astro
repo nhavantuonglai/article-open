@@ -1,0 +1,20 @@
+---
+import Item from '~/components/article/bloglist.astro';
+import type { Post } from '~/types';
+
+export interface Props {
+	posts: Array<Post>;
+}
+
+const { posts } = Astro.props;
+---
+
+<ul>
+	{
+		posts.map((post) =>(
+			<li class="text-justify mb-6 md:mb-62">
+				<Item post={post}/>
+			</li>
+		))
+	}
+</ul>

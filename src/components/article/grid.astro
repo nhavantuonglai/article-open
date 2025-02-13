@@ -1,0 +1,14 @@
+---
+import Diagram from '~/components/article/diagram.astro';
+import type { Post } from '~/types';
+
+export interface Props {
+	posts: Array<Post>;
+}
+
+const { posts } = Astro.props;
+---
+
+<div class="grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-4">
+	{posts.map((post) =><Diagram post={post}/>)}
+</div>

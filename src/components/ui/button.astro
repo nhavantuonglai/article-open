@@ -1,0 +1,51 @@
+---
+import { Icon } from 'astro-icon/components';
+import { twMerge } from 'tailwind-merge';
+import type { CallToAction as Props } from '~/types';
+
+const {
+	text = Astro.slots.render('default'),
+	icon = '',
+	class: className = '',
+	type,
+	href,
+	target,
+	...rest
+} = Astro.props;
+
+const baseClass = twMerge('btn hover:text-primary', className);
+---
+
+{
+
+	type === 'submit' ? (
+
+		<button type="submit" class={baseClass} {...rest}>
+			<Fragment set:html={text} />
+			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+		</button>
+	) : href ? (
+
+		<a
+			href={href}
+			class={baseClass}
+			target={target}
+			rel={target === '_blank' ? 'noopener noreferrer' : undefined}
+			{...rest}
+		>
+
+			<Fragment set:html={text} />
+			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+
+		</a>
+
+	) : (
+
+		<button type="button" class={baseClass} {...rest}>
+			<Fragment set:html={text} />
+			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+		</button>
+
+	)
+
+}

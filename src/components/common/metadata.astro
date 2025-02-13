@@ -1,0 +1,56 @@
+---
+import merge from 'lodash.merge';
+import { AstroSeo } from '@astrolib/seo';
+import type { Props as AstroSeoProps } from '@astrolib/seo';
+
+import { SITE, METADATA, I18N } from 'nhavantuonglai:config';
+import type { MetaData } from '~/types';
+import { getCanonical } from '~/utils/permalinks';
+import { adaptOpenGraphImages } from '~/utils/images';
+
+export interface Props extends MetaData {
+	dontUseTitleTemplate?: boolean;
+}
+
+const {
+	title,
+	ignoreTitleTemplate = false,
+	canonical = String(getCanonical(String(Astro.url.pathname))),
+	robots = {},
+	description,
+	openGraph = {},
+	twitter = {},
+} = Astro.props;
+
+const defaultSeoProps: AstroSeoProps = {
+	title: METADATA?.title?.default,
+	titleTemplate: METADATA?.title?.template,
+	noindex: METADATA?.robots?.index === false,
+	nofollow: METADATA?.robots?.follow === false,
+	description: METADATA?.description,
+	openGraph: {
+		url: canonical,
+		site_name: SITE?.name,
+		images: [],
+		locale: I18N?.language || 'vi',
+		type: 'website',
+		...METADATA?.openGraph,
+	},
+	twitter: METADATA?.twitter || {
+		cardType: openGraph?.images?.length ? 'summary_large_image' : 'summary',
+	},
+};
+
+const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
+	title,
+	titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
+	canonical,
+	noindex: robots?.index === false,
+	nofollow: robots?.follow === false,
+	description,
+	openGraph: { url: canonical, ...openGraph },
+	twitter,
+});
+---
+
+<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site) }} />
