@@ -3,6 +3,22 @@ layout: '~/layouts/markdown.astro'
 title: "Lịch sử phiên bản"
 ---
 
+_\article_ là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.com/), hạn chế quyền truy cập và không giới hạn các tính năng.
+
+[\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của _\article_ với quyền truy cập miễn phí và giới hạn tính năng.
+
+Mã nguồn _\article_ được dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, kế thừa tinh hoa của AstroWind, _\article-open_ cập nhật và làm tốt hơn các tính năng cũ khi:
+
+– Cải thiện cấu trúc code, giúp mọi thứ trở nên đơn giản và dễ dàng tiếp cận.
+
+– Đồng bộ, áp dụng components cho tất cả các trang, giúp cấu trúc trở nên dễ hiểu và cập nhật.
+
+– Tối ưu kỹ thuật SEO, khi cung cấp thẻ schema tiêu chuẩn, meta tag generator nâng cao, giúp website dễ dàng được các công cụ tìm kiếm nhận diện và index trang.
+
+– Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
+
+Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+
 ## Nguồn lực vận hành
 
 – Nền tảng triển khai: [Astro](https://nhavantuonglai.com/article/astro-cai-dat) kết hợp cùng Tailwind.
@@ -27,19 +43,21 @@ Nguồn lựa được khai thác, sử dụng nhằm tối ưu tài nguyên s�
 
 Việc cập nhật được diễn ra tự động, không ảnh hưởng đến quá trình trải nghiệm, đọc nội dung trên website.
 
-## v25.01
+## article | v25.01
 
 ### Tổng quan
 
-v25.01. dựa trên mã nguồn so với v24.09. để kế thừa, phát triển code toàn diện hơn. Cấu trúc code được đồng bộ, giúp các tiêu chuẩn được áp dụng lên toàn bộ trang. Ngoài ra, hiệu ứng chuyển động, và các tính năng mới cũng được phát triển mạnh, tạo ra không gian tương tác và vận hành hiệu quả hơn.
+article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế thừa, phát triển code toàn diện hơn. Cấu trúc code được đồng bộ, giúp các tiêu chuẩn được áp dụng lên toàn bộ trang. Ngoài ra, hiệu ứng chuyển động, và các tính năng mới cũng được phát triển mạnh, tạo ra không gian tương tác và vận hành hiệu quả hơn.
 
 ### Chi tiết cập nhật
 
-2025.02.03: Cập nhật _Framer motion._
+2025.02.09: Cập nhật bố cục trình bày trong mục Article.
+
+2025.02.03: Cập nhật Framer motion.
 
 2025.02.02: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính bằng CSS.
 
-2025.02.03: Cập nhật bố cục trình bày trong mục _Analytics._
+2025.02.03: Cập nhật bố cục trình bày trong mục Analytics.
 
 2025.02.02: Cập nhật tính năng [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).
 
@@ -67,15 +85,15 @@ v25.01. dựa trên mã nguồn so với v24.09. để kế thừa, phát triể
 
 2025.01.20: Cập nhật tính năng [Trích xuất tiêu đề từ liên kết](https://nhavantuonglai.com/analytics/title).
 
-## v24.09
+## article | v24.09
 
 ### Tổng quan
 
-v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập trung vào những tính năng mới sẽ áp dụng trên website. Mục tiêu của v24.09. là tạo ra các không gian tương tác, ứng dụng tính năng để thu hút và giữ chân người dùng trên website.
+article | v24.09. không thay đổi về mã nguồn so với article | v24.04. mà chỉ tập trung vào những tính năng mới sẽ áp dụng trên website. Mục tiêu của article | v24.09. là tạo ra các không gian tương tác, ứng dụng tính năng để thu hút và giữ chân người dùng trên website.
 
 ### Chi tiết cập nhật
 
-2025.01.06: Cập nhật bố cục trình bày trong mục _Article._
+2025.01.06: Cập nhật bố cục trình bày trong mục Article.
 
 2024.12.31: Cập nhật font chữ, chuyển sang Montserrat.
 
@@ -93,7 +111,7 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 2024.11.11: Cập nhật bộ [biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
 
-2024.10.28: Cập nhật thuộc tính _index_ cho các trang phụ trong mục _Article._
+2024.10.28: Cập nhật thuộc tính index cho các trang phụ trong mục Article.
 
 2024.10.26: Kích hoạt tính năng [tự động mở trang mới](https://nhavantuonglai.com/article/tu-dong-mo-trang).
 
@@ -111,15 +129,15 @@ v24.09. không thay đổi về mã nguồn so với v24.04. mà chỉ tập tru
 
 2024.09.08: Launching website thành công.
 
-### Lý do chuyển sang v25.01
+### Lý do chuyển sang article | v25.01
 
-v24.04. là phiên bản đã hoàn thiện, làm tốt nhất những gì đã có. Việc chuyển sang v25.01. giúp cải tiến, cập nhật thêm nhiều chức năng, tính năng mới trên website.
+article | v24.04. là phiên bản đã hoàn thiện, làm tốt nhất những gì đã có. Việc chuyển sang article | v25.01. giúp cải tiến, cập nhật thêm nhiều chức năng, tính năng mới trên website.
 
-## v24.04
+## article | v24.04
 
 ### Tổng quan
 
-v24.04. không thay đổi về mã nguồn so với v24.01. mà chỉ thay đổi hosting, chuyển sang Vercel. Sự cải tiến này giúp thư viện CMS được quản lý dễ dàng, và hệ thống tracking diễn ra được hiệu quả hơn.
+article | v24.04. không thay đổi về mã nguồn so với article | v24.01. mà chỉ thay đổi hosting, chuyển sang Vercel. Sự cải tiến này giúp thư viện CMS được quản lý dễ dàng, và hệ thống tracking diễn ra được hiệu quả hơn.
 
 ### Chi tiết cập nhật
 
@@ -149,15 +167,15 @@ v24.04. không thay đổi về mã nguồn so với v24.01. mà chỉ thay đ�
 
 2024.04.21: Launching website thành công.
 
-### Lý do chuyển sang v24.09
+### Lý do chuyển sang article | v24.09
 
-v24.04. là phiên bản tốt, tối ưu nhất từ trước đến nay, việc chuyển sang v24.09 nhằm đáp ứng những yêu cầu khắt khe, cao hơn trong bối cảnh hiện tại.
+article | v24.04. là phiên bản tốt, tối ưu nhất từ trước đến nay, việc chuyển sang article | v24.09 nhằm đáp ứng những yêu cầu khắt khe, cao hơn trong bối cảnh hiện tại.
 
-## v24.01
+## article | v24.01
 
 ### Tổng quan
 
-v24.01. là phiên bản kế thừa từ v23.12. với nhiều cải tiến, cụ thể là giao diện và bố cục được đầu tư cải thiện, nhằm đem lại trải nghiệm tốt nhất cho người đọc.
+article | v24.01. là phiên bản kế thừa từ article | v23.12. với nhiều cải tiến, cụ thể là giao diện và bố cục được đầu tư cải thiện, nhằm đem lại trải nghiệm tốt nhất cho người đọc.
 
 ### Chi tiết cập nhật
 
@@ -179,15 +197,15 @@ v24.01. là phiên bản kế thừa từ v23.12. với nhiều cải tiến, c�
 
 2024.01.11: Launching website thành công.
 
-### Lý do chuyển sang v24.04
+### Lý do chuyển sang article | v24.04
 
-v24.01. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, giải quyết tốt các vấn đề tồn đọng của các phiên bản webiste cũ trước. Tuy nhiên, v24.01. được deploy thông qua Firebase, gặp nhiều thách thức và giới hạn khi triển khai thư viện CMS số lượng lớn. Việc triển khai website sang v24.04. là cách giải quyết tốt nhất cho vấn đề này.
+article | v24.01. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, giải quyết tốt các vấn đề tồn đọng của các phiên bản webiste cũ trước. Tuy nhiên, article | v24.01. được deploy thông qua Firebase, gặp nhiều thách thức và giới hạn khi triển khai thư viện CMS số lượng lớn. Việc triển khai website sang article | v24.04. là cách giải quyết tốt nhất cho vấn đề này.
 
-## v23.12
+## article | v23.12
 
 ### Tổng quan
 
-v23.12. là phiên bản website động, code được viết bằng Astro và quản lý hosting thông qua Firebase. Ở phiên bản này, các cải tiến diễn ra ở cả giao diện lẫn thư viện trang.
+article | v23.12. là phiên bản website động, code được viết bằng Astro và quản lý hosting thông qua Firebase. Ở phiên bản này, các cải tiến diễn ra ở cả giao diện lẫn thư viện trang.
 
 ### Chi tiết cập nhật
 
@@ -201,15 +219,15 @@ v23.12. là phiên bản website động, code được viết bằng Astro và 
 
 2023.12.16: Launching website thành công.
 
-### Lý do chuyển sang v24.01
+### Lý do chuyển sang article | v24.01
 
-v23.12. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, tuy nhiên vẫn còn tồn tại nhiều hạn chế như giao diện đơn giản và bị giới hạn cách trình bày, sitemaps cấu hình sai và khó sửa, cũng như nhận được nhiều đánh giá không tốt về trải nghiệm đọc. Việc triển khai website sang v04. là cách giải quyết tốt nhất cho vấn đề này.
+article | v23.12. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, tuy nhiên vẫn còn tồn tại nhiều hạn chế như giao diện đơn giản và bị giới hạn cách trình bày, sitemaps cấu hình sai và khó sửa, cũng như nhận được nhiều đánh giá không tốt về trải nghiệm đọc. Việc triển khai website sang v04. là cách giải quyết tốt nhất cho vấn đề này.
 
-## v23.11
+## article | v23.11
 
 ### Tổng quan
 
-v02. là phiên bản website tĩnh, code được viết bằng HTML và quản lý hosting thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với giao diện và bố cục trang, còn thư viện CMS không được khai thác.
+article | v23.11 là phiên bản website tĩnh, code được viết bằng HTML và quản lý hosting thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với giao diện và bố cục trang, còn thư viện CMS không được khai thác.
 
 ### Chi tiết cập nhật
 
@@ -223,15 +241,15 @@ v02. là phiên bản website tĩnh, code được viết bằng HTML và quản
 
 2023.11.01: Launching website thành công.
 
-### Lý do chuyển sang v23.12
+### Lý do chuyển sang article | v23.12
 
-v23.11. là phiên bản website tĩnh, giao diện hiện đại và thân thiện với người đọc nhưng nội dung chỉ có thể liên kết thể hiện qua bên thứ 3, điều này làm giới hạn khả năng hiển thị và tính chuyên nghiệp của dự án. Việc triển khai website sang v23.12. là cách giải quyết tốt nhất cho vấn đề này.
+article | v23.11. là phiên bản website tĩnh, giao diện hiện đại và thân thiện với người đọc nhưng nội dung chỉ có thể liên kết thể hiện qua bên thứ 3, điều này làm giới hạn khả năng hiển thị và tính chuyên nghiệp của dự án. Việc triển khai website sang article | v23.12. là cách giải quyết tốt nhất cho vấn đề này.
 
-## v23.10
+## article | v23.10
 
 ### Tổng quan
 
-v23.10. là phiên bản website đầu tiên, giao diện và hosting thuộc quản lý bởi Github, thư viện CMS được đồng bộ thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với thư viện CMS do giao diện và bố cục trang luôn cố định.
+article | v23.10. là phiên bản website đầu tiên, giao diện và hosting thuộc quản lý bởi Github, thư viện CMS được đồng bộ thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với thư viện CMS do giao diện và bố cục trang luôn cố định.
 
 ### Chi tiết cập nhật
 
@@ -239,12 +257,12 @@ v23.10. là phiên bản website đầu tiên, giao diện và hosting thuộc q
 
 2023.10.31: Toàn tất tối ưu thư viện CMS.
 
-2023.10.14: Gán subdomain _www_ vào website.
+2023.10.14: Gán subdomain www vào website.
 
-2023.10.02: Gán subdomain _info_ vào website.
+2023.10.02: Gán subdomain info vào website.
 
 2023.10.02: Launching website thành công.
 
-### Lý do chuyển sang v23.11
+### Lý do chuyển sang article | v23.11
 
-v23.10. là phiên bản sơ khai, giúp thư viện CMS hiển thị hiệu quả nhưng bị giới hạn về cách trình bày. Việc triển khai sang v23.11. sẽ kỳ vọng giải quyết được vấn đề này.
+article | v23.10. là phiên bản sơ khai, giúp thư viện CMS hiển thị hiệu quả nhưng bị giới hạn về cách trình bày. Việc triển khai sang article | v23.11. sẽ kỳ vọng giải quyết được vấn đề này.

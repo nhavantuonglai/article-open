@@ -29,6 +29,7 @@ const {
 <Slideup client:visible>
 
 	<section class="relative md:-mt-[76px] not-prose">
+
 		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 		<div class="relative max-w-7xl mx-auto px-4 sm:px-6">
 			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
@@ -69,6 +70,7 @@ const {
 					</div>
 
 					{content && <Fragment set:html={content} />}
+
 				</div>
 
 				<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
@@ -90,8 +92,10 @@ const {
 						</div>
 					)}
 				</div>
+
 			</div>
 		</div>
+
 	</section>
 
 </Slideup>

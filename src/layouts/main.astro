@@ -2,7 +2,9 @@
 import { I18N } from 'nhavantuonglai:config';
 import '~/assets/styles/tailwind.css';
 
-import { getAsset } from '~/utils/permalinks';
+import Meta from '~/components/common/meta.astro';
+import Favicons from '~/assets/favicons/core.astro';
+import Custom from '~/assets/styles/custom.astro';
 import Metadata from '~/components/common/metadata.astro';
 
 import BasicScripts from '~/components/javascript/basic.astro';
@@ -31,27 +33,15 @@ const { language, textDirection } = I18N;
 
 		<Schema/>
 
-		<meta charset="UTF-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<Meta/>
 
-		<link rel="sitemap" href={getAsset('/sitemap-0.xml')}/>
+		<Favicons/>
 
-		<link href="https://banmaixanh.org/image/favicon/favicon.ico" rel="shortcut icon">
-		<link href="https://banmaixanh.org/image/favicon/favicon.svg" rel="icon" type="image/svg+xml">
-		<link href="https://banmaixanh.org/image/favicon/favicon.svg" rel="mask-icon" color="#ff725e">
-		<link href="https://banmaixanh.org/image/favicon/favicon.png" rel="apple-touch-icon" sizes="180x180">
+		<Custom/>
 
 		<Color/>
 
-		<Metadata {...metadata}
-			<meta property="twitter:image" content="https://banmaixanh.org/image/cover/001-053.jpg">
-			<meta property="twitter:card" content="https://banmaixanh.org/image/cover/001-053.jpg">
-			<meta property="twitter:title" content="Văn hay trong hiện tại, chữ tốt ở tương lai.">
-			<meta property="twitter:description" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.">
-			<meta property="og:image" content="https://banmaixanh.org/image/cover/001-053.jpg">
-		/>
-
-
+		<Metadata {...metadata}/>
 
 		<Analytics/>
 

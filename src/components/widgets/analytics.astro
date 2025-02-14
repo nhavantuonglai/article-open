@@ -4,27 +4,27 @@ import {
 } from '~/assets/styles/framer.jsx';
 
 export interface Props {
-  id: string;
-  title?: string;
-  description?: string;
-  inputType: 'text' | 'file' | 'button';
-  outputType: 'text' | 'file' | 'audio' | 'video';
-  placeholder?: string;
-  downloadText?: string;
-  debounceTime?: number;
-  channels?: Array<{name: string, url: string}>;
+	id: string;
+	title?: string;
+	description?: string;
+	inputType: 'text' | 'file' | 'button';
+	outputType: 'text' | 'file' | 'audio' | 'video';
+	placeholder?: string;
+	downloadText?: string;
+	debounceTime?: number;
+	channels?: Array<{name: string, url: string}>;
 }
 
 const {
-  id,
-  title = 'Nhập nội dung',
-  description = '',
-  inputType,
-  outputType,
-  placeholder = 'Nhập nội dung cần xử lý.',
-  downloadText = 'Tải xuống.',
-  debounceTime = 500,
-  channels = []
+	id,
+	title = 'Nhập nội dung',
+	description = '',
+	inputType,
+	outputType,
+	placeholder = 'Nhập nội dung cần xử lý.',
+	downloadText = 'Tải xuống.',
+	debounceTime = 500,
+	channels = []
 } = Astro.props;
 ---
 
@@ -40,6 +40,21 @@ const {
 				{description && <p>{description}</p>}
 
 				{inputType === 'text' && (
+					<textarea
+						id={`${id}-input`}
+						placeholder={placeholder}
+						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+						style="resize: none; height: 150px;"
+					></textarea>
+				)}
+
+				{inputType === 'compare-text' && (
+					<textarea
+						id={`${id}-input`}
+						placeholder={placeholder}
+						class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+						style="resize: none; height: 150px;"
+					></textarea>
 					<textarea
 						id={`${id}-input`}
 						placeholder={placeholder}
@@ -94,7 +109,7 @@ const {
 
 				{outputType === 'audio' && (
 					<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
-						<audio id={`${id}-audio-player`} class="w-full  mb-6" controls>
+						<audio id={`${id}-audio-player`} class="w-full	mb-6" controls>
 							<source id={`${id}-audio-source`} src="" type="audio/mpeg">
 						</audio>
 						<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
@@ -103,7 +118,7 @@ const {
 
 				{outputType === 'video' && (
 					<div id={`${id}-video-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
-						<video id={`${id}-video-player`} class="w-full  mb-6" controls>
+						<video id={`${id}-video-player`} class="w-full	mb-6" controls>
 							<source id={`${id}-video-source`} src="" type="video/mp4">
 						</video>
 						<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>

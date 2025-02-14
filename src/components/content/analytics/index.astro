@@ -1,5 +1,7 @@
 ---
 import Hero from '~/components/widgets/hero.astro';
+import Analytics from '~/components/widgets/analytics.astro';
+
 import Index from '~/components/analytics/index.astro';
 
 import Button from '~/components/ui/button.astro';
@@ -17,6 +19,20 @@ import Question from '~/components/widgets/question.astro';
 		alt: 'nhavantuonglai-cover',
 
 	}}
+
+/>
+
+<Analytics
+
+	id="text-counter"
+	title="Công cụ ví dụ mẫu"
+	description="Hướng dẫn: Nội dung mô tả sẽ được cung cấp ở đây."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập văn bản đếm tần suất ở đây."
+	debounceTime={500}
 
 />
 

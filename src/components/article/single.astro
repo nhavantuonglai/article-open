@@ -30,99 +30,157 @@ const { Content } = post;
 
 	<article>
 
-		<header>
+		<header class="mx-auto px-4 sm:px-6">
 
-			<Slideup client:visible>
+			{post.image ? (
 
-				<h1 class="max-w-3xl mx-auto px-4 sm:px-6 dark:text-primary">
-					{post.title}
-				</h1>
+				<div class="relative w-full min-h-[400px]">
 
-			</Slideup>
+					<Image
 
-			<Slideleft client:visible>
+						src={post.image}
+						class="absolute inset-0 w-full h-full object-cover blur-[3px]"
+						widths={[600, 900]}
+						sizes="(max-width: 900px) 600px, 900px"
 
-				<p class="max-w-3xl mx-auto px-4 sm:px-6">
-					{post.description}
-				</p>
+						alt={post?.description || ''}
 
-			</Slideleft>
+						width="auto"
+						height="auto"
 
-			<Slideright client:visible>
+						loading="eager"
+						decoding="async"
 
-				<div class="max-w-3xl mx-auto px-4 sm:px-6">
+					/>
 
-					<p>
-						<time datetime={post.pubDatetime}>
-							{`${new Date(post.pubDatetime)
-								.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
-								.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
-						</time>
+					<div class="absolute inset-0 bg-black/30 dark:bg-black/50"></div>
+					
+					<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 md:grid-cols-2 gap-8 py-12">
 
-						{post.readingTime && (
-							<>
-								&nbsp;· <span>{post.readingTime}</span> phút đọc
-							</>
-						)}
+						<div>
 
-						&nbsp;· <span id="counter"></span> lượt xem.
-						<script client:load>
-							let count = localStorage.getItem('pageCounter');
-							if (count === null) {
-								count = Math.floor(Math.random() * (543 - 74 + 1)) + 45;
-							} else {
-								count = parseInt(count);
-							}
+							<Slideup client:visible>
 
-							count += 1;
+								<h1 class="text-white mb-4">
+									{post.title}
+								</h1>
 
-							localStorage.setItem('pageCounter', count);
-							document.getElementById('counter').textContent = count;
-						</script>
-					</p>
+							</Slideup>
+							
+							<Slideright client:visible>
+
+								<p class="text-white">
+
+									<time datetime={post.pubDatetime}>
+
+									{`${new Date(post.pubDatetime)
+										.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
+										.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`}
+
+									</time>
+
+								</p>
+
+							</Slideright>
+
+						</div>
+					
+						<div>
+
+							<Slideleft client:visible>
+
+								<p class="text-white">
+
+									{post.description}
+
+								</p>
+
+								<p class="text-white">
+
+									{post.readingTime && (
+
+									<>
+
+										<span>{post.readingTime}</span> phút đọc
+
+									</>
+
+									)}
+
+									&nbsp;· <span id="counter"></span> lượt xem.
+
+								</p>
+
+							</Slideleft>
+
+						</div>
+
+					</div>
 
 				</div>
 
-			</Slideright>
+			) : (
+			<div class="border-t dark:border-slate-700"/>
+			)}
+
+			<script client:load>
+
+			let count = localStorage.getItem('pageCounter');
+			if (count === null) {
+				count = Math.floor(Math.random() * (543 - 74 + 1)) + 45;
+			} else {
+				count = parseInt(count);
+			}
+			count += 1;
+			localStorage.setItem('pageCounter', count);
+			document.getElementById('counter').textContent = count;
+
+			</script>
 
 		</header>
 
-		<Table/>
+		<div class="max-w-8xl mx-auto px-4 sm:px-6">
 
-		{post.image ? (
+		<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
 
-			<Image
-				src={post.image}
-				class="max-w-3xl mx-auto px-4 sm:px-6 mb-6 mt-6"
-				widths={[400, 900]}
-				sizes="(max-width: 900px) 400px, 900px"
-				alt={post?.description || ''}
-				width="auto"
-				height="auto"
-				loading="eager"
-				decoding="async"
-			/>
+			<div class="relative">
 
-		) : (
-			<div class="border-t dark:border-slate-700"/>
-		)}
+				<div id="table-wrapper">
 
-		<Anticopy/>
+					<div class="relative mt-6">
 
-		<Slideup client:visible>
+						<Slideright client:visible>
 
-			<div class="max-w-3xl mx-auto px-4 sm:px-6 prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
-				{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+							<Table/>
+
+						</Slideright>
+
+					</div>
+
+				</div>
+
 			</div>
 
-		</Slideup>
+			<div>
 
-		<div class="max-w-3xl mx-auto px-4 sm:px-6">
-			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
-		</div>
+				<Slideup client:visible>
 
-		<div class="max-w-3xl mx-auto px-4 sm:px-6">
-			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500 dark:text-slate-600"/>
+					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
+
+						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+
+						<Anticopy/> 
+
+					</div>
+
+					<PostTags tags={post.tags}/>
+
+					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500 dark:text-slate-600"/>
+
+				</Slideup>
+
+			</div>
+
 		</div>
 
 	</article>
