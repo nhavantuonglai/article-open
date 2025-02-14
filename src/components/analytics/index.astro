@@ -4,18 +4,40 @@ import Analytics from '~/components/widgets/analytics.astro';
 
 <Analytics
 
-	id="text-counter"
-	title="Công cụ đếm tần suất văn bản"
-	description="Hướng dẫn: Sao chép và dán văn bản đếm tần suất, công cụ sẽ trả về kết quả tương ứng."
+	id="ip-address"
+	title="Thông tin địa chỉ IP của tôi là gì?"
+	description="Hướng dẫn: Công cụ sẽ tìm kiếm địa chỉ IP của bạn, và hiển thị thông tin đầy đủ ở bên dưới."
 
-	inputType="text"
+	inputType="hidden"
 	outputType="text"
 
-	placeholder="Vui lòng nhập văn bản đếm tần suất ở đây."
-	debounceTime={500}
+	debounceTime={1000}
 
 />
 
 <script client:load>
+
+	document.addEventListener('DOMContentLoaded', async () => {
+		const resultOutput = document.getElementById('ip-address-text-output');
+		
+		if (resultOutput) {
+			resultOutput.textContent = "Đang tìm kiếm địa chỉ IP của tôi.";
+			
+			try {
+				const response = await fetch("https://ipinfo.io/json?token=87aa8f284fb4f6");
+				const data = await response.json();
+				
+				const ipInfo = [
+					`Địa chỉ IP của tôi: ${data.ip || 'Không xác định'}, tại: ${data.region || 'Không xác định'}, ${data.country || 'Không xác định'}. Đang dùng mạng: ${data.org || 'Không xác định'}. Tọa độ: ${data.loc ? `${data.loc}` : 'Không xác định'}. Người dùng: ${data.name ? `${data.name}` : 'Không xác định'}.`
+				];
+				
+				resultOutput.textContent = ipInfo;
+				
+			} catch (error) {
+				console.error("Lỗi khi tìm kiếm địa chỉ IP của tôi:", error);
+				resultOutput.textContent = "Lỗi khi tìm kiếm địa chỉ IP của tôi, vui lòng thử lại sau.";
+			}
+		}
+	});
 
 </script>
