@@ -12,8 +12,6 @@ metadata:
   robots:
     index: true
     follow: true
-  openGraph:
-    site_name: nhavantuonglai
 
 i18n:
   language: vi

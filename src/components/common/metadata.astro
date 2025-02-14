@@ -1,56 +1,27 @@
----
-import merge from 'lodash.merge';
-import { AstroSeo } from '@astrolib/seo';
-import type { Props as AstroSeoProps } from '@astrolib/seo';
+<meta property="og:title" content="Văn hay trong hiện tại, chữ tốt ở tương lai."/>
+<meta property="og:description" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."/>
+<meta property="og:image" content="https://banmaixanh.org/image/cover/001-053.jpg"/>
+<meta property="og:image:alt" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích."/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:url" content="https://nhavantuonglai.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:locale" content="vi_VN"/>
+<meta property="og:site_name" content="nhavantuonglai"/>
 
-import { SITE, METADATA, I18N } from 'nhavantuonglai:config';
-import type { MetaData } from '~/types';
-import { getCanonical } from '~/utils/permalinks';
-import { adaptOpenGraphImages } from '~/utils/images';
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Văn hay trong hiện tại, chữ tốt ở tương lai."/>
+<meta name="twitter:description" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích."/>
+<meta name="twitter:image" content="https://banmaixanh.org/image/cover/001-053.jpg"/>
+<meta name="twitter:image:alt" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích."/>
+<meta name="twitter:site" content="@nhavantuonglai"/>
+<meta name="twitter:creator" content="@nhavantuonglai"/>
 
-export interface Props extends MetaData {
-	dontUseTitleTemplate?: boolean;
-}
+<meta name="title" content="Văn hay trong hiện tại, chữ tốt ở tương lai."/>
+<meta name="description" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."/>
+<meta name="robots" content="index, follow"/>
+<meta name="author" content="nhavantuonglai"/>
 
-const {
-	title,
-	ignoreTitleTemplate = false,
-	canonical = String(getCanonical(String(Astro.url.pathname))),
-	robots = {},
-	description,
-	openGraph = {},
-	twitter = {},
-} = Astro.props;
+<link rel="icon" type="image/png" href="https://banmaixanh.org/image/favicon/favicon.ico"/>
 
-const defaultSeoProps: AstroSeoProps = {
-	title: METADATA?.title?.default,
-	titleTemplate: METADATA?.title?.template,
-	noindex: METADATA?.robots?.index === false,
-	nofollow: METADATA?.robots?.follow === false,
-	description: METADATA?.description,
-	openGraph: {
-		url: canonical,
-		site_name: SITE?.name,
-		images: [],
-		locale: I18N?.language || 'vi',
-		type: 'website',
-		...METADATA?.openGraph,
-	},
-	twitter: METADATA?.twitter || {
-		cardType: openGraph?.images?.length ? 'summary_large_image' : 'summary',
-	},
-};
-
-const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
-	title,
-	titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
-	canonical,
-	noindex: robots?.index === false,
-	nofollow: robots?.follow === false,
-	description,
-	openGraph: { url: canonical, ...openGraph },
-	twitter,
-});
----
-
-<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site) }} />
+<title>Văn hay trong hiện tại, chữ tốt ở tương lai.</title>
