@@ -14,19 +14,6 @@ metadata:
     follow: true
   openGraph:
     site_name: nhavantuonglai
-    image:
-      url: 'https://banmaixanh.org/image/cover/001-753.jpg'
-      width: 600
-      height: 407
-    type: website
-  twitter:
-    handle: '@nhavantuonglai'
-    site: '@nhavantuonglai'
-    card: summary_large_image
-    image:
-      url: 'https://banmaixanh.org/image/cover/001-746.jpg'
-    title: Văn hay trong hiện tại, chữ tốt ở tương lai.
-    description: Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.
 
 i18n:
   language: vi
