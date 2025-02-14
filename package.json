@@ -1,8 +1,7 @@
 {
-	"name": "@onwidget/astrowind",
-	"description": "nhavantuonglai là người viết lách chuyên nghiệp, tập trung viết dưới hình thức đoản văn, nghiên cứu và chia sẻ học thuật.",
-	"version": "1.0.0-beta.22",
-	"private": true,
+	"name": "@nhavantuonglai",
+	"description": "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.",
+	"version": "v25.02.14",
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
