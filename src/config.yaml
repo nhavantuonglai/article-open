@@ -15,6 +15,12 @@ apps:
       robots:
         index: true
 
+    list:
+      isEnabled: true
+      pathname: 'article'
+      robots:
+        index: true
+
     tag:
       isEnabled: true
       pathname: 'tags'
