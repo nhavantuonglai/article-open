@@ -1,0 +1,45 @@
+<script client:load>
+
+	document.onselectstart = () => false;
+
+	function preventCopy(e) {
+		e.preventDefault();
+	}
+
+	function allowCopy() {
+		return true;
+	}
+
+	if (window.sidebar) {
+		document.onmousedown = preventCopy;
+		document.onclick = allowCopy;
+	}
+
+</script>
+
+<script client:load type="text/javascript">
+	function preventRightClickIE() {
+		if (document.all) {
+			return false;
+		}
+	}
+
+	function preventRightClickNS(e) {
+		if (document.layers || (document.getElementById && !document.all)) {
+			if (e.which == 2 || e.which == 3) {
+				return false;
+			}
+		}
+	}
+
+	if (document.layers) {
+		document.captureEvents(Event.MOUSEDOWN);
+		document.onmousedown = preventRightClickNS;
+	} else {
+		document.onmouseup = preventRightClickNS;
+		document.oncontextmenu = preventRightClickIE;
+	}
+
+	document.oncontextmenu = () => false;
+
+</script>

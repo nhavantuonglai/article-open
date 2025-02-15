@@ -1,0 +1,40 @@
+---
+import { findImage } from '~/utils/images';
+import {
+	getImagesOptimized,
+	astroAsseetsOptimizer,
+	unpicOptimizer,
+	type ImageProps,
+	type AttributesProps
+} from '~/utils/optimization';
+
+type Props = ImageProps;
+type ImageType = {
+	src: string;
+	attributes: AttributesProps;
+}
+
+const props = Astro.props;
+
+if (!props.alt) throw new Error();
+props.width = typeof props.width === 'string' ? parseInt(props.width) : props.width;
+props.height = typeof props.height === 'string' ? parseInt(props.height) : props.height;
+props.loading = props.loading || 'lazy';
+props.decoding = props.decoding || 'async';
+
+const _image = await findImage(props.src);
+
+let image: ImageType | undefined = undefined;
+
+if (_image) {
+	if (typeof _image === 'object') {
+		image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
+	} else if (typeof _image === 'string' && (_image.startsWith('http://') || _image.startsWith('https://'))) {
+		image = await getImagesOptimized(_image, props, unpicOptimizer);
+	} else {
+		image = await getImagesOptimized(_image, props);
+	}
+}
+---
+
+{image ? <img title='nhavantuonglai' src={image.src} {...image.attributes}/> : <Fragment/>}

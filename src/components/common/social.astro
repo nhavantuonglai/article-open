@@ -1,0 +1,43 @@
+---
+import { Icon } from 'astro-icon/components';
+
+export interface Props {
+	text: string;
+	url: string | URL;
+	class?: string;
+}
+
+const { text, url, class: className = 'inline-block' } = Astro.props;
+
+const socialShares = [
+	{ name: 'twitter', icon: 'tabler:brand-x', title: 'Twitter Share' },
+	{ name: 'facebook', icon: 'tabler:brand-facebook', title: 'Facebook Share' },
+	{ name: 'linkedin', icon: 'tabler:brand-linkedin', title: 'Linkedin Share' },
+	{ name: 'whatsapp', icon: 'tabler:brand-whatsapp', title: 'Whatsapp Share' },
+	{ name: 'mail', icon: 'tabler:mail', title: 'Email Share' }
+];
+---
+
+<div class={className}>
+
+	<span class="align-super font-bold text-slate-500 dark:text-slate-400">Share:</span>
+
+	{socialShares.map((social) => (
+		<button
+			key={social.name}
+			class="ml-2 rtl:ml-0 rtl:mr-2"
+			title={social.title}
+			data-aw-social-share={social.name}
+			data-aw-url={url}
+			data-aw-text={text}
+		>
+			<Icon
+				name={social.icon}
+				class="w-6 h-6 text-gray-400 dark:text-slate-500 hover:text-black dark:hover:text-slate-300"
+			/>
+
+		</button>
+
+	))}
+
+</div>

@@ -1,0 +1,61 @@
+<p class="max-w-3xl mx-auto" id="index">
+
+	<script type="module">
+
+		function generateTOC() {
+			const index = document.getElementById('index');
+			const headings = document.querySelectorAll('h2, h3, h4');
+
+			const tocList = document.createElement('ul');
+			let currentParent = null;
+
+			headings.forEach(heading => {
+				const listItem = document.createElement('li');
+				const anchor = document.createElement('a');
+				anchor.href = `#${heading.id}`;
+				anchor.textContent = heading.textContent;
+				listItem.appendChild(anchor);
+
+				switch (heading.tagName.toLowerCase()) {
+					case 'h2':
+						break;
+					case 'h3':
+						listItem.style.fontStyle = 'italic';
+						break;
+					case 'h4':
+						break;
+				}
+
+				if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
+					if (currentParent) {
+						const subList = currentParent.querySelector('ul') || document.createElement('ul');
+						subList.appendChild(listItem);
+						currentParent.appendChild(subList);
+					}
+				} else {
+					tocList.appendChild(listItem);
+					currentParent = listItem;
+				}
+			});
+
+			index.appendChild(tocList);
+
+			hideLastTOCItems(tocList, 21);
+		}
+
+		function hideLastTOCItems(tocList, count) {
+			const items = tocList.querySelectorAll('li');
+			const totalItems = items.length;
+
+			const itemsToHide = Math.min(count, totalItems);
+
+			for (let i = totalItems - itemsToHide; i < totalItems; i++) {
+				items[i].style.display = 'none';
+			}
+		}
+
+		window.onload = generateTOC;
+
+	</script>
+
+</p>

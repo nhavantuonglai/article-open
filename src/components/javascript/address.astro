@@ -1,0 +1,25 @@
+<p id="user-ip" class="text-sm text-muted mb-6">
+
+	Đang lấy địa chỉ
+
+</p>
+
+<script client:load>
+
+	document.addEventListener("DOMContentLoaded", async () => {
+		const ipElement = document.getElementById("user-ip");
+		if (ipElement) {
+			ipElement.textContent = "Đang lấy địa chỉ.";
+			try {
+				const response = await fetch("https://ipinfo.io/json?token=87aa8f284fb4f6");
+				const data = await response.json();
+				ipElement.textContent = `Địa chỉ: ${data.ip}.`;
+			} catch (error) {
+				console.error("Lỗi khi truy vấn.:", error);
+				ipElement.textContent = "Lỗi khi truy vấn.";
+			}
+		}
+
+	});
+
+</script>

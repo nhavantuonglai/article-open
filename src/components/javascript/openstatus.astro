@@ -1,0 +1,102 @@
+---
+import * as z from "zod"
+
+const statusEnum = z.enum([
+	"operational",
+	"degraded_performance",
+	"partial_outage",
+	"major_outage",
+	"under_maintenance",
+	"unknown",
+	"incident",
+])
+
+const statusSchema = z.object({ status: statusEnum })
+
+const dictionary = {
+	operational: {
+		label: "Trạng thái",
+		color: "bg-primary",
+	},
+	degraded_performance: {
+		label: "Degraded Performance",
+		color: "bg-yellow-500",
+	},
+	partial_outage: {
+		label: "Partial Outage",
+		color: "bg-yellow-500",
+	},
+	major_outage: {
+		label: "Major Outage",
+		color: "bg-red-500",
+	},
+	unknown: {
+		label: "Unknown",
+		color: "bg-gray-500",
+	},
+	incident: {
+		label: "Incident",
+		color: "bg-yellow-500",
+	},
+	under_maintenance: {
+		label: "Under Maintenance",
+		color: "bg-blue-500",
+	},
+}
+
+const slug = Astro.props.slug
+
+const res = await fetch(`https://api.openstatus.dev/public/status/nhavantuonglai`, {
+	// @ts-ignore
+	next: { revalidate: 60 },
+})
+const data = await res.json()
+const parsed = statusSchema.safeParse(data)
+if (!parsed.success) {
+	return null
+}
+const key = parsed.data.status
+const { label, color } = dictionary[key]
+---
+
+<a
+	class="text-sm inline-flex items-center gap-2 mb-6"
+	href={`https://nhavantuonglai.openstatus.dev`}
+	target="_blank"
+	rel="noreferrer"
+>
+
+	{label}
+
+	<span class="relative flex h-2 w-2">
+
+		{
+			parsed.data.status === "operational" ? (
+				<span
+					class:list={[
+						"absolute",
+						"inline-flex",
+						"h-full",
+						"w-full",
+						"animate-ping",
+						"rounded-full",
+						color,
+						"opacity-75",
+						"duration-1000",
+					]}
+				/>
+			) : null
+		}
+
+		<span
+			class:list={[
+				"relative",
+				"inline-flex",
+				"h-2",
+				"w-2",
+				"rounded-full",
+				color,
+			]}></span>
+	</span>
+
+</a>

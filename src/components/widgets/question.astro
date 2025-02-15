@@ -1,0 +1,116 @@
+---
+import Headline from '~/components/ui/headline.astro';
+import Wrapper from '~/components/ui/wrapper.astro';
+
+import {
+	Slideup
+} from '~/assets/framer.jsx';
+
+interface Props {
+	title?: string;
+	subtitle?: string;
+	tagline?: string;
+	items?: Array<{
+		title: string;
+		description: string;
+	}>;
+	id?: string;
+	isDark?: boolean;
+	classes?: Record<string, string>;
+}
+
+const {
+	title = '',
+	subtitle = '',
+	tagline = '',
+	items = [],
+	id,
+	isDark = false,
+	classes = {},
+	bg = await Astro.slots.render('bg'),
+} = Astro.props;
+---
+
+<Slideup client:visible>
+
+	<Wrapper
+		id={id}
+		isDark={isDark}
+		containerClass={`max-w-7xl mx-auto ${classes?.container ?? ''}`}
+		bg={bg}
+	>
+		<Headline
+			title={title}
+			subtitle={subtitle}
+			tagline={tagline}
+		/>
+		
+		<div class="grid gap-6">
+
+			{items.map((item) => (
+				<div class="faq-item w-full">
+
+					<div class="flex gap-3 cursor-pointer">
+
+						<svg
+							class="mr-2 w-6 h-6 text-primary flex-shrink-0"
+							viewBox="0 0 24 24"
+							fill="none"
+							stroke="currentColor"
+							stroke-width="2"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+						>
+							<circle cx="12" cy="12" r="10"/>
+							<path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
+							<line x1="12" y1="17" x2="12.01" y2="17"/>
+						</svg>
+
+						<h3 class="text-xl">{item.title}</h3>
+
+					</div>
+					
+					<div class="faq-answer mb-6 mt-2 pl-9 transition-all duration-300 max-h-0 opacity-0 overflow-hidden">
+						<p class="text-xl">{item.description}</p>
+					</div>
+
+				</div>
+
+			))}
+
+		</div>
+
+	</Wrapper>
+
+	<script>
+
+		document.addEventListener('astro:page-load', () => {
+			const faqItems = document.querySelectorAll('.faq-item');
+			
+			faqItems.forEach(item => {
+				const answer = item.querySelector('.faq-answer');
+				if (answer) {
+					answer.style.maxHeight = '0';
+					answer.style.opacity = '0';
+				}
+			});
+
+			faqItems.forEach(item => {
+				const answer = item.querySelector('.faq-answer');
+				if (answer) {
+					item.addEventListener('mouseenter', () => {
+						answer.style.maxHeight = `${answer.scrollHeight}px`;
+						answer.style.opacity = '1';
+					});
+					
+					item.addEventListener('mouseleave', () => {
+						answer.style.maxHeight = '0';
+						answer.style.opacity = '0';
+					});
+				}
+			});
+		});
+
+	</script>
+
+</Slideup>

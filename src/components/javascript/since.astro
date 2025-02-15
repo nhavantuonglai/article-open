@@ -1,0 +1,44 @@
+<p class="text-sm hover:text-primary">
+
+	Xuất bản được <span id="years"></span> năm <span id="months"></span> tháng <span id="days"></span> ngày <span id="hours"></span> giờ <span id="minutes"></span> phút <span id="seconds"></span> giây.
+
+</p>
+
+<script client:load>
+
+	function calculateDateDifference() {
+
+		const startDate = new Date('2015-03-19');
+		const currentDate = new Date();
+		
+		const years = currentDate.getFullYear() - startDate.getFullYear();
+		let months = currentDate.getMonth() - startDate.getMonth() + (years * 12);
+		const currentMonthStart = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1);
+		const days = Math.floor((currentDate - currentMonthStart) / (1000 * 60 * 60 * 24));
+		const fullYears = Math.floor(months / 12);
+		const remainingMonths = months % 12;
+
+		const startOfDay = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 0, 0, 0);
+		const diffInSeconds = Math.floor((currentDate - startOfDay) / 1000);
+		const hours = Math.floor(diffInSeconds / 3600);
+		const minutes = Math.floor((diffInSeconds % 3600) / 60);
+		const seconds = diffInSeconds % 60;
+
+		return { fullYears, remainingMonths, days, hours, minutes, seconds };
+	}
+
+	function updateTime() {
+
+		const { fullYears, remainingMonths, days, hours, minutes, seconds } = calculateDateDifference();
+
+		document.getElementById('years').textContent = fullYears;
+		document.getElementById('months').textContent = remainingMonths;
+		document.getElementById('days').textContent = days;
+		document.getElementById('hours').textContent = hours;
+		document.getElementById('minutes').textContent = minutes;
+		document.getElementById('seconds').textContent = seconds;
+	}
+
+	setInterval(updateTime, 1000);
+
+</script>

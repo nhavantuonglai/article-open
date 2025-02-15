@@ -1,31 +1,21 @@
 <script client:load>
 
 	document.addEventListener('DOMContentLoaded', () => {
-		const urlInput = document.getElementById('title-input');
-		const resultOutput = document.getElementById('title-text-output');
+		const textInput = document.getElementById('lowercase-input');
+		const resultOutput = document.getElementById('lowercase-text-output');
 		let debounceTimeout;
 
-		urlInput.addEventListener('input', () => {
-			const inputUrl = urlInput.value.trim();
+		textInput.addEventListener('input', () => {
+			const inputText = textInput.value.trim();
 			clearTimeout(debounceTimeout);
-			
-			debounceTimeout = setTimeout(async () => {
-				if (!inputUrl) {
-					resultOutput.textContent = 'Hãy nhập URL bài viết.';
+
+			debounceTimeout = setTimeout(() => {
+				if (!inputText) {
+					resultOutput.textContent = 'Hãy nhập văn bản để chuyển đổi.';
 					return;
 				}
 
-				try {
-					const response = await fetch(inputUrl);
-					const html = await response.text();
-					const parser = new DOMParser();
-					const doc = parser.parseFromString(html, 'text/html');
-					const title = doc.querySelector('title')?.textContent || 'Không tìm thấy tiêu đề';
-					
-					resultOutput.textContent = title.trim();
-				} catch (error) {
-					resultOutput.textContent = 'Có lỗi xảy ra khi truy cập URL. Vui lòng kiểm tra lại đường dẫn.';
-				}
+				resultOutput.textContent = inputText.toLowerCase();
 			}, 500);
 		});
 	});

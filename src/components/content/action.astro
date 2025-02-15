@@ -1,0 +1,79 @@
+---
+import CTA from '~/components/widgets/services.astro';
+
+---
+
+<CTA
+
+	title="Liên lạc trao đổi"
+
+	callToAction={{
+		text: 'Nhắn tin',
+		href: 'https://instagram.com/nhavantuonglai',
+	}}
+
+
+	items={[
+		{
+		title: 'Tức thời',
+		description:
+			'Bạn có thể gửi và nhận tin nhắn nhanh chóng, trực tiếp, giúp những vấn đề cá nhân của bạn được giải quyết tức thời và hiệu quả hơn.',
+		},
+		{
+		title: 'Thân thiện',
+		description:
+			'Vì tính chất là kênh liên lạc nhanh, nên bạn có thể bỏ qua những nghi thức giao tiếp thông thường, chỉ cần lịch sự và tôn trọng thì sẽ nhận được sự phản hồi đầy thân thiện, thoải mái từ tác giả.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-111.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+	<Fragment slot="content">
+
+		<h3>Liên lạc thông qua Instagram</h2>
+		<p>Thông qua Instagram, bạn có thể trao đổi trực tiếp và tức thời, cũng như cập nhật những thông tin mới nhất từ nhavantuonglai.</p>
+
+	</Fragment>
+
+</CTA>
+
+<CTA
+
+	isReversed
+
+	callToAction={{
+		text: 'Gửi mail',
+		href: 'mailto:info@nhavantuonglai.com',
+	}}
+
+	items={[
+		{
+		title: 'Tin cậy',
+		description:
+			'Trong một số trường hợp, email được dùng như một tài liệu pháp lý, chính vì vậy mà bạn có thể an tâm và tin cậy khi trao đổi với tác giả thông qua email.',
+		},
+		{
+		title: 'Chuyên nghiệp',
+		description:
+			'Cấu trúc của email đặt tính chuyên nghiệp lên hàng đầu, nên những thông tin, nội dung được viết trong email từ tác giả sẽ luôn đảm bảo điều này ở mức cao nhất.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.org/image/cover/001-110.jpg',
+		alt: 'viet-mail',
+	}}
+>
+
+	<Fragment slot="content">
+
+		<h3>Trao đổi trên email</h2>
+		<p>Thông qua email cá nhân, bạn có thể trao đổi thỏa thuận hợp tác, kết nối chuyên sâu và mang tính chuyên nghiệp.</p>
+
+	</Fragment>
+
+</CTA>

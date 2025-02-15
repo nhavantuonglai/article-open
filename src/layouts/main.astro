@@ -1,0 +1,74 @@
+---
+import { I18N } from 'nhavantuonglai:config';
+
+import '~/assets/tailwind.css';
+import Custom from '~/assets/custom.astro';
+
+import Meta from '~/components/common/meta.astro';
+import Metadata from '~/components/common/metadata.astro';
+
+import BasicScripts from '~/components/javascript/basic.astro';
+import Color from '~/components/javascript/color.astro';
+import Analytics from '~/components/javascript/analytics.astro';
+import Opentab from '~/components/javascript/open-tab.astro';
+import Schema from '~/components/javascript/schema.astro';
+
+import type { MetaData as MetaDataType } from '~/types';
+
+export interface Props {
+	metadata?: MetaDataType;
+}
+
+const { metadata = {} } = Astro.props;
+const { language, textDirection } = I18N;
+---
+
+<!doctype html>
+
+<html lang={language} dir={textDirection} class="2xl:text-[20px]">
+
+	<head>
+
+		<link rel="stylesheet" href="https://banmaixanh.org/javascript/style.css">
+
+		<Meta/>
+
+		<Custom/>
+
+		<Color/>
+
+		<Metadata {...metadata}/>
+
+		<Schema/>
+
+		<Analytics/>
+
+		<Opentab/>
+
+	</head>
+
+	<body class="antialiased text-default bg-page tracking-tight">
+
+		<slot/>
+
+		<BasicScripts/>
+
+		<noscript>
+
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WN6L7TJP"
+			
+				height="0" width="0" style="display:none;visibility:hidden">
+
+			</iframe>
+
+		</noscript>
+
+		<style is:global>
+			img {
+				content-visibility: auto;
+			}
+		</style>
+
+	</body>
+
+</html>

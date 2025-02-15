@@ -1,0 +1,51 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Hero from '~/components/content/hero.astro';
+import Article from '~/components/content/article.astro';
+
+import Copywriter from '~/components/content/services/copywriter.astro';
+import Website from '~/components/content/services/website.astro';
+import SEO from '~/components/content/services/seo.astro';
+import Marketing from '~/components/content/services/marketing.astro';
+
+import Prices from '~/components/content/prices.astro';
+
+
+import Brands from '~/components/content/brands.astro';
+import Testimonials from '~/components/content/testimonials.astro';
+
+import Aks from '~/components/content/asked.astro';
+
+import Action from '~/components/content/action.astro';
+
+const metadata = {
+	title: 'Văn hay trong hiện tại, chữ tốt ở tương lai',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Hero/>
+
+	<Article/>
+
+	<Copywriter/>
+
+	<Website/>
+
+	<SEO/>
+
+	<Marketing/>
+
+	<Prices/>
+
+	<Brands/>
+
+	<Testimonials/>
+
+	<Aks/>
+
+	<Action/>
+
+</Layout>

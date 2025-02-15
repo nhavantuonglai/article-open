@@ -1,0 +1,188 @@
+---
+import { Icon } from 'astro-icon/components';
+import Image from '~/components/common/image.astro';
+import SocialShare from '~/components/common/social.astro';
+
+import Table from '~/components/article/table.astro';
+import PostTags from '~/components/article/tags.astro';
+
+import Anticopy from '~/components/javascript/anti-copy.astro';
+
+import {
+	Slideup,
+	Slideleft,
+	Slideright
+} from '~/assets/framer.jsx';
+
+import { getFormattedDate } from '~/utils/utils';
+import type { Post } from '~/types';
+
+export interface Props {
+	post: Post;
+	url: string | URL;
+}
+
+const { post, url } = Astro.props;
+const { Content } = post;
+---
+
+<section class="py-20 max-w-7xl mx-auto pb-10">
+
+	<article>
+
+		<header class="mx-auto px-4 sm:px-6">
+
+			{post.image ? (
+
+				<div class="relative w-full min-h-[400px]">
+
+					<Image
+
+						src={post.image}
+						class="absolute inset-0 w-full h-full object-cover blur-[3px]"
+						widths={[600, 900]}
+						sizes="(max-width: 900px) 600px, 900px"
+
+						alt={post?.description || ''}
+
+						width="auto"
+						height="auto"
+
+						loading="eager"
+						decoding="async"
+
+					/>
+
+					<div class="absolute inset-0 bg-black/30 dark:bg-black/50"></div>
+					
+					<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 md:grid-cols-2 gap-8 py-12">
+
+						<div>
+
+							<Slideup client:visible>
+
+								<h1 class="text-white mb-4">
+									{post.title}
+								</h1>
+
+							</Slideup>
+							
+							<Slideright client:visible>
+
+								<p class="text-white">
+
+									<time datetime={post.pubDatetime}>
+
+									{`${new Date(post.pubDatetime)
+										.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
+										.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`}
+
+									</time>
+
+								</p>
+
+							</Slideright>
+
+						</div>
+					
+						<div>
+
+							<Slideleft client:visible>
+
+								<p class="text-white">
+
+									{post.description}
+
+								</p>
+
+								<p class="text-white">
+
+									{post.readingTime && (
+
+									<>
+
+										<span>{post.readingTime}</span> phút đọc
+
+									</>
+
+									)}
+
+									&nbsp;· <span id="counter"></span> lượt xem.
+
+								</p>
+
+							</Slideleft>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			) : (
+			<div class="border-t dark:border-slate-700"/>
+			)}
+
+			<script client:load>
+
+			let count = localStorage.getItem('pageCounter');
+			if (count === null) {
+				count = Math.floor(Math.random() * (543 - 74 + 1)) + 45;
+			} else {
+				count = parseInt(count);
+			}
+			count += 1;
+			localStorage.setItem('pageCounter', count);
+			document.getElementById('counter').textContent = count;
+
+			</script>
+
+		</header>
+
+		<div class="max-w-8xl mx-auto px-4 sm:px-6">
+
+		<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
+
+			<div class="relative">
+
+				<div id="table-wrapper">
+
+					<div class="relative mt-6">
+
+						<Slideright client:visible>
+
+							<Table/>
+
+						</Slideright>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div>
+
+				<Slideup client:visible>
+
+					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
+
+						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+
+						<Anticopy/> 
+
+					</div>
+
+					<PostTags tags={post.tags}/>
+
+					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500 dark:text-slate-600"/>
+
+				</Slideup>
+
+			</div>
+
+		</div>
+
+	</article>
+
+</section>

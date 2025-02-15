@@ -1,0 +1,57 @@
+---
+import type { Headline as Props } from "~/types";
+import { twMerge } from "tailwind-merge";
+
+const {
+	title = await Astro.slots.render("title"),
+	subtitle = await Astro.slots.render("subtitle"),
+	tagline,
+	classes = {},
+} = Astro.props;
+
+const {
+	container: containerClass = "max-w-3xl",
+	title: titleClass = "text-3xl md:text-4xl ",
+	subtitle: subtitleClass = "text-xl text-justify",
+} = classes;
+---
+
+{
+
+	(title || subtitle || tagline) && (
+
+		<div
+			class="max-w-3xl mx-auto text-center"}
+		>
+
+			{tagline && (
+
+				<p
+					set:html={tagline}
+				/>
+
+			)}
+
+			{title && (
+
+				<h2
+					titleClass
+
+					set:html={title}
+				/>
+
+			)}
+
+			{subtitle && (
+
+				<p
+					set:html={subtitle}
+				/>
+
+			)}
+
+		</div>
+
+	)
+
+}

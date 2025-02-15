@@ -1,0 +1,121 @@
+---
+import { Icon } from 'astro-icon/components';
+import { SITE } from 'nhavantuonglai:config';
+import { getHomePermalink } from '~/utils/permalinks';
+
+import Openstatus from '~/components/javascript/openstatus.astro'
+import DCMA from '~/components/javascript/dcma.astro'
+import Address from '~/components/javascript/address.astro';
+import Since from '~/components/javascript/since.astro';
+
+interface Link {
+	text?: string;
+	href?: string;
+	ariaLabel?: string;
+	icon?: string;
+}
+
+interface Links {
+	title?: string;
+	links: Array<Link>;
+}
+
+export interface Props {
+	links: Array<Links>;
+	secondaryLinks: Array<Link>;
+	socialLinks: Array<Link>;
+	footNote?: string;
+	theme?: string;
+}
+
+const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme = 'light' } = Astro.props;
+---
+
+<footer class:list={[{ dark: theme === 'dark' }, 'relative border-t border-gray-200 dark:border-slate-800 not-prose']}>
+
+	<div class="bg-white dark:bg-black absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+
+	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 dark:text-slate-300">
+
+		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
+
+			<div class="col-span-12 lg:col-span-4">
+
+				<div class="text-sm text-muted mb-6">
+
+					{secondaryLinks.map(({ text, href }) => (
+						text && href && (
+
+							<a
+								key={href}
+								class="text-sm mr-2"
+								href={href}
+								set:html={text}
+							/>
+
+						)
+					))}
+
+
+
+				</div>
+
+				<Address/>
+
+				<DCMA/>
+
+			</div>
+
+			{links.map(({ title, links }) => (
+				<div key={title} class="col-span-6 md:col-span-3 lg:col-span-2">
+					{title && <p class="text-sm font-bold hover:text-primary dark:text-gray-300 mb-2">{title}</p>}
+					{links && links.length > 0 && (
+						<ul>
+							{links.map(({ text, href, ariaLabel }) => (
+								<li key={href} class="mb-2">
+									<a
+										class="text-sm mr-2"
+										href={href}
+										aria-label={ariaLabel}
+										target="_blank"
+									>
+										<Fragment set:html={text}/>
+									</a>
+								</li>
+							))}
+						</ul>
+					)}
+				</div>
+			))}
+
+		</div>
+
+		<div class="md:flex md:items-center md:justify-between py-6 md:py-8">
+
+			{socialLinks.length > 0 && (
+				<ul class="flex mb-6 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
+					{socialLinks.map(({ ariaLabel, href, text, icon }) => (
+						<li key={href}>
+							<a
+								class="text-sm mr-2"
+								aria-label={ariaLabel}
+								href={href}
+								target="_blank"
+							>
+								{icon && <Icon name={icon} class="w-5 h-5"/>}
+								<Fragment set:html={text}/>
+							</a>
+						</li>
+					))}
+				</ul>
+			)}
+
+			<Openstatus/>
+
+			<Since/>
+
+		</div>
+
+	</div>
+
+</footer>
