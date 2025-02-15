@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){var e="refurl";document.querySelectorAll("a.dmca-badge").forEach((function(n){if(!n.href.includes(e)){var o=n.href.includes("?")?"&":"?";n.href=n.href+o+e+"="+encodeURIComponent(document.location.href)}}))}));
