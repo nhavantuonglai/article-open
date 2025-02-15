@@ -47,8 +47,9 @@ const defaultSeoProps: AstroSeoProps = {
     site: METADATA?.twitter?.site,
     creator: METADATA?.twitter?.creator,
     title: title || METADATA?.title?.default,
-    description: description || METADATA?.description,
-    image: METADATA?.openGraph?.image?.url,
+    description: twitter?.description || description || METADATA?.description,
+    image: twitter?.image?.url || METADATA?.twitter?.image?.url || METADATA?.openGraph?.image?.url,
+    imageAlt: twitter?.image?.alt || METADATA?.twitter?.image?.alt || METADATA?.openGraph?.image?.alt,
   },
 };
 
@@ -66,8 +67,11 @@ const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
     ...openGraph 
   },
   twitter: {
+    card: twitter?.card || METADATA?.twitter?.card,
     title: title || METADATA?.title?.default,
-    description: description || METADATA?.description,
+    description: twitter?.description || description || METADATA?.description,
+    image: twitter?.image?.url || METADATA?.twitter?.image?.url || METADATA?.openGraph?.image?.url,
+    imageAlt: twitter?.image?.alt || METADATA?.twitter?.image?.alt || METADATA?.openGraph?.image?.alt,
     ...twitter
   },
 });

@@ -25,6 +25,9 @@ metadata:
     card: summary_large_image
     site: '@nhavantuonglai'
     creator: '@nhavantuonglai'
+    image:
+      url: 'https://banmaixanh.org/image/cover/001-053.jpg'
+      alt: 'Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích.'
 
 i18n:
   language: vi
