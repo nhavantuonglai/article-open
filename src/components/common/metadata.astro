@@ -9,63 +9,63 @@ import { getCanonical } from '~/utils/permalinks';
 import { adaptOpenGraphImages } from '~/utils/images';
 
 export interface Props extends MetaData {
-  dontUseTitleTemplate?: boolean;
+	dontUseTitleTemplate?: boolean;
 }
 
 const {
-  title,
-  ignoreTitleTemplate = false,
-  canonical = String(getCanonical(String(Astro.url.pathname))),
-  robots = {},
-  description,
-  openGraph = {},
-  twitter = {},
+	title,
+	ignoreTitleTemplate = false,
+	canonical = String(getCanonical(String(Astro.url.pathname))),
+	robots = {},
+	description,
+	openGraph = {},
+	twitter = {},
 } = Astro.props;
 
 const defaultSeoProps: AstroSeoProps = {
-  title: METADATA?.title?.default,
-  titleTemplate: METADATA?.title?.template,
-  noindex: METADATA?.robots?.index === false,
-  nofollow: METADATA?.robots?.follow === false,
-  description: METADATA?.description,
-  openGraph: {
-    url: canonical,
-    site_name: SITE?.name,
-    title: title || METADATA?.title?.default,
-    description: description || METADATA?.description,
-    type: 'website',
-    locale: METADATA?.openGraph?.locale || 'vi_VN',
-    images: [{
-      url: METADATA?.openGraph?.image?.url,
-      width: METADATA?.openGraph?.image?.width,
-      height: METADATA?.openGraph?.image?.height,
-      alt: METADATA?.openGraph?.image?.alt,
-    }],
-  },
-  twitter: {
-    card: METADATA?.twitter?.card,
-    site: METADATA?.twitter?.site,
-    creator: METADATA?.twitter?.creator,
-    title: title || METADATA?.title?.default,
-    description: METADATA?.twitter?.description,
-    image: METADATA?.twitter?.image,
-  },
+	title: METADATA?.title?.default,
+	titleTemplate: METADATA?.title?.template,
+	noindex: METADATA?.robots?.index === false,
+	nofollow: METADATA?.robots?.follow === false,
+	description: METADATA?.description,
+	openGraph: {
+		url: canonical,
+		site_name: SITE?.name,
+		title: title || METADATA?.title?.default,
+		description: description || METADATA?.description,
+		type: 'website',
+		locale: METADATA?.openGraph?.locale || 'vi_VN',
+		images: [{
+			url: METADATA?.openGraph?.image?.url,
+			width: METADATA?.openGraph?.image?.width,
+			height: METADATA?.openGraph?.image?.height,
+			alt: METADATA?.openGraph?.image?.alt,
+		}],
+	},
+	twitter: {
+		card: METADATA?.twitter?.card,
+		site: METADATA?.twitter?.site,
+		creator: METADATA?.twitter?.creator,
+		title: title || METADATA?.title?.default,
+		description: METADATA?.twitter?.description,
+		image: METADATA?.twitter?.image,
+	},
 };
 
 const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
-  title,
-  titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
-  canonical,
-  noindex: robots?.index === false,
-  nofollow: robots?.follow === false,
-  description,
-  openGraph: { 
-    url: canonical,
-    title: title || METADATA?.title?.default,
-    description: description || METADATA?.description,
-    ...openGraph 
-  },
-  twitter: METADATA?.twitter,
+	title,
+	titleTemplate: ignoreTitleTemplate ? '%s' : undefined,
+	canonical,
+	noindex: robots?.index === false,
+	nofollow: robots?.follow === false,
+	description,
+	openGraph: { 
+		url: canonical,
+		title: title || METADATA?.title?.default,
+		description: description || METADATA?.description,
+		...openGraph 
+	},
+	twitter: METADATA?.twitter,
 });
 ---
 
