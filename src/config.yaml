@@ -1,13 +1,11 @@
 site:
   name: nhavantuonglai
-  site: 'https://nhavantuonglai.com'
-  base: '/'
+  site: "https://nhavantuonglai.com"
+  base: "/"
   trailingSlash: false
 
 metadata:
-  title:
-    default: 'Văn hay trong hiện tại, chữ tốt ở tương lai.'
-    template: '%s | nhavantuonglai'
+  title: "Văn hay trong hiện tại, chữ tốt ở tương lai."
   description: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
   robots:
     index: true
@@ -17,16 +15,16 @@ metadata:
     type: website
     locale: vi_VN
     image:
-      url: 'https://banmaixanh.org/image/cover/001-053.jpg'
+      url: "https://banmaixanh.org/image/cover/001-053.jpg"
       width: 1200
       height: 630
-      alt: 'Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích.'
+      alt: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
   twitter:
     card: summary_large_image
-    site: '@nhavantuonglai'
-    creator: '@nhavantuonglai'
-    image: 'https://banmaixanh.org/image/cover/001-053.jpg'
-    description: 'Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.'
+    site: "@nhavantuonglai"
+    creator: "@nhavantuonglai"
+    image: "https://banmaixanh.org/image/cover/001-053.jpg"
+    description: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
 
 i18n:
   language: vi
@@ -39,19 +37,19 @@ apps:
 
     post:
       isEnabled: true
-      permalink: 'article/%slug%'
+      permalink: "article/%slug%"
       robots:
         index: true
 
     list:
       isEnabled: true
-      pathname: 'article'
+      pathname: "article"
       robots:
         index: true
 
     tag:
       isEnabled: true
-      pathname: 'tags'
+      pathname: "tags"
       robots:
         index: true
 
@@ -59,7 +57,7 @@ apps:
     relatedPostsCount: 12
 
 ui:
-  theme: 'system'
+  theme: "system"
 
   tokens:
     default:
