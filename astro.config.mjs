@@ -9,6 +9,28 @@ import icon from 'astro-icon';
 import compress from 'astro-compress';
 import react from '@astrojs/react';
 import astrowind from './src/integration';
+import vercel from '@astrojs/vercel';
+import obfuscator from 'webpack-obfuscator';
+
+export default {
+	plugins: [
+		{
+			name: 'obfuscate-js',
+			enforce: 'post',
+			transform(code, id) {
+				if (id.endsWith('.js') || id.endsWith('.ts')) {
+					return obfuscator().obfuscate(code, {
+						compact: true,
+						controlFlowFlattening: true,
+						deadCodeInjection: true,
+						stringArrayEncoding: ['base64'],
+						renameGlobals: true
+					}).getObfuscatedCode();
+				}
+			}
+		}
+	]
+};
 
 import { 
 	readingTimeRemarkPlugin, 
@@ -28,7 +50,8 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
 
-	output: 'static',
+	output: 'server',
+	adapter: vercel(),
 
 	integrations: [
 
