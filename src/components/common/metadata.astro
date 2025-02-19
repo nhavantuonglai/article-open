@@ -69,20 +69,4 @@ const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
 });
 ---
 
-<AstroSeo
-
-	{...
-
-		{...
-		seoProps,
-		openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site)
-		}
-	}
-
-	<meta property="twitter:image" content="https://banmaixanh.org/image/cover/001-053.jpg">
-	<meta property="twitter:card" content="summary_large_image">
-	<meta property="twitter:title" content="Văn hay trong hiện tại, chữ tốt ở tương lai">
-	<meta property="twitter:description" content="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.
-	">
-
-/>
+<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site) }} />

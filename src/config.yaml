@@ -5,7 +5,9 @@ site:
   trailingSlash: false
 
 metadata:
-  title: "Văn hay trong hiện tại, chữ tốt ở tương lai."
+  title:
+    default: nhavantuonglai
+    template: "%s | nhavantuonglai"
   description: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
   robots:
     index: true

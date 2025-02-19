@@ -31,7 +31,7 @@ Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượn
 
 – Bảo vệ bản quyền: [DMCA](https://nhavantuonglai.com/article/dmca).
 
-Nguồn lựa được khai thác, sử dụng nhằm tối ưu tài nguyên sử dụng, đảm bảo website vận hành ổn định và ít tiêu hao chi phí nhất có thể.
+Nguồn lực được khai thác, sử dụng nhằm tối ưu tài nguyên sử dụng, đảm bảo website vận hành ổn định và ít tiêu hao chi phí nhất có thể.
 
 ## Lịch trình cập nhật
 
@@ -51,7 +51,9 @@ article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế 
 
 ### Chi tiết cập nhật
 
-2025.02.14: Cập nhật cấu trúc code.
+2025.02.15: Cập nhật cấu trúc Open Graph, đảm bảo hiển thị tốt trên các nền tảng.
+
+2025.02.14: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính Analytics.
 
 2025.02.09: Cập nhật bố cục trình bày trong mục Article.
 
