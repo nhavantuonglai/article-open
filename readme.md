@@ -2,6 +2,8 @@
 
 [\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của `\article` với quyền truy cập miễn phí và giới hạn tính năng.
 
+<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
 Mã nguồn dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, kế thừa tinh hoa của AstroWind, `\article-open` cập nhật và làm tốt hơn các tính năng cũ khi:
 
 – Cải thiện cấu trúc code, giúp mọi thứ trở nên đơn giản và dễ dàng tiếp cận.
@@ -12,7 +14,11 @@ Mã nguồn dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind C
 
 – Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
 
+<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
 Dự án cũng giữ lại, đảm bảo điểm `PageSpeed Insights` ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+
+<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Cấu trúc thư mục dự án
 
@@ -170,6 +176,8 @@ Trang chủ/
 ```
 
 Mỗi mục trên trang chính dẫn đến một trang hoặc phần khác của website, giúp người dùng dễ dàng điều hướng và tìm kiếm thông tin.
+
+<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Hướng dẫn triển khai dự án qua Vercel
 
