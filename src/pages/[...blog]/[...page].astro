@@ -24,8 +24,8 @@ const { page } = Astro.props as Props;
 const currentPage = page.currentPage ?? 1;
 
 const metadata = {
-	title: `Danh sách bài viết ${currentPage >1 ? ` | Trang ${currentPage}` : ''}`,
-	description: "Danh sách bài viết hiện có, đang xuất bản trên website, giúp người đọc dễ dàng tìm kiếm thông tin và đọc bài tốt hơn.",
+	title: `Danh sách bài viết ${currentPage > 1 ? ` | Trang ${currentPage}` : ''}`,
+	description: `Danh sách bài viết ${currentPage > 1 ? ` | Trang ${currentPage}` : ''} gồm những bài hiện có, đã và đang xuất bản trên website, giúp người đọc nhanh chóng, dễ dàng tìm thấy thông tin mình cần.`,
 	robots: {
 		index: blogListRobots?.index,
 		follow: blogListRobots?.follow,

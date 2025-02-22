@@ -25,7 +25,7 @@ const currentPage = page.currentPage ?? 1;
 
 const metadata = {
 	title: `Danh sách bài viết theo thẻ ${tag}${currentPage >1 ? ` | Trang ${currentPage} ` : ''}`,
-	description: "Danh sách bài viết theo thẻ bài, đang xuất bản trên website, giúp người đọc dễ dàng tìm kiếm thông tin và đọc bài tốt hơn.",
+	description: `Danh sách bài viết theo thẻ ${tag}${currentPage >1 ? ` | Trang ${currentPage} ` : ''} gồm những bài hiện có, đã và đang xuất bản được phân loại trên website, giúp người đọc nhanh chóng, dễ dàng tìm thấy thông tin mình cần.`,
 	robots: {
 		index: blogTagRobots?.index,
 		follow: blogTagRobots?.follow,

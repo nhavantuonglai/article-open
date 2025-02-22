@@ -258,25 +258,6 @@ export async function getImagesOptimized(
 	sizes ||= getSizes(Number(width) || undefined, layout);
 	aspectRatio = parseAspectRatio(aspectRatio);
 
-	if (aspectRatio) {
-		if (width) {
-			if (height) {
-			} else {
-				height = width / aspectRatio;
-			}
-		} else if (height) {
-			width = Number(height * aspectRatio);
-		} else if (layout !== 'fullWidth') {
-			console.error('Khi ratio được thiết lập, chiều rộng hoặc chiều cao cũng phải được đặt tương ứng.');
-			console.error('Image', image);
-		}
-	} else if (width && height) {
-		aspectRatio = width / height;
-	} else if (layout !== 'fullWidth') {
-		console.error('Phải đặt ratio hoặc cả chiều rộng và chiều cao tương ứng.');
-		console.error('Image', image);
-	}
-
 	let breakpoints = getBreakpoints({ width: width, breakpoints: widths, layout: layout });
 	breakpoints = [...new Set(breakpoints)].sort((a, b) =>a - b);
 

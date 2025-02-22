@@ -2,3 +2,6 @@
 node_modules/
 .vscode/
 .env
+src/components/analytics
+src/components/content/analytics
+src/pages/analytics
