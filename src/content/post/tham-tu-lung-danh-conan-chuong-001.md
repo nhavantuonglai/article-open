@@ -764,4 +764,4 @@ Thám tử lừng danh Conan không chỉ là một bộ truyện tranh đơn th
 
 Đọc [Thám tử lừng danh Conan, tập 150](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-150) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/081-081.jpg" alt="Thám tử lừng danh Conan tập 001." title="Thám tử lừng danh Conan tập 001." height=108% width=108%><figcaption><p>Conan tập 001.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.org/image/cover/001-001.jpg" alt="Thám tử lừng danh Conan tập 001." title="Thám tử lừng danh Conan tập 001." height=108% width=108%><figcaption><p>Conan tập 001.</p></figcaption></figure>
