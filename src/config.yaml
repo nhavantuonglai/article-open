@@ -17,7 +17,7 @@ metadata:
     type: website
     locale: vi_VN
     image:
-      url: "https://banmaixanh.org/image/cover/001-053.jpg"
+      url: "https://banmaixanh.vercel.app/image/cover/001-053.jpg"
       width: 1200
       height: 630
       alt: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
@@ -25,7 +25,7 @@ metadata:
     card: summary_large_image
     site: "@nhavantuonglai"
     creator: "@nhavantuonglai"
-    image: "https://banmaixanh.org/image/cover/001-053.jpg"
+    image: "https://banmaixanh.vercel.app/image/cover/001-053.jpg"
     description: "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
 
 i18n:
