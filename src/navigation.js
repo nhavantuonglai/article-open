@@ -6,7 +6,7 @@ export const headerData = {
 
 		{
 			text: 'Giới thiệu',
-			href: '/about',
+			href: 'https://nhavantuonglai.com/about',
 		},
 
 		{
@@ -217,7 +217,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.02.15',
+			text: 'v25.02.16',
 			href: 'https://nhavantuonglai.com/version'
 		},
 
