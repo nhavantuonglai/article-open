@@ -5,3 +5,4 @@ node_modules/
 src/components/analytics
 src/components/content/analytics
 src/pages/analytics
+src/content/blog/
