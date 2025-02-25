@@ -59,7 +59,7 @@ const {
 								{Array.isArray(actions) ? (
 									actions.map((action, index) => (
 										<div key={index} class="flex w-full sm:w-auto">
-											<Button {...(action || {})} class="hover:text-primary text-sm py-2" target="_blank" />
+											<Button {...(action || {})} target="_blank" />
 										</div>
 									))
 								) : (

@@ -83,7 +83,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`
 
 			<nav
 				class="items-center w-full md:w-auto hidden md:flex text-default"
-				aria-label="Main navigation"
+				aria-label="navigation"
 			>
 
 				<ul class="flex flex-col md:flex-row md:self-center w-full md:w-auto text-xl md:text-[0.9375rem] tracking-[0.01rem] font-medium">
@@ -174,8 +174,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`
 						{actions.map((btnProps, index) => (
 							<Button 
 								key={index} 
-								{...btnProps} 
-								class="hover:text-primary text-sm py-2" 
+								{...btnProps}
 							/>
 						))}
 					</span>

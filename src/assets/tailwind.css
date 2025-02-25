@@ -45,10 +45,10 @@
 @layer components {
 	.btn {
 		@apply inline-flex items-center justify-center
-					 border border-white bg-primary text-white
+					 border border-white bg-primary text-sm text-white
 					 rounded-3xl m-2
 					 transition-all duration-200
-					 hover:bg-white hover:font-bold hover:text-white
+					 hover:bg-white hover:font-bold hover:text-white hover:text-primary 
 					 focus:ring-2 focus:ring-offset-2;
 	}
 
