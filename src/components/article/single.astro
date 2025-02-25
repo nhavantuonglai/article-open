@@ -6,8 +6,6 @@ import SocialShare from '~/components/common/social.astro';
 import Table from '~/components/article/table.astro';
 import PostTags from '~/components/article/tags.astro';
 
-import Anticopy from '~/components/javascript/anti-copy.astro';
-
 import {
 	Slideup,
 	Slideleft,
@@ -168,8 +166,6 @@ const { Content } = post;
 					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
 
 						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
-
-						<Anticopy/> 
 
 					</div>
 
