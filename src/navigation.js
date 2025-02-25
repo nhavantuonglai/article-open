@@ -10,87 +10,79 @@ export const headerData = {
 		},
 
 		{
-			text: 'Bài viết',
+			text: 'Viết lách',
 			links: [
 				{
 					text: 'Đọc thêm',
 					href: 'https://nhavantuonglai.com/article',
 				},
 				{
-					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com/tags/viet-lach',
+					text: 'Tinh tuyển viết',
+					href: 'https://nhavantuonglai.com/tags/tuyen-tap-viet-van',
 				},
 				{
-					text: 'Lập trình',
-					href: 'https://nhavantuonglai.com/tags/developer',
+					text: 'Kỹ năng viết',
+					href: 'https://nhavantuonglai.com/tags/ky-nang-viet',
 				},
 				{
-					text: 'Nghiên cứu',
-					href: 'https://nhavantuonglai.com/tags/nghien-cuu',
+					text: 'Nghệ thuật viết',
+					href: 'https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach',
 				},
 				{
-					text: 'Văn chương',
-					href: 'https://nhavantuonglai.com/tags/van-hoc',
-				},
-			],
-		},
-
-		{
-			text: 'Công cụ',
-			links: [
-				{
-					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/analytics',
-				},
-				{
-					text: 'Trợ lý Chat AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate',
-				},
-				{
-					text: 'Radio trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/radio',
-				},
-				{
-					text: 'Từ điển tiếng Anh',
-					href: 'https://nhavantuonglai.com/analytics/dictionary',
-				},
-				{
-					text: 'Kiểm tra phạt nguội (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
-				},
-				{
-					text: 'Dịch phụ đề AI (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/subtitle',
-				},
-				{
-					text: 'Quét chữ trong ảnh (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/ocr',
+					text: 'Hành trình viết',
+					href: 'https://nhavantuonglai.com/tags/hanh-trinh-viet',
 				},
 			],
 		},
 
 		{
-			text: 'Dịch vụ',
+			text: 'Xã hội',
+			links: [
+				{
+					text: 'Đọc thêm',
+					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
+				},
+				{
+					text: 'Tâm lý học',
+					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
+				},
+				{
+					text: 'Nhân học',
+					href: 'https://nhavantuonglai.com/tags/nhan-hoc',
+				},
+				{
+					text: 'Triết học',
+					href: 'https://nhavantuonglai.com/tags/triet-hoc',
+				},
+				{
+					text: 'Phật giáo',
+					href: 'https://nhavantuonglai.com/tags/phat-giao',
+				},
+			],
+		},
+
+		{
+			text: 'Thiên văn',
 			links: [
 				{
 					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/services',
+					href: 'https://nhavantuonglai.com/tags/vu-tru-hoc',
 				},
 				{
-					text: 'Viết bài chất lượng cao',
-					href: 'https://nhavantuonglai.com/services/copywriter',
+					text: 'Vật lý thiên văn',
+					href: 'https://nhavantuonglai.com/tags/vat-ly-thien-van',
 				},
 				{
-					text: 'Thiết kế website',
-					href: 'https://nhavantuonglai.com/services/website',
+					text: 'Vật lý lượng tử',
+					href: 'https://nhavantuonglai.com/tags/vat-ly-luong-tu',
 				},
 				{
-					text: 'Triển khai Marketing',
-					href: 'https://nhavantuonglai.com/services/marketing',
+					text: 'Vụ nổ lớn',
+					href: 'https://nhavantuonglai.com/tags/vu-no-lon',
 				},
 				{
-					text: 'Triển khai SEO',
-					href: 'https://nhavantuonglai.com/services/seo',
+					text: 'Sự sống vũ trụ',
+					href: 'https://nhavantuonglai.com/tags/su-song-vu-tru',
 				},
 			],
 		},
@@ -115,89 +107,89 @@ export const footerData = {
 
 		{
 
-			title: 'Công cụ',
+			title: 'Công cụ văn bản',
 			links: [
 				{
-					text: 'Trợ lý Chat AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate',
+					text: 'Đếm số chữ',
+					href: 'https://nhavantuonglai.com/analytics/count',
 				},
 				{
-					text: 'Từ điển tiếng Anh',
-					href: 'https://nhavantuonglai.com/analytics/dictionary',
+					text: 'Chuyển chữ hoa',
+					href: 'https://nhavantuonglai.com/analytics/lower',
 				},
 				{
-					text: 'Radio trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/radio',
+					text: 'Chuyển chữ đậm',
+					href: 'https://nhavantuonglai.com/analytics/unicode',
 				},
+				{
+					text: 'Biểu tượng Emoji',
+					href: 'https://nhavantuonglai.com/analytics/emoji',
+				},
+			],
+		},
+
+		{
+			title: 'Công cụ giải trí',
+			links: [
+				{
+					text: 'Nghe Radio trực tuyến',
+					href: 'https://nhavantuonglai.com/analytics/radio'
+				},
+				{
+					text: 'Xem video trực tuyến',
+					href: 'https://nhavantuonglai.com/analytics/streaming'
+				},
+				{
+					text: 'Thời gian lúc này',
+					href: 'https://nhavantuonglai.com/analytics/time'
+				},
+				{
+					text: 'Đếm ngược giao thừa',
+					href: 'https://nhavantuonglai.com/analytics/countdown'
+				},
+			],
+		},
+
+		{
+			title: 'Công cụ AI',
+			links: [
+				{
+					text: 'Trò chuyện AI',
+					href: 'https://nhavantuonglai.com/analytics/integrate'
+				},
+				{
+					text: 'Dịch phụ đề',
+					href: 'https://nhavantuonglai.com/analytics/subtitle'
+				},
+				{
+					text: 'Đọc văn bản',
+					href: 'https://nhavantuonglai.com/analytics/ocr'
+				},
+				{
+					text: 'Chuyển giọng nói',
+					href: 'https://nhavantuonglai.com/analytics/voicemaker'
+				},
+			],
+		},
+
+		{
+			title: 'Công cụ dữ liệu',
+			links: [
 				{
 					text: 'Kiểm tra phạt nguội',
-					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
-				},
-			],
-		},
-
-		{
-			title: 'Danh mục',
-			links: [
-				{
-					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com/tags/viet-lach'
+					href: 'https://nhavantuonglai.com/analytics/phat-nguoi'
 				},
 				{
-					text: 'Viết thuê',
-					href: 'https://nhavantuonglai.com/tags/viet-thue'
+					text: 'Tìm số tài khoản',
+					href: 'https://nhavantuonglai.com/analytics/so-tai-khoan'
 				},
 				{
-					text: 'Đoản văn',
-					href: 'https://nhavantuonglai.com/tags/doan-van'
+					text: 'Tìm mã số thuế',
+					href: 'https://nhavantuonglai.com/analytics/ma-so-thue'
 				},
 				{
-					text: 'Nghiên cứu',
-					href: 'https://nhavantuonglai.com/tags/nghien-cuu'
-				},
-			],
-		},
-
-		{
-			title: 'Chuyên mục',
-			links: [
-				{
-					text: 'Tôn giáo',
-					href: 'https://nhavantuonglai.com/tags/ton-giao'
-				},
-				{
-					text: 'Triết học',
-					href: 'https://nhavantuonglai.com/tags/triet-hoc'
-				},
-				{
-					text: 'Khoa học',
-					href: 'https://nhavantuonglai.com/tags/khoa-hoc'
-				},
-				{
-					text: 'Tâm lý',
-					href: 'https://nhavantuonglai.com/tags/tam-ly-hoc'
-				},
-			],
-		},
-
-		{
-			title: 'Chuyên đề',
-			links: [
-				{
-					text: 'Kỹ năng viết lách',
-					href: 'https://nhavantuonglai.com/tags/ky-nang-viet'
-				},
-				{
-					text: 'Tối ưu website',
-					href: 'https://nhavantuonglai.com/tags/website'
-				},
-				{
-					text: 'Vũ trụ rộng lớn',
-					href: 'https://nhavantuonglai.com/tags/vu-tru'
-				},
-				{
-					text: 'Kỹ năng thông minh',
-					href: 'https://nhavantuonglai.com/tags/ky-nang'
+					text: 'Từ điển trực tuyến',
+					href: 'https://nhavantuonglai.com/analytics/dictionary'
 				},
 			],
 		},
@@ -217,7 +209,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.02.16',
+			text: 'v25.02.17',
 			href: 'https://nhavantuonglai.com/version'
 		},
 

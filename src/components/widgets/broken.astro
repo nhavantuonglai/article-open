@@ -1,0 +1,32 @@
+<section class="flex items-center h-full p-16">
+
+	<div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
+
+		<h1 class="max-w-3xl mx-auto px-4 sm:px-6 text-9xl">
+			404.
+		</h1>
+
+		<p class="max-w-3xl mx-auto px-4 sm:px-6">
+			Liên kết hiện không khả dụng, về trang chủ sau <span id="timer">5</span> giây.
+		</p>
+
+		<script client:load>
+
+			let countdown = 5;
+			const timerElement = document.getElementById('timer');
+
+			const interval = setInterval(() => {
+				countdown--;
+				timerElement.textContent = countdown;
+
+				if (countdown <= 0) {
+			clearInterval(interval);
+			window.location.href = "https://nhavantuonglai.com";
+				}
+			}, 1000);
+
+		</script>
+
+	</div>
+
+</section>

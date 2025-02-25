@@ -10,7 +10,7 @@ export interface Props {
 	nextText?: string;
 }
 
-const { prevUrl, nextUrl, prevText = 'Bài mới hơn', nextText = 'Bài cũ hơn' } = Astro.props;
+const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Astro.props;
 ---
 
 {
@@ -21,27 +21,35 @@ const { prevUrl, nextUrl, prevText = 'Bài mới hơn', nextText = 'Bài cũ hơ
 
 			<div class="flex flex-row mx-auto justify-between">
 
-				{prevUrl && (
-					<Button
-						variant="primary"
-						class="md:px-3 px-3 mr-2"
-						href={getPermalink(prevUrl)}
-					>
-						<Icon name="tabler:chevron-left" class="w-6 h-6" />
-						<p class="ml-2">{prevText}</p>
-					</Button>
-				)}
+			{prevUrl && (
 
-				{nextUrl && (
-					<Button
-						variant="primary"
-						class="md:px-3 px-3"
-						href={getPermalink(nextUrl)}
-					>
-						<span class="mr-2">{nextText}</span>
-						<Icon name="tabler:chevron-right" class="w-6 h-6" />
-					</Button>
-				)}
+				<a 
+					href={getPermalink(prevUrl)} 
+					class="btn hover:text-primary text-sm py-2"
+					variant="link"
+				>
+
+					<Icon name="tabler:chevron-left" class="w-6 h-6" />
+					<span class="ml-2">{prevText}</span>
+
+				</a>
+
+			)}
+
+			{nextUrl && (
+
+				<a 
+					href={getPermalink(nextUrl)} 
+					class="btn hover:text-primary text-sm py-2"
+					variant="link"
+				>
+
+					<span class="mr-2">{nextText}</span>
+					<Icon name="tabler:chevron-right" class="w-6 h-6" />
+
+				</a>
+
+			)}
 
 			</div>
 

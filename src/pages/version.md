@@ -21,15 +21,15 @@ Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượn
 
 ## Nguồn lực vận hành
 
-– Nền tảng triển khai: [Astro](https://nhavantuonglai.com/article/astro-cai-dat) kết hợp cùng Tailwind.
+– Nền tảng triển khai: [Astro](https://nhavantuonglai.com/article/tim-hieu-astro) kết hợp cùng Tailwind.
 
-– Hosting: [Vercel](https://nhavantuonglai.com/article/vercel-cai-dat).
+– Hosting: [Vercel](https://nhavantuonglai.com/article/tim-hieu-vercel).
 
-– Quản lý dữ liệu: [Github](https://github.com/nhavantuonglai).
+– Quản lý dữ liệu: Github.
 
-– Theo dõi trạng thái: [Openstatus](https://nhavantuonglai.com/article/openstatus).
+– Theo dõi trạng thái: Openstatus.
 
-– Bảo vệ bản quyền: [DMCA](https://nhavantuonglai.com/article/dmca).
+– Bảo vệ bản quyền: DMCA.
 
 Nguồn lực được khai thác, sử dụng nhằm tối ưu tài nguyên sử dụng, đảm bảo website vận hành ổn định và ít tiêu hao chi phí nhất có thể.
 
@@ -111,7 +111,7 @@ article | v24.09. không thay đổi về mã nguồn so với article | v24.04.
 
 2024.12.08: Cập nhật lại tiêu đề và mô tả website.
 
-2024.11.30: Kích hoạt tính năng [mục lục bài viết](https://nhavantuonglai.com/article/tao-muc-luc-bai-viet).
+2024.11.30: Kích hoạt tính năng [mục lục bài viết](https://nhavantuonglai.com/article/muc-luc-bai-viet).
 
 2024.11.11: Cập nhật bộ [biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
 
@@ -151,7 +151,7 @@ article | v24.04. không thay đổi về mã nguồn so với article | v24.01.
 
 2024.08.08: Đồng bộ thuộc tính giữa các trang, block.
 
-2024.07.25: Cập nhật tính năng [tiến trình đọc bài](https://nhavantuonglai.com/article/tien-trinh-doc).
+2024.07.25: Cập nhật tính năng [tiến trình đọc bài](https://nhavantuonglai.com/article/tien-trinh-doc-bai).
 
 2024.07.12: Cập nhật tính năng thông báo nhanh. Hủy tính năng trong bản cập nhật 2024.09.01.
 
@@ -161,7 +161,7 @@ article | v24.04. không thay đổi về mã nguồn so với article | v24.01.
 
 2024.05.26: Cập nhật popup chat.
 
-2024.05.20: Cập nhật tính năng [anticopy và disable clicks](https://nhavantuonglai.com/article/chan-copy-noi-dung).
+2024.05.20: Cập nhật tính năng [anticopy và disable clicks](https://nhavantuonglai.com/article/sao-chep-noi-dung).
 
 2024.05.16: Cập nhật tính năng bình luận bằng Facebook. Hủy tính năng trong bản cập nhật 2024.09.01.
 
