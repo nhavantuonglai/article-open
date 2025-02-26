@@ -36,6 +36,7 @@
 					case 'h4':
 						break;
 				}
+
 				if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
 					if (currentParent) {
 						const subList = currentParent.querySelector('ul') || document.createElement('ul');
@@ -46,11 +47,12 @@
 					tocList.appendChild(listItem);
 					currentParent = listItem;
 				}
+
 			});
 
 			tocContainer.appendChild(tocList);
 			index.appendChild(tocContainer);
-			hideLastTOCItems(tocList, 1);
+			hideLastTOCItems(tocList, 0);
 
 			const originalWidth = index.getBoundingClientRect().width;
 			index.dataset.originalWidth = originalWidth + 'px';
@@ -77,6 +79,7 @@
 				document.documentElement.scrollHeight,
 				document.documentElement.offsetHeight
 			);
+
 			let isMobile = window.innerWidth < 900;
 			let previousScrollPosition = window.pageYOffset || document.documentElement.scrollTop;
 			let scrollDirection = 'down';
@@ -125,7 +128,7 @@
 						} else {
 							index.style.position = 'fixed';
 							index.style.top = '150px';
-							index.style.zIndex = '100';
+							index.style.zIndex = '150';
 							
 							if (index.dataset.originalWidth) {
 								index.style.width = index.dataset.originalWidth;

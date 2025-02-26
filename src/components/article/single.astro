@@ -3,6 +3,11 @@ import { Icon } from 'astro-icon/components';
 import Image from '~/components/common/image.astro';
 import SocialShare from '~/components/common/social.astro';
 
+import { APP_BLOG } from "nhavantuonglai:config";
+import { fetchPosts, getRelatedPosts } from "~/utils/blog";
+import BlogHighlightedPosts from "../article/highlighted.astro";
+import { getBlogPermalink } from "~/utils/permalinks";
+
 import Table from '~/components/article/table.astro';
 import PostTags from '~/components/article/tags.astro';
 
@@ -22,6 +27,15 @@ export interface Props {
 
 const { post, url } = Astro.props;
 const { Content } = post;
+
+
+const fetchedPosts = await fetchPosts();
+const relatedPosts = post.tags ? getRelatedPosts(fetchedPosts, post.slug, post.tags) : [];
+
+const randomPosts = relatedPosts
+	.sort(() => Math.random() - 0.5)
+	.slice(0, 99);
+
 ---
 
 <section class="py-20 max-w-7xl mx-auto pb-10">
@@ -172,6 +186,20 @@ const { Content } = post;
 					<PostTags tags={post.tags}/>
 
 					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500 dark:text-slate-600"/>
+
+					{APP_BLOG.isRelatedPostsEnabled && (
+
+						<BlogHighlightedPosts
+
+							classes={{ container: "pt-0 lg:pt-0 md:pt-0" }}
+							title="Có thể bạn chưa đọc"
+							linkText="Xem tất cả"
+							linkUrl={getBlogPermalink()}
+							postIds={randomPosts.map((post) => post.id)}
+
+						/>
+
+					)}
 
 				</Slideup>
 
