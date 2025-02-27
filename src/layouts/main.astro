@@ -12,6 +12,7 @@ import Color from '~/components/javascript/color.astro';
 import Analytics from '~/components/javascript/analytics.astro';
 import Opentab from '~/components/javascript/open-tab.astro';
 import Schema from '~/components/javascript/schema.astro';
+import Visitor from '~/components/javascript/visitor.astro';
 
 import type { MetaData as MetaDataType } from '~/types';
 
@@ -52,6 +53,8 @@ const { language, textDirection } = I18N;
 		<slot/>
 
 		<BasicScripts/>
+
+		<Visitor/>
 
 		<noscript>
 

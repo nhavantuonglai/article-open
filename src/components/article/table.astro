@@ -1,32 +1,21 @@
-<p class="mx-auto" id="index">
+<p class="max-w-3xl mx-auto" id="index">
 
 	<script type="module">
 
 		function generateTOC() {
-
 			const index = document.getElementById('index');
 			const headings = document.querySelectorAll('h2, h3, h4');
-			const tocList = document.createElement('ul');
-			
-			const tocContainer = document.createElement('div');
-			tocContainer.id = 'toc-container';
-			tocContainer.style.maxHeight = '80vh';
-			tocContainer.style.overflow = 'auto';
-			tocContainer.style.scrollbarWidth = 'none';
-			tocContainer.style.msOverflowStyle = 'none';
-			tocContainer.style.width = '100%';
-			
-			const style = document.createElement('style');
 
-			document.head.appendChild(style);
-			
+			const tocList = document.createElement('ul');
 			let currentParent = null;
+
 			headings.forEach(heading => {
 				const listItem = document.createElement('li');
 				const anchor = document.createElement('a');
 				anchor.href = `#${heading.id}`;
 				anchor.textContent = heading.textContent;
 				listItem.appendChild(anchor);
+
 				switch (heading.tagName.toLowerCase()) {
 					case 'h2':
 						break;
@@ -47,132 +36,24 @@
 					tocList.appendChild(listItem);
 					currentParent = listItem;
 				}
-
 			});
 
-			tocContainer.appendChild(tocList);
-			index.appendChild(tocContainer);
-			hideLastTOCItems(tocList, 0);
+			index.appendChild(tocList);
 
-			const originalWidth = index.getBoundingClientRect().width;
-			index.dataset.originalWidth = originalWidth + 'px';
-
-			handleStickyTOC();
+			hideLastTOCItems(tocList, 20);
 		}
 
 		function hideLastTOCItems(tocList, count) {
 			const items = tocList.querySelectorAll('li');
 			const totalItems = items.length;
+
 			const itemsToHide = Math.min(count, totalItems);
+
 			for (let i = totalItems - itemsToHide; i < totalItems; i++) {
 				items[i].style.display = 'none';
 			}
 		}
-		
-		function handleStickyTOC() {
-			const index = document.getElementById('index');
-			const footer = document.querySelector('footer') || document.body.lastElementChild;
-			const documentHeight = Math.max(
-				document.body.scrollHeight,
-				document.body.offsetHeight,
-				document.documentElement.clientHeight,
-				document.documentElement.scrollHeight,
-				document.documentElement.offsetHeight
-			);
 
-			let isMobile = window.innerWidth < 900;
-			let previousScrollPosition = window.pageYOffset || document.documentElement.scrollTop;
-			let scrollDirection = 'down';
-			
-			const originalStyles = {
-				position: index.style.position,
-				top: index.style.top,
-				zIndex: index.style.zIndex,
-				width: index.style.width,
-				opacity: index.style.opacity,
-				pointerEvents: index.style.pointerEvents
-			};
-			
-			function checkScrollPosition() {
-				const currentScrollPosition = window.pageYOffset || document.documentElement.scrollTop;
-				scrollDirection = currentScrollPosition > previousScrollPosition ? 'down' : 'up';
-				previousScrollPosition = currentScrollPosition;
-				
-				if (isMobile) {
-					resetStyles();
-					return;
-				}
-				
-				const scrollTop = currentScrollPosition;
-				const footerOffset = footer.offsetTop;
-				const indexHeight = index.offsetHeight;
-				
-				if (scrollTop < 300) {
-					index.classList.add('hidden');
-					resetStyles();
-					return;
-				}
-				
-				if (scrollTop + window.innerHeight > documentHeight - 500) {
-					index.classList.add('hidden');
-					resetStyles();
-					return;
-				}
-				
-				index.classList.remove('hidden');
-				
-				if (scrollTop >= 300) {
-					if (scrollTop + indexHeight + 50 <= footerOffset - 500) {
-						if (scrollDirection === 'up' && scrollTop < 400) {
-							resetStyles();
-						} else {
-							index.style.position = 'fixed';
-							index.style.top = '150px';
-							index.style.zIndex = '150';
-							
-							if (index.dataset.originalWidth) {
-								index.style.width = index.dataset.originalWidth;
-							}
-						}
-					} else {
-						index.style.position = 'absolute';
-						index.style.top = (footerOffset - 500 - indexHeight) + 'px';
-						
-						if (index.dataset.originalWidth) {
-							index.style.width = index.dataset.originalWidth;
-						}
-					}
-				} else {
-					resetStyles();
-				}
-			}
-			
-			function resetStyles() {
-				index.style.position = originalStyles.position;
-				index.style.top = originalStyles.top;
-				index.style.zIndex = originalStyles.zIndex;
-				index.style.width = originalStyles.width;
-			}
-			
-			function checkScreenSize() {
-				isMobile = window.innerWidth < 900;
-				
-				if (isMobile) {
-					resetStyles();
-				} else {
-					const newWidth = index.getBoundingClientRect().width;
-					index.dataset.originalWidth = newWidth + 'px';
-					
-					checkScrollPosition();
-				}
-			}
-			
-			window.addEventListener('scroll', checkScrollPosition);
-			window.addEventListener('resize', checkScreenSize);
-			
-			checkScreenSize();
-		}
-		
 		window.onload = generateTOC;
 
 	</script>

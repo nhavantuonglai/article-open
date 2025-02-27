@@ -9,6 +9,7 @@ import { findImage } from '~/utils/images';
 import Progress from '~/components/javascript/progress.astro';
 import Article from '~/components/article/single.astro';
 import Related from '~/components/article/related.astro';
+import Action from '~/components/content/action.astro';
 
 export const prerender = true;
 
@@ -45,5 +46,7 @@ const metadata = {
 	<Article post={{ ...post, image }} url={url}/>
 
 	<Related post={post}/>
+
+	<Action/>
 
 </Layout>

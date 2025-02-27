@@ -1,0 +1,53 @@
+<script client:load>
+
+// Hàm cập nhật số lượng người dùng
+function updateUserCount() {
+    const key = "activeUsers";
+    let users = JSON.parse(localStorage.getItem(key)) || {};
+    const now = Date.now();
+    const expireTime = 6000; // 6 giây để đảm bảo cập nhật liên tục
+    const sessionId = sessionStorage.getItem("sessionId") || Math.random().toString(36).substr(2, 9);
+    sessionStorage.setItem("sessionId", sessionId);
+
+    // Cập nhật timestamp của người dùng hiện tại
+    users[sessionId] = now;
+    
+    // Xóa người dùng đã hết hạn
+    for (const id in users) {
+        if (now - users[id] > expireTime) {
+            delete users[id];
+        }
+    }
+
+    localStorage.setItem(key, JSON.stringify(users));
+    return Object.keys(users).length;
+}
+
+// Hiển thị thông báo
+function showUserCount() {
+    if (window.innerWidth <= 768) return; // Không hiển thị trên thiết bị mobile
+    
+    const count = updateUserCount();
+    let notification = document.getElementById("user-count-notification");
+    
+    if (!notification) {
+        notification = document.createElement("div");
+        notification.id = "user-count-notification";
+        notification.className = "btn";
+        document.body.appendChild(notification);
+    }
+    
+    notification.innerText = `Số người đang truy cập: ${count}`;
+    notification.style.display = "block";
+
+    // Ẩn sau 5 giây
+    setTimeout(() => {
+        notification.style.display = "none";
+    }, 5000);
+}
+
+// Gọi hàm hiển thị thông báo mỗi 5 giây để cập nhật số người truy cập
+showUserCount();
+setInterval(showUserCount, 5000);
+
+</script>

@@ -17,7 +17,7 @@ export const headerData = {
 					href: 'https://nhavantuonglai.com/article',
 				},
 				{
-					text: 'Tinh tuyển viết',
+					text: 'Tuyển tập viết',
 					href: 'https://nhavantuonglai.com/tags/tuyen-tap-viet-van',
 				},
 				{

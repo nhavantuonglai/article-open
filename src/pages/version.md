@@ -51,6 +51,8 @@ article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế 
 
 ### Chi tiết cập nhật
 
+2025.02.17: Cập nhật cấu trúc, tinh giản nội dung hiển thị, đồng nhất thuộc tính.
+
 2025.02.15: Cập nhật cấu trúc Open Graph, đảm bảo hiển thị tốt trên các nền tảng.
 
 2025.02.14: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính Analytics.

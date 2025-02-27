@@ -1,0 +1,38 @@
+<script>
+const { GoogleAuth } = require('google-auth-library');
+const axios = require('axios');
+const fs = require('fs');
+
+// Đọc tệp JSON chứa API Key
+const credentials = JSON.parse(fs.readFileSync('YOUR_SERVICE_ACCOUNT.json', 'utf8'));
+
+async function getActiveUsers() {
+    const auth = new GoogleAuth({
+        credentials,
+        scopes: ['https://www.googleapis.com/auth/analytics.readonly']
+    });
+
+    const client = await auth.getClient();
+    const accessToken = await client.getAccessToken();
+
+    const propertyId = 'YOUR_PROPERTY_ID'; // Thay bằng Property ID của bạn
+
+    const url = `https://analyticsdata.googleapis.com/v1beta/properties/${propertyId}:runRealtimeReport`;
+
+    const response = await axios.post(url, {
+        dimensions: [{ name: "country" }],
+        metrics: [{ name: "activeUsers" }]
+    }, {
+        headers: {
+            'Authorization': `Bearer ${accessToken.token}`,
+            'Content-Type': 'application/json'
+        }
+    });
+
+    console.log(`Số người online: ${response.data.rows.length ? response.data.rows.reduce((sum, row) => sum + parseInt(row.metricValues[0].value), 0) : 0}`);
+}
+
+getActiveUsers();
+
+</script>
+
