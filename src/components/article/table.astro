@@ -1,61 +1,144 @@
+<style>
+    /* CSS cho phần TOC */
+    #index {
+        position: fixed;
+        top: 150px; /* Cố định vị trí cách đầu trang 150px */
+        max-height: 500px; /* Giới hạn chiều cao hiển thị */
+        overflow-y: auto; /* Cho phép cuộn */
+        scrollbar-width: none; /* Ẩn thanh cuộn trên Firefox */
+        -ms-overflow-style: none; /* Ẩn thanh cuộn trên IE và Edge */
+        display: none; /* Ẩn ban đầu */
+        width: 100%; /* Sử dụng 100% chiều rộng của phần tử cha */
+        max-width: 250px; /* Giới hạn chiều rộng tối đa */
+        word-wrap: break-word; /* Cho phép dòng tự động xuống nếu vượt quá chiều rộng */
+        overflow-x: hidden; /* Không hiển thị thanh cuộn ngang */
+        font-size: 1.25rem; /* text-xl - tương đương với 20px */
+        line-height: 1.75rem; /* Line height cho text-xl */
+    }
+
+    /* Ẩn thanh cuộn cho Chrome, Safari và Opera */
+    #index::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Đảm bảo các liên kết trong TOC không vượt quá chiều rộng container */
+    #index ul {
+        padding-left: 15px;
+        margin: 0;
+    }
+
+    #index li {
+        margin: 5px 0;
+    }
+
+    #index a {
+        display: block;
+        word-break: break-word; /* Đảm bảo phần văn bản dài sẽ được ngắt xuống dòng */
+        text-decoration: none;
+    }
+
+    /* Responsive: Ẩn TOC khi màn hình nhỏ (không còn hiển thị 2 cột) */
+    @media (max-width: 1023px) { /* Dựa vào breakpoint lg: của grid-cols-1 lg:grid-cols-[1fr,3fr] */
+        #index {
+            display: none !important; /* Buộc ẩn bất kể điều kiện nào */
+        }
+    }
+</style>
+
 <div class="max-w-3xl mx-auto" id="index">
-
-	<script type="module">
-
-		function generateTOC() {
-			const index = document.getElementById('index');
-			const headings = document.querySelectorAll('h2, h3, h4');
-
-			const tocList = document.createElement('ul');
-			let currentParent = null;
-
-			headings.forEach(heading => {
-				const listItem = document.createElement('li');
-				const anchor = document.createElement('a');
-				anchor.href = `#${heading.id}`;
-				anchor.textContent = heading.textContent;
-				listItem.appendChild(anchor);
-
-				switch (heading.tagName.toLowerCase()) {
-					case 'h2':
-						break;
-					case 'h3':
-						listItem.style.fontStyle = 'italic';
-						break;
-					case 'h4':
-						break;
-				}
-
-				if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
-					if (currentParent) {
-						const subList = currentParent.querySelector('ul') || document.createElement('ul');
-						subList.appendChild(listItem);
-						currentParent.appendChild(subList);
-					}
-				} else {
-					tocList.appendChild(listItem);
-					currentParent = listItem;
-				}
-			});
-
-			index.appendChild(tocList);
-
-			hideLastTOCItems(tocList, 20);
-		}
-
-		function hideLastTOCItems(tocList, count) {
-			const items = tocList.querySelectorAll('li');
-			const totalItems = items.length;
-
-			const itemsToHide = Math.min(count, totalItems);
-
-			for (let i = totalItems - itemsToHide; i < totalItems; i++) {
-				items[i].style.display = 'none';
-			}
-		}
-
-		window.onload = generateTOC;
-
-	</script>
-
+    <script type="module">
+        function generateTOC() {
+            const index = document.getElementById('index');
+            const headings = document.querySelectorAll('h2, h3, h4');
+            const tocList = document.createElement('ul');
+            let currentParent = null;
+            
+            headings.forEach(heading => {
+                const listItem = document.createElement('li');
+                const anchor = document.createElement('a');
+                anchor.href = `#${heading.id}`;
+                anchor.textContent = heading.textContent;
+                listItem.appendChild(anchor);
+                
+                switch (heading.tagName.toLowerCase()) {
+                    case 'h2':
+                        break;
+                    case 'h3':
+                        listItem.style.fontStyle = 'italic';
+                        break;
+                    case 'h4':
+                        break;
+                }
+                
+                if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
+                    if (currentParent) {
+                        const subList = currentParent.querySelector('ul') || document.createElement('ul');
+                        subList.appendChild(listItem);
+                        currentParent.appendChild(subList);
+                    }
+                } else {
+                    tocList.appendChild(listItem);
+                    currentParent = listItem;
+                }
+            });
+            
+            index.appendChild(tocList);
+            hideLastTOCItems(tocList, 1);
+            
+            // Kiểm tra và hiển thị TOC dựa trên vị trí cuộn
+            checkTOCVisibility();
+            
+            // Thêm sự kiện cuộn để kiểm tra hiển thị TOC
+            window.addEventListener('scroll', checkTOCVisibility);
+            
+            // Thêm sự kiện thay đổi kích thước màn hình để kiểm tra hiển thị trên màn hình nhỏ
+            window.addEventListener('resize', checkTOCVisibility);
+        }
+        
+        function hideLastTOCItems(tocList, count) {
+            const items = tocList.querySelectorAll('li');
+            const totalItems = items.length;
+            const itemsToHide = Math.min(count, totalItems);
+            
+            for (let i = totalItems - itemsToHide; i < totalItems; i++) {
+                items[i].style.display = 'none';
+            }
+        }
+        
+        function checkTOCVisibility() {
+            const index = document.getElementById('index');
+            const contentElement = document.querySelector('.prose'); // Phần nội dung chính
+            const twoColumnLayout = document.querySelector('.grid-cols-1.lg\\:grid-cols-\\[1fr\\,3fr\\]'); // Selector cho layout 2 cột
+            
+            if (!contentElement) return;
+            
+            // Kiểm tra xem đang ở chế độ 2 cột hay không (responsive)
+            const isTwoColumnMode = window.innerWidth >= 1024; // Breakpoint cho lg: trong Tailwind
+            
+            // Kiểm tra xem có tồn tại layout 2 cột không
+            const hasColumnsLayout = twoColumnLayout !== null;
+            
+            // Lấy thông tin vị trí và kích thước của content
+            const contentRect = contentElement.getBoundingClientRect();
+            const windowHeight = window.innerHeight;
+            
+            // Kiểm tra các điều kiện hiển thị TOC
+            const isContentVisible = contentRect.top < windowHeight && contentRect.bottom > 0;
+            const hasScrolledPastContent = contentRect.top < 0;
+            const hasNotScrolledPastEnd = contentRect.bottom > 100; // Ẩn khi còn 100px trước khi kết thúc content
+            
+            // Hiển thị hoặc ẩn TOC dựa trên tất cả các điều kiện
+            if (isContentVisible && hasScrolledPastContent && hasNotScrolledPastEnd && isTwoColumnMode && hasColumnsLayout) {
+                index.style.display = 'block';
+            } else {
+                index.style.display = 'none';
+            }
+        }
+        
+        // Sử dụng DOMContentLoaded để chạy sớm hơn
+        document.addEventListener('DOMContentLoaded', function() {
+            // Đợi một chút để đảm bảo tất cả các heading đã được tải
+            setTimeout(generateTOC, 100);
+        });
+    </script>
 </div>
