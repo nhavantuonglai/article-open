@@ -6,7 +6,6 @@ import { getCanonical, getPermalink } from '~/utils/permalinks';
 import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
 import { findImage } from '~/utils/images';
 
-import Progress from '~/components/javascript/progress.astro';
 import Article from '~/components/article/single.astro';
 import Related from '~/components/article/related.astro';
 import Action from '~/components/content/action.astro';
@@ -40,8 +39,6 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
-
-	<Progress/>
 
 	<Article post={{ ...post, image }} url={url}/>
 
