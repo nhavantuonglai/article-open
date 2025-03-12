@@ -1,0 +1,76 @@
+<script client:load>
+
+	const canvas = document.createElement("canvas");
+	canvas.id = "starfield";
+	document.body.prepend(canvas);
+
+	const ctx = canvas.getContext("2d");
+	let stars = [];
+	const numStars = 500;
+
+	function isDarkMode() {
+		return document.documentElement.classList.contains("dark");
+	}
+
+	function init() {
+		canvas.width = window.innerWidth;
+		canvas.height = window.innerHeight;
+		stars = [];
+
+		for (let i = 0; i < numStars; i++) {
+		stars.push({
+			x: Math.random() * canvas.width,
+			y: Math.random() * canvas.height,
+			z: Math.random() * canvas.width,
+			size: Math.random() * 1.5,
+		});
+		}
+	}
+
+	function updateStars() {
+		for (let star of stars) {
+		star.z -= 1;
+
+		if (star.z <= 0) {
+			star.x = Math.random() * canvas.width;
+			star.y = Math.random() * canvas.height;
+			star.z = canvas.width;
+			star.size = Math.random() * 1.5;
+		}
+		}
+	}
+
+	function drawStars() {
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+		ctx.fillStyle = isDarkMode() ? "white" : "black";
+
+		for (let star of stars) {
+		let scale = canvas.width / star.z;
+		let x = (star.x - canvas.width / 2) * scale + canvas.width / 2;
+		let y = (star.y - canvas.height / 2) * scale + canvas.height / 2;
+		let size = Math.min(star.size * scale, 2);
+
+		ctx.beginPath();
+		ctx.arc(x, y, size, 0, Math.PI * 2);
+		ctx.fill();
+		}
+	}
+
+	const observer = new MutationObserver(() => {
+		drawStars();
+	});
+
+	observer.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+
+	function animate() {
+		updateStars();
+		drawStars();
+		requestAnimationFrame(animate);
+	}
+
+	window.addEventListener("resize", init);
+	init();
+	animate();
+
+</script>
