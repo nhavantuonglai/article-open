@@ -1,10 +1,7 @@
 ---
 import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
-
-import {
-	Slideup
-} from '~/assets/framer.jsx';
+import { Slideup } from '~/assets/framer.jsx';
 
 interface Props {
 	title?: string;
@@ -39,21 +36,21 @@ const {
 		containerClass={`max-w-7xl mx-auto ${classes?.container ?? ''}`}
 		bg={bg}
 	>
+
 		<Headline
 			title={title}
 			subtitle={subtitle}
 			tagline={tagline}
 		/>
-		
+
 		<div class="grid gap-6">
 
 			{items.map((item) => (
 				<div class="faq-item w-full">
-
 					<div class="flex gap-3 cursor-pointer">
 
 						<svg
-							class="mr-2 w-6 h-6 text-primary flex-shrink-0"
+							class="w-6 h-6 text-primary flex-shrink-0"
 							viewBox="0 0 24 24"
 							fill="none"
 							stroke="currentColor"
@@ -69,8 +66,8 @@ const {
 						<h3 class="text-xl">{item.title}</h3>
 
 					</div>
-					
-					<div class="faq-answer mb-6 mt-2 pl-9 transition-all duration-300 max-h-0 opacity-0 overflow-hidden">
+
+					<div class="faq-answer mb-6 mt-2 pl-9 overflow-hidden transition-all duration-300">
 						<p class="text-xl">{item.description}</p>
 					</div>
 
@@ -89,28 +86,29 @@ const {
 			
 			faqItems.forEach(item => {
 				const answer = item.querySelector('.faq-answer');
-				if (answer) {
+				if (!answer) return;
+				
+				item.addEventListener('mouseenter', () => {
+					answer.style.maxHeight = `${answer.scrollHeight}px`;
+					answer.style.opacity = '1';
+				});
+				
+				item.addEventListener('mouseleave', () => {
 					answer.style.maxHeight = '0';
 					answer.style.opacity = '0';
-				}
-			});
-
-			faqItems.forEach(item => {
-				const answer = item.querySelector('.faq-answer');
-				if (answer) {
-					item.addEventListener('mouseenter', () => {
-						answer.style.maxHeight = `${answer.scrollHeight}px`;
-						answer.style.opacity = '1';
-					});
-					
-					item.addEventListener('mouseleave', () => {
-						answer.style.maxHeight = '0';
-						answer.style.opacity = '0';
-					});
-				}
+				});
 			});
 		});
 
 	</script>
 
 </Slideup>
+
+<style>
+
+	.faq-answer {
+		max-height: 0;
+		opacity: 0;
+	}
+
+</style>

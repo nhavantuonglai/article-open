@@ -1,6 +1,8 @@
 ---
 import Layout from '~/layouts/page.astro';
 
+import Scrollon from '~/components/article/scrollon.astro';
+
 import type { MetaData } from '~/types';
 
 export interface Props {
@@ -18,15 +20,54 @@ const metadata: MetaData = {
 
 <Layout metadata={metadata}>
 
-	<section class="mx-auto px-6 mt-6 py-20 text-justify prose prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:text-primary prose-h2:font-bold">
+	<section class="py-20 max-w-7xl mx-auto pb-10">
 
-		<h1>{frontmatter.title}</h1>
-		
-		<div
-			class="text-justify mx-auto prose prose-xl max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:primary prose-img:rounded-md prose-img:shadow-lg mt-8"
-			>
-			<slot/>
-		</div>
+		<article>
+
+			<header class="mx-auto px-4 sm:px-6">
+
+					<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 md:grid-cols-2 gap-8 py-12">
+
+						<div>
+							<h1>{frontmatter.title}</h1>
+						<div>
+					<div>
+
+			</header>
+
+			<div class="max-w-8xl mx-auto px-4 sm:px-6">
+
+				<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
+
+					<div class="relative">
+
+						<div id="table-wrapper">
+
+							<div class="relative mt-6">
+
+								<Scrollon/>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div>
+
+						<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
+
+							<slot/> 
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</article>
 
 	</section>
 

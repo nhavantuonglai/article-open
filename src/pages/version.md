@@ -51,6 +51,10 @@ article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế 
 
 ### Chi tiết cập nhật
 
+2025.03.12: Cập nhật button thư mục bài viết, và điều hướng lên đầu trang với mục Article.
+
+2025.03.05: Tối ưu cấu trúc code.
+
 2025.02.17: Cập nhật cấu trúc, tinh giản nội dung hiển thị, đồng nhất thuộc tính.
 
 2025.02.15: Cập nhật cấu trúc Open Graph, đảm bảo hiển thị tốt trên các nền tảng.

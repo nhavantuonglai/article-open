@@ -1,0 +1,104 @@
+<button id="scrollon" title="Lên đầu trang." class="scroll-button"></button>
+
+<script>
+
+	document.addEventListener("DOMContentLoaded", function() {
+		const scrollon = document.getElementById("scrollon");
+		const contentElement = document.querySelector(".prose");
+		
+		function getPrimaryColor() {
+			const tempElement = document.createElement('div');
+			tempElement.classList.add('bg-primary');
+			document.body.appendChild(tempElement);
+			
+			const computedStyle = window.getComputedStyle(tempElement);
+			const primaryColor = computedStyle.backgroundColor;
+			
+			document.body.removeChild(tempElement);
+			
+			const primaryRGB = primaryColor.match(/\d+/g);
+			const primaryAlpha = `rgba(${primaryRGB[0]}, ${primaryRGB[1]}, ${primaryRGB[2]}, 0.3)`;
+			
+			return { primaryColor, primaryAlpha };
+		}
+		
+		const { primaryColor, primaryAlpha } = getPrimaryColor();
+		
+		function checkContentVisibility() {
+			if (!contentElement) return false;
+			
+			const contentRect = contentElement.getBoundingClientRect();
+			const windowHeight = window.innerHeight;
+			
+			const isContentVisible = contentRect.top < windowHeight && contentRect.bottom > 0;
+			const hasScrolledPastContent = contentRect.top < 0;
+			const hasNotScrolledPastEnd = contentRect.bottom > 500;
+			
+			return isContentVisible && hasScrolledPastContent && hasNotScrolledPastEnd;
+		}
+		
+		function updateScrollProgress() {
+			const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
+			const scrolled = window.scrollY;
+			const progress = Math.min(100, Math.max(0, (scrolled / scrollableHeight) * 100));
+			
+			scrollon.style.background = `conic-gradient(${primaryColor} ${progress}%, ${primaryAlpha} ${progress}% 100%)`;
+		}
+		
+		window.onscroll = function() {
+			updateScrollProgress();
+			
+			if (checkContentVisibility()) {
+				scrollon.style.display = "block";
+			} else {
+				scrollon.style.display = "none";
+			}
+		};
+		
+		setTimeout(function() {
+			window.onscroll();
+		}, 100);
+		
+		scrollon.addEventListener("click", function() {
+			window.scrollTo({
+				top: 0,
+				behavior: "smooth"
+			});
+		});
+
+	});
+
+</script>
+
+<style>
+
+	.scroll-button {
+		position: fixed;
+		bottom: 40px;
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		cursor: pointer;
+		display: none;
+		
+		mask: radial-gradient(circle at center, transparent 15px, black 16px);
+		-webkit-mask: radial-gradient(circle at center, transparent 15px, black 16px);
+	}
+	
+	.scroll-button:after {
+		content: '';
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 8px;
+		height: 8px;
+		border-top: 2px solid var(--color-primary);
+		border-left: 2px solid var(--color-primary);
+		transform: translate(-50%, -25%) rotate(45deg);
+	}
+	
+	.scroll-button:hover {
+		opacity: 0.9;
+	}
+
+</style>
