@@ -14,6 +14,12 @@ import { Slideup, Slideleft, Slideright } from '~/assets/framer.jsx';
 import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
 
+import { ViewTransitions } from 'astro:transitions';
+import Comments from '~/components/javascript/comment.astro';
+
+const { title } = Astro.props;
+const facebookAppId = '656273133602268';
+
 export interface Props {
 	post: Post;
 	url: string | URL;
@@ -86,6 +92,8 @@ const { Content } = post;
 
 			)}
 
+		<ViewTransitions/>
+
 		</header>
 		
 		<div class="max-w-8xl mx-auto px-4 sm:px-6">
@@ -122,6 +130,13 @@ const { Content } = post;
 							<Anticopy/> 
 
 						</div>
+
+						<Comments 
+							url={Astro.url.href}
+							width="100%" 
+							numPosts={10} 
+							orderBy="reverse_time" 
+						/>
 
 						<PostTags tags={post.tags}/>
 

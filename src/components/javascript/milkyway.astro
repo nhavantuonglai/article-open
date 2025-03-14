@@ -7,6 +7,7 @@
 	const ctx = canvas.getContext("2d");
 	let stars = [];
 	const numStars = 500;
+	const baseSpeed = 1;
 
 	function isDarkMode() {
 		return document.documentElement.classList.contains("dark");
@@ -18,25 +19,28 @@
 		stars = [];
 
 		for (let i = 0; i < numStars; i++) {
-		stars.push({
-			x: Math.random() * canvas.width,
-			y: Math.random() * canvas.height,
-			z: Math.random() * canvas.width,
-			size: Math.random() * 1.5,
-		});
+			let size = Math.random() * 1.5 + 0.5;
+			stars.push({
+				x: Math.random() * canvas.width,
+				y: Math.random() * canvas.height,
+				z: Math.random() * canvas.width,
+				size: size,
+				speed: size * baseSpeed
+			});
 		}
 	}
 
 	function updateStars() {
 		for (let star of stars) {
-		star.z -= 1;
+			star.z -= star.speed;
 
-		if (star.z <= 0) {
-			star.x = Math.random() * canvas.width;
-			star.y = Math.random() * canvas.height;
-			star.z = canvas.width;
-			star.size = Math.random() * 1.5;
-		}
+			if (star.z <= 0) {
+				star.x = Math.random() * canvas.width;
+				star.y = Math.random() * canvas.height;
+				star.z = canvas.width;
+				star.size = Math.random() * 1.5 + 0.5;
+				star.speed = star.size * baseSpeed;
+			}
 		}
 	}
 
@@ -46,14 +50,14 @@
 		ctx.fillStyle = isDarkMode() ? "white" : "black";
 
 		for (let star of stars) {
-		let scale = canvas.width / star.z;
-		let x = (star.x - canvas.width / 2) * scale + canvas.width / 2;
-		let y = (star.y - canvas.height / 2) * scale + canvas.height / 2;
-		let size = Math.min(star.size * scale, 2);
+			let scale = canvas.width / star.z;
+			let x = (star.x - canvas.width / 2) * scale + canvas.width / 2;
+			let y = (star.y - canvas.height / 2) * scale + canvas.height / 2;
+			let size = Math.min(star.size * scale, 2);
 
-		ctx.beginPath();
-		ctx.arc(x, y, size, 0, Math.PI * 2);
-		ctx.fill();
+			ctx.beginPath();
+			ctx.arc(x, y, size, 0, Math.PI * 2);
+			ctx.fill();
 		}
 	}
 
