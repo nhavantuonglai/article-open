@@ -13,7 +13,10 @@ import Analytics from '~/components/javascript/analytics.astro';
 import Opentab from '~/components/javascript/open-tab.astro';
 import Schema from '~/components/javascript/schema.astro';
 
-import Milkyway from '~/components/javascript/milkyway.astro';
+import Loading from '~/components/javascript/supernova.astro';
+import Milkyway from '~/components/javascript/starfield.astro';
+
+import { useState, useEffect } from "react";
 
 import type { MetaData as MetaDataType } from '~/types';
 
@@ -45,6 +48,28 @@ const { language, textDirection } = I18N;
 
 		<Opentab/>
 
+	<style is:inline>
+
+	  body {
+		opacity: 0;
+		transition: opacity 0.3s ease-out;
+	  }
+	  body:has(#loading-overlay) {
+		overflow: hidden;
+	  }
+
+	</style>
+
+	<script is:inline>
+
+	  document.addEventListener('readystatechange', function() {
+		if (document.readyState === 'interactive') {
+		  document.body.style.opacity = "1";
+		}
+	  });
+
+	</script>
+
 	</head>
 
 	<body class="antialiased text-default bg-page tracking-tight">
@@ -62,6 +87,8 @@ const { language, textDirection } = I18N;
 			</iframe>
 
 		</noscript>
+
+		<Loading/>
 
 		<Milkyway/>
 

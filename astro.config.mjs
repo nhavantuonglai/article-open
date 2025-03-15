@@ -10,6 +10,27 @@ import compress from 'astro-compress';
 import react from '@astrojs/react';
 import astrowind from './src/integration';
 
+export default defineConfig({
+  output: 'hybrid',
+  experimental: {
+	viewTransitions: true,
+  },
+  vite: {
+	build: {
+	  rollupOptions: {
+		output: {
+		  entryFileNames: 'entry.[hash].js',
+		  chunkFileNames: 'chunks/chunk.[hash].js',
+		  assetFileNames: 'assets/asset.[hash][extname]',
+		}
+	  }
+	},
+	ssr: {
+	  noExternal: ['*']
+	}
+  }
+});
+
 import { 
 	readingTimeRemarkPlugin, 
 	responsiveTablesRehypePlugin, 
