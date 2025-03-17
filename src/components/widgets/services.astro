@@ -7,9 +7,7 @@ import Divide from '~/components/ui/divide.astro';
 
 import Image from '~/components/common/image.astro';
 
-import {
-	Slideleft
-} from '~/assets/framer.jsx';
+import { Slideup } from '~/assets/framer.jsx';
 
 const {
 	title = await Astro.slots.render('title'),
@@ -29,7 +27,7 @@ const {
 } = Astro.props;
 ---
 
-<Slideleft client:visible>
+<Slideup client:visible>
 
 	<section class="relative md:-mt-[76px] not-prose">
 
@@ -123,4 +121,4 @@ const {
 
 	</section>
 
-</Slideleft>
+</Slideup>

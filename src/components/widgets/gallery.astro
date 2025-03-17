@@ -1,0 +1,233 @@
+---
+import type { Content as Props } from '~/types';
+import Headline from '~/components/ui/headline.astro';
+import Wrapper from '~/components/ui/wrapper.astro';
+
+import {
+	Slideup
+} from '~/assets/framer.jsx';
+
+const {
+	title = await Astro.slots.render('title'),
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	springs = [],
+	summers = [],
+	autumns = [],
+	winters = [],
+	id,
+	isDark = false,
+	classes = {},
+	bg = await Astro.slots.render('bg'),
+} = Astro.props;
+
+const shuffleArray = (array) => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+};
+
+const randomsprings = shuffleArray(springs);
+const randomsummers = shuffleArray(summers);
+const randomautumns = shuffleArray(autumns);
+const randomwinters = shuffleArray(winters);
+---
+
+<Slideup client:visible>
+
+	<section class="relative not-prose">
+		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+		<div class="relative max-w-7xl mx-auto">
+			<div class="pt-0 md:pt-[60px] pointer-events-none"></div>
+
+			<Wrapper id={id} isDark={isDark} containerClass={classes?.container as string} bg={bg}>
+
+				<div class="flex flex-col lg:justify-between lg:flex-row">
+
+					{title && (
+						<div class="md:max-w-sm">
+							<h2 class="max-w-3xl mx-auto" set:html={title} />
+						</div>
+					)}
+					
+				</div>
+
+				<div class="gallery-container">
+					<div class="gallery-row left-to-right mb-2.5">
+						<div class="gallery-track">
+							{randomsprings.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+							{randomsprings.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+						</div>
+					</div>
+
+					<div class="gallery-row right-to-left mb-2.5">
+						<div class="gallery-track">
+							{randomsummers.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+							{randomsummers.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+						</div>
+					</div>
+
+					<div class="gallery-row left-to-right mb-2.5">
+						<div class="gallery-track">
+							{randomautumns.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+							{randomautumns.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+						</div>
+					</div>
+
+					<div class="gallery-row right-to-left">
+						<div class="gallery-track">
+							{randomwinters.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+							{randomwinters.map((image) => (
+								<div class="gallery-item">
+									<img 
+										src={image.src} 
+										alt={image.alt || "Gallery image"} 
+										class="rounded-lg shadow-sm"
+										width="300"
+										height="200"
+									/>
+								</div>
+							))}
+						</div>
+					</div>
+
+				</div>
+
+			</Wrapper>
+
+		</div>
+
+	</section>
+
+</Slideup>
+
+<style>
+
+	.gallery-container {
+		width: 100%;
+		overflow: hidden;
+	}
+
+	.gallery-row {
+		overflow: hidden;
+		position: relative;
+		width: 100%;
+	}
+
+	.gallery-track {
+		display: flex;
+		gap: 10px;
+		width: max-content;
+	}
+
+	.gallery-item {
+		flex: 0 0 auto;
+		width: 300px;
+	}
+
+	.gallery-item img {
+		width: 100%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.left-to-right .gallery-track {
+		animation: scroll-left 120s linear infinite;
+	}
+
+	.right-to-left .gallery-track {
+		animation: scroll-right 120s linear infinite;
+	}
+
+	@keyframes scroll-left {
+		0% {
+			transform: translateX(0);
+		}
+		100% {
+			transform: translateX(calc(-100% / 2));
+		}
+	}
+
+	@keyframes scroll-right {
+		0% {
+			transform: translateX(calc(-100% / 2));
+		}
+		100% {
+			transform: translateX(0);
+		}
+	}
+
+</style>

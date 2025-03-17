@@ -51,7 +51,9 @@ article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế 
 
 ### Chi tiết cập nhật
 
-2025.03.12: Cập nhật giao diện nền trời sao.
+2025.03.12: Cập nhật hiệu ứng tải trang Mặt trời tỏa bóng.
+
+2025.03.12: Cập nhật giao diện nền Trời sao.
 
 2025.03.09: Cập nhật button điều hướng lên đầu trang với mục Article.
 

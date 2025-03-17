@@ -9,16 +9,10 @@ import Scrollon from '~/components/article/scrollon.astro';
 import PostTags from '~/components/article/tags.astro';
 import Anticopy from '~/components/article/anticopy.astro';
 
-import { Slideup, Slideleft, Slideright } from '~/assets/framer.jsx';
+import { Slideup } from '~/assets/framer.jsx';
 
 import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
-
-import { ViewTransitions } from 'astro:transitions';
-import Comments from '~/components/javascript/comment.astro';
-
-const { title } = Astro.props;
-const facebookAppId = '656273133602268';
 
 export interface Props {
 	post: Post;
@@ -59,7 +53,7 @@ const { Content } = post;
 								<h1 class="text-white mb-4">{post.title}</h1>
 							</Slideup>
 							
-							<Slideright client:visible>
+							<Slideup client:visible>
 								<p class="text-white">
 									<time datetime={post.pubDatetime}>
 									{`${new Date(post.pubDatetime)
@@ -67,11 +61,11 @@ const { Content } = post;
 										.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`}
 									</time>
 								</p>
-							</Slideright>
+							</Slideup>
 						</div>
 					
 						<div>
-							<Slideleft client:visible>
+							<Slideup client:visible>
 								<p class="text-white">{post.description}</p>
 								<p class="text-white">
 									{post.readingTime && (
@@ -79,7 +73,7 @@ const { Content } = post;
 									)}
 									&nbsp;· <span id="counter"></span> lượt xem.
 								</p>
-							</Slideleft>
+							</Slideup>
 						</div>
 
 					</div>
@@ -91,8 +85,6 @@ const { Content } = post;
 				<div class="border-t dark:border-slate-700"/>
 
 			)}
-
-		<ViewTransitions/>
 
 		</header>
 		
@@ -106,13 +98,13 @@ const { Content } = post;
 
 						<div class="relative mt-6">
 
-							<Slideright client:visible>
+							<Slideup client:visible>
 
 								<Table/>
 
 								<Scrollon/>
 
-							</Slideright>
+							</Slideup>
 
 						</div>
 
@@ -130,13 +122,6 @@ const { Content } = post;
 							<Anticopy/> 
 
 						</div>
-
-						<Comments 
-							url={Astro.url.href}
-							width="100%" 
-							numPosts={10} 
-							orderBy="reverse_time" 
-						/>
 
 						<PostTags tags={post.tags}/>
 

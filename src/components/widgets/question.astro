@@ -67,7 +67,7 @@ const {
 
 					</div>
 
-					<div class="faq-answer mb-6 mt-2 pl-9 overflow-hidden transition-all duration-300">
+					<div class="mb-6 mt-2 pl-9">
 						<p class="text-xl">{item.description}</p>
 					</div>
 
@@ -79,36 +79,4 @@ const {
 
 	</Wrapper>
 
-	<script>
-
-		document.addEventListener('astro:page-load', () => {
-			const faqItems = document.querySelectorAll('.faq-item');
-			
-			faqItems.forEach(item => {
-				const answer = item.querySelector('.faq-answer');
-				if (!answer) return;
-				
-				item.addEventListener('mouseenter', () => {
-					answer.style.maxHeight = `${answer.scrollHeight}px`;
-					answer.style.opacity = '1';
-				});
-				
-				item.addEventListener('mouseleave', () => {
-					answer.style.maxHeight = '0';
-					answer.style.opacity = '0';
-				});
-			});
-		});
-
-	</script>
-
 </Slideup>
-
-<style>
-
-	.faq-answer {
-		max-height: 0;
-		opacity: 0;
-	}
-
-</style>

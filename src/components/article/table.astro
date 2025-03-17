@@ -34,7 +34,7 @@
 					if (!contentElement) return false;
 					const rect = contentElement.getBoundingClientRect();
 					return rect.top < window.innerHeight && rect.bottom > 0 && 
-						   rect.top < 0 && rect.bottom > 500;
+							rect.top < 0 && rect.bottom > 500;
 				}
 				
 				window.addEventListener('scroll', function() {
@@ -72,6 +72,7 @@
 	#toc-button {
 		width: 40px;
 		height: 40px;
+		z-index: 2;
 	}
 
 	#toc-content {
@@ -79,6 +80,7 @@
 		bottom: 150px;
 		width: 350px;
 		height: 500px;
+		z-index: 2;
 		overflow-y: auto;
 		background-color: white;
 		padding: 10px;
