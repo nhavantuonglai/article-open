@@ -32,6 +32,12 @@
 
 	a { @apply hover:text-primary; }
 
+	#starfield {
+		position: fixed;
+		z-index: -1;
+		pointer-events: none;
+	}
+
 }
 
 @layer components {

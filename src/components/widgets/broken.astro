@@ -1,78 +1,32 @@
----
-import Gallery from '~/components/widgets/gallery.astro';
-import Hero from '~/components/widgets/hero.astro';
-function getRandomInt(min, max) {
-	return Math.floor(Math.random() * (max - min + 1)) + min;
-}
-function formatNumber(num) {
-	return num.toString().padStart(3, '0');
-}
-function generateUniqueRandomNumbers(count, min, max) {
-	const numbers = new Set();
-	
-	while (numbers.size < count) {
-		numbers.add(getRandomInt(min, max));
-	}
-	
-	return Array.from(numbers);
-}
-const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
-const numbersspring = uniqueNumbers.slice(1, 5);
-const numberssummer = uniqueNumbers.slice(6, 10);
-const numbersautumn = uniqueNumbers.slice(11, 15);
-const numberswinter = uniqueNumbers.slice(16, 20);
-const springs = numbersspring.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
-const summers = numberssummer.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
-const autumns = numbersautumn.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
-const winters = numberswinter.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
----
+<section class="flex items-center h-full p-16">
 
-<Gallery
+	<div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
 
-	springs={springs}
-	summers={summers}
-	autumns={autumns}
-	winters={winters}
+		<h1 class="max-w-3xl mx-auto px-4 sm:px-6 text-9xl">
+			404.
+		</h1>
 
->
+		<p class="max-w-3xl mx-auto px-4 sm:px-6">
+			Liên kết hiện không khả dụng, về trang chủ sau <span id="timer">5</span> giây.
+		</p>
 
-	<Hero
+		<script client:load>
 
-		title="Lỗi 404 đã xuất hiện."
-		subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+			let countdown = 5;
+			const timerElement = document.getElementById('timer');
 
-	/>
+			const interval = setInterval(() => {
+				countdown--;
+				timerElement.textContent = countdown;
 
-</Gallery>
+				if (countdown <= 0) {
+			clearInterval(interval);
+			window.location.href = "https://nhavantuonglai.com";
+				}
+			}, 1000);
 
-<script>
+		</script>
 
-	let timeLeft = 5;
-	const countdownElement = document.getElementById('countdown');
-	
-	const countdownInterval = setInterval(() => {
-		timeLeft -= 1;
-		
-		if (countdownElement) {
-			countdownElement.textContent = timeLeft;
-		}
-		
-		if (timeLeft <= 0) {
-			clearInterval(countdownInterval);
-			window.location.href = 'https://nhavantuonglai.com';
-		}
-	}, 1000);
+	</div>
 
-</script>
+</section>
