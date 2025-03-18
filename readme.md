@@ -2,9 +2,7 @@
 
 ## Project deployment guide in English (Original Vietnamese below)
 
-### Introduction
-
-\article-open is the open-source version of \article (the main source code of [nhavantuonglai.com](https://nhavantuonglai.com/)). This project is developed using Astro 5.0 and Tailwind CSS, providing a modern website template optimized for SEO.
+_Article Open_ is the open source version of _Article,_ the core code of [nhavantuonglai.com](https://nhavantuonglai.com/). This project is developed using Astro 5.0 and Tailwind CSS, creating a modern website template that is user-friendly and optimized for SEO.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
@@ -134,9 +132,7 @@ If you have any questions or suggestions, don't hesitate to contact us for the q
 
 ## Hướng dẫn triển khai dự án (bằng tiếng Việt)
 
-### Giới thiệu
-
-\article-open là phiên bản mã nguồn mở của \article (mã nguồn chính của [nhavantuonglai.com](https://nhavantuonglai.com/)). Dự án này được phát triển bằng Astro 5.0 và Tailwind CSS, cung cấp một template website hiện đại và tối ưu cho SEO.
+_Article Open_ là phiên bản mã nguồn mở của _Article_ (mã nguồn chính của [nhavantuonglai.com](https://nhavantuonglai.com/)). Dự án này được phát triển bằng Astro 5.0 và Tailwind CSS, tạo nên template website hiện đại, thân thiện với người dùng và công cụ SEO.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
