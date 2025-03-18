@@ -2,7 +2,6 @@
 import { Icon } from 'astro-icon/components';
 import { SITE } from 'nhavantuonglai:config';
 import { getHomePermalink } from '~/utils/permalinks';
-
 import Openstatus from '~/components/javascript/openstatus.astro'
 import DCMA from '~/components/javascript/dcma.astro'
 import Address from '~/components/javascript/address.astro';
@@ -31,91 +30,152 @@ export interface Props {
 const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme = 'light' } = Astro.props;
 ---
 
-<footer class:list={[{ dark: theme === 'dark' }, 'relative border-t border-gray-200 dark:border-slate-800 not-prose']}>
+<footer class="relative not-prose">
 
-	<div class="bg-white dark:bg-black absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<div class:list={[
+		theme === 'dark' ? 'bg-slate-900' : 'bg-white',
+		'border-t border-gray-200 dark:border-slate-800'
+	]}>
 
-	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 dark:text-slate-300">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
 
-		<div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
+				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-			<div class="col-span-12 lg:col-span-4">
+					<div class="grid grid-cols-1 gap-6">
 
-				<div class="text-sm text-muted mb-6">
+						<div>
+							<DCMA/>
+						</div>
+						
+						<div>
+							<Openstatus/>
+						</div>
 
-					{secondaryLinks.map(({ text, href }) => (
-						text && href && (
+						<div class="flex items-center mb-4 md:mb-0">
 
-							<a
-								key={href}
-								class="text-sm mr-2"
-								href={href}
-								set:html={text}
-							/>
+							<Since/>
 
-						)
-					))}
+							<span class="text-sm text-gray-500 dark:text-slate-400 ml-2">{footNote}</span>
 
+						</div>
 
+					</div>
 
 				</div>
+				
+				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-				<Address/>
+					<h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4">Liên hệ và trao đổi</h3>
+					<div class="space-y-6">
 
-				<DCMA/>
+						<div>
 
-			</div>
+							<Address/>
 
-			{links.map(({ title, links }) => (
-				<div key={title} class="col-span-6 md:col-span-3 lg:col-span-2">
-					{title && <p class="text-sm font-bold hover:text-primary dark:text-gray-300 mb-2">{title}</p>}
-					{links && links.length > 0 && (
-						<ul>
-							{links.map(({ text, href, ariaLabel }) => (
-								<li key={href} class="mb-2">
+							<div class="flex flex-wrap gap-3">
+
+								{socialLinks && Array.isArray(socialLinks) && socialLinks.map(({ ariaLabel, href, icon }) => (
+
 									<a
-										class="text-sm mr-2"
-										href={href}
+										class="w-10 h-10 rounded-full bg-gray-100 dark:bg-slate-800 flex items-center justify-center transition-transform hover:scale-110 hover:bg-primary/10"
 										aria-label={ariaLabel}
+										href={href}
 										target="_blank"
 									>
-										<Fragment set:html={text}/>
+										{icon && <Icon name={icon} class="w-5 h-5 text-primary"/>}
 									</a>
-								</li>
-							))}
-						</ul>
-					)}
+								))}
+
+							</div>
+
+						</div>
+
+						<div class="flex items-center">
+
+							{secondaryLinks && Array.isArray(secondaryLinks) && secondaryLinks.length > 0 && (
+								<div class="flex flex-wrap gap-4">
+
+									{secondaryLinks.map(({ text, href }) => (
+										text && href && (
+
+											<a
+												class="text-sm text-gray-500 dark:text-slate-400 hover:text-primary dark:hover:text-primary"
+												href={href}
+												set:html={text}
+											/>
+
+										)
+									))}
+
+								</div>
+							)}
+
+						</div>
+
+					</div>
+
 				</div>
-			))}
 
+			</div>
 		</div>
+		
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
+			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
 
-		<div class="md:flex md:items-center md:justify-between py-6 md:py-8">
+				{links && Array.isArray(links) && links.slice(0).map(({ title, links }) => (
+					<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-			{socialLinks.length > 0 && (
-				<ul class="flex mb-6 md:order-1 -ml-2 md:ml-4 md:mb-0 rtl:ml-0 rtl:-mr-2 rtl:md:ml-0 rtl:md:mr-4">
-					{socialLinks.map(({ ariaLabel, href, text, icon }) => (
-						<li key={href}>
-							<a
-								class="text-sm mr-2"
-								aria-label={ariaLabel}
-								href={href}
-								target="_blank"
-							>
-								{icon && <Icon name={icon} class="w-5 h-5"/>}
-								<Fragment set:html={text}/>
-							</a>
-						</li>
-					))}
-				</ul>
-			)}
+						{title && <p class="text-xl font-semibold text-gray-900 dark:text-white mb-4">{title}</p>}
 
-			<Openstatus/>
+						{links && Array.isArray(links) && (
+							<ul class="space-y-2">
 
-			<Since/>
+								{links.map(({ text, href, ariaLabel }) => (
 
+									<li>
+
+										<a
+											class="text-sm text-gray-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-all duration-300"
+											href={href}
+											aria-label={ariaLabel}
+										>
+											<Fragment set:html={text}/>
+										</a>
+
+									</li>
+
+								))}
+
+							</ul>
+						)}
+
+					</div>
+				))}
+
+			</div>
 		</div>
 
 	</div>
 
 </footer>
+
+<script>
+
+	document.addEventListener('astro:page-load', () => {
+		const details = document.querySelectorAll('details');
+		details.forEach((detail) => {
+			detail.addEventListener('click', (e) => {
+				if (detail.open) {
+					return;
+				}
+				details.forEach((otherDetail) => {
+					if (otherDetail !== detail) {
+						otherDetail.removeAttribute('open');
+					}
+				});
+			});
+		});
+	});
+
+</script>

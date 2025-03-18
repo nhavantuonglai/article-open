@@ -3,10 +3,7 @@ import type { Content as Props } from '~/types';
 import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
 import Button from '~/components/ui/button.astro';
-import Divide from '~/components/ui/divide.astro';
-
 import Image from '~/components/common/image.astro';
-
 import { Slideup } from '~/assets/framer.jsx';
 
 const {
@@ -16,109 +13,126 @@ const {
 	content = await Astro.slots.render('content'),
 	callToAction,
 	items = [],
-	columns,
 	image = await Astro.slots.render('image'),
 	isReversed = false,
-	isAfterContent = false,
 	id,
 	isDark = false,
 	classes = {},
 	bg = await Astro.slots.render('bg'),
 } = Astro.props;
+
+const getDelay = (index) => (index * 0.15).toFixed(2);
 ---
 
-<Slideup client:visible>
+<section class="relative md:-mt-[76px] not-prose">
 
-	<section class="relative md:-mt-[76px] not-prose">
+	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+	<div class="relative max-w-7xl mx-auto">
 
-		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-			<div class="relative max-w-7xl mx-auto">
-				<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 
-					<Wrapper
-						id={id}
-						isDark={isDark}
-						containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
-						bg={bg}
-					>
+		<Wrapper
+			id={id}
+			isDark={isDark}
+			containerClass={`max-w-7xl mx-auto ${classes?.container ?? ''}`}
+			bg={bg}
+		>
 
-						<Headline
-							title={title}
-							subtitle={subtitle}
-							tagline={tagline}
-							classes={{
-								container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
-								title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
-								subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
-							}}
-						/>
+			<Headline
+				title={title}
+				subtitle={subtitle}
+				tagline={tagline}
+				classes={{
+					container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
+					title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
+					subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
+				}}
+			/>
 
-						<div class="md:mx-auto text-center">
-							<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
-								<div class="md:basis-1/2 self-center">
-									{content && (
-										<p class="text-xl" set:html={content}/>
-									)}
+			<div class="md:mx-auto">
+				<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
+					<div class="md:basis-1/2 self-center">
 
-									{callToAction && (
-										<Button class="btn" variant="link" {...callToAction}/>
-									)}
+						{content && <p class="text-xl" set:html={content} />}
+						
+						{callToAction && <Button class="btn" variant="link" {...callToAction} />}
 
-									{items && items.length > 0 && (
+						{items && items.length > 0 && (
+							<div class="mt-10 relative">
+								<div class="absolute left-4 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary to-primary-700 h-full"></div>
+								
+								{items.map((item, index) => (
+									<Slideup client:visible delay={getDelay(index)}>
 
-										<Divide
-											items={items}
-											columns={columns}
-											defaultIcon="tabler:check"
-											classes={{
-												panel: 'max-w-none',
-												title: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
-												description: 'mb-6 text-lg text-muted dark:text-slate-400 rtl:mr-2',
-												icon: 'flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1',
-												action: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
-											}}
-										/>
+										<div class="flex mb-8 items-start">
 
-									)}
+											<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
 
-								</div>
+												{item.icon ? (
+													<span class={`${item.icon}`}></span>
+												) : (
+													<span class="text-sm font-bold">{index + 1}</span>
+												)}
 
-								<div aria-hidden="true" class="mt-60 md:mt-0 md:basis-1/2">
+											</div>
 
-									{image && (
+											<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-										<div class="relative m-auto max-w-4xl">
-											{typeof image === 'string' ? (
+												<h3 class="text-lg font-medium leading-6 dark:text-white mb-2">{item.title}</h3>
 
-												<Fragment set:html={image}/>
-											) : (
+												{item.description && <p class="text-muted dark:text-slate-400">{item.description}</p>}
 
-												<Image
-													class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-													width={600}
-													height={407}
-													widths={[400, 768]}
-													sizes="(max-width: 768px), 432px"
-													layout="responsive"
-													{...(image as any)}
-												/>
+												{item.callToAction && (
+													<div class="mt-3">
+														<a href={item.callToAction?.href} class="text-primary font-medium hover:underline">
+															{item.callToAction?.text}
+														</a>
+													</div>
+												)}
 
-											)}
+											</div>
 
 										</div>
 
+									</Slideup>
+								))}
+
+							</div>
+						)}
+
+					</div>
+
+					<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
+
+						{image && (
+							<Slideup client:visible delay={0.2}>
+								<div class="relative m-auto max-w-4xl">
+
+									{typeof image === 'string' ? (
+										<Fragment set:html={image} />
+									) : (
+										<Image
+											class="mx-auto w-full rounded-lg shadow-lg hover:shadow-xl transition-all"
+											width={600}
+											height={407}
+											widths={[400, 768]}
+											sizes="(max-width: 768px), 432px"
+											layout="responsive"
+											{...(image as any)}
+										/>
 									)}
 
 								</div>
+							</Slideup>
+						)}
 
-							</div>
+					</div>
 
-						</div>
-
-					</Wrapper>
-
+				</div>
 			</div>
 
-	</section>
+		</Wrapper>
 
-</Slideup>
+	</div>
+
+</section>

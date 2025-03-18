@@ -1,6 +1,7 @@
 ---
 import Gallery from '~/components/widgets/gallery.astro';
 import Hero from '~/components/widgets/hero.astro';
+
 function getRandomInt(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
 }
@@ -16,11 +17,13 @@ function generateUniqueRandomNumbers(count, min, max) {
 	
 	return Array.from(numbers);
 }
+
 const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
 const numbersspring = uniqueNumbers.slice(1, 5);
 const numberssummer = uniqueNumbers.slice(6, 10);
 const numbersautumn = uniqueNumbers.slice(11, 15);
 const numberswinter = uniqueNumbers.slice(16, 20);
+
 const springs = numbersspring.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
@@ -47,32 +50,14 @@ const winters = numberswinter.map(num => ({
 	winters={winters}
 
 >
-
 	<Hero
 
-		title="Lỗi 404 đã xuất hiện."
-		subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+		title="Văn hay trong hiện tại, chữ tốt ở tương lai."
+		subtitle="Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về."
+		actions={[
+			{ variant: 'btn', text: 'Đọc thêm', href: 'https://instagram.com/nhavantuonglai', icon: 'tabler:square-rounded-arrow-right' },
+		]}
 
 	/>
 
 </Gallery>
-
-<script>
-
-	let timeLeft = 5;
-	const countdownElement = document.getElementById('countdown');
-	
-	const countdownInterval = setInterval(() => {
-		timeLeft -= 1;
-		
-		if (countdownElement) {
-			countdownElement.textContent = timeLeft;
-		}
-		
-		if (timeLeft <= 0) {
-			clearInterval(countdownInterval);
-			window.location.href = 'https://nhavantuonglai.com';
-		}
-	}, 1000);
-
-</script>

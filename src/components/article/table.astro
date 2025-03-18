@@ -34,7 +34,7 @@
 					if (!contentElement) return false;
 					const rect = contentElement.getBoundingClientRect();
 					return rect.top < window.innerHeight && rect.bottom > 0 && 
-						   rect.top < 0 && rect.bottom > 500;
+							rect.top < 0 && rect.bottom > 500;
 				}
 				
 				window.addEventListener('scroll', function() {

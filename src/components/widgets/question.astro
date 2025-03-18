@@ -26,6 +26,8 @@ const {
 	classes = {},
 	bg = await Astro.slots.render('bg'),
 } = Astro.props;
+
+const getDelay = (index) => (index * 0.15).toFixed(2);
 ---
 
 <Slideup client:visible>
@@ -43,35 +45,32 @@ const {
 			tagline={tagline}
 		/>
 
-		<div class="grid gap-6">
+		<div class="relative">
+			<div class="absolute left-4 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary to-primary-700 h-full"></div>
 
-			{items.map((item) => (
-				<div class="faq-item w-full">
-					<div class="flex gap-3 cursor-pointer">
+			{items.map((item, index) => (
 
-						<svg
-							class="w-6 h-6 text-primary flex-shrink-0"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						>
-							<circle cx="12" cy="12" r="10"/>
-							<path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
-							<line x1="12" y1="17" x2="12.01" y2="17"/>
-						</svg>
+				<Slideup client:visible delay={getDelay(index)}>
 
-						<h3 class="text-xl">{item.title}</h3>
+					<div class="flex mb-8 items-start">
+
+						<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
+							<span class="text-sm font-bold">{index + 1}</span>
+						</div>
+
+						<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+
+							<h3 class="text-xl">{item.title}</h3>
+
+							<div class="mt-2">
+								<p class="text-xl text-muted dark:text-slate-400">{item.description}</p>
+							</div>
+
+						</div>
 
 					</div>
 
-					<div class="mb-6 mt-2 pl-9">
-						<p class="text-xl">{item.description}</p>
-					</div>
-
-				</div>
+				</Slideup>
 
 			))}
 

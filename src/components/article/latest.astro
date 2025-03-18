@@ -12,7 +12,6 @@ export interface Props extends Widget {
 	title?: string;
 	linkText?: string;
 	linkUrl?: string | URL;
-	information?: string;
 	count?: number;
 }
 
@@ -20,7 +19,6 @@ const {
 	title = await Astro.slots.render("title"),
 	linkText = "Đọc thêm",
 	linkUrl = getBlogPermalink(),
-	information = await Astro.slots.render("information"),
 	count = 12,
 	id,
 	isDark = false,
@@ -44,8 +42,7 @@ const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
 						<h2 class="max-w-3xl mx-auto" set:html={title} />
 					</div>
 				)}
-				
-				{information && <p class="text-xl text-justify max-w-md" set:html={information} />}
+
 			</div>
 
 			<Grid posts={posts} />

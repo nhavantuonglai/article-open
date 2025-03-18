@@ -2,13 +2,12 @@
 import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
 
 import Layout from '~/layouts/page.astro';
-import Hero from '~/components/content/hero.astro';
+import Article from '~/components/content/blog/article.astro';
 
-import Headline from '~/components/article/headline.astro';
 import BlogList from '~/components/article/list.astro';
 import Pagination from '~/components/article/pagination.astro';
 
-import Action from '~/components/content/action.astro';
+import Action from '~/components/content/main/action.astro';
 
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
 
@@ -38,17 +37,9 @@ const metadata = {
 
 <Layout metadata={metadata}>
 
-	<Hero/>
+	<Article/>
 
 	<section class="mx-auto max-w-7xl md:px-6 px-6 sm:px-6 py-20">
-
-		<Headline
-			subtitle="đã xuất bản trên website."
-		>
-
-			Bài viết
-
-		</Headline>
 
 		<BlogList posts={page.data}/>
 

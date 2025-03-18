@@ -1,6 +1,7 @@
 ---
 import Gallery from '~/components/widgets/gallery.astro';
 import Hero from '~/components/widgets/hero.astro';
+
 function getRandomInt(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
 }
@@ -47,32 +48,10 @@ const winters = numberswinter.map(num => ({
 	winters={winters}
 
 >
-
 	<Hero
-
-		title="Lỗi 404 đã xuất hiện."
-		subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+		title="Danh sách bài viết theo thẻ phân loại."
+		subtitle="Danh sách bài viết theo thẻ phân loại gồm những bài hiện có, đã và đang xuất bản được phân loại trên website, giúp người đọc nhanh chóng, dễ dàng tìm thấy thông tin mình cần."
 
 	/>
 
 </Gallery>
-
-<script>
-
-	let timeLeft = 5;
-	const countdownElement = document.getElementById('countdown');
-	
-	const countdownInterval = setInterval(() => {
-		timeLeft -= 1;
-		
-		if (countdownElement) {
-			countdownElement.textContent = timeLeft;
-		}
-		
-		if (timeLeft <= 0) {
-			clearInterval(countdownInterval);
-			window.location.href = 'https://nhavantuonglai.com';
-		}
-	}, 1000);
-
-</script>

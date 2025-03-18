@@ -209,7 +209,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.03.12',
+			text: 'v25.04.01',
 			href: 'https://nhavantuonglai.com/version'
 		},
 

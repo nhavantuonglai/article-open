@@ -7,7 +7,7 @@ _\article_ là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.c
 
 [\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của _\article_ với quyền truy cập miễn phí và giới hạn tính năng.
 
-Mã nguồn _\article_ được dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind CSS, kế thừa tinh hoa của AstroWind, _\article-open_ cập nhật và làm tốt hơn các tính năng cũ khi:
+Mã nguồn _\article_  sử dụng Astro 5.0 và Tailwind CSS để tạo nên một phiên bản website hiện đại với:
 
 – Cải thiện cấu trúc code, giúp mọi thứ trở nên đơn giản và dễ dàng tiếp cận.
 
@@ -51,7 +51,9 @@ article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế 
 
 ### Chi tiết cập nhật
 
-2025.03.12: Cập nhật giao diện nền trời sao.
+2025.04.01: Cải tiến toàn bộ giao diện.
+
+2025.03.12: Cập nhật giao diện nền Trời sao.
 
 2025.03.09: Cập nhật button điều hướng lên đầu trang với mục Article.
 
