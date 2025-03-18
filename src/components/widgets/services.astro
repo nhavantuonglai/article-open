@@ -3,11 +3,8 @@ import type { Content as Props } from '~/types';
 import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
 import Button from '~/components/ui/button.astro';
-import Divide from '~/components/ui/divide.astro';
-
 import Image from '~/components/common/image.astro';
-
-import { Slideup } from '~/assets/framer.jsx';
+import { Slideup, FadeIn } from '~/assets/framer.jsx';
 
 const {
 	title = await Astro.slots.render('title'),
@@ -24,101 +21,199 @@ const {
 	isDark = false,
 	classes = {},
 	bg = await Astro.slots.render('bg'),
+	layout = 'timeline', // Các tùy chọn: 'timeline', 'mindmap', 'cards', 'grid'
 } = Astro.props;
+
+// Hàm tạo delay cho hiệu ứng
+const getDelay = (index) => {
+  return (index * 0.15).toFixed(2);
+};
 ---
 
-<Slideup client:visible>
+<section class="relative md:-mt-[76px] not-prose">
+  <div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
+  <div class="relative max-w-7xl mx-auto">
+    <div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+    <Wrapper
+      id={id}
+      isDark={isDark}
+      containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
+      bg={bg}
+    >
+      <FadeIn client:visible>
+        <Headline
+          title={title}
+          subtitle={subtitle}
+          tagline={tagline}
+          classes={{
+            container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
+            title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
+            subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
+          }}
+        />
+      </FadeIn>
 
-	<section class="relative md:-mt-[76px] not-prose">
+      <div class="md:mx-auto">
+        <div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
+          <div class="md:basis-1/2 self-center">
+            {content && (
+              <FadeIn client:visible delay={0.2}>
+                <p class="text-xl" set:html={content} />
+              </FadeIn>
+            )}
+            
+            {callToAction && (
+              <FadeIn client:visible delay={0.3}>
+                <Button class="btn" variant="link" {...callToAction} />
+              </FadeIn>
+            )}
 
-		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-			<div class="relative max-w-7xl mx-auto">
-				<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+            {items && items.length > 0 && layout === 'timeline' && (
+              <div class="mt-10 relative">
+                <!-- Timeline vertical line -->
+                <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary to-primary-700 h-full"></div>
+                
+                {items.map((item, index) => (
+                  <Slideup client:visible delay={getDelay(index)}>
+                    <div class="flex mb-8 items-start">
+                      <div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
+                        {item.icon ? (
+                          <span class={`${item.icon}`}></span>
+                        ) : (
+                          <span class="text-sm font-bold">{index + 1}</span>
+                        )}
+                      </div>
+                      <div class="bg-slate-50 dark:bg-slate-800 p-5 rounded-lg shadow-md w-full transition-all hover:shadow-lg">
+                        <h3 class="text-lg font-medium leading-6 dark:text-white mb-2">{item.title}</h3>
+                        {item.description && <p class="text-muted dark:text-slate-400">{item.description}</p>}
+                        {item.callToAction && (
+                          <div class="mt-3">
+                            <a href={item.callToAction?.href} class="text-primary font-medium hover:underline">{item.callToAction?.text}</a>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </Slideup>
+                ))}
+              </div>
+            )}
 
-					<Wrapper
-						id={id}
-						isDark={isDark}
-						containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
-						bg={bg}
-					>
+            {items && items.length > 0 && layout === 'mindmap' && (
+              <div class="mt-10 relative">
+                <div class="flex justify-center mb-8">
+                  <div class="bg-primary text-white px-4 py-2 rounded-lg shadow-md">
+                    <h3 class="text-lg font-bold">{title}</h3>
+                  </div>
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {items.map((item, index) => (
+                    <FadeIn client:visible delay={getDelay(index)}>
+                      <div class="relative">
+                        <!-- Connecting line -->
+                        <div class="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-4 h-4 w-0.5 bg-primary"></div>
+                        <!-- Horizontal connecting line for desktop -->
+                        <div class="hidden md:block absolute top-1/2 -left-4 w-4 h-0.5 bg-primary"></div>
+                        
+                        <div class="bg-slate-50 dark:bg-slate-800 p-4 rounded-lg shadow-md border-l-4 border-primary hover:shadow-lg transition-all">
+                          <h3 class="text-lg font-medium leading-6 dark:text-white mb-2">{item.title}</h3>
+                          {item.description && <p class="text-muted dark:text-slate-400">{item.description}</p>}
+                        </div>
+                      </div>
+                    </FadeIn>
+                  ))}
+                </div>
+              </div>
+            )}
 
-						<Headline
-							title={title}
-							subtitle={subtitle}
-							tagline={tagline}
-							classes={{
-								container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
-								title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
-								subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted dark:text-slate-400',
-							}}
-						/>
+            {items && items.length > 0 && layout === 'cards' && (
+              <div class="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
+                {items.map((item, index) => (
+                  <Slideup client:visible delay={getDelay(index)}>
+                    <div class="bg-slate-50 dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-all hover:-translate-y-1">
+                      {item.image && (
+                        <div class="h-32 bg-gray-300 dark:bg-gray-700">
+                          <Image
+                            class="w-full h-full object-cover"
+                            width={300}
+                            height={150}
+                            {...item.image}
+                          />
+                        </div>
+                      )}
+                      <div class="p-5">
+                        <div class="flex items-center mb-3">
+                          {item.icon && (
+                            <span class={`${item.icon} h-5 w-5 text-primary mr-2`}></span>
+                          )}
+                          <h3 class="text-lg font-medium leading-6 dark:text-white">{item.title}</h3>
+                        </div>
+                        {item.description && <p class="text-muted dark:text-slate-400">{item.description}</p>}
+                        {item.callToAction && (
+                          <div class="mt-4">
+                            <a href={item.callToAction?.href} class="inline-flex items-center text-primary font-medium hover:underline">
+                              {item.callToAction?.text}
+                              <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                              </svg>
+                            </a>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </Slideup>
+                ))}
+              </div>
+            )}
 
-						<div class="md:mx-auto text-center">
-							<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
-								<div class="md:basis-1/2 self-center">
-									{content && (
-										<p class="text-xl" set:html={content}/>
-									)}
+            {items && items.length > 0 && layout === 'grid' && (
+              <div class="mt-10">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-10">
+                  {items.map((item, index) => (
+                    <FadeIn client:visible delay={getDelay(index)}>
+                      <div class="flex">
+                        {item.icon && (
+                          <div class="flex-shrink-0 mr-4">
+                            <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary-100 dark:bg-primary-900 text-primary-600 dark:text-primary-300">
+                              <span class={`${item.icon} h-6 w-6`}></span>
+                            </div>
+                          </div>
+                        )}
+                        <div>
+                          <h3 class="text-lg font-medium leading-6 dark:text-white mb-2">{item.title}</h3>
+                          {item.description && <p class="text-muted dark:text-slate-400">{item.description}</p>}
+                        </div>
+                      </div>
+                    </FadeIn>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
 
-									{callToAction && (
-										<Button class="btn" variant="link" {...callToAction}/>
-									)}
-
-									{items && items.length > 0 && (
-
-										<Divide
-											items={items}
-											columns={columns}
-											defaultIcon="tabler:check"
-											classes={{
-												panel: 'max-w-none',
-												title: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
-												description: 'mb-6 text-lg text-muted dark:text-slate-400 rtl:mr-2',
-												icon: 'flex h-7 w-7 items-center justify-center rounded-full bg-primary dark:bg-primary text-gray-50 p-1',
-												action: 'text-lg font-medium leading-6 dark:text-white rtl:mr-2',
-											}}
-										/>
-
-									)}
-
-								</div>
-
-								<div aria-hidden="true" class="mt-60 md:mt-0 md:basis-1/2">
-
-									{image && (
-
-										<div class="relative m-auto max-w-4xl">
-											{typeof image === 'string' ? (
-
-												<Fragment set:html={image}/>
-											) : (
-
-												<Image
-													class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-													width={600}
-													height={407}
-													widths={[400, 768]}
-													sizes="(max-width: 768px), 432px"
-													layout="responsive"
-													{...(image as any)}
-												/>
-
-											)}
-
-										</div>
-
-									)}
-
-								</div>
-
-							</div>
-
-						</div>
-
-					</Wrapper>
-
-			</div>
-
-	</section>
-
-</Slideup>
+          <div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
+            {image && (
+              <Slideup client:visible delay={0.2}>
+                <div class="relative m-auto max-w-4xl">
+                  {typeof image === 'string' ? (
+                    <Fragment set:html={image} />
+                  ) : (
+                    <Image
+                      class="mx-auto w-full rounded-lg shadow-lg hover:shadow-xl transition-all"
+                      width={600}
+                      height={407}
+                      widths={[400, 768]}
+                      sizes="(max-width: 768px), 432px"
+                      layout="responsive"
+                      {...(image as any)}
+                    />
+                  )}
+                </div>
+              </Slideup>
+            )}
+          </div>
+        </div>
+      </div>
+    </Wrapper>
+  </div>
+</section>

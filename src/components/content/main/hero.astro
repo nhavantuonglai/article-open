@@ -17,11 +17,13 @@ function generateUniqueRandomNumbers(count, min, max) {
 	
 	return Array.from(numbers);
 }
+
 const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
 const numbersspring = uniqueNumbers.slice(1, 5);
 const numberssummer = uniqueNumbers.slice(6, 10);
 const numbersautumn = uniqueNumbers.slice(11, 15);
 const numberswinter = uniqueNumbers.slice(16, 20);
+
 const springs = numbersspring.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
