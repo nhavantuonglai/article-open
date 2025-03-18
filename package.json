@@ -1,6 +1,6 @@
 {
 	"name": "@nhavantuonglai/article",
-	"version": "25.2.14",
+	"version": "25.2.17",
 	"description": "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.",
 	"private": true,
 	"type": "module",
@@ -10,6 +10,7 @@
 		"node": "22.x",
 		"npm": "10.x"
 	},
+
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro build",
@@ -19,6 +20,7 @@
 		"typecheck": "tsc --noEmit",
 		"validate": "npm run lint && npm run typecheck"
 	},
+
 	"dependencies": {
 		"@astrojs/react": "4.2.0",
 		"@astrojs/rss": "4.0.11",
@@ -27,21 +29,20 @@
 		"@astrolib/seo": "1.0.0-beta.8",
 		"astro": "5.3.0",
 		"astro-icon": "1.1.5",
-		"axios": "^1.8.1",
 		"framer-motion": "12.4.3",
 		"glob": "11.0.1",
-		"google-auth-library": "^9.15.1",
 		"limax": "4.1.0",
 		"lodash.merge": "4.6.2",
 		"lru-cache": "11.0.2",
 		"rehype-plugin-image-native-lazy-loading": "1.2.0",
-		"unpic": "4.1.2",
-		"ws": "^8.18.1"
+		"unpic": "4.1.2"
 	},
+
 	"peerDependencies": {
 		"react": "18.2.0",
 		"react-dom": "18.2.0"
 	},
+
 	"devDependencies": {
 		"@astrojs/mdx": "4.0.8",
 		"@astrojs/partytown": "2.1.3",
