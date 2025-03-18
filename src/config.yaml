@@ -71,13 +71,3 @@ ui:
         primary: rgb(255 114 94)
         secondary: rgb(255 114 94)
         accent: rgb(255 114 94)
-    dark:
-      fonts: {}
-      colors:
-        default: rgb(248 243 240)
-        heading: rgb(33 39 55)
-        muted: rgb(229 236 246 / 66%)
-        bgPage: rgb(33 39 55)
-        primary: rgb(255 114 94)
-        secondary: rgb(255 114 94)
-        accent: rgb(255 114 94)

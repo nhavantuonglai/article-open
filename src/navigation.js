@@ -11,80 +11,17 @@ export const headerData = {
 
 		{
 			text: 'Viết lách',
-			links: [
-				{
-					text: 'Đọc thêm',
-					href: 'https://nhavantuonglai.com/article',
-				},
-				{
-					text: 'Tuyển tập viết',
-					href: 'https://nhavantuonglai.com/tags/tuyen-tap-viet-van',
-				},
-				{
-					text: 'Kỹ năng viết',
-					href: 'https://nhavantuonglai.com/tags/ky-nang-viet',
-				},
-				{
-					text: 'Nghệ thuật viết',
-					href: 'https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach',
-				},
-				{
-					text: 'Hành trình viết',
-					href: 'https://nhavantuonglai.com/tags/hanh-trinh-viet',
-				},
-			],
+			href: 'https://nhavantuonglai.com/article',
 		},
 
 		{
-			text: 'Xã hội',
-			links: [
-				{
-					text: 'Đọc thêm',
-					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
-				},
-				{
-					text: 'Tâm lý học',
-					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
-				},
-				{
-					text: 'Nhân học',
-					href: 'https://nhavantuonglai.com/tags/nhan-hoc',
-				},
-				{
-					text: 'Triết học',
-					href: 'https://nhavantuonglai.com/tags/triet-hoc',
-				},
-				{
-					text: 'Phật giáo',
-					href: 'https://nhavantuonglai.com/tags/phat-giao',
-				},
-			],
+			text: 'Triết học',
+			href: 'https://nhavantuonglai.com/tags/triet-hoc',
 		},
 
 		{
-			text: 'Thiên văn',
-			links: [
-				{
-					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/tags/vu-tru-hoc',
-				},
-				{
-					text: 'Vật lý thiên văn',
-					href: 'https://nhavantuonglai.com/tags/vat-ly-thien-van',
-				},
-				{
-					text: 'Vật lý lượng tử',
-					href: 'https://nhavantuonglai.com/tags/vat-ly-luong-tu',
-				},
-				{
-					text: 'Vụ nổ lớn',
-					href: 'https://nhavantuonglai.com/tags/vu-no-lon',
-				},
-				{
-					text: 'Sự sống vũ trụ',
-					href: 'https://nhavantuonglai.com/tags/su-song-vu-tru',
-				},
-			],
+			text: 'Thiên văn học',
+			href: 'https://nhavantuonglai.com/tags/vu-tru-hoc',
 		},
 
 		{
