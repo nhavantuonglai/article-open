@@ -112,19 +112,15 @@ To update displayed content, find the corresponding file and folder to adjust. A
 
 The \article-open project is an open version of \article, developed through several stages:
 
-– v25.01 (Current): Comprehensive code improvements, synchronized components, added many data analysis features.
+– v25.04.xx (Current): Second interface overhaul version.
 
-– v24.09: Focus on interactive features to attract and retain users.
+– v24.0x.xx: First interface overhaul version, integrating Astro 5.0, Tailwind, and Vercel.
 
-– v24.04: Switched hosting to Vercel, optimized CMS management and tracking.
+– v23.12.xx: First dynamic website version, integrating Astro and Firebase.
 
-– v24.01: Improved interface and layout, focusing on reader experience.
+– v23.11.xx: Static website version.
 
-– v23.12: First dynamic website version with Astro and Firebase.
-
-– v23.11: Static website with modern interface, hosted on GitHub.
-
-– v23.10: First version, focused on CMS library.
+– v23.10.0x: Initial version, focusing on the CMS library.
 
 ### 📞 Contact & Support
 
@@ -248,19 +244,15 @@ http://localhost:4321/
 
 Dự án \article-open là phiên bản mở của \article, được phát triển qua nhiều giai đoạn:
 
-– v25.01 (Hiện tại): Cải tiến toàn diện về code, đồng bộ các components, bổ sung nhiều tính năng phân tích dữ liệu.
+– v25.04 (Hiện tại): Phiên bản đại tu giao diện lần 2.
 
-– v24.09: Tập trung vào các tính năng tương tác để thu hút và giữ chân người dùng.
+– v24.0x.xx: Phiên bản đại tu giao diện lần 1, kết hợp Astro 5.0, Tailwind và Vercel.
 
-– v24.04: Chuyển đổi hosting sang Vercel, tối ưu quản lý CMS và tracking.
+– v23.12.xx: Phiên bản website động đầu tiên, kết hợp Astro và Firebase.
 
-– v24.01: Cải thiện giao diện và bố cục, focus vào trải nghiệm người đọc.
+– v23.11.xx: Phiên bản website tĩnh.
 
-– v23.12: Phiên bản website động đầu tiên với Astro và Firebase.
-
-– v23.11: Website tĩnh với giao diện hiện đại, hosting trên GitHub.
-
-– v23.10: Phiên bản đầu tiên, tập trung vào thư viện CMS.
+– v23.10.0x: Phiên bản đầu tiên, tập trung vào thư viện CMS.
 
 ### 📞 Liên hệ & Hỗ trợ
 
