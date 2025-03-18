@@ -9,7 +9,7 @@ export interface Props extends Widget {
 	["as"]?: HTMLTag;
 }
 
-const { id, isDark = false, containerClass = "", bg, as = "section" } = Astro.props;
+const { id = false, containerClass = "", bg, as = "section" } = Astro.props;
 
 const WrapperTag = as;
 ---
@@ -18,7 +18,7 @@ const WrapperTag = as;
 
 	<div class="absolute inset-0 pointer-events-none -z-[1]" aria-hidden="true">
 		<slot name="bg">
-			{bg ? <Fragment set:html={bg}/>: <Background isDark={isDark}/>}
+			{bg ? <Fragment set:html={bg}/>}
 		</slot>
 	</div>
 

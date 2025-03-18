@@ -2,10 +2,11 @@
 import { Icon } from 'astro-icon/components';
 import { SITE } from 'nhavantuonglai:config';
 import { getHomePermalink } from '~/utils/permalinks';
-import Openstatus from '~/components/javascript/openstatus.astro'
-import DCMA from '~/components/javascript/dcma.astro'
-import Address from '~/components/javascript/address.astro';
+
+import Openstatus from '~/components/javascript/openstatus.astro';
 import Since from '~/components/javascript/since.astro';
+import DCMA from '~/components/javascript/dcma.astro';
+import Address from '~/components/javascript/address.astro';
 
 interface Link {
 	text?: string;
@@ -24,158 +25,101 @@ export interface Props {
 	secondaryLinks: Array<Link>;
 	socialLinks: Array<Link>;
 	footNote?: string;
-	theme?: string;
 }
 
-const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme = 'light' } = Astro.props;
+const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Astro.props;
 ---
 
-<footer class="relative not-prose">
+<footer class="relative not-prose bg-white border-t border-gray-200">
+	<div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
 
-	<div class:list={[
-		theme === 'dark' ? 'bg-slate-900' : 'bg-white',
-		'border-t border-gray-200 dark:border-slate-800'
-	]}>
+		<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
 
-		<div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
-			<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+			<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+				<div class="grid grid-cols-1 gap-6">
+
+					<DCMA/>
+
+					<Openstatus/>
+
+					<Since/>
+
+				</div>
+			</div>
+
+			<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+				<div class="space-y-6">
+
+					<div>
+
+						<Address/>
+
+						<div class="flex flex-wrap gap-3">
+							{socialLinks.map(({ ariaLabel, href, icon }) => (
+								<a class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center transition-transform hover:scale-110 hover:bg-primary/10" aria-label={ariaLabel} href={href} target="_blank">
+									{icon && <Icon name={icon} class="w-5 h-5 text-primary"/>}
+								</a>
+							))}
+						</div>
+
+					</div>
+
+					{secondaryLinks.length > 0 && (
+						<div class="flex flex-wrap gap-4">
+							{secondaryLinks.map(({ text, href }) => (
+								text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} set:html={text}/>
+							))}
+						</div>
+					)}
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+
+			{links.map(({ title, links }) => (
 
 				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-					<div class="grid grid-cols-1 gap-6">
+					{title && <p class="text-xl font-semibold text-gray-900 mb-4">{title}</p>}
+					<ul class="space-y-2">
+						{links.map(({ text, href, ariaLabel }) => (
 
-						<div>
-							<DCMA/>
-						</div>
-						
-						<div>
-							<Openstatus/>
-						</div>
+							<li>
 
-						<div class="flex items-center mb-4 md:mb-0">
+								<a class="text-sm text-gray-600 hover:text-primary transition-all duration-300" href={href} aria-label={ariaLabel}>
 
-							<Since/>
+									<Fragment set:html={text}/>
 
-							<span class="text-sm text-gray-500 dark:text-slate-400 ml-2">{footNote}</span>
+								</a>
 
-						</div>
+							</li>
 
-					</div>
+						))}
 
-				</div>
-				
-				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
-
-					<h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4">Liên hệ và trao đổi</h3>
-					<div class="space-y-6">
-
-						<div>
-
-							<Address/>
-
-							<div class="flex flex-wrap gap-3">
-
-								{socialLinks && Array.isArray(socialLinks) && socialLinks.map(({ ariaLabel, href, icon }) => (
-
-									<a
-										class="w-10 h-10 rounded-full bg-gray-100 dark:bg-slate-800 flex items-center justify-center transition-transform hover:scale-110 hover:bg-primary/10"
-										aria-label={ariaLabel}
-										href={href}
-										target="_blank"
-									>
-										{icon && <Icon name={icon} class="w-5 h-5 text-primary"/>}
-									</a>
-								))}
-
-							</div>
-
-						</div>
-
-						<div class="flex items-center">
-
-							{secondaryLinks && Array.isArray(secondaryLinks) && secondaryLinks.length > 0 && (
-								<div class="flex flex-wrap gap-4">
-
-									{secondaryLinks.map(({ text, href }) => (
-										text && href && (
-
-											<a
-												class="text-sm text-gray-500 dark:text-slate-400 hover:text-primary dark:hover:text-primary"
-												href={href}
-												set:html={text}
-											/>
-
-										)
-									))}
-
-								</div>
-							)}
-
-						</div>
-
-					</div>
-
+					</ul>
 				</div>
 
-			</div>
+			))}
+
 		</div>
-		
-		<div class="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
-			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
-
-				{links && Array.isArray(links) && links.slice(0).map(({ title, links }) => (
-					<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
-
-						{title && <p class="text-xl font-semibold text-gray-900 dark:text-white mb-4">{title}</p>}
-
-						{links && Array.isArray(links) && (
-							<ul class="space-y-2">
-
-								{links.map(({ text, href, ariaLabel }) => (
-
-									<li>
-
-										<a
-											class="text-sm text-gray-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-all duration-300"
-											href={href}
-											aria-label={ariaLabel}
-										>
-											<Fragment set:html={text}/>
-										</a>
-
-									</li>
-
-								))}
-
-							</ul>
-						)}
-
-					</div>
-				))}
-
-			</div>
-		</div>
-
 	</div>
 
 </footer>
 
 <script>
-
 	document.addEventListener('astro:page-load', () => {
 		const details = document.querySelectorAll('details');
 		details.forEach((detail) => {
-			detail.addEventListener('click', (e) => {
-				if (detail.open) {
-					return;
+			detail.addEventListener('click', () => {
+				if (!detail.open) {
+					details.forEach((otherDetail) => otherDetail !== detail && otherDetail.removeAttribute('open'));
 				}
-				details.forEach((otherDetail) => {
-					if (otherDetail !== detail) {
-						otherDetail.removeAttribute('open');
-					}
-				});
 			});
 		});
 	});
-
 </script>

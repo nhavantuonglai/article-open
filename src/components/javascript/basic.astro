@@ -1,28 +1,10 @@
----
-import { UI } from 'nhavantuonglai:config';
----
-
-<script is:inline define:vars={{ defaultTheme: UI.theme }}>
+<script is:inline>
 
 	if (window.basic_script) {
 		return;
 	}
 
 	window.basic_script = true;
-
-	function applyTheme(theme) {
-		document.documentElement.classList.toggle('dark', theme === 'dark');
-	}
-
-	const initTheme = () => {
-		if ((defaultTheme && defaultTheme.endsWith(':only')) || (!localStorage.theme && defaultTheme !== 'system')) {
-			applyTheme(defaultTheme.replace(':only', ''));
-		} else {
-			const isDarkMode = localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches);
-			applyTheme(isDarkMode ? 'dark' : 'light');
-		}
-	};
-	initTheme();
 
 	const attachEvent = (selector, event, fn) => {
 		const elements = typeof selector === 'string' ? document.querySelectorAll(selector) : selector;
@@ -49,13 +31,15 @@ import { UI } from 'nhavantuonglai:config';
 		const network = elem.getAttribute('data-aw-social-share');
 		const url = encodeURIComponent(elem.getAttribute('data-aw-url'));
 		const text = encodeURIComponent(elem.getAttribute('data-aw-text'));
+
 		const hrefs = {
 			facebook: `https://www.facebook.com/sharer.php?u=${url}`,
 			twitter: `https://twitter.com/intent/tweet?url=${url}&text=${text}`,
 			linkedin: `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${text}`,
 			whatsapp: `https://wa.me/?text=${text}%20${url}`,
-			mail: `mailto:?subject=%22${text}%22&body=${text}%20${url}`
+			mail: `mailto:?subject="${text}"&body=${text}%20${url}`
 		};
+
 		const href = hrefs[network];
 		if (href) {
 			const newLink = document.createElement('a');
@@ -70,30 +54,24 @@ import { UI } from 'nhavantuonglai:config';
 
 	const applyHeaderStylesOnScroll = () => {
 		const header = document.querySelector('#header[data-aw-sticky-header]');
-		if (window.scrollY > 60 && !header.classList.contains('scroll')) {
-			document.getElementById('header').classList.add('scroll');
-		} else if (window.scrollY <= 60 && header.classList.contains('scroll')) {
-			document.getElementById('header').classList.remove('scroll');
-		}
+		if (!header) return;
+
+		const scrollY = window.scrollY;
+		header.classList.toggle('scroll', scrollY > 60);
 	};
 
 	const onLoad = () => {
 		attachEvent('#header nav', 'click', closeMenu);
 		attachEvent('[data-aw-toggle-menu]', 'click', (e, elem) => toggleMenu(elem));
-		attachEvent('[data-aw-toggle-color-scheme]', 'click', () => {
-			if (!defaultTheme.endsWith(':only')) {
-				document.documentElement.classList.toggle('dark');
-				localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-			}
-		});
 		attachEvent('[data-aw-social-share]', 'click', (e, elem) => handleSocialShare(elem));
 
 		let ticking = false;
-		let lastKnownScrollPosition = window.scrollY;
 		window.addEventListener('scroll', () => {
-			lastKnownScrollPosition = window.scrollY;
 			if (!ticking) {
-				window.requestAnimationFrame(() => applyHeaderStylesOnScroll());
+				window.requestAnimationFrame(() => {
+					applyHeaderStylesOnScroll();
+					ticking = false;
+				});
 				ticking = true;
 			}
 		});
@@ -108,7 +86,6 @@ import { UI } from 'nhavantuonglai:config';
 	window.onpageshow = onPageShow;
 
 	document.addEventListener('astro:after-swap', () => {
-		initTheme();
 		onLoad();
 		onPageShow();
 	});

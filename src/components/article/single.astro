@@ -105,7 +105,7 @@ const { Content } = post;
 
 				<div>
 
-					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6 dark:prose-headings:text-primary dark:prose-a:text-accent">
+					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6">
 
 						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
 
@@ -115,7 +115,7 @@ const { Content } = post;
 
 					<PostTags tags={post.tags}/>
 
-					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500 dark:text-slate-600"/>
+					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500"/>
 
 				</div>
 

@@ -12,7 +12,6 @@ interface Props {
 		description: string;
 	}>;
 	id?: string;
-	isDark?: boolean;
 	classes?: Record<string, string>;
 }
 
@@ -22,7 +21,6 @@ const {
 	tagline = '',
 	items = [],
 	id,
-	isDark = false,
 	classes = {},
 	bg = await Astro.slots.render('bg'),
 } = Astro.props;
@@ -34,7 +32,6 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 
 	<Wrapper
 		id={id}
-		isDark={isDark}
 		containerClass={`max-w-7xl mx-auto ${classes?.container ?? ''}`}
 		bg={bg}
 	>
@@ -63,7 +60,7 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 							<h3 class="text-xl">{item.title}</h3>
 
 							<div class="mt-2">
-								<p class="text-xl text-muted dark:text-slate-400">{item.description}</p>
+								<p class="text-xl text-muted">{item.description}</p>
 							</div>
 
 						</div>

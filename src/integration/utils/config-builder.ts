@@ -44,18 +44,6 @@ const defaultConfig = {
 					accent: 'rgb(109 40 217)',
 				},
 			},
-			dark: {
-				fonts: {},
-				colors: {
-					default: 'rgb(229 236 246)',
-					heading: 'rgb(247, 248, 248)',
-					muted: 'rgb(229 236 246 / 66%)',
-					bgPage: 'rgb(3 6 32)',
-					primary: 'rgb(1 97 239)',
-					secondary: 'rgb(1 84 207)',
-					accent: 'rgb(109 40 217)',
-				},
-			},
 		},
 	},
 	analytics: {

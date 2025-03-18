@@ -41,7 +41,7 @@ const truncateDescription = (text, maxWords = 30) => {
 
 					<Image
 						src={image}
-						class="absolute inset-0 object-cover w-full h-full mb-6 rounded-lg shadow-lg bg-gray-400 dark:bg-slate-700"
+						class="absolute inset-0 object-cover w-full h-full mb-6 rounded-lg shadow-lg bg-gray-400 "
 						widths={[400, 900]}
 						width={900}
 						sizes="(max-width: 900px) 400px, 900px"
@@ -80,7 +80,7 @@ const truncateDescription = (text, maxWords = 30) => {
 				<h2 class="max-w-3xl mx-auto">
 
 					{link ? (
-						<a class="hover:text-primary dark:hover:text-secondary transition ease-in duration-200" href={link} target="_blank">
+						<a class="hover:text-primary  transition ease-in duration-200" href={link} target="_blank">
 							{post.title}
 						</a>
 					) : (

@@ -34,7 +34,7 @@ export interface TwitterData {
 
 export interface BaseComponent {
 	id: string;
-	theme: 'light' | 'dark';
+	theme: 'light';
 	className?: string;
 }
 

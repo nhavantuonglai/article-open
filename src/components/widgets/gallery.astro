@@ -53,61 +53,73 @@ const randomwinters = shuffleArray(winters);
 
 			<div class="gallery-row left-to-right">
 				<div class="gallery-track">
+
 					{randomsprings.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 					{randomsprings.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 				</div>
 			</div>
 
 			<div class="gallery-row right-to-left">
 				<div class="gallery-track">
+
 					{randomsummers.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 					{randomsummers.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 				</div>
 			</div>
 
 			<div class="gallery-row left-to-right">
 				<div class="gallery-track">
+
 					{randomautumns.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 					{randomautumns.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 				</div>
 			</div>
 
 			<div class="gallery-row right-to-left">
 				<div class="gallery-track">
+
 					{randomwinters.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 					{randomwinters.map((image) => (
 						<div class="gallery-item">
-							<img src={image.src} alt={image.alt || "Gallery image"} class="rounded-lg" width="300" height="200" />
+							<img src={image.src} alt={image.alt} class="rounded-lg" width="300" height="200" />
 						</div>
 					))}
+
 				</div>
 			</div>
 
@@ -115,8 +127,11 @@ const randomwinters = shuffleArray(winters);
 
 		<div class="overlay-container absolute inset-0 z-10">
 			<div class="flex w-full h-full">
+
 				<div class="w-4/5 h-full blur-gradient"></div>
+
 				<div class="w-1/5 h-full"></div>
+
 			</div>
 		</div>
 

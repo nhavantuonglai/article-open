@@ -47,7 +47,7 @@ const {
 							<textarea
 								id={`${id}-input`}
 								placeholder={placeholder}
-								class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
 								style="resize: none; height: 150px;"
 							></textarea>
 						)}
@@ -56,13 +56,13 @@ const {
 							<textarea
 								id={`${id}-input`}
 								placeholder={placeholder}
-								class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
 								style="resize: none; height: 150px;"
 							></textarea>
 							<textarea
 								id={`${id}-input`}
 								placeholder={placeholder}
-								class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
 								style="resize: none; height: 150px;"
 							></textarea>
 						)}
@@ -83,7 +83,7 @@ const {
 							<textarea
 								id={`${id}-input`}
 								placeholder={placeholder}
-								class="w-full text-justify text-lg dark:text-slate-400 border border-gray-300 p-4 rounded-lg break-words bg-white dark:bg-slate-900"
+								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
 								style="resize: none; height: 150px;"
 							></textarea>
 						)}
@@ -133,20 +133,20 @@ const {
 						)}
 
 						{outputType === 'audio' && (
-							<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
+							<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg">
 								<audio id={`${id}-audio-player`} class="w-full	mb-6" controls>
 									<source id={`${id}-audio-source`} src="" type="audio/mpeg">
 								</audio>
-								<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
+								<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
 							</div>
 						)}
 
 						{outputType === 'video' && (
-							<div id={`${id}-video-output`} class="text-justify mb-6 text-lg dark:text-slate-400">
-								<video id={`${id}-video-player`} class="w-full	mb-6" controls>
+							<div id={`${id}-video-output`} class="text-justify mb-6 text-lg">
+								<video id={`${id}-video-player`} class="w-full mb-6" controls>
 									<source id={`${id}-video-source`} src="" type="video/mp4">
 								</video>
-								<div id={`${id}-status`} class="text-justify mb-6 text-lg dark:text-slate-400"></div>
+								<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
 							</div>
 						)}
 
