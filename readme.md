@@ -76,7 +76,7 @@ gh repo clone nhavantuonglai/article-open
 
 4. After deployment, customize the subdomain or assign a custom domain in the Domain section.
 
-<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### 💻 Local Development Guide
 
@@ -105,6 +105,8 @@ http://localhost:4321/
 ```
 
 To update displayed content, find the corresponding file and folder to adjust. After saving, the interface will automatically update.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### 📜 Development History
 
@@ -206,7 +208,7 @@ gh repo clone nhavantuonglai/article-open
 
 4. Sau khi deploy, tùy chỉnh subdomain hoặc gán domain tùy chỉnh trong mục Domain.
 
-<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### 💻 Hướng dẫn phát triển local
 
@@ -235,6 +237,8 @@ http://localhost:4321/
 ```
 
 Để cập nhật nội dung hiển thị, tìm đúng file và folder tương ứng để điều chỉnh. Sau khi lưu, giao diện sẽ tự động cập nhật.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### 📜 Lịch sử phát triển
 
