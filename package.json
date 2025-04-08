@@ -91,5 +91,22 @@
 		"tailwind-merge": "3.0.1",
 		"tailwindcss": "3.4.17",
 		"typescript": "5.7.3"
-	}
+	},
+	"files": [
+		"src/",
+		".editorconfig",
+		".gitignore",
+		"astro.config.mjs",
+		"code-of-conduct.md",
+		"contributing.md",
+		"license",
+		"netlify.toml",
+		"package-lock.json",
+		"package.json",
+		"readme.md",
+		"security.md",
+		"tailwind.config.cjs",
+		"tsconfig.json",
+		"vercel.json"
+	]
 }
