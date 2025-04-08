@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Phatnguoi from '~/components/content/analytics/phat-nguoi.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ kiểm tra phạt nguội trực tuyến',
+	description: 'Công cụ kiểm tra phạt nguội giúp các chủ xe máy, ô tô nhanh chóng biết được lỗi vi phạm giao thông của mình để có thể tiến hành nộp phạt kịp thời.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Phatnguoi/>
+
+	<Action/>
+
+</Layout>

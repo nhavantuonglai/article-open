@@ -1,0 +1,112 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="ocr"
+	title="Công cụ chuyển đổi hình ảnh chứa văn bản trực tuyến"
+	description="Hướng dẫn: Chọn, tải lên tệp hình ảnh hoặc pdf, công cụ sẽ sử dụng AI để quét văn bản nhanh chóng và miễn phí."
+
+	inputType="file"
+	outputType="text"
+
+	placeholder="Vui lòng nhập tệp cần chuyển đổi hình ảnh chứa văn bản trực tuyến ở đây."
+	debounceTime={1000}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const taxCodeInput = document.getElementById('ocr-input');
+		const resultOutput = document.getElementById('ocr-text-output');
+		const audioPlayerContainer = document.getElementById('audioPlayerContainer');
+		const audioPlayer = document.getElementById('audioPlayer');
+		const downloadLink = document.getElementById('downloadLink');
+		const apiKey = "000x000";
+		let debounceTimeout;
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const taxCodeInput = document.getElementById('ocr-input');
+		const resultOutput = document.getElementById('ocr-text-output');
+		let debounceTimeout;
+		
+		analytics.addEventListener('fileChange', async (event) => {
+			const file = event.detail;
+			if (!file) return;
+			
+			const validTypes = ['image/jpeg', 'image/png', 'application/pdf'];
+			if (!validTypes.includes(file.type)) {
+				analytics.setError('Định dạng tệp không hỗ trợ.');
+				return;
+			}
+			analytics.clearOutput();
+		});
+		
+		analytics.addEventListener('submit', async (event) => {
+			clearTimeout(debounceTimeout);
+			debounceTimeout = setTimeout(async () => {
+				const { file } = event.detail;
+				
+				if (!file) {
+					analytics.setError('Vui lòng chọn tệp.');
+					return;
+				}
+				
+				try {
+					analytics.setProcessing(true);
+					const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`;
+					const requestBody = {
+						contents: [
+							{
+								parts: [
+									{ text: 'Phân tích nội dung từ hình ảnh hoặc PDF.' }
+								]
+							}
+						]
+					};
+					
+					const response = await fetch(apiUrl, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json',
+						},
+						body: JSON.stringify(requestBody)
+					});
+					
+					const data = await response.json();
+					if (!response.ok) {
+						throw new Error('Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.');
+					}
+					
+					if (data.candidates && data.candidates[0]?.content?.parts?.[0]?.text) {
+						const extractedText = data.candidates[0].content.parts[0].text;
+						analytics.setOutput(extractedText);
+						analytics.setSuccess(true);
+					} else {
+						analytics.setOutput('Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.');
+					}
+				} catch (error) {
+					analytics.setError('Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.');
+				} finally {
+					analytics.setProcessing(false);
+				}
+			}, 500);
+		});
+		
+		analytics.addEventListener('copy', () => {
+			const outputText = analytics.getOutput();
+			if (!outputText) return;
+			
+			navigator.clipboard.writeText(outputText)
+				.then(() => {
+					analytics.showCopySuccess();
+				})
+				.catch(() => {
+					analytics.setError('Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.');
+				});
+		});
+	});
+
+</script>

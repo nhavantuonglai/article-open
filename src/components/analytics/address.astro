@@ -1,0 +1,71 @@
+---
+import type { CallToAction } from '~/types';
+import Button from '~/components/ui/button.astro';
+export interface Props {
+	subtitle?: string;
+	tagline?: string;
+	content?: string;
+}
+const {
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	content = await Astro.slots.render('content'),
+} = Astro.props;
+---
+<div class="absolute inset-0 z-20 flex items-center">
+
+	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
+		<div class="lg:flex lg:items-center lg:gap-8">
+
+			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
+
+				{tagline && (
+					<p class="text-base text-secondary font-bold tracking-wide uppercase" set:html={tagline} />
+				)}
+
+				<h1 id="ip-address-only" class="text-white">Thông tin địa chỉ IP của tôi là?</h1>
+
+				<div class="max-w-3xl mx-auto lg:max-w-none">
+					<p id="ip-details" class="text-xl text-white text-justify mb-6">Thông tin địa chỉ IP chi tiết của tôi là?</p>
+				</div>
+
+				{content && <Fragment set:html={content} />}
+
+			</div>
+
+			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto"></div>
+
+		</div>
+	</div>
+
+</div>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', async () => {
+		const ipAddressOutput = document.getElementById('ip-address-only');
+		const ipDetailsOutput = document.getElementById('ip-details');
+
+		if (ipAddressOutput && ipDetailsOutput) {
+			ipAddressOutput.textContent = "Đang tìm kiếm địa chỉ IP.";
+			ipDetailsOutput.textContent = "Đang tải thông tin chi tiết.";
+
+			try {
+				const response = await fetch("https://ipinfo.io/json?token=87aa8f284fb4f6");
+				const data = await response.json();
+
+				ipAddressOutput.textContent = `Địa chỉ IP là: ${data.ip || 'Không xác định'}.`;
+
+				const detailsInfo = `Vị trí: ${data.region || 'Không xác định'}, ${data.country || 'Không xác định'}. Tọa độ: ${data.loc ? `${data.loc}` : 'Không xác định'}.`;
+
+				ipDetailsOutput.textContent = detailsInfo;
+
+			} catch (error) {
+				console.error("Lỗi khi tìm kiếm địa chỉ IP của tôi:", error);
+				ipAddressOutput.textContent = "Lỗi khi tìm kiếm địa chỉ IP của tôi.";
+				ipDetailsOutput.textContent = "Vui lòng thử lại sau.";
+			}
+		}
+	});
+
+</script>

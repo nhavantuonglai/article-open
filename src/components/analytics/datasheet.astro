@@ -1,0 +1,81 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="datasheet"
+	title="Công cụ kiểm tra dữ liệu trực tuyến"
+	description="Hướng dẫn: Sao chép và dán dữ liệu cần tra cứu ngữ nghĩa, công cụ sẽ trả về thông tin đúng và đủ về nội dung cần tìm."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập dữ liệu cần tra cứu ở đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const textInput = document.getElementById('datasheet-input');
+		const resultOutput = document.getElementById('datasheet-text-output');
+		const progressBar = document.getElementById('progressBar');
+		let debounceTimeout;
+
+		textInput.addEventListener('input', () => {
+			const queryText = textInput.value.trim();
+			clearTimeout(debounceTimeout);
+
+			if (!queryText) {
+				resultOutput.textContent = 'Vui lòng nhập từ khóa.';
+				progressBar.style.width = '0%';
+				progressBar.style.display = 'none';
+				return;
+			}
+
+			debounceTimeout = setTimeout(async () => {
+				resultOutput.textContent = 'Đang tra cứu…';
+				progressBar.style.width = '10%';
+				progressBar.style.display = 'block';
+
+				try {
+					const response = await fetch('https://docs.google.com/spreadsheets/d/1JWe3AwvQHyrUWWE4D9KCRWXnTrLbAp73');
+					if (!response.ok) {
+						throw new Error('Không thể truy cập dữ liệu.');
+					}
+
+					const csvText = await response.text();
+					progressBar.style.width = '50%';
+
+					const rows = csvText.split('\n').map(row => row.split(','));
+					const headers = rows[0];
+					const resultRow = rows.find(row => row.includes(queryText));
+
+					if (resultRow) {
+						const resultData = headers.map((header, index) => `<strong>${header}:</strong> ${resultRow[index]}`).join('<br>');
+						setTimeout(() => {
+							resultOutput.innerHTML = resultData;
+						}, 1000);
+					} else {
+						resultOutput.textContent = 'Không tìm thấy dữ liệu phù hợp.';
+					}
+				} catch (error) {
+					resultOutput.textContent = 'Có lỗi xảy ra khi tra cứu dữ liệu.';
+					console.error(error);
+				}
+
+				setTimeout(() => {
+					progressBar.style.width = '100%';
+				}, 1000);
+
+				setTimeout(() => {
+					progressBar.style.display = 'none';
+				}, 1500);
+
+			}, 500);
+		});
+	});
+
+</script>

@@ -1,0 +1,51 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="normalize"
+	title="Công cụ chuẩn hóa dữ liệu thô"
+	description="Hướng dẫn: Sao chép và dán văn bản cần chuẩn hóa dữ liệu thô, công cụ sẽ trả về kết quả tương ứng."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập văn bản cần chuẩn hóa dữ liệu thô ở đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const textInput = document.getElementById('normalize-input');
+		const resultOutput = document.getElementById('normalize-text-output');
+		let debounceTimeout;
+
+		function convertToSlug(text) {
+			return text
+				.toLowerCase()
+				.trim()
+				.normalize('NFD')
+				.replace(/[\u0300-\u036f]/g, '')
+				.replace(/[^\w\s-]/g, '')
+				.replace(/\s+/g, '-')
+				.replace(/-+/g, '-');
+		}
+
+		textInput.addEventListener('input', () => {
+			const inputText = textInput.value;
+			clearTimeout(debounceTimeout);
+			
+			debounceTimeout = setTimeout(() => {
+				if (!inputText.trim()) {
+					resultOutput.textContent = 'Hãy nhập văn bản để chuyển đổi.';
+					return;
+				}
+				resultOutput.textContent = convertToSlug(inputText);
+			}, 500);
+		});
+	});
+
+</script>

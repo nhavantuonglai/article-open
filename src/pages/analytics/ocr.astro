@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import OCR from '~/components/content/analytics/ocr.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ chuyển đổi hình ảnh chứa văn bản trực tuyến',
+	description: 'Công cụ chuyển đổi hình ảnh chứa văn bản trực tuyến OCR  giúp chuyển đổi hình ảnh chứa văn bản thành văn bản kỹ thuật số có thể chỉnh sửa.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<OCR/>
+
+	<Action/>
+
+</Layout>

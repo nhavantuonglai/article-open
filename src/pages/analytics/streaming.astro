@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Streaming from '~/components/content/analytics/streaming.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ phát nhạc chất lượng cao',
+	description: 'Khám phá công cụ phát video chất lượng cao trực tuyến với âm thanh tiêu chuẩn CD, mang đến trải nghiệm âm nhạc đỉnh cao mọi lúc, mọi nơi.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Streaming/>
+
+	<Action/>
+
+</Layout>

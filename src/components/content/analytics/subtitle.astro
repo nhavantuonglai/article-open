@@ -1,0 +1,235 @@
+---
+import Gallery from '~/components/widgets/gallery.astro';
+import Maintenance from '~/components/analytics/maintenance.astro';
+
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+function getRandomInt(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+function formatNumber(num) {
+	return num.toString().padStart(3, '0');
+	}
+
+function generateUniqueRandomNumbers(count, min, max) {
+	const numbers = new Set();
+
+	while (numbers.size < count) {
+		numbers.add(getRandomInt(min, max));
+	}
+
+	return Array.from(numbers);
+	}
+
+const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
+const numbersspring = uniqueNumbers.slice(1, 5);
+const numberssummer = uniqueNumbers.slice(6, 10);
+const numbersautumn = uniqueNumbers.slice(11, 15);
+const numberswinter = uniqueNumbers.slice(16, 20);
+
+const springs = numbersspring.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const summers = numberssummer.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const autumns = numbersautumn.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const winters = numberswinter.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+---
+
+<Gallery
+
+	springs={springs}
+	summers={summers}
+	autumns={autumns}
+	winters={winters}
+
+>
+
+	<Maintenance
+		subtitle="Website hiện tại đang trong quá trình chuyển đổi, cập nhật giao diện. Nên công cụ này tạm thời không hoạt động, vui lòng quay lại sau."
+	/>
+
+</Gallery>
+
+<CTA
+
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/streaming',
+	}}
+
+
+	items={[
+		{
+		title: 'Tiết kiệm thời gian',
+		description:
+			'Công cụ dịch phụ đề AI trực tuyến giúp tiết kiệm thời gian so với dịch thủ công truyền thống. Người sử dụng có thể hoàn thành việc chuyển ngữ nhanh chóng chỉ trong vài phút.',
+		},
+		{
+		title: 'Đảm bảo tính chính xác',
+		description:
+			'Với sự hỗ trợ của các thuật toán AI như Gemini API, công cụ này có khả năng hiểu và xử lý ngôn ngữ tự nhiên để mang lại kết quả đầy chính xác.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-231.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+	<Fragment slot="content">
+		Dịch phụ đề AI trực tuyến là quá trình chuyển ngôn ngữ trong các phụ đề video từ tiếng Anh sang tiếng Việt thông qua trí tuệ nhân tạo (AI).
+	</Fragment>
+
+</CTA>
+
+<CTA
+
+	title="Giới thiệu về công cụ dịch phụ đề AI trực tuyến"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Công cụ dịch phụ đề AI trực tuyến là gì?',
+		description:
+			'Dịch phụ đề AI trực tuyến là quá trình chuyển đổi ngôn ngữ của phụ đề trong các video hoặc phim từ ngôn ngữ nguồn sang ngôn ngữ mục tiêu mà không cần tải về phần mềm. Đây là giải pháp hiện đại và hiệu quả cho các doanh nghiệp, nhà sản xuất nội dung, hay cá nhân tư nhân. Gemini API cung cấp các công cụ chuyên biệt sử dụng AI để hỗ trợ quá trình này. Công nghệ AI độc quyền của Gemini API không chỉ tăng tính chính xác mà còn giúp tiết kiệm đáng kể thời gian dành cho việc dịch thủ công.',
+		},
+		{
+		title: 'Tại sao cần đến công cụ dịch phụ đề AI trực tuyến?',
+		description:
+			'GCông cụ dịch phụ đề AI trực tuyến mang lại nhiều lợi ích vượt trội. Đầu tiên, nó hỗ trợ doanh nghiệp tiếp cận khán giả quốc tế, mở rộng thị trường và tăng cường sự hiện diện thương hiệu. Thứ hai, nó giúp các nhà sáng tạo nội dung giảm thiểu thời gian và chi phí so với việc dịch thuật thủ công. Đặc biệt, với sự hỗ trợ từ Gemini API, các công cụ này còn có khả năng học hỏi và tối ưu hóa dịch thuật theo ngữ cảnh, mang đến bản dịch tự nhiên và chính xác hơn. Trong bối cảnh công nghệ phát triển không ngừng, việc sử dụng các công cụ dịch vụ phụ đề tích hợp AI như Gemini API không chỉ là lựa chọn mà còn là yếu tố quyết định sự thành công của các sản phẩm truyền thông toàn cầu.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-232.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Tính năng nổi bật của công cụ dịch phụ đề AI trực tuyến"
+
+	items={[
+		{
+		title: 'Tính năng tự động dịch thuật theo ngữ cảnh',
+		description:
+			'Một trong những điểm mạnh nổi bật của công cụ dịch phụ đề AI trực tuyến tích hợp Gemini API là khả năng tự động dịch thuật theo ngữ cảnh. Khác với các phương pháp dịch thuật truyền thống, AI có thể phân tích ngữ nghĩa và ngữ cảnh của từng câu nói trong video. Nhờ đó, các bản dịch không chỉ chính xác về mặt từ ngữ mà còn phù hợp với tình huống và sắc thái văn hóa của ngôn ngữ đích. Khả năng này đặc biệt hữu ích trong các bộ phim, video quảng cáo, hoặc nội dung mang tính sáng tạo cao, nơi mà sự chính xác và tự nhiên của ngôn ngữ là yếu tố then chốt. Gemini API không chỉ đảm bảo độ mượt mà trong câu chữ mà còn giúp các nội dung giữ nguyên giá trị gốc, không làm mất đi ý nghĩa ban đầu. Ngoài ra, với sự hỗ trợ của AI, công cụ còn có thể xử lý các ngôn ngữ hiếm hoặc ít phổ biến, mở rộng phạm vi tiếp cận khán giả toàn cầu một cách đáng kể. Đây là lợi thế lớn đối với các doanh nghiệp muốn vươn ra thị trường quốc tế.',
+		},
+		{
+		title: 'Khả năng đồng bộ và chỉnh sửa thời gian thực',
+		description:
+			'Bên cạnh tính năng dịch thuật, công cụ dịch phụ đề AI trực tuyến còn cho phép người dùng đồng bộ và chỉnh sửa phụ đề trong thời gian thực. Với giao diện thân thiện và trực quan, người dùng có thể dễ dàng điều chỉnh thời gian hiển thị phụ đề sao cho khớp với video một cách hoàn hảo. Gemini API cung cấp các thuật toán thông minh, giúp tự động phát hiện điểm bắt đầu và kết thúc của câu thoại. Điều này giúp tiết kiệm đáng kể thời gian và công sức khi xử lý phụ đề, đặc biệt là đối với các video dài hoặc có nội dung phức tạp. Không chỉ vậy, tính năng này còn hỗ trợ làm việc nhóm, cho phép nhiều người cùng tham gia chỉnh sửa và kiểm tra chất lượng phụ đề trên cùng một nền tảng. Đây là yếu tố quan trọng giúp tăng hiệu suất làm việc và đảm bảo chất lượng đầu ra.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-233.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Lợi ích và ứng dụng thực tế của công cụ dịch phụ đề AI trực tuyến"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Lợi ích của công cụ dịch phụ đề AI trực tuyến',
+		description:
+			'Sử dụng công cụ dịch phụ đề AI trực tuyến giúp tiết kiệm đáng kể thời gian so với việc dịch thuật thủ công. Nhờ vào khả năng xử lý tự động của Gemini API, các bản dịch được hoàn thành chỉ trong vài phút, thay vì hàng giờ hoặc thậm chí hàng ngày. Điều này đặc biệt quan trọng đối với các dự án có thời hạn gấp hoặc yêu cầu xử lý lượng lớn nội dung. Bên cạnh đó, chi phí cũng được giảm thiểu đáng kể. Các công cụ này loại bỏ nhu cầu thuê đội ngũ dịch thuật lớn, đồng thời giảm thiểu các sai sót do con người gây ra. Đây là lựa chọn tối ưu cho các doanh nghiệp muốn tối đa hóa lợi ích kinh tế mà vẫn đảm bảo chất lượng.',
+		},
+		{
+		title: 'Tăng cường khả năng tiếp cận nội dung',
+		description:
+			'Với khả năng hỗ trợ đa ngôn ngữ, công cụ dịch phụ đề AI trực tuyến giúp các nội dung video tiếp cận được với đối tượng khán giả đa dạng hơn. Điều này không chỉ nâng cao trải nghiệm người xem mà còn mở rộng phạm vi tiếp cận của các sản phẩm truyền thông, từ đó tăng cường giá trị thương hiệu. Không chỉ vậy, công cụ còn hỗ trợ dịch thuật các ngôn ngữ hiếm, giúp các tổ chức và cá nhân kết nối với cộng đồng quốc tế một cách hiệu quả hơn. Đây là bước tiến lớn trong việc thúc đẩy giao lưu văn hóa và hợp tác toàn cầu.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-234.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Đánh giá trải nghiệm công cụ dịch phụ đề AI trực tuyến"
+
+	items={[
+		{
+		title: 'Phản hồi từ người dùng',
+		description:
+			'Hầu hết người dùng đều đánh giá cao tính tiện lợi và hiệu quả của công cụ dịch phụ đề AI trực tuyến. Với giao diện dễ sử dụng và các tính năng tự động hóa thông minh, công cụ này không chỉ phù hợp với các chuyên gia mà còn rất thân thiện với người dùng không chuyên. Người dùng cũng đánh giá cao khả năng tùy chỉnh của công cụ, từ việc chỉnh sửa nội dung đến đồng bộ thời gian. Điều này giúp họ kiểm soát hoàn toàn quá trình xử lý phụ đề, mang lại sự hài lòng tối đa.',
+		},
+		{
+		title: 'Phù hợp với nhiều đối tượng người dùng',
+		description:
+			'Với sự phát triển không ngừng của công nghệ AI và các nền tảng như Gemini API, công cụ dịch phụ đề AI trực tuyến hứa hẹn sẽ tiếp tục cải tiến và mở rộng. Các tính năng như dịch thuật cảm xúc, nhận diện giọng nói nâng cao, hoặc tích hợp trực tiếp vào các nền tảng video trực tuyến là những hướng đi tiềm năng trong tương lai. Ngoài ra, với nhu cầu ngày càng tăng về nội dung đa ngôn ngữ, công cụ này sẽ ngày càng được ứng dụng rộng rãi trong nhiều lĩnh vực, từ giáo dục, giải trí, đến thương mại điện tử. Đây chính là cơ hội lớn cho các doanh nghiệp và nhà phát triển công nghệ nắm bắt và đầu tư.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-235.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng công cụ dịch phụ đề AI trực tuyến xuất hiện giá trị, chỉ cần chọn bài hát, hệ thống sẽ tự động kết nối và phát kênh ngay lập tức.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ dịch phụ đề AI trực tuyến không giới hạn số lần sử dụng, nhưng nếu lưu lượng dữ liệu quá lớn, quá trình truyền tải thông tin có thể chậm lại.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu dịch phụ đề AI trực tuyến',
+		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

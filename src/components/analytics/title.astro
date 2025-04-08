@@ -1,0 +1,51 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="title"
+	title="Công cụ trích xuất tiêu đề từ liên kết"
+	description="Hướng dẫn: Sao chép và dán liên kết cần trích xuất tiêu đề, công cụ sẽ trả về tiêu đề tương ứng nhanh chóng và miễn phí."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập liên kết cần trích xuất tiêu đề ở đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const urlInput = document.getElementById('title-input');
+		const resultOutput = document.getElementById('title-text-output');
+		let debounceTimeout;
+
+		urlInput.addEventListener('input', () => {
+			const inputUrl = urlInput.value.trim();
+			clearTimeout(debounceTimeout);
+			
+			debounceTimeout = setTimeout(async () => {
+				if (!inputUrl) {
+					resultOutput.textContent = 'Hãy nhập URL bài viết.';
+					return;
+				}
+
+				try {
+					const response = await fetch(inputUrl);
+					const html = await response.text();
+					const parser = new DOMParser();
+					const doc = parser.parseFromString(html, 'text/html');
+					const title = doc.querySelector('title')?.textContent || 'Không tìm thấy tiêu đề';
+					
+					resultOutput.textContent = title.trim();
+				} catch (error) {
+					resultOutput.textContent = 'Có lỗi xảy ra khi truy cập URL. Vui lòng kiểm tra lại đường dẫn.';
+				}
+			}, 500);
+		});
+	});
+
+</script>

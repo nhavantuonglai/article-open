@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Sotaikhoan from '~/components/content/analytics/so-tai-khoan.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ kiểm tra số tài khoản trực tuyến',
+	description: 'Công cụ kiểm tra số tài khoản trực tuyến giúp bạn nhanh chóng biết thông tin người nhận, chuyển tiền giúp minh bạch thông tin tài chính hiệu quả hơn.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Sotaikhoan/>
+
+	<Action/>
+
+</Layout>

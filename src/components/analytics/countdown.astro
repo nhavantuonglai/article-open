@@ -1,0 +1,91 @@
+---
+import type { CallToAction } from '~/types';
+import Button from '~/components/ui/button.astro';
+
+export interface Props {
+	subtitle?: string;
+	tagline?: string;
+	content?: string;
+}
+
+const {
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	content = await Astro.slots.render('content'),
+} = Astro.props;
+---
+
+<div class="absolute inset-0 z-20 flex items-center">
+
+	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
+
+		<div class="lg:flex lg:items-center lg:gap-8">
+
+			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
+
+				{tagline && (
+					<p class="text-base text-secondary  font-bold tracking-wide uppercase" set:html={tagline} />
+				)}
+
+				<h1 id="countdown-text-output" class="text-white">Còn bao nhiêu ngày nữa đến Tết 2026?</h1>
+
+				<div class="max-w-3xl mx-auto lg:max-w-none">
+					{subtitle && (
+						<p class="text-xl text-white text-justify mb-6" set:html={subtitle} />
+					)}
+
+				</div>
+
+				{content && <Fragment set:html={content} />}
+
+			</div>
+
+			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto"></div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const resultOutput = document.getElementById('countdown-text-output');
+		
+		function padNumber(num) {
+			return num < 10 ? `0${num}` : num;
+		}
+		function updateCountdown() {
+			const now = new Date();
+			const newYear = new Date(2026, 0, 1, 0, 0, 0);
+			const diff = newYear - now;
+			if (diff < 0) {
+				resultOutput.textContent = "Chúc mừng năm mới!";
+				return;
+			}
+			const totalSeconds = Math.floor(diff / 1000);
+			const totalMinutes = Math.floor(totalSeconds / 60);
+			const totalHours = Math.floor(totalMinutes / 60);
+			const totalDays = Math.floor(totalHours / 24);
+			const years = Math.floor(totalDays / 365);
+			const months = Math.floor((totalDays % 365) / 30);
+			const days = totalDays % 30;
+			const hours = totalHours % 24;
+			const minutes = totalMinutes % 60;
+			const seconds = totalSeconds % 60;
+			let result = "Còn ";
+			if (years > 0) result += `${padNumber(years)} năm `;
+			if (months > 0) result += `${padNumber(months)} tháng `;
+			if (days > 0) result += `${padNumber(days)} ngày `;
+			if (hours > 0) result += `${padNumber(hours)} giờ `;
+			if (minutes > 0) result += `${padNumber(minutes)} phút `;
+			if (seconds > 0) result += `${padNumber(seconds)} giây `,
+			result += "nữa là đến Tết 2026.";
+			resultOutput.textContent = result;
+		}
+		updateCountdown();
+		setInterval(updateCountdown, 1000);
+	});
+
+</script>

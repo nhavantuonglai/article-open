@@ -1,0 +1,235 @@
+---
+import Gallery from '~/components/widgets/gallery.astro';
+import Maintenance from '~/components/analytics/maintenance.astro';
+
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+function getRandomInt(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+function formatNumber(num) {
+	return num.toString().padStart(3, '0');
+	}
+
+function generateUniqueRandomNumbers(count, min, max) {
+	const numbers = new Set();
+
+	while (numbers.size < count) {
+		numbers.add(getRandomInt(min, max));
+	}
+
+	return Array.from(numbers);
+	}
+
+const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
+const numbersspring = uniqueNumbers.slice(1, 5);
+const numberssummer = uniqueNumbers.slice(6, 10);
+const numbersautumn = uniqueNumbers.slice(11, 15);
+const numberswinter = uniqueNumbers.slice(16, 20);
+
+const springs = numbersspring.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const summers = numberssummer.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const autumns = numbersautumn.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const winters = numberswinter.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+---
+
+<Gallery
+
+	springs={springs}
+	summers={summers}
+	autumns={autumns}
+	winters={winters}
+
+>
+
+	<Maintenance
+		subtitle="Website hiện tại đang trong quá trình chuyển đổi, cập nhật giao diện. Nên công cụ này tạm thời không hoạt động, vui lòng quay lại sau."
+	/>
+
+</Gallery>
+
+<CTA
+
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/streaming',
+	}}
+
+
+	items={[
+		{
+		title: 'Tận dụng nội dung sáng tạo linh hoạt',
+		description:
+			'Giúp bạn dễ dàng chỉnh sửa, sử dụng video để tạo nội dung mới mà không bị ảnh hưởng bởi logo TikTok.',
+		},
+		{
+		title: 'Hỗ trợ tiếp thị và truyền thông hiệu quả',
+		description:
+			'Doanh nghiệp có thể tái sử dụng video để quảng bá trên nhiều nền tảng mà không bị phân tán thương hiệu.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-371.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+	<Fragment slot="content">
+		Khám phá công cụ tải video TikTok không logo với khả năng tải video TikTok không logo, giúp bạn tải về video với chất lượng cao mà không có watermark.
+	</Fragment>
+
+</CTA>
+
+<CTA
+
+	title="Giới thiệu về công cụ tải video TikTok không logo"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Công cụ tải video TikTok không logo là gì?',
+		description:
+			'Công cụ tải video TikTok không logo là giải pháp trực tuyến được phát triển nhằm đáp ứng nhu cầu ngày càng tăng của người dùng trong việc tải và sử dụng nội dung từ nền tảng TikTok. Với khả năng loại bỏ watermark và hình mờ một cách hiệu quả, công cụ này mang đến cho người dùng khả năng tận dụng tối đa các video TikTok trong nhiều mục đích khác nhau. Hai lợi ích thiết thực nổi bật của công cụ này là khả năng tải video với chất lượng nguyên bản và tính tiện dụng cao trong việc tái sử dụng nội dung cho các nền tảng mạng xã hội khác.',
+		},
+		{
+		title: 'Tại sao cần đến công cụ tải video TikTok không logo?',
+		description:
+			'Công cụ tải video TikTok không logo là một nền tảng trực tuyến được thiết kế đặc biệt để giúp người dùng có thể tải xuống các video từ TikTok mà không có watermark hay logo của nền tảng. Đây là giải pháp quan trọng đối với các nhà sáng tạo nội dung, marketer và người dùng thông thường trong việc tối ưu hóa việc sử dụng nội dung video. Tầm quan trọng của công cụ này thể hiện qua việc nó giúp người dùng có thể tự do sáng tạo và chia sẻ nội dung một cách chuyên nghiệp hơn, đồng thời đảm bảo tính thẩm mỹ cho các sản phẩm truyền thông. Trong bối cảnh mạng xã hội phát triển mạnh mẽ như hiện nay, video TikTok không logo đóng vai trò quan trọng trong chiến lược truyền thông đa nền tảng. Công cụ này giúp người dùng có thể dễ dàng chuyển đổi nội dung giữa các nền tảng khác nhau, tạo ra các chiến dịch marketing tích hợp hiệu quả. Đặc biệt, đối với các doanh nghiệp và nhà sáng tạo nội dung, việc có thể sử dụng video không logo giúp họ xây dựng thương hiệu một cách chuyên nghiệp và nhất quán trên nhiều kênh truyền thông.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-372.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Tính năng nổi bật của công cụ tải video TikTok không logo"
+
+	items={[
+		{
+		title: 'Khả năng tải video chất lượng cao',
+		description:
+			'Một trong những tính năng chuyên sâu đáng chú ý của công cụ tải video TikTok không logo là khả năng duy trì chất lượng video nguyên bản. Công cụ này sử dụng các thuật toán tiên tiến để đảm bảo quá trình tải xuống không làm giảm chất lượng video. Người dùng có thể lựa chọn nhiều định dạng video khác nhau, từ HD cho đến Full HD, tùy thuộc vào nhu cầu sử dụng. Đặc biệt, công cụ còn hỗ trợ việc tối ưu hóa kích thước file mà không ảnh hưởng đến chất lượng hình ảnh, giúp tiết kiệm không gian lưu trữ và thời gian tải xuống.',
+		},
+		{
+		title: 'Hệ thống xử lý thông minh',
+		description:
+			'Tính năng chuyên sâu thứ hai là hệ thống xử lý thông minh, cho phép người dùng tùy chỉnh các thông số của video theo ý muốn. Công cụ tải video TikTok không logo được trang bị các tính năng như điều chỉnh tỷ lệ khung hình, cắt ghép video, và thậm chí là khả năng chuyển đổi định dạng video cho phù hợp với nhiều nền tảng khác nhau. Hệ thống này còn tích hợp công nghệ AI để tự động nhận diện và loại bỏ watermark một cách thông minh, đảm bảo không làm ảnh hưởng đến nội dung gốc của video.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-373.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Lợi ích và ứng dụng thực tế của công cụ tải video TikTok không logo"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Lợi ích của công cụ tải video TikTok không logo',
+		description:
+			'Công cụ tải video TikTok không logo mang lại nhiều lợi ích thiết thực trong lĩnh vực marketing. Đầu tiên, nó giúp các marketer có thể dễ dàng tái sử dụng nội dung TikTok trên các nền tảng khác như Instagram, Facebook hay YouTube mà không bị giới hạn bởi logo TikTok. Điều này tạo ra sự chuyên nghiệp và nhất quán trong chiến dịch marketing đa kênh. Ngoài ra, khả năng tải video chất lượng cao giúp doanh nghiệp có thể sử dụng các video này trong các chiến dịch quảng cáo, presentation hay website công ty một cách hiệu quả.',
+		},
+		{
+		title: 'Ứng dụng công cụ tải video TikTok không logo trong sáng tạo nội dung',
+		description:
+			'Trong lĩnh vực sáng tạo nội dung, công cụ này đóng vai trò quan trọng trong việc xây dựng thư viện nội dung đa dạng. Các content creator có thể dễ dàng lưu trữ và phân loại các video TikTok không logo để phục vụ cho việc nghiên cứu xu hướng, học hỏi ý tưởng mới, hay thậm chí là tạo ra các nội dung derivative work một cách hợp pháp. Đặc biệt, đối với các nhà sáng tạo nội dung chuyên nghiệp, khả năng tải video không logo giúp họ duy trì tính chuyên nghiệp và độc đáo trong các sản phẩm của mình.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-374.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Đánh giá trải nghiệm công cụ tải video TikTok không logo"
+
+	items={[
+		{
+		title: 'Phản hồi từ người dùng công cụ lâu năm',
+		description:
+			'Theo đánh giá từ cộng đồng người dùng, công cụ tải video TikTok không logo nhận được nhiều phản hồi tích cực về tính tiện dụng và hiệu quả. Người dùng đặc biệt đánh giá cao khả năng duy trì chất lượng video sau khi tải xuống, cũng như tính ổn định của hệ thống. Nhiều người dùng chuyên nghiệp cho rằng công cụ này đã giúp họ tiết kiệm đáng kể thời gian và công sức trong quá trình sản xuất nội dung, đồng thời nâng cao chất lượng sản phẩm cuối cùng của họ.',
+		},
+		{
+		title: 'Phù hợp với nhiều đối tượng người dùng',
+		description:
+			'Trong tương lai, công cụ tải video TikTok không logo được dự đoán sẽ còn phát triển mạnh mẽ hơn nữa với nhiều tính năng mới. Xu hướng sử dụng video ngắn trong marketing và truyền thông ngày càng phổ biến sẽ thúc đẩy nhu cầu sử dụng công cụ này. Các nhà phát triển đang không ngừng cải tiến công nghệ để đáp ứng những yêu cầu ngày càng cao của người dùng, từ việc tối ưu hóa tốc độ xử lý cho đến việc tích hợp thêm các tính năng chỉnh sửa video nâng cao.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-375.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng công cụ tải video TikTok không logo, chỉ cần nhập liên kết video, hệ thống sẽ tự động kết nối và xử lý dữ liệu ngay lập tức.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ tải video TikTok không logo không giới hạn số lần sử dụng, nhưng nếu lưu lượng dữ liệu quá lớn, quá trình truyền tải thông tin có thể chậm lại.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu đếm tần suất văn bản',
+		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

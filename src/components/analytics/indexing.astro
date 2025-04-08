@@ -1,0 +1,142 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="indexing"
+	title="Công cụ API lập chỉ mục Goole Search"
+	description="Nhập URL cần gửi tới Google Index API"
+
+	inputType="compare-file"
+	outputType="text"
+
+	debounceTime={1000}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const serviceAccountInput = document.querySelector('[indexnow-input="service-account"]');
+		const urlInput = document.querySelector('[indexnow-input="url"]');
+		const outputElement = document.querySelector('[indexnow-text-output]');
+		let debounceTimeout;
+
+		serviceAccountInput.addEventListener('change', (event) => {
+			const file = event.target.files[0];
+			if (!file) {
+				outputElement.textContent = 'Vui lòng chọn file.';
+				return;
+			}
+			
+			if (file.type !== 'application/json') {
+				outputElement.textContent = 'Định dạng file không hỗ trợ.';
+				return;
+			}
+			
+			if (file.size > 1024 * 1024) {
+				outputElement.textContent = 'Kích thước file quá lớn.';
+				return;
+			}
+
+			outputElement.textContent = 'Đã chọn file xác thực.';
+		});
+
+		urlInput.addEventListener('input', () => {
+			clearTimeout(debounceTimeout);
+			
+			debounceTimeout = setTimeout(() => {
+				const url = urlInput.value.trim();
+				if (!url) {
+					outputElement.textContent = 'Hãy nhập URL.';
+					return;
+				}
+				
+				if (!serviceAccountInput.files || !serviceAccountInput.files[0]) {
+					outputElement.textContent = 'Vui lòng chọn file xác thực.';
+					return;
+				}
+				
+				processIndexingRequest(serviceAccountInput.files[0], url);
+			}, 1000);
+		});
+
+		async function processIndexingRequest(serviceAccountFile, url) {
+			outputElement.textContent = 'Đang xử lý...';
+			
+			try {
+				const fileContent = await readFileAsText(serviceAccountFile);
+				let serviceAccountInfo;
+				
+				try {
+					serviceAccountInfo = JSON.parse(fileContent);
+				} catch (parseError) {
+					outputElement.textContent = 'File xác thực không hợp lệ.';
+					return;
+				}
+				
+				if (!validateServiceAccount(serviceAccountInfo)) {
+					outputElement.textContent = 'Thông tin xác thực không đầy đủ.';
+					return;
+				}
+				
+				await submitToGoogleIndexAPI(url, serviceAccountInfo);
+			} catch (error) {
+				outputElement.textContent = 'Dịch vụ tạm thời không khả dụng.';
+			}
+		}
+
+		function readFileAsText(file) {
+			return new Promise((resolve, reject) => {
+				const reader = new FileReader();
+				reader.onload = (event) => resolve(event.target.result);
+				reader.onerror = (error) => reject(error);
+				reader.readAsText(file);
+			});
+		}
+
+		function validateServiceAccount(serviceAccount) {
+			return (
+				serviceAccount &&
+				serviceAccount.type === 'service_account' &&
+				serviceAccount.project_id &&
+				serviceAccount.private_key_id &&
+				serviceAccount.private_key
+			);
+		}
+
+		async function submitToGoogleIndexAPI(url, serviceAccountInfo) {
+			const requestBody = {
+				url: url,
+				type: "URL_UPDATED"
+			};
+
+			try {
+				const response = await fetch('/api/google-indexing', {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json'
+					},
+					body: JSON.stringify({
+						serviceAccount: serviceAccountInfo,
+						urlData: requestBody
+					})
+				});
+
+				if (response.status === 200) {
+					outputElement.textContent = 'Gửi URL thành công.';
+				} else if (response.status === 401 || response.status === 403) {
+					outputElement.textContent = 'Lỗi xác thực.';
+				} else if (response.status === 429) {
+					outputElement.textContent = 'Dịch vụ tạm thời gián đoạn, do vượt quá hạn mức khả dụng.';
+				} else {
+					outputElement.textContent = 'Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.';
+				}
+			} catch (error) {
+				outputElement.textContent = 'Dịch vụ tạm thời gián đoạn, vui lòng thử lại sau.';
+			}
+		}
+	});
+
+</script>

@@ -1,0 +1,41 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="lowercase"
+	title="Công cụ chuyển đổi chữ hoa thành chữ thường"
+	description="Hướng dẫn: Sao chép và dán văn bản cần chuyển đổi, công cụ sẽ trả về kết quả văn bản chữ thường tương ứng."
+
+	inputType="text"
+	outputType="text"
+
+	placeholder="Vui lòng nhập văn bản chữ thường cần chuyển đổi ở đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const textInput = document.getElementById('lowercase-input');
+		const resultOutput = document.getElementById('lowercase-text-output');
+		let debounceTimeout;
+
+		textInput.addEventListener('input', () => {
+			const inputText = textInput.value.trim();
+			clearTimeout(debounceTimeout);
+
+			debounceTimeout = setTimeout(() => {
+				if (!inputText) {
+					resultOutput.textContent = 'Hãy nhập văn bản để chuyển đổi.';
+					return;
+				}
+
+				resultOutput.textContent = inputText.toLowerCase();
+			}, 500);
+		});
+	});
+
+</script>

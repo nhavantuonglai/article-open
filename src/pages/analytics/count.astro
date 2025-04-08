@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Count from '~/components/content/analytics/count.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ đếm tần suất văn bản',
+	description: 'Công cụ đếm tần suất văn bản giúp làm sạch và lọc văn bản, đảm bảo dữ liệu trở nên dễ sử dụng, tối ưu hóa hiệu quả công việc và phân tích.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Count/>
+
+	<Action/>
+
+</Layout>

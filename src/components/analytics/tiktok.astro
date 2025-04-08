@@ -1,0 +1,64 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="tiktok"
+	title="Công cụ tải TikTok không logo, hình mờ trực tuyến"
+	description="Nhập url video TikTok và nhận video không logo, hình mờ."
+
+	inputType="text"
+	outputType="file"
+
+	placeholder="Nhập url video TikTok tại đây."
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const plateNumberInput = document.getElementById('tiktok-input');
+		const resultOutput = document.getElementById('tiktok-output');
+		const videoUrl = input ? input.value.trim() : '';
+		let debounceTimeout;
+
+
+		if (!videoUrl) {
+			alert('Vui lòng nhập URL video TikTok.');
+			return;
+		}
+
+		const apiUrl = `https://tiktok-download-without-watermark.p.rapidapi.com/analysis?url=${encodeURIComponent(videoUrl)}&hd=0`;
+		const options = {
+			method: 'GET',
+			headers: {
+				'x-rapidapi-key': '2c07bec7c1msh0e50bac2d88eaa9p12658ejsn41d4a7d01b08',
+				'x-rapidapi-host': 'tiktok-download-without-watermark.p.rapidapi.com'
+			}
+		};
+
+		try {
+			const response = await fetch(apiUrl, options);
+			const result = await response.json();
+
+			if (result && result.video && result.video.no_watermark) {
+				const videoLink = result.video.no_watermark;
+				
+				const videoElement = document.getElementById('video-preview');
+				videoElement.src = videoLink;
+				videoElement.style.display = 'block';
+
+				const downloadBtn = document.getElementById('download-btn');
+				downloadBtn.innerHTML = `<a href="${videoLink}" download class="btn">Tải video</a>`;
+			} else {
+				alert('Không thể lấy video, vui lòng thử lại.');
+			}
+		} catch (error) {
+			console.error('Lỗi:', error);
+			alert('Đã xảy ra lỗi khi tải video.');
+		}
+	});
+
+</script>

@@ -1,0 +1,50 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+---
+
+<Analytics
+
+	id="text-compare"
+	title="Công cụ so sánh văn bản"
+	description="Hướng dẫn: Nhập hai văn bản cần so sánh vào hai ô bên dưới, công cụ sẽ hiển thị sự khác biệt giữa chúng."
+
+	inputType="compare-text"
+	outputType="text"
+
+	placeholder="Nhập văn bản cần so sánh vào đây."
+	debounceTime={500}
+
+>
+
+<script client:load>
+
+	function compareTexts(text1, text2) {
+		let result = '';
+		let i = 0;
+		
+		while (i < text1.length || i < text2.length) {
+		if (text1[i] === text2[i]) {
+			result += text1[i] || '';
+		} else {
+			result += `<strong>${text2[i] || ''}</strong>`;
+		}
+		i++;
+		}
+		return result;
+	}
+
+	const input1 = document.querySelector('#text-compare-input1');
+	const input2 = document.querySelector('#text-compare-input2');
+	const outputElement = document.querySelector('#text-compare-output');
+
+	function updateComparison() {
+		const text1 = input1.value;
+		const text2 = input2.value;
+		const comparisonResult = compareTexts(text1, text2);
+		outputElement.innerHTML = comparisonResult;
+	}
+
+	input1.addEventListener('input', updateComparison);
+	input2.addEventListener('input', updateComparison);
+
+</script>

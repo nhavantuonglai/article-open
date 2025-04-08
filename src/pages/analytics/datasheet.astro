@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Datasheet from '~/components/content/analytics/datasheet.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ đối chiếu dữ liệu trực tuyến',
+	description: 'Công cụ đối chiếu dữ liệu là giải pháp hữu hiệu giúp tra cứu thông tin dựa trên nguồn cấp dữ liệu sẵn có, hữu hiệu để đối chiếu và đánh giá dữ liệu.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Datasheet/>
+
+	<Action/>
+
+</Layout>

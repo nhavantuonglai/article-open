@@ -1,0 +1,281 @@
+---
+import type { CallToAction } from '~/types';
+
+import Gallery from '~/components/widgets/gallery.astro';
+import Snake from '~/components/analytics/snake.astro';
+
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+function getRandomInt(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+function formatNumber(num) {
+	return num.toString().padStart(3, '0');
+	}
+
+function generateUniqueRandomNumbers(count, min, max) {
+	const numbers = new Set();
+	
+	while (numbers.size < count) {
+		numbers.add(getRandomInt(min, max));
+	}
+	
+	return Array.from(numbers);
+	}
+
+const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
+const numbersspring = uniqueNumbers.slice(1, 5);
+const numberssummer = uniqueNumbers.slice(6, 10);
+const numbersautumn = uniqueNumbers.slice(11, 15);
+const numberswinter = uniqueNumbers.slice(16, 20);
+
+const springs = numbersspring.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	alt: `Trò chơi Rắn săn mồi ${num}.`
+	}));
+
+const summers = numberssummer.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	alt: `Trò chơi Rắn săn mồi ${num}.`
+	}));
+
+const autumns = numbersautumn.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	alt: `Trò chơi Rắn săn mồi ${num}.`
+	}));
+
+const winters = numberswinter.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	alt: `Trò chơi Rắn săn mồi ${num}.`
+	}));
+
+export interface Props {
+	subtitle?: string;
+	tagline?: string;
+	content?: string;
+}
+
+const {
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	content = await Astro.slots.render('content'),
+} = Astro.props;
+---
+
+<Snake/>
+
+<Gallery
+
+	springs={springs}
+	summers={summers}
+	autumns={autumns}
+	winters={winters}
+
+>
+
+
+	<div class="absolute inset-0 z-20 flex items-center">
+
+		<div class="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
+
+			<div class="lg:flex lg:items-center lg:gap-8">
+
+				<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
+
+					{tagline && (
+						<p class="text-base text-secondary font-bold tracking-wide uppercase" set:html={tagline} />
+					)}
+
+					<h1 id="time-text-output" class="text-white">Trò chơi rắn săn mồi.</h1>
+
+					<div class="max-w-3xl mx-auto lg:max-w-none">
+						<p class="text-xl text-white text-justify mb-6">Trò chơi Rắn Săn Mồi – một hành trình giải trí hấp dẫn dành cho mọi lứa tuổi. Với cấu trúc đơn giản nhưng cuốn hút, bạn sẽ điều khiển một chú rắn thông minh đi săn mồi, phát triển dài hơn sau mỗi lần ăn.</p>
+					</div>
+
+					{content && <Fragment set:html={content} />}
+
+				</div>
+
+				<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</Gallery>
+
+<CTA
+
+	callToAction={{
+		text: 'Chơi Rắn săn mồi ngay',
+		href: 'https://nhavantuonglai.com/analytics/snake',
+	}}
+
+
+	items={[
+		{
+		title: 'Rèn luyện tư duy chiến thuật',
+		description:
+			'Mỗi quyết định di chuyển đều đòi hỏi người chơi tính toán kỹ lưỡng, nhằm tránh va chạm với chướng ngại vật hoặc chính cơ thể của rắn. Khả năng nhìn xa trông rộng, dự đoán tình huống và đưa ra quyết định nhanh chóng sẽ được rèn luyện một cách tự nhiên.',
+		},
+		{
+		title: 'Giảm căng thẳng hiệu quả',
+		description:
+			'Nhịp điệu chậm rãi nhưng cuốn hút của trò chơi giúp người chơi tập trung vào khoảnh khắc hiện tại, tạm quên đi những lo âu trong cuộc sống. Các nghiên cứu đã chỉ ra rằng những trò chơi nhẹ nhàng như Rắn Săn Mồi có thể kích thích não bộ sản sinh endorphin – hormone hạnh phúc, từ đó cải thiện tâm trạng và giảm mức độ stress hiệu quả sau những giờ làm việc căng thẳng.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-610.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+	<Fragment slot="content">
+		Trò chơi Rắn Săn Mồi – một hành trình giải trí hấp dẫn dành cho mọi lứa tuổi. Với cấu trúc đơn giản nhưng cuốn hút, bạn sẽ điều khiển một chú rắn thông minh đi săn mồi, phát triển dài hơn sau mỗi lần ăn. Được thiết kế với giao diện thân thiện, trò chơi mang đến nhiều tính năng đặc sắc như chế độ tự chơi, đấu với đối thủ và hệ thống hạt mồi xuất hiện ngẫu nhiên. Sự kết hợp hoàn hảo giữa thách thức và giải trí đã biến Rắn Săn Mồi trở thành lựa chọn hàng đầu cho những phút giây thư giãn.
+	</Fragment>
+
+</CTA>
+
+<CTA
+
+	title="Giới thiệu về Trò chơi Rắn săn mồi"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Nguồn gốc lịch sử trò chơi Rắn săn mồi',
+		description:
+			'Rắn Săn Mồi – trò chơi điện tử huyền thoại đã trải qua hành trình phát triển đáng kinh ngạc kể từ khi ra đời vào những năm 1970. Ban đầu xuất hiện dưới dạng trò chơi arcade đơn giản với tên gọi Blockade, sau đó được phổ biến rộng rãi trên các thiết bị di động Nokia vào cuối những năm 1990 với tên gọi Snake. Phiên bản nguyên bản chỉ bao gồm một con rắn đơn sắc di chuyển trên màn hình đơn giản, thu thập các điểm sáng để phát triển. Trải qua nhiều thập kỷ, trò chơi đã được cải tiến với đồ họa sắc nét, cơ chế chơi phong phú và nhiều tính năng mới mẻ. Ngày nay, Rắn Săn Mồi vẫn giữ nguyên tinh thần cốt lõi nhưng đã được nâng cấp toàn diện để phù hợp với công nghệ hiện đại, trở thành biểu tượng văn hóa đại chúng và khẳng định vị thế là một trong những trò chơi điện tử kinh điển được yêu thích nhất mọi thời đại.',
+		},
+		{
+		title: 'Quy tắc chơi cơ bản của Trò chơi Rắn săn mồi',
+		description:
+			'Rắn Săn Mồi sở hữu bộ quy tắc đơn giản nhưng đầy thách thức, phù hợp với mọi đối tượng người chơi từ người mới bắt đầu đến những game thủ kỳ cựu. Mục tiêu chính của trò chơi là điều khiển một con rắn di chuyển trong khu vực giới hạn để thu thập các hạt mồi xuất hiện ngẫu nhiên trên màn hình. Mỗi khi ăn được mồi, con rắn sẽ dài thêm một đoạn, điểm số tăng lên, và tốc độ di chuyển cũng có thể tăng theo cấp độ. Thách thức lớn nhất nằm ở việc tránh va chạm với chướng ngại vật, rào chắn xung quanh khu vực chơi, hoặc chính cơ thể của con rắn. Nếu xảy ra va chạm, trò chơi kết thúc. Người chơi có thể điều khiển hướng di chuyển của rắn bằng các phím mũi tên hoặc nút cảm ứng, tuy nhiên con rắn sẽ liên tục di chuyển về phía trước và không thể dừng lại. Điều này đòi hỏi sự tập trung cao độ và khả năng đưa ra quyết định nhanh chóng, đặc biệt khi con rắn trở nên dài hơn và tốc độ chơi tăng lên.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-442.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Tính năng nổi bật của Trò chơi Rắn săn mồi"
+
+	items={[
+		{
+		title: 'Đa dạng chế độ chơi Rắn săn mồi',
+		description:
+			'Trò chơi Rắn Săn Mồi mang đến trải nghiệm giải trí đa dạng với nhiều chế độ chơi độc đáo, đáp ứng sở thích của mọi đối tượng người chơi. Chế độ Cổ điển tái hiện trọn vẹn phiên bản gốc với lối chơi đơn giản nhưng đầy thách thức, thích hợp cho những người yêu thích cảm giác hoài niệm. Chế độ Thách đấu mang đến không khí căng thẳng khi bạn phải đối đầu với AI thông minh hoặc bạn bè trong cùng một khu vực chơi, nơi sự nhanh nhẹn và chiến thuật hợp lý sẽ quyết định người chiến thắng. Đặc biệt, chế độ Phiêu lưu với hệ thống bản đồ đa dạng, chướng ngại vật thay đổi và nhiệm vụ bổ sung sẽ mang đến trải nghiệm mới mẻ mỗi ngày. Ngoài ra, tính năng tự động chơi thông minh giúp người dùng có thể nghỉ ngơi và quan sát AI điều khiển con rắn săn mồi một cách thuần thục, trở thành nguồn cảm hứng để người chơi học hỏi chiến thuật mới.',
+		},
+		{
+		title: 'Tùy chỉnh nhân vật thân thiện',
+		description:
+			'Hệ thống tùy chỉnh nhân vật trong Rắn Săn Mồi mở ra không gian sáng tạo vô tận cho người chơi thể hiện cá tính riêng. Với bộ sưu tập phong phú gồm hơn 50 kiểu đầu rắn độc đáo, từ cổ điển đến hiện đại, từ đáng yêu đến huyền bí, mỗi người chơi đều có thể tìm thấy phong cách phù hợp. Không chỉ dừng lại ở đó, trò chơi còn cho phép tùy chỉnh màu sắc thân rắn với bảng màu đa dạng, thậm chí hỗ trợ tạo hiệu ứng gradient tinh tế hoặc họa tiết đặc biệt. Đặc biệt, hệ thống hạt mồi cũng có thể được thay đổi thành nhiều hình dạng thú vị như táo, kẹo, pizza hoặc các biểu tượng vui nhộn. Người chơi có thể mở khóa các tùy chỉnh mới thông qua thành tích đạt được hoặc tham gia các sự kiện đặc biệt trong trò chơi. Tính năng này không chỉ làm tăng tính giải trí mà còn tạo động lực cho người chơi tiếp tục chinh phục những thách thức mới.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-611.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Tính năng của Trò chơi Rắn săn mồi"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Bảng xếp hạng toàn cầu',
+		description:
+			'Bảng xếp hạng toàn cầu trong Rắn Săn Mồi là đấu trường đẳng cấp dành cho những game thủ đam mê cạnh tranh và khẳng định bản thân. Hệ thống theo dõi và cập nhật thành tích của người chơi trên toàn thế giới theo thời gian thực, tạo nên không khí thi đấu sôi động không ngừng. Người chơi có thể theo dõi vị trí của mình trên nhiều danh mục khác nhau như điểm số cao nhất, thời gian sống sót lâu nhất, số lượng mồi thu thập được, hay thậm chí là tốc độ hoàn thành các thử thách đặc biệt. Đặc biệt, tính năng lọc bảng xếp hạng theo khu vực địa lý hoặc nhóm bạn bè cho phép người chơi dễ dàng so sánh thành tích với những đối thủ gần gũi nhất. Mỗi tuần, hệ thống sẽ tổ chức các giải đấu mini với phần thưởng hấp dẫn dành cho những người dẫn đầu, tạo động lực cho cộng đồng liên tục trau dồi kỹ năng và chinh phục những kỷ lục mới.',
+		},
+		{
+		title: 'Trải nghiệm đa nền tảng',
+		description:
+			'Trò chơi Rắn Săn Mồi mang đến trải nghiệm đa nền tảng vượt trội, đảm bảo niềm vui giải trí không bị gián đoạn dù bạn đang ở đâu hay sử dụng thiết bị nào. Được tối ưu hóa hoàn hảo trên mọi hệ điều hành phổ biến bao gồm iOS, Android, Windows, macOS và thậm chí là các trình duyệt web, người chơi có thể thưởng thức trò chơi mọi lúc mọi nơi mà không gặp bất kỳ rào cản kỹ thuật nào. Đặc biệt, công nghệ đồng bộ hóa dữ liệu thông minh giúp lưu trữ tiến trình chơi, thành tích và tùy chỉnh cá nhân trên đám mây, cho phép người chơi liền mạch chuyển đổi giữa các thiết bị mà không mất dữ liệu. Giao diện người dùng thích ứng tự động điều chỉnh theo kích thước màn hình và phương thức điều khiển tối ưu cho từng thiết bị, từ cảm ứng trên điện thoại đến bàn phím trên máy tính. Hơn nữa, tính năng chơi ngoại tuyến cho phép người dùng tận hưởng trò chơi ngay cả khi không có kết nối internet, với dữ liệu sẽ được tự động đồng bộ khi kết nối trở lại.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-526.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Đánh giá trải nghiệm Trò chơi Rắn săn mồi"
+
+	items={[
+		{
+		title: 'Ý kiến từ chuyên gia lập trình ứng dụng trò chơi',
+		description:
+			'Rắn Săn Mồi đã nhận được sự đánh giá cao từ các chuyên gia trong ngành công nghiệp game với những lời khen ngợi về sự kết hợp hoàn hảo giữa tính đơn giản và chiều sâu chiến thuật. Theo GameDev Journal, Đây là minh chứng rõ ràng cho triết lý thiết kế dễ học khó thành thạo, nơi người chơi có thể nắm bắt cơ chế trong vài giây nhưng phải mất hàng giờ để hoàn toàn làm chủ. Tạp chí Mobile Gaming Awards đánh giá: Phiên bản hiện đại của Rắn Săn Mồi đã thành công trong việc giữ nguyên tinh thần cốt lõi của trò chơi kinh điển đồng thời bổ sung những tính năng mới mẻ phù hợp với kỳ vọng của người chơi đương đại. Đặc biệt, nhiều nhà phân tích trò chơi đã chỉ ra rằng Rắn Săn Mồi là ví dụ điển hình về thiết kế trò chơi bền vững, nơi cơ chế chơi đơn giản có thể tạo ra trải nghiệm sâu sắc và lâu dài khi được xây dựng một cách thông minh và cân bằng. Những đánh giá tích cực từ giới chuyên môn đã góp phần khẳng định vị thế của Rắn Săn Mồi như một tượng đài trong lịch sử phát triển trò chơi điện tử.',
+		},
+		{
+		title: 'Phản hồi từ cộng đồng game thủ khi nói về trò chơi Rắn săn mồi',
+		description:
+			'Cộng đồng người chơi trên toàn thế giới đã dành cho Rắn Săn Mồi những lời nhận xét tích cực ngập tràn, phản ánh sức hút bền bỉ của trò chơi qua nhiều thế hệ. Trên các nền tảng đánh giá ứng dụng, trò chơi duy trì điểm số ấn tượng 4.8/5 sao với hơn một triệu lượt đánh giá. Nhiều người chơi chia sẻ cảm xúc hoài niệm khi được trải nghiệm lại trò chơi gắn liền với tuổi thơ nhưng với diện mạo hiện đại hơn. Một người dùng tên Mai Anh viết: Đây là trò chơi đầu tiên tôi chơi trên chiếc Nokia 3310 của bố, và giờ đây tôi vẫn mê mẩn với phiên bản mới trên smartphone! Bên cạnh đó, nhiều game thủ mới cũng bày tỏ sự hào hứng với lối chơi đơn giản nhưng gây nghiện. Bình luận của người dùng Minh Tuấn: Ban đầu tôi tải về chỉ để giết thời gian, nhưng giờ tôi không thể ngừng nâng cao kỷ lục của mình. Chế độ đấu với bạn bè là điểm cộng tuyệt vời! Phản hồi từ cộng đồng không chỉ là lời khen ngợi mà còn là nguồn động lực quý giá cho đội ngũ phát triển tiếp tục cải tiến và mở rộng trò chơi trong tương lai.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-022.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<Question
+
+	title="Thắc mắc thường gặp khi chơi trò Rắn săn mồi"
+
+	items={[
+
+		{
+		title: 'Làm thế nào để đạt điểm số cao trong Rắn Săn Mồi?',
+		description: 'Để đạt điểm số cao trong Rắn Săn Mồi, chiến thuật quan trọng nhất là tối ưu hóa đường đi. Hãy di chuyển theo mô hình xoắn ốc, bám sát viền màn hình và tránh tạo những đường đi hẹp có thể khiến bạn bị kẹt. Ưu tiên thu thập mồi ở không gian rộng rãi và luôn lập kế hoạch trước 3 – 4 bước đi. Luyện tập phản xạ nhanh và không hoảng loạn khi rắn dài ra là chìa khóa để phá vỡ kỷ lục cá nhân.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Làm cách nào để mở khóa tất cả các tùy chỉnh nhân vật?',
+		description: `Để mở khóa toàn bộ tùy chỉnh nhân vật trong Rắn Săn Mồi, bạn có thể theo đuổi nhiều phương pháp khác nhau. Cách phổ biến nhất là tích lũy điểm thưởng qua mỗi lần chơi – điểm càng cao, phần thưởng càng lớn. Hoàn thành các thử thách hàng ngày và nhiệm vụ đặc biệt cũng sẽ mang lại chìa khóa mở khóa các nhân vật độc quyền. Đừng quên tham gia các sự kiện theo mùa, nơi bạn có cơ hội nhận được những phiên bản giới hạn không thể tìm thấy trong cửa hàng thông thường.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Tại sao trò chơi Rắn Săn Mồi lại phổ biến đến vậy?',
+		description: 'Sự phổ biến vượt thời gian của Rắn Săn Mồi bắt nguồn từ triết lý thiết kế dễ học, khó thành thạo hoàn hảo. Quy tắc đơn giản cho phép bất kỳ ai cũng có thể bắt đầu chơi ngay mà không cần hướng dẫn phức tạp, nhưng độ khó tăng dần tạo động lực liên tục cải thiện kỹ năng. Yếu tố hoài niệm cũng đóng vai trò quan trọng, khi nhiều người trưởng thành tìm lại niềm vui tuổi thơ. Hơn nữa, thời lượng chơi linh hoạt phù hợp với nhịp sống hiện đại, cho phép người dùng tận hưởng trò chơi trong những khoảng thời gian ngắn.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Làm thế nào để chơi Rắn Săn Mồi với bạn bè?',
+		description: 'Để chơi Rắn Săn Mồi cùng bạn bè, bạn có nhiều lựa chọn thú vị. Đầu tiên, chế độ Đối đầu trực tiếp cho phép hai người chơi trên cùng một thiết bị, mỗi người điều khiển một con rắn trên màn hình chia đôi. Nếu muốn kết nối từ xa, hãy sử dụng tính năng Phòng thi đấu trực tuyến – nơi bạn có thể tạo phòng riêng và mời bạn bè tham gia qua mã phòng hoặc liên kết trực tiếp. Đặc biệt, chế độ Giải đấu mini cho phép tối đa 8 người cùng tham gia, với nhiều vòng đấu hấp dẫn để xác định người chiến thắng cuối cùng.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

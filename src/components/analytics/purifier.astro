@@ -1,0 +1,219 @@
+---
+import Analytics from '~/components/widgets/analytics.astro';
+
+interface Stats {
+	original: number;
+	purified: number;
+	rules: {
+		original: number;
+		purified: number;
+	};
+}
+
+class CSSPurifier {
+	private parseCSS(css: string): string[] {
+		const rules: string[] = [];
+		let current = '';
+		let depth = 0;
+		let inComment = false;
+		let inString = false;
+		let stringChar = '';
+
+		for (let i = 0; i < css.length; i++) {
+			const char = css[i];
+			const nextChar = css[i + 1];
+
+			if (char === '/' && nextChar === '*' && !inString) {
+				inComment = true;
+				i++;
+				continue;
+			}
+			if (char === '*' && nextChar === '/' && inComment) {
+				inComment = false;
+				i++;
+				continue;
+			}
+			if (inComment) continue;
+
+			if ((char === '"' || char === "'") && !inString) {
+				inString = true;
+				stringChar = char;
+			} else if (char === stringChar && inString) {
+				inString = false;
+			}
+
+			current += char;
+
+			if (char === '{' && !inString) {
+				depth++;
+			} else if (char === '}' && !inString) {
+				depth--;
+				if (depth === 0) {
+					rules.push(current.trim());
+					current = '';
+				}
+			}
+		}
+
+		return rules;
+	}
+
+	private processSelectors(rule: string): string[] {
+		const selectorPart = rule.split('{')[0];
+		return selectorPart
+			.split(',')
+			.map(selector => selector
+				.trim()
+				.replace(/\s+/g, ' ')
+				.replace(/\\[0-9a-f]{1,6}(\r\n|\s)?/gi, '')
+				.replace(/\\/g, '')
+			)
+			.filter(Boolean);
+	}
+
+	private isSelectorUsed(selector: string, html: string): boolean {
+		try {
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(html, 'text/html');
+
+			const basicSelector = selector
+				.replace(/::[a-zA-Z-]+/g, '')
+				.replace(/:[a-zA-Z-]+/g, '')
+				.replace(/\[@?[a-zA-Z-]+[*$\^]?=/g, '[');
+
+			if (
+				selector.includes('@') ||
+				selector.includes('%') ||
+				selector.includes('from') ||
+				selector.includes('to') ||
+				/^\d+%$/.test(selector.trim())
+			) {
+				return true;
+			}
+
+			if (basicSelector.includes('[')) {
+				const elements = doc.querySelectorAll('*');
+				const attrMatch = basicSelector.match(/\[(.*?)\]/);
+				if (attrMatch) {
+					const attrSelector = attrMatch[1];
+					return Array.from(elements).some(el => {
+						const attrs = Array.from(el.attributes);
+						return attrs.some(attr => attrSelector.includes(attr.name));
+					});
+				}
+			}
+
+			return doc.querySelectorAll(basicSelector).length > 0;
+		} catch {
+			return true;
+		}
+	}
+
+	public purifyCSS(html: string, css: string): { result: string; stats: Stats } {
+		if (!html || !css) return { 
+			result: '', 
+			stats: { original: 0, purified: 0, rules: { original: 0, purified: 0 } } 
+		};
+
+		const rules = this.parseCSS(css);
+		const originalRuleCount = rules.length;
+		const purifiedRules: string[] = [];
+
+		rules.forEach(rule => {
+			if (rule.startsWith('@')) {
+				if (
+					rule.startsWith('@keyframes') ||
+					rule.startsWith('@media') ||
+					rule.startsWith('@supports')
+				) {
+					purifiedRules.push(rule);
+					return;
+				}
+			}
+
+			const selectors = this.processSelectors(rule);
+			const hasUsedSelectors = selectors.some(selector => 
+				this.isSelectorUsed(selector, html)
+			);
+
+			if (hasUsedSelectors) {
+				purifiedRules.push(rule);
+			}
+		});
+
+		const result = purifiedRules.join('\n\n');
+		
+		const stats = {
+			original: css.length,
+			purified: result.length,
+			rules: {
+				original: originalRuleCount,
+				purified: purifiedRules.length
+			}
+		};
+
+		return { result, stats };
+	}
+}
+
+const purifier = new CSSPurifier();
+---
+
+<Analytics
+
+	id="purifier"
+	title="Công cụ tối ưu CSS trực tuyến"
+	description="Hướng dẫn: Sao chép và dán đoạn mã HTML và CSS cần tối ưu CSS, công cụ sẽ tự động loại bỏ các CSS không sử dụng."
+
+	inputType="compare-text"
+	outputType="text"
+
+	placeholder="Nhập code vào đây"
+	debounceTime={500}
+
+/>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const htmlInput = document.querySelector('[purifier-input="html"]') as HTMLTextAreaElement;
+		const cssInput = document.querySelector('[purifier-input="css"]') as HTMLTextAreaElement;
+		const outputElement = document.querySelector('[purifier-text-output]') as HTMLTextAreaElement;
+		let debounceTimeout;
+
+	let statsElement: HTMLDivElement | null = null;
+
+	function updateStats(stats: Stats) {
+		if (!statsElement) {
+			statsElement = document.createElement('div');
+			document.querySelector('[data-output]')?.after(statsElement);
+		}
+
+		if (stats.original > 0) {
+			const reduction = ((stats.original - stats.purified) / stats.original * 100).toFixed(1);
+			const rulesReduction = ((stats.rules.original - stats.rules.purified) / stats.rules.original * 100).toFixed(1);
+			
+			statsElement.innerHTML = `
+				Original size: ${stats.original} bytes | Purified size: ${stats.purified} bytes |
+				Reduced by ${reduction}%
+				Rules: ${stats.rules.original} → ${stats.rules.purified} (${rulesReduction}% removed)
+			`;
+		}
+	}
+
+		function handleInput() {
+			const { result, stats } = purifier.purifyCSS(
+				htmlInput?.value || '',
+				cssInput?.value || ''
+			);
+			if (outputElement) {
+				outputElement.value = result;
+			}
+			updateStats(stats);
+		}
+
+		htmlInput?.addEventListener('input', handleInput);
+		cssInput?.addEventListener('input', handleInput);
+	});
+
+</script>

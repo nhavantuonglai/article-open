@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Compare from '~/components/content/analytics/compare.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ đối chiếu văn bản',
+	description: 'Công cụ đối chiếu văn bản hỗ trợ thống kê, lọc dữ liệu thừa và tìm dữ liệu thiếu, giúp đơn giản hóa các tác vụ quản lý nội dung và nâng cao hiệu quả làm việc.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Compare/>
+
+	<Action/>
+
+</Layout>

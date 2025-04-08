@@ -1,0 +1,128 @@
+---
+import type { CallToAction } from '~/types';
+import Button from '~/components/ui/button.astro';
+
+export interface Props {
+	subtitle?: string;
+	tagline?: string;
+	content?: string;
+	title?: string;
+	description?: string;
+	channels?: { name: string; url: string }[];
+	id?: string;
+}
+
+const {
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	content = await Astro.slots.render('content'),
+	title = "Công cụ nghe Radio FM trực tuyến",
+	description = "Hãy chọn kênh Radio FM bạn muốn nghe, hệ thống tự động phát Radio trực tuyến nhanh chóng và miễn phí.",
+	channels = [
+		{ name: "VOV 1", url: "https://stream.vovmedia.vn/vov1" },
+		{ name: "VOV 2", url: "https://stream.vovmedia.vn/vov2" },
+		{ name: "VOV 3", url: "https://stream.vovmedia.vn/vov3" },
+		{ name: "VOV 5", url: "https://stream.vovmedia.vn/vov5" },
+		{ name: "VOV Giao Thông", url: "https://stream.vovmedia.vn/vovgthn" }
+	],
+	id = "radio"
+} = Astro.props;
+---
+
+<div class="absolute inset-0 z-20 flex items-center">
+	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
+		<div class="pb-10 md:pb-16 mx-auto">
+
+			{tagline && (
+				<p class="text-base text-secondary font-bold tracking-wide uppercase" set:html={tagline} />
+			)}
+
+			<h1 class="text-white text-justify mb-6">{title}</h1>
+
+			<div class="max-w-3xl">
+				{description && (
+					<p class="text-xl text-white text-justify mb-6">{description}</p>
+				)}
+			</div>
+
+			<div class="flex flex-col md:flex-row gap-4 mb-6">
+
+				<div id={`${id}-buttons`} class="flex flex-wrap gap-6">
+
+					{channels.map((channel) => (
+
+						<Button 
+							data-url={channel.url} 
+							class="radio-button"
+						>
+							{channel.name}
+						</Button>
+
+					))}
+
+					<audio id={`${id}-audio-player`} controls class="w-full max-w-md">
+						<source id={`${id}-audio-source`} src="" type="audio/mpeg">
+					</audio>
+
+				</div>
+
+
+			</div>
+
+			<div id={`${id}-status`} class="text-white text-lg">Chọn kênh để bắt đầu phát.</div>
+
+			{content && <Fragment set:html={content} />}
+
+		</div>
+	</div>
+</div>
+
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const id = 'radio';
+		const buttons = document.querySelectorAll(`#${id}-buttons button`);
+		const audioPlayer = document.getElementById(`${id}-audio-player`);
+		const audioSource = document.getElementById(`${id}-audio-source`);
+		const statusDiv = document.getElementById(`${id}-status`);
+		
+		let currentChannelIndex = -1;
+		let statusInterval;
+
+		function updateButtons() {
+			buttons.forEach((btn, index) => {
+				btn.classList.toggle('bg-primary', index === currentChannelIndex);
+				btn.classList.toggle('text-white', index === currentChannelIndex);
+			});
+		}
+
+		function playChannel(index) {
+			currentChannelIndex = index;
+			const channel = buttons[index];
+			audioSource.src = channel.dataset.url;
+			audioPlayer.load();
+			audioPlayer.play()
+				.then(() => {
+					updateButtons();
+					updateStatus(channel.innerText);
+				})
+				.catch(error => {
+					console.error(error);
+					statusDiv.textContent = 'Không thể phát kênh này.';
+				});
+		}
+
+		function updateStatus(channelName) {
+			clearInterval(statusInterval);
+			statusInterval = setInterval(() => {
+				const latency = Math.floor(Math.random() * 3001);
+				statusDiv.textContent = `Đang phát: ${channelName}, (độ trễ: ${latency}ms).`;
+			}, 1000);
+		}
+
+		buttons.forEach((button, index) => {
+			button.addEventListener('click', () => playChannel(index));
+		});
+	});
+
+</script>

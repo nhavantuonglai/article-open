@@ -1,0 +1,235 @@
+---
+import Gallery from '~/components/widgets/gallery.astro';
+import Maintenance from '~/components/analytics/maintenance.astro';
+
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+function getRandomInt(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+function formatNumber(num) {
+	return num.toString().padStart(3, '0');
+	}
+
+function generateUniqueRandomNumbers(count, min, max) {
+	const numbers = new Set();
+
+	while (numbers.size < count) {
+		numbers.add(getRandomInt(min, max));
+	}
+
+	return Array.from(numbers);
+	}
+
+const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
+const numbersspring = uniqueNumbers.slice(1, 5);
+const numberssummer = uniqueNumbers.slice(6, 10);
+const numbersautumn = uniqueNumbers.slice(11, 15);
+const numberswinter = uniqueNumbers.slice(16, 20);
+
+const springs = numbersspring.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const summers = numberssummer.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const autumns = numbersautumn.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+
+const winters = numberswinter.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	}));
+---
+
+<Gallery
+
+	springs={springs}
+	summers={summers}
+	autumns={autumns}
+	winters={winters}
+
+>
+
+	<Maintenance
+		subtitle="Website hiện tại đang trong quá trình chuyển đổi, cập nhật giao diện. Nên công cụ này tạm thời không hoạt động, vui lòng quay lại sau."
+	/>
+
+</Gallery>
+
+<CTA
+
+	callToAction={{
+		text: 'Sử dụng công cụ',
+		href: 'https://nhavantuonglai.com/analytics/compare',
+	}}
+
+
+	items={[
+		{
+		title: 'Giảm tải tài nguyên trên server',
+		description:
+			'File CSS nhỏ hơn giúp giảm băng thông và tài nguyên xử lý của server, đặc biệt quan trọng với các website có lưu lượng truy cập lớn.',
+		},
+		{
+		title: 'Cải thiện hiệu suất trình duyệt',
+		description:
+			'Trình duyệt sẽ xử lý CSS nhanh hơn, giúp hiển thị nội dung mượt mà và phản hồi tốt hơn với người dùng.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-632.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+	<Fragment slot="content">
+		Công cụ tối ưu CSS trực tuyến giúp quét toàn bộ mã nguồn của website, xác định và loại bỏ các đoạn CSS không sử dụng, giúp mã nhẹ hơn, tải nhanh hơn và cải thiện trải nghiệm người dùng.
+	</Fragment>
+
+</CTA>
+
+<CTA
+
+	title="Giới thiệu về Công cụ tối ưu CSS trực tuyến"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Công cụ tối ưu CSS trực tuyến là gì?',
+		description:
+			'Công cụ tối ưu CSS trực tuyến là giải pháp công nghệ được phát triển nhằm nâng cao hiệu suất hoạt động của website thông qua việc tối ưu hóa mã CSS. Với khả năng loại bỏ các thuộc tính không cần thiết và tối giản hóa code, công cụ này mang đến cho các nhà phát triển web khả năng cải thiện đáng kể tốc độ tải trang. Hai lợi ích thiết thực nổi bật của việc tối ưu CSS bao gồm giảm đáng kể dung lượng file CSS và cải thiện thời gian phản hồi của website, từ đó nâng cao trải nghiệm người dùng và hiệu quả SEO.',
+		},
+		{
+		title: 'Sự cần thiết của Công cụ tối ưu CSS trực tuyến',
+		description:
+			'Công cụ tối ưu CSS trực tuyến là một nền tảng chuyên dụng được thiết kế để phân tích, tinh chỉnh và loại bỏ các đoạn mã CSS dư thừa trong website. Đây là giải pháp quan trọng đối với các developer và quản trị website trong việc duy trì hiệu suất tối ưu của trang web. Vai trò của công cụ này không chỉ dừng lại ở việc làm gọn nhẹ code mà còn giúp cải thiện quy trình phát triển web, giảm thiểu thời gian bảo trì và nâng cao khả năng mở rộng của dự án. Trong thời đại số hóa hiện nay, tối ưu CSS đóng vai trò then chốt trong việc xây dựng website chuyên nghiệp. Công cụ này giúp các developer có thể dễ dàng quản lý và tối ưu hóa mã nguồn CSS, đặc biệt trong các dự án lớn với nhiều trang và components. Việc tối ưu CSS không chỉ giúp cải thiện tốc độ tải trang mà còn góp phần quan trọng trong việc tối ưu hóa chi phí hosting và băng thông server.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-433.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Tính năng nổi bật của Công cụ tối ưu CSS trực tuyến"
+
+	items={[
+		{
+		title: 'Phân tích và tối ưu code thông minh',
+		description:
+			'Một trong những tính năng chuyên sâu đáng chú ý của Công cụ tối ưu CSS trực tuyến là khả năng phân tích thông minh mã nguồn. Công cụ sử dụng các thuật toán tiên tiến để quét và phân tích toàn bộ cấu trúc CSS của website, từ đó xác định chính xác các selector và thuộc tính không được sử dụng. Quá trình này không chỉ đơn thuần là loại bỏ code thừa mà còn bao gồm việc tái cấu trúc các rules để tối ưu hiệu suất. Đặc biệt, công cụ còn có khả năng phân tích các dependencies giữa các file CSS và JavaScript để đảm bảo không loại bỏ nhầm các thuộc tính quan trọng.',
+		},
+		{
+		title: 'Tự động hóa quy trình tối ưu',
+		description:
+			'Tính năng chuyên sâu thứ hai là hệ thống tự động hóa trong quá trình tối ưu CSS. Công cụ được trang bị các tính năng như minification tự động, nén code, và tổ chức lại cấu trúc file CSS một cách khoa học. Hệ thống này còn tích hợp khả năng theo dõi và báo cáo chi tiết về các thay đổi được thực hiện, giúp developer có thể dễ dàng kiểm soát và điều chỉnh quá trình tối ưu. Đặc biệt, công cụ còn hỗ trợ tích hợp với các hệ thống CI/CD phổ biến, cho phép tự động hóa hoàn toàn quy trình tối ưu CSS trong môi trường phát triển.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-614.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Lợi ích và ứng dụng thực tế của Công cụ tối ưu CSS trực tuyến"
+
+	isReversed
+
+	items={[
+		{
+		title: 'Lợi ích của Công cụ tối ưu CSS trực tuyến',
+		description:
+			'Việc tối ưu CSS mang lại nhiều lợi ích thiết thực trong việc cải thiện hiệu suất website. Đầu tiên, nó giúp giảm đáng kể thời gian tải trang thông qua việc giảm dung lượng file CSS và tối ưu hóa quá trình render. Điều này đặc biệt quan trọng đối với các website có lượng truy cập cao hoặc các ứng dụng web phức tạp. Ngoài ra, việc tối ưu CSS còn giúp cải thiện điểm số PageSpeed Insights và các chỉ số đánh giá hiệu suất khác, từ đó nâng cao thứ hạng SEO của website.',
+		},
+		{
+		title: 'Ứng dụng Công cụ tối ưu CSS trực tuyến trong các lĩnh vực',
+		description:
+			'Trong lĩnh vực phát triển web, Công cụ tối ưu CSS trực tuyến đóng vai trò quan trọng trong việc nâng cao hiệu quả làm việc của team developer. Công cụ giúp tiết kiệm thời gian và công sức trong việc maintain code CSS, đồng thời giảm thiểu nguy cơ xảy ra lỗi do code dư thừa. Đặc biệt, đối với các dự án lớn với nhiều developer tham gia, việc tối ưu CSS giúp duy trì tính nhất quán và dễ bảo trì của code base.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-025.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<CTA
+
+	title="Đánh giá trải nghiệm Công cụ tối ưu CSS trực tuyến"
+
+	items={[
+		{
+		title: 'Dễ dàng tiếp cận và sử dụng',
+		description:
+			'Theo đánh giá từ cộng đồng developer, Công cụ tối ưu CSS trực tuyến nhận được nhiều phản hồi tích cực về tính hiệu quả và dễ sử dụng. Người dùng đặc biệt đánh giá cao khả năng tự động hóa và độ chính xác trong việc phát hiện và loại bỏ code thừa. Nhiều developer cho rằng công cụ này đã giúp họ tiết kiệm đáng kể thời gian trong quá trình phát triển và maintain website, đồng thời cải thiện đáng kể hiệu suất của các dự án web.',
+		},
+		{
+		title: 'Tiềm năng phát triển trong tương lai',
+		description:
+			'Trong tương lai, Công cụ tối ưu CSS trực tuyến được dự đoán sẽ còn phát triển mạnh mẽ hơn nữa với nhiều tính năng mới. Xu hướng phát triển web ngày càng đòi hỏi cao về hiệu suất và tối ưu hóa sẽ thúc đẩy sự phát triển của các công cụ này. Các nhà phát triển đang không ngừng cải tiến công nghệ để đáp ứng những yêu cầu ngày càng cao của người dùng, từ việc tối ưu hóa cho mobile first design cho đến việc tích hợp với các framework và công nghệ mới.',
+		},
+	]}
+
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-026.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+
+</CTA>
+
+<Question
+
+	items={[
+
+		{
+		title: 'Sử dụng công cụ như thế nào?',
+		description: 'Để sử dụng Công cụ tối ưu CSS trực tuyến, chỉ cần nhập code html và css, hệ thống sẽ tự động kết nối và xử lý dữ liệu ngay lập tức.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Có giới hạn khi sử dụng công cụ không?',
+		description: `Công cụ tối ưu CSS trực tuyến không giới hạn số lần sử dụng, nhưng nếu lượng dữ liệu quá lớn, quá trình phân tích có thể chậm lại.`,
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Những giải pháp thay thế khác phù hợp để giải quyết yêu cầu tối ưu CSS trực tuyến',
+		description: 'Ngoài công cụ này, bạn có thể thử các ngôn ngữ lập trình như Python hoặc R với thư viện hỗ trợ đếm tần suất mạnh mẽ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+		{
+		title: 'Cách để liên lạc, hỗ trợ và góp ý hoàn thiện công cụ',
+		description: 'Nếu có bất kỳ thắc mắc hoặc góp ý, hãy liên hệ chúng tôi qua email info@nhavantuonglai.com để được hỗ trợ.',
+		icon: 'tabler:chevrons-right',
+		},
+
+	]}
+
+>

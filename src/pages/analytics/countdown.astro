@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Countdown from '~/components/content/analytics/countdown.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Còn bao nhiêu ngày nữa đến Tết 2026?',
+	description: 'Còn bao nhiêu ngày nữa đến Tết 2026? giúp bạn biết chính xác còn bao nhiêu ngày, giờ, phút để sẵn sàng chào đón năm mới trọn vẹn nhất.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Countdown/>
+
+	<Action/>
+
+</Layout>

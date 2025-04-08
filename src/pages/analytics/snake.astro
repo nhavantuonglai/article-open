@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import Snake from '~/components/content/analytics/snake.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Trò chơi Rắn săn mồi',
+	description: 'Trò chơi Rắn săn mồi giúp người dùng kiểm tra thời gian hiện tại nhanh chóng, chính xác, và tiện lợi thông qua các thiết bị trực tuyến.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<Snake/>
+
+	<Action/>
+
+</Layout>
