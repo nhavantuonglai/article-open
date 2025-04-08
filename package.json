@@ -1,5 +1,5 @@
 {
-	"name": "article-open",
+	"name": "nhavantuonglai",
 	"version": "25.04.04",
 	"description": "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.",
 	"private": false,
@@ -10,6 +10,28 @@
 		"node": "22.x",
 		"npm": "10.x"
 	},
+
+	"keywords": [
+		"website",
+		"firebase",
+		"hosting",
+		"website builder",
+		"firebase database",
+		"firebase authentication",
+		"firebase hosting",
+		"website design",
+		"website template",
+		"website development",
+		"website-clone",
+		"vercel",
+		"vercel-deployment",
+		"vercel-hosting",
+		"hosting-deployment",
+		"nhavantuonglai",
+		"authentication",
+		"template",
+		"development"
+	],
 
 	"scripts": {
 		"dev": "astro dev",
