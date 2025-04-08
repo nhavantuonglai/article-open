@@ -23,4 +23,4 @@ Nếu bạn muốn kết nối, trao đổi thư từ với mình, hãy gửi ti
 
 Nếu bạn muốn xem ảnh mình chụp, hãy đến với [500px](https://500px.com/p/nhavantuonglai) hoặc [Flickr](https://www.flickr.com/photos/nhavantuonglai), không cần follow, chỉ cần xem rồi cảm nhận. Và tất nhiên, Instagram của mình luôn ngập tràn ảnh film đã chụp từ 2018 đến nay.
 
-Website được vận hành bởi [Vercel](https://nhavantuonglai.com/article/vercel-cai-dat), lưu trữ database thông qua [Github](https://github.com/nhavantuonglai), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm [tại đây](https://nhavantuonglai.com/article/xay-dung-website) để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.
+Website được vận hành bởi Vercel, lưu trữ database thông qua [Github](https://github.com/nhavantuonglai), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.

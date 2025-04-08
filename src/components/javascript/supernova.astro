@@ -23,7 +23,7 @@
 		align-items: center;
 		z-index: 9999;
 		background: #f8f3f0;
-		transition: opacity 0.3s ease;
+		transition: opacity 0.1s ease;
 		overflow: hidden;
 	}
 
@@ -44,7 +44,7 @@
 		border-radius: 50%;
 		box-shadow: 0 0 30px #ff725e, 0 0 60px #ff4832;
 		z-index: 5;
-		animation: star-pulse 1.2s ease-in-out forwards;
+		animation: star-pulse 0.4s ease-in-out forwards;
 	}
 
 	.explosion-ring {
@@ -53,25 +53,25 @@
 		border: 2px solid;
 		opacity: 0;
 		z-index: 4;
-		animation: ring-expand 1.5s ease-out forwards;
+		animation: ring-expand 0.5s ease-out forwards;
 	}
 
 	.ring-1 {
 		border-color: #ff725e;
 		box-shadow: 0 0 15px #ff725e;
-		animation-delay: 0.2s;
+		animation-delay: 0.1s;
 	}
 
 	.ring-2 {
 		border-color: #ff8c73;
 		box-shadow: 0 0 10px #ff8c73;
-		animation-delay: 0.4s;
+		animation-delay: 0.2s;
 	}
 
 	.ring-3 {
 		border-color: #ff4832;
 		box-shadow: 0 0 20px #ff4832;
-		animation-delay: 0.6s;
+		animation-delay: 0.2s;
 	}
 
 	.particle-field {
@@ -85,7 +85,7 @@
 			radial-gradient(1px 1px at 120px 40px, #ff4832, transparent),
 			radial-gradient(1px 1px at 160px 180px, #ffb199, transparent);
 		opacity: 0;
-		animation: particles-appear 1.5s ease-out forwards 0.3s;
+		animation: particles-appear 1.5s ease-out forwards 0.1s;
 	}
 
 	@keyframes star-pulse {

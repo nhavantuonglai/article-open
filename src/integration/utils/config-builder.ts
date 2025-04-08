@@ -23,8 +23,6 @@ const defaultConfig = {
 			isRelatedPostsEnabled: false,
 			relatedPostsCount: 4,
 			post: { isEnabled: true, permalink: '/blog/%slug%', robots: { index: true, follow: true } },
-			list: { isEnabled: true, pathname: 'blog', robots: { index: true, follow: true } },
-			category: { isEnabled: true, pathname: 'category', robots: { index: true, follow: true } },
 			tag: { isEnabled: true, pathname: 'tag', robots: { index: false, follow: true } },
 		},
 	},
@@ -33,7 +31,6 @@ const defaultConfig = {
 		classes: {},
 		tokens: {
 			default: {
-				fonts: {},
 				colors: {
 					default: 'rgb(16 16 16)',
 					heading: 'rgb(0 0 0)',

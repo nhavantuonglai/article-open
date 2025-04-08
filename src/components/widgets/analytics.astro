@@ -1,13 +1,11 @@
 ---
-import {
-	Slideup
-} from '~/assets/framer.jsx';
+import { Slideup } from '~/assets/framer.jsx';
 
 export interface Props {
 	id: string;
 	title?: string;
 	description?: string;
-	inputType: 'text' | 'file' | 'button';
+	inputType: 'text' | 'file' | 'button' | 'compare-text' | 'compare-file';
 	outputType: 'text' | 'file' | 'audio' | 'video';
 	placeholder?: string;
 	downloadText?: string;
@@ -26,6 +24,11 @@ const {
 	debounceTime = 500,
 	channels = []
 } = Astro.props;
+
+const input = "w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white";
+const styles = "resize: none; height: 150px;";
+const file = "flex flex-col items-center justify-center p-6 rounded-md bg-gray-50";
+const button = "mb-6 text-lg font-medium leading-6";
 ---
 
 <Slideup client:visible>
@@ -33,144 +36,99 @@ const {
 	<section class="relative md:-mt-[76px] not-prose">
 
 		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-		<div class="relative max-w-7xl mx-auto px-4 sm:px-6">
+		<div class="relative mx-auto px-4 sm:px-6">
 			<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+			<div class="mx-auto max-w-7xl md:px-6 px-4">
+				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg mb-6">
 
-				<div class="mx-auto max-w-7xl md:px-6 px-4">
+					<h2 class="text-center">{title}</h2>
 
-					<div class="bg-white text-black p-4 rounded-lg mb-6">
+					{description && <p>{description}</p>}
 
-						<h2 class="text-center">{title}</h2>
-						{description && <p>{description}</p>}
+					{inputType === 'text' && (
+						<textarea id={`${id}-input`} placeholder={placeholder} class={input} style={styles}></textarea>
+					)}
 
-						{inputType === 'text' && (
-							<textarea
-								id={`${id}-input`}
-								placeholder={placeholder}
-								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
-								style="resize: none; height: 150px;"
-							></textarea>
-						)}
-
-						{inputType === 'compare-text' && (
-							<textarea
-								id={`${id}-input`}
-								placeholder={placeholder}
-								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
-								style="resize: none; height: 150px;"
-							></textarea>
-							<textarea
-								id={`${id}-input`}
-								placeholder={placeholder}
-								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
-								style="resize: none; height: 150px;"
-							></textarea>
-						)}
-
-						{inputType === 'compare-file' && (
-							<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
-								<p>
-									<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
-										Choose File
-									</button>
-								</p>
-								<input
-									type="file"
-									id={`${id}-file`}
-									class="hidden"
-								/>
-							</div>
-							<textarea
-								id={`${id}-input`}
-								placeholder={placeholder}
-								class="w-full text-justify text-lg border border-gray-300 p-4 rounded-lg break-words bg-white"
-								style="resize: none; height: 150px;"
-							></textarea>
-						)}
-
-						{inputType === 'file' && (
-							<div id={`${id}-input`} class="flex flex-col items-center justify-center p-6 rounded-md bg-gray-50">
-								<p>
-									<button id={`${id}-upload-btn`} class="mb-6 text-lg font-medium leading-6">
-										Choose File
-									</button>
-								</p>
-								<input
-									type="file"
-									id={`${id}-file`}
-									class="hidden"
-								/>
-							</div>
-						)}
-
-						{inputType === 'button' && (
-							<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
-								{channels.map((channel) => (
-									<button
-										class="btn mb-6"
-										data-url={channel.url}
-									>
-										{channel.name}
-									</button>
-								))}
-							</div>
-						)}
-
-					</div>
-
-					<div class="border border-primary bg-white text-black p-4 rounded-lg">
-
-						{outputType === 'text' && (
-							<div id={`${id}-text-output`} class="overflow-y-auto min-h-[400px] h-auto p-2 rounded text-justify text-lg mb-6"></div>
-						)}
-
-						{outputType === 'file' && (
-							<div id={`${id}-file-output`} class="hidden">
-								<a id={`${id}-download`} href="#" class="btn w-auto mb-6">
-									{downloadText}
-								</a>
-							</div>
-						)}
-
-						{outputType === 'audio' && (
-							<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg">
-								<audio id={`${id}-audio-player`} class="w-full	mb-6" controls>
-									<source id={`${id}-audio-source`} src="" type="audio/mpeg">
-								</audio>
-								<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
-							</div>
-						)}
-
-						{outputType === 'video' && (
-							<div id={`${id}-video-output`} class="text-justify mb-6 text-lg">
-								<video id={`${id}-video-player`} class="w-full mb-6" controls>
-									<source id={`${id}-video-source`} src="" type="video/mp4">
-								</video>
-								<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
-							</div>
-						)}
-
-						<div id={`${id}-progress`} class="w-full bg-gray-200 rounded h-2 mb-6 hidden">
-							<div id={`${id}-progress-bar`} class="h-2 bg-primary rounded mb-6" style="width: 0%"></div>
+					{inputType === 'compare-text' && (
+						<div class="space-y-4">
+							<textarea id={`${id}-input-1`} placeholder={placeholder} class={input} style={styles}></textarea>
+							<textarea id={`${id}-input-2`} placeholder={placeholder} class={input} style={styles}></textarea>
 						</div>
+					)}
 
-					</div>
+					{inputType === 'compare-file' && (
+						<div class="space-y-4">
+							<div id={`${id}-input-file`} class={file}>
+								<p><button id={`${id}-upload-btn`} class={button}>Choose File</button></p>
+								<input type="file" id={`${id}-file`} class="hidden" />
+							</div>
+							<textarea id={`${id}-input-text`} placeholder={placeholder} class={input} style={styles}></textarea>
+						</div>
+					)}
+
+					{inputType === 'file' && (
+						<div id={`${id}-input`} class={file}>
+							<p><button id={`${id}-upload-btn`} class={button}>Choose File</button></p>
+							<input type="file" id={`${id}-file`} class="hidden" />
+						</div>
+					)}
+
+					{inputType === 'button' && (
+						<div id={`${id}-buttons`} class="flex flex-wrap gap-2">
+							{channels.map((channel) => (
+								<button class="btn mb-6" data-url={channel.url}>{channel.name}</button>
+							))}
+						</div>
+					)}
 
 				</div>
 
+				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+
+					<div id={`${id}-progress`} class="w-full bg-gray-200 rounded h-2 mb-6 hidden">
+						<div id={`${id}-progress-bar`} class="h-2 bg-primary rounded mb-6" style="width: 0%"></div>
+					</div>
+
+					{outputType === 'text' && (
+						<div id={`${id}-text-output`} class="overflow-y-auto min-h-[400px] h-auto p-2 rounded text-justify text-lg mb-6"></div>
+					)}
+
+					{outputType === 'file' && (
+						<div id={`${id}-file-output`} class="hidden">
+							<a id={`${id}-download`} href="#" class="btn w-auto mb-6">{downloadText}</a>
+						</div>
+					)}
+
+					{outputType === 'audio' && (
+						<div id={`${id}-audio-output`} class="text-justify mb-6 text-lg">
+							<audio id={`${id}-audio-player`} class="w-full mb-6" controls>
+								<source id={`${id}-audio-source`} src="" type="audio/mpeg" />
+							</audio>
+							<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
+						</div>
+					)}
+
+					{outputType === 'video' && (
+						<div id={`${id}-video-output`} class="text-justify mb-6 text-lg">
+							<video id={`${id}-video-player`} class="w-full mb-6" controls>
+								<source id={`${id}-video-source`} src="" type="video/mp4" />
+							</video>
+							<div id={`${id}-status`} class="text-justify mb-6 text-lg"></div>
+						</div>
+					)}
+
+				</div>
 			</div>
+		</div>
 
 	</section>
 
 	<script define:vars={{ id, inputType, debounceTime }}>
 
 		document.addEventListener('DOMContentLoaded', () => {
-			const input = document.getElementById(`${id}-input`);
-			const fileInput = document.getElementById(`${id}-file`);
 			const progressBar = document.getElementById(`${id}-progress-bar`);
 			const progressContainer = document.getElementById(`${id}-progress`);
 			const fileOutput = document.getElementById(`${id}-file-output`);
-			const uploadBtn = document.getElementById(`${id}-upload-btn`);
 			let debounceTimeout;
 
 			const processInput = async () => {
@@ -182,7 +140,6 @@ const {
 				const interval = setInterval(() => {
 					progress += 5;
 					progressBar.style.width = `${progress}%`;
-
 					if (progress >= 100) {
 						clearInterval(interval);
 						setTimeout(() => {
@@ -193,34 +150,48 @@ const {
 				}, 200);
 			};
 
-			if (inputType === 'text') {
+			const setupDebouncedInput = (input, condition) => {
 				input.addEventListener('input', () => {
 					clearTimeout(debounceTimeout);
-					
-					const value = input.value.trim();
-					if (!value) {
+					if (!condition()) {
 						progressContainer.classList.add('hidden');
 						if (fileOutput) fileOutput.classList.add('hidden');
 						return;
 					}
-
 					debounceTimeout = setTimeout(processInput, debounceTime);
 				});
-			}
+			};
 
-			if (inputType === 'file') {
-				uploadBtn.addEventListener('click', () => {
-					fileInput.click();
+			if (inputType === 'text') {
+				const input = document.getElementById(`${id}-input`);
+				setupDebouncedInput(input, () => input.value.trim());
+			} else if (inputType === 'compare-text') {
+				const input1 = document.getElementById(`${id}-input-1`);
+				const input2 = document.getElementById(`${id}-input-2`);
+				const checkInputs = () => input1.value.trim() && input2.value.trim();
+				setupDebouncedInput(input1, checkInputs);
+				setupDebouncedInput(input2, checkInputs);
+			} else if (inputType === 'compare-file' || inputType === 'file') {
+				const fileInput = document.getElementById(`${id}-file`);
+				const uploadBtn = document.getElementById(`${id}-upload-btn`);
+				uploadBtn.addEventListener('click', () => fileInput.click());
+				fileInput.addEventListener('change', (event) => {
+					if (event.target.files && event.target.files[0]) processInput();
 				});
 
-				fileInput.addEventListener('change', (event) => {
-					if (event.target.files && event.target.files[0]) {
-						processInput();
-					}
+				if (inputType === 'compare-file') {
+					const textInput = document.getElementById(`${id}-input-text`);
+					setupDebouncedInput(textInput, () => textInput.value.trim() && fileInput.files[0]);
+				}
+			} else if (inputType === 'button') {
+				const buttons = document.querySelectorAll(`#${id}-buttons button`);
+				buttons.forEach(button => {
+					button.addEventListener('click', () => {
+						if (button.getAttribute('data-url')) processInput();
+					});
 				});
 			}
 		});
-
 	</script>
 
 </Slideup>

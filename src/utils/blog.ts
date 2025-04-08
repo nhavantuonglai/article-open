@@ -3,18 +3,16 @@ import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { Post } from '~/types';
 import { APP_BLOG } from 'nhavantuonglai:config';
-import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
+import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, TAG_BASE } from './permalinks';
 
 const generatePermalink = async ({
 	id,
 	slug,
 	pubDatetime,
-	category,
 }: {
 	id: string;
 	slug: string;
 	pubDatetime: Date;
-	category: string | undefined;
 }) =>{
 	const year = String(pubDatetime.getFullYear()).padStart(4, '0');
 	const month = String(pubDatetime.getMonth() + 1).padStart(2, '0');
@@ -25,7 +23,6 @@ const generatePermalink = async ({
 
 	const permalink = POST_PERMALINK_PATTERN.replace('%slug%', slug)
 		.replace('%id%', id)
-		.replace('%category%', category || '')
 		.replace('%year%', year)
 		.replace('%month%', month)
 		.replace('%day%', day)
@@ -51,8 +48,6 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post>=>
 		description,
 		image,
 		tags: rawTags = [],
-		category: rawCategory,
-		author,
 		draft = false,
 		metadata = {},
 	} = data;
@@ -60,13 +55,12 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post>=>
 	const slug = cleanSlug(rawSlug);
 	const pubDatetime = new Date(rawpubDatetime);
 	const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
-	const category = rawCategory ? cleanSlug(rawCategory) : undefined;
 	const tags = rawTags.map((tag: string) =>cleanSlug(tag));
 
 	return {
 		id: id,
 		slug: slug,
-		permalink: await generatePermalink({ id, slug, pubDatetime, category }),
+		permalink: await generatePermalink({ id, slug, pubDatetime }),
 
 		pubDatetime: pubDatetime,
 		updateDate: updateDate,
@@ -75,9 +69,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post>=>
 		description: description,
 		image: image,
 
-		category: category,
 		tags: tags,
-		author: author,
 
 		draft: draft,
 
@@ -118,11 +110,9 @@ export const isBlogEnabled = APP_BLOG?.isEnabled ?? false;
 export const isRelatedPostsEnabled = APP_BLOG?.isRelatedPostsEnabled ?? false;
 export const isBlogListRouteEnabled = APP_BLOG?.list?.isEnabled ?? false;
 export const isBlogPostRouteEnabled = APP_BLOG?.post?.isEnabled ?? false;
-export const isBlogCategoryRouteEnabled = APP_BLOG?.category?.isEnabled ?? false;
 export const isBlogTagRouteEnabled = APP_BLOG?.tag?.isEnabled ?? false;
 export const blogListRobots = APP_BLOG?.list?.robots ?? '';
 export const blogPostRobots = APP_BLOG?.post?.robots ?? '';
-export const blogCategoryRobots = APP_BLOG?.category?.robots ?? '';
 export const blogTagRobots = APP_BLOG?.tag?.robots ?? '';
 export const blogPostsPerPage = APP_BLOG?.postsPerPage ?? 10;
 
@@ -132,7 +122,7 @@ export const fetchPosts = async (): Promise<Array<Post>>=>{
 	}
 
 	return _posts;
-	};
+};
 
 export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post>>=>{
 	if (!Array.isArray(slugs)) return [];
@@ -145,7 +135,7 @@ export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post
 		});
 		return r;
 	}, []);
-	};
+};
 
 export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>>=>{
 	if (!Array.isArray(ids)) return [];
@@ -183,8 +173,7 @@ export const getStaticPathsBlogPost = async () =>{
 		},
 		props: { post },
 	}));
-	};
-
+};
 
 export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFunction }) =>{
 	if (!isBlogEnabled || !isBlogTagRouteEnabled) return [];

@@ -4,19 +4,21 @@ import Hero from '~/components/widgets/hero.astro';
 
 function getRandomInt(min, max) {
 	return Math.floor(Math.random() * (max - min + 1)) + min;
-}
+	}
+
 function formatNumber(num) {
 	return num.toString().padStart(3, '0');
-}
+	}
+
 function generateUniqueRandomNumbers(count, min, max) {
 	const numbers = new Set();
-	
+
 	while (numbers.size < count) {
 		numbers.add(getRandomInt(min, max));
 	}
-	
+
 	return Array.from(numbers);
-}
+	}
 
 const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
 const numbersspring = uniqueNumbers.slice(1, 5);
@@ -25,21 +27,24 @@ const numbersautumn = uniqueNumbers.slice(11, 15);
 const numberswinter = uniqueNumbers.slice(16, 20);
 
 const springs = numbersspring.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
+	}));
+
 const summers = numberssummer.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
+	}));
+
 const autumns = numbersautumn.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
+	}));
+
 const winters = numberswinter.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
 	alt: `Văn hay trong hiện tại, chữ tốt ở tương lai ${num}.`
-}));
+	}));
 ---
 
 <Gallery

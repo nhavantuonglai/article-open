@@ -4,36 +4,46 @@ import { APP_BLOG } from 'nhavantuonglai:config';
 import type { Post } from '~/types';
 
 export interface Props {
-	tags: Post['tags'];
+    tags?: string[];
 	class?: string;
-	title?: string | undefined;
-	isCategory?: boolean;
+	title?: string;
 }
 
-const { tags, class: className = 'text-sm', title, isCategory = false } = Astro.props;
+const { 
+	tags, 
+	class: className = 'text-sm', 
+	title 
+} = Astro.props;
 ---
 
-{
-	tags && Array.isArray(tags) && (
-		<>
-			{title && <span class="align-super font-normal underline underline-offset-4 decoration-2">{title}</span>}
-			<ul class={className}>
-				{tags.map((tag) => (
-					<li class="bg-gray-100  inline-block mr-2 rtl:mr-0 rtl:ml-2 mb-6 py-0.5 px-2 lowercase font-medium">
-						{!APP_BLOG?.tag?.isEnabled ? (
-							tag
-						) : (
-							<a
-								href={getPermalink(tag, isCategory ? 'category' : 'tag')}
-								class="text-xl text-muted dark:text-slate-300 hover:text-primary "
-								target="_blank"
-							>
-								{tag}
-							</a>
-						)}
-					</li>
-				))}
-			</ul>
-		</>
-	)
-}
+{tags && tags.length > 0 && (
+
+	<>
+		{title && <span class="align-super font-normal underline underline-offset-4 decoration-2">{title}</span>}
+		<ul class={className}>
+
+			{tags.map((tag) => (
+				<li class="bg-gray-100 inline-block mr-2 rtl:mr-0 rtl:ml-2 mb-6 py-0.5 px-2 lowercase font-medium">
+
+					{!APP_BLOG?.tag?.isEnabled ? (
+						tag
+					) : (
+
+						<a
+							href={getPermalink(tag, 'tag')}
+							class="text-xl text-muted dark:text-slate-300 hover:text-primary"
+							target="_blank"
+						>
+
+							{tag}
+
+						</a>
+					)}
+
+				</li>
+			))}
+
+		</ul>
+	</>
+
+)}
