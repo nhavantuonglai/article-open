@@ -1,6 +1,6 @@
 {
 	"name": "nhavantuonglai",
-	"version": "25.04.07",
+	"version": "25.04.08",
 	"description": "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.",
 	"private": false,
 	"type": "module",
@@ -53,7 +53,6 @@
 		"limax": "4.1.0",
 		"lodash.merge": "4.6.2",
 		"lru-cache": "11.0.2",
-		"nhavantuonglai": "^25.4.6",
 		"rehype-plugin-image-native-lazy-loading": "1.2.0",
 		"unpic": "4.1.2"
 	},
@@ -90,19 +89,9 @@
 	},
 	"files": [
 		"src",
-		".editorconfig",
-		".gitignore",
+		"public",
 		"astro.config.mjs",
-		"code-of-conduct.md",
-		"contributing.md",
-		"license",
-		"netlify.toml",
-		"package-lock.json",
-		"package.json",
-		"readme.md",
-		"security.md",
 		"tailwind.config.cjs",
-		"tsconfig.json",
-		"vercel.json"
+		"tsconfig.json"
 	]
 }
