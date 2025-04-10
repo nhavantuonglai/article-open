@@ -1,0 +1,27 @@
+name: Update README with NPM Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch stats.md from npm-downloads-stats
+        run: |
+          curl -o stats.md https://raw.githubusercontent.com/nhavantuonglai/npm-downloads-stats/main/stats.md
+      - name: Update README
+        run: |
+          sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/r stats.md' README.md
+          sed -i '/<!-- STATS_START -->/{r stats.md
+          d;};/<!-- STATS_END -->/d' README.md
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add README.md
+          git commit -m "Update README with npm stats table"
+          git push

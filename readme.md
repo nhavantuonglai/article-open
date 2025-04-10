@@ -1,6 +1,8 @@
 ## 🚀 A comprehensive introduction to the template website /article-open
 
-![NPM Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/stats.json&label=Total%20Downloads)
+<!-- STATS_START -->
+<!-- Thống kê sẽ được cập nhật tự động -->
+<!-- STATS_END -->
 
 ## Project deployment guide in English (Original Vietnamese below)
 
