@@ -1,5 +1,7 @@
 ## 🚀 A comprehensive introduction to the template website /article-open
 
+![NPM Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/stats.json&label=Total%20Downloads)
+
 ## Project deployment guide in English (Original Vietnamese below)
 
 _Article Open_ is the open source version of _Article,_ the core code of [nhavantuonglai.com](https://nhavantuonglai.com/). This project is developed using Astro 5.0 and Tailwind CSS, creating a modern website template that is user-friendly and optimized for SEO.
