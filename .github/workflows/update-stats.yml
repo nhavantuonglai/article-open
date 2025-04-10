@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Fetch stats.md from npm-downloads-stats
         run: |
-          curl -o stats.md https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics /main/stats.md
+          curl -o stats.md https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/stats.md
       - name: Update README
         run: |
           sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/r stats.md' README.md
