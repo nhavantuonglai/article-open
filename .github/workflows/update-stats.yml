@@ -10,12 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Fetch stats.md from python-npm-analytics
         run: |
           curl -o stats.md https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/stats.md
       - name: Update README
         run: |
-          sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/c\<!-- STATS_START -->\n$(cat stats.md)\n<!-- STATS_END -->' README.md
+          sed -i '/<!-- npmjs-analytics-start -->/,/<!-- npmjs-analytics-end -->/{
+            /<!-- npmjs-analytics-start -->/ r stats.md
+            d
+          }' README.md
       - name: Commit changes
         run: |
           git config user.name "GitHub Action"
