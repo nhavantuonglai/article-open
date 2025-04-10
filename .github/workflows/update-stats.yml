@@ -1,4 +1,4 @@
-name: Update README with NPM Stats
+name: Update README with NPM Analytics
 
 on:
   schedule:
@@ -10,18 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Fetch stats.md from npm-downloads-stats
+      - name: Fetch stats.md from python-npm-analytics
         run: |
           curl -o stats.md https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/stats.md
       - name: Update README
         run: |
-          sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/r stats.md' README.md
-          sed -i '/<!-- STATS_START -->/{r stats.md
-          d;};/<!-- STATS_END -->/d' README.md
+          sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/c\<!-- STATS_START -->\n$(cat stats.md)\n<!-- STATS_END -->' README.md
       - name: Commit changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add README.md
-          git commit -m "Update README with npm stats table"
+          git commit -m "Update README with npm analytics table" || echo "No changes to commit"
           git push
