@@ -1,8 +1,6 @@
 ## 🚀 A comprehensive introduction to the template website /article-open
 
-<!-- STATS_START -->
-<!-- Thống kê sẽ được cập nhật tự động -->
-<!-- STATS_END -->
+<!-- npmjs-analytics-start --><!-- npmjs-analytics-end -->
 
 ## Project deployment guide in English (Original Vietnamese below)
 
