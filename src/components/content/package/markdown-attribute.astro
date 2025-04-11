@@ -1,0 +1,204 @@
+---
+import Gallery from '~/components/widgets/gallery.astro';
+import Hero from '~/components/widgets/hero.astro';
+
+import Button from '~/components/ui/button.astro';
+import CTA from '~/components/widgets/services.astro';
+import Question from '~/components/widgets/question.astro';
+
+function getRandomInt(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function formatNumber(num) {
+	return num.toString().padStart(3, '0');
+}
+
+function generateUniqueRandomNumbers(count, min, max) {
+	const numbers = new Set();
+
+	while (numbers.size < count) {
+		numbers.add(getRandomInt(min, max));
+	}
+
+	return Array.from(numbers);
+}
+
+const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
+const numbersspring = uniqueNumbers.slice(1, 5);
+const numberssummer = uniqueNumbers.slice(6, 10);
+const numbersautumn = uniqueNumbers.slice(11, 15);
+const numberswinter = uniqueNumbers.slice(16, 20);
+
+const springs = numbersspring.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Hình ảnh phân tích gói npm ${num}.`
+}));
+
+const summers = numberssummer.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Hình ảnh phân tích gói npm ${num}.`
+}));
+
+const autumns = numbersautumn.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Hình ảnh phân tích gói npm ${num}.`
+}));
+
+const winters = numberswinter.map(num => ({
+	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
+	alt: `Hình ảnh phân tích gói npm ${num}.`
+}));
+---
+
+<Gallery
+	springs={springs}
+	summers={summers}
+	autumns={autumns}
+	winters={winters}
+>
+	<Hero
+		title="Tiện ích Markdown Attribute Modifier"
+		subtitle="Công cụ Python tự động cập nhật ngày tháng và ảnh bìa trong tệp Markdown, hỗ trợ quản lý nội dung hiệu quả."
+		package="npm markdown-attribute"
+	/>
+</Gallery>
+
+<CTA
+	callToAction={{
+		text: 'Khám phá Markdown Attribute Modifier',
+		href: 'https://nhavantuonglai.com/package/markdown-attribute',
+	}}
+	items={[
+		{
+			title: 'Cập nhật nội dung Markdown dễ dàng',
+			description:
+				'Tiện ích Markdown Attribute Modifier tự động hóa việc cập nhật ngày tháng (pubDatetime) và ảnh bìa (image) trong tệp Markdown, giúp blogger và quản lý nội dung tiết kiệm thời gian. Sử dụng Python với giao diện dòng lệnh thân thiện, công cụ cho phép thay đổi ảnh bìa bằng URL tùy chỉnh hoặc mặc định, đồng thời cập nhật ngày xuất bản theo ngày hiện tại hoặc tùy chọn. Người dùng chỉ cần chọn thư mục, số dòng, và nhập thông tin cần thiết để xử lý hàng loạt tệp. Xử lý lỗi thông minh thông báo nếu thư mục không hợp lệ hoặc tệp trống, đảm bảo vận hành mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com và Instagram, hỗ trợ kỹ thuật qua email. Đây là giải pháp lý tưởng để tổ chức nội dung, đảm bảo thông tin trong tệp Markdown luôn chính xác, cập nhật và chuyên nghiệp.',
+		},
+		{
+			title: 'Tích hợp tài nguyên và hỗ trợ',
+			description:
+				'Markdown Attribute Modifier không chỉ là công cụ cập nhật thuộc tính mà còn kết nối người dùng với cộng đồng kỹ thuật. Sau mỗi thao tác, công cụ cung cấp tùy chọn truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai để khám phá tài liệu và hỗ trợ nhanh chóng. Được xây dựng bằng Python với thư viện chuẩn như os, glob, công cụ đảm bảo hiệu suất cao mà không cần cài đặt phụ thuộc phức tạp. Giao diện dòng lệnh trực quan cho phép thay đổi ảnh bìa hoặc ngày tháng trên nhiều tệp Markdown cùng lúc, với kết quả hiển thị số tệp đã xử lý, tăng tính minh bạch. Xử lý lỗi chi tiết, như thông báo khi định dạng ngày không hợp lệ, mang lại trải nghiệm đáng tin cậy. Công cụ này lý tưởng cho blogger, quản lý nội dung muốn tối ưu hóa tệp Markdown, đồng thời cung cấp kênh hỗ trợ kỹ thuật hiệu quả, chuyên nghiệp.',
+		},
+	]}
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-610.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+>
+	<Fragment slot="content">
+		Tiện ích Markdown Attribute Modifier tự động cập nhật ngày tháng, ảnh bìa trong tệp Markdown qua giao diện dòng lệnh. Được phát triển bởi @nhavantuonglai, công cụ hỗ trợ xử lý hàng loạt, kết nối nhavantuonglai.com để hỗ trợ kỹ thuật.
+	</Fragment>
+</CTA>
+
+<CTA
+	title="Giới thiệu về Markdown Attribute Modifier"
+	isReversed
+	items={[
+		{
+			title: 'Nguồn gốc và mục đích phát triển',
+			description:
+				'Tiện ích Markdown Attribute Modifier được @nhavantuonglai phát triển nhằm tự động hóa việc cập nhật thuộc tính trong tệp Markdown, giúp blogger và quản lý nội dung duy trì thông tin mới nhất. Sử dụng Python, công cụ hỗ trợ thay đổi ảnh bìa (image) bằng URL tùy chỉnh hoặc mặc định, và cập nhật ngày tháng (pubDatetime) theo ngày hiện tại hoặc nhập tay. Mục tiêu là đơn giản hóa việc quản lý nội dung, đảm bảo tính chính xác và nhất quán trong hệ thống tệp Markdown. Giao diện dòng lệnh thân thiện cho phép chọn thư mục, số dòng, với các giá trị mặc định tiện lợi. Xử lý lỗi thông minh thông báo khi thư mục không tồn tại hoặc ngày không hợp lệ, đảm bảo vận hành ổn định. Tích hợp tài nguyên từ nhavantuonglai.com và Instagram, công cụ mang lại trải nghiệm linh hoạt, minh bạch, hỗ trợ kỹ thuật nhanh chóng cho việc tổ chức nội dung chuyên nghiệp.',
+		},
+		{
+			title: 'Tầm quan trọng của quản lý nội dung',
+			description:
+				'Quản lý nội dung hiệu quả là yếu tố cốt lõi để duy trì thông tin chính xác, cập nhật trong các tệp Markdown, đặc biệt với blogger và quản lý nội dung. Markdown Attribute Modifier đơn giản hóa việc này bằng cách tự động cập nhật ảnh bìa và ngày tháng trên nhiều tệp cùng lúc. Công cụ cho phép thay đổi URL ảnh hoặc ngày xuất bản, với kết quả hiển thị số tệp đã xử lý, đảm bảo minh bạch. Giao diện dòng lệnh dễ dùng, hỗ trợ tùy chỉnh số dòng và giá trị mặc định, giúp tiết kiệm thời gian. Xử lý lỗi thông minh, như thông báo khi thư mục trống, tăng độ tin cậy. Được phát triển bởi @nhavantuonglai, công cụ tích hợp hỗ trợ qua nhavantuonglai.com, kết nối người dùng với cộng đồng kỹ thuật. Đây là giải pháp lý tưởng để tổ chức nội dung, nâng cao hiệu quả quản lý và đảm bảo tệp Markdown luôn chuyên nghiệp, đáng tin cậy.',
+		},
+	]}
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-442.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+></CTA>
+
+<CTA
+	title="Công dụng và tính năng của Markdown Attribute Modifier"
+	items={[
+		{
+			title: 'Công cụ cập nhật Markdown mạnh mẽ',
+			description:
+				'Tiện ích Markdown Attribute Modifier là giải pháp dòng lệnh hiệu quả, tự động cập nhật ảnh bìa và ngày tháng trong tệp Markdown. Sử dụng Python với thư viện os, glob, công cụ cho phép thay đổi URL ảnh bằng mẫu tùy chỉnh hoặc mặc định, và cập nhật pubDatetime theo ngày hiện tại hoặc nhập tay. Người dùng chọn thư mục, số dòng cần sửa, sau đó xử lý hàng loạt tệp chỉ trong vài bước. Kết quả hiển thị số tệp đã cập nhật, tăng tính minh bạch. Xử lý lỗi thông minh thông báo nếu thư mục không hợp lệ hoặc định dạng ngày sai, đảm bảo trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com, hỗ trợ kỹ thuật qua email. Đây là lựa chọn hoàn hảo để blogger, quản lý nội dung tổ chức tệp Markdown nhanh chóng, chính xác, nâng cao hiệu quả quản lý nội dung.',
+		},
+		{
+			title: 'Tính năng nổi bật',
+			description:
+				'Markdown Attribute Modifier nổi bật với khả năng cập nhật thuộc tính Markdown nhanh chóng, chính xác. Công cụ hỗ trợ thay đổi ảnh bìa bằng URL tùy chỉnh hoặc mặc định (như https://banmaixanh.vercel.app/image/cover/001-{number}.jpg), và cập nhật ngày tháng với định dạng chuẩn. Giao diện dòng lệnh thân thiện cho phép xử lý hàng loạt tệp, hiển thị số tệp đã sửa, đảm bảo minh bạch. Xử lý lỗi thông minh là điểm nhấn, thông báo rõ ràng khi thư mục trống hoặc ngày không hợp lệ, tăng độ tin cậy. Được phát triển bởi @nhavantuonglai, công cụ sử dụng Python với mã nguồn tối ưu, dễ mở rộng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng. Đây là giải pháp lý tưởng để tổ chức nội dung, giúp blogger và quản lý nội dung duy trì tệp Markdown chuyên nghiệp, cập nhật, đáp ứng mọi nhu cầu quản lý dữ liệu.',
+		},
+	]}
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-611.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+></CTA>
+
+<CTA
+	title="Quy trình sử dụng Markdown Attribute Modifier"
+	isReversed
+	items={[
+		{
+			title: 'Logic vận hành công cụ',
+			description:
+				'Tiện ích Markdown Attribute Modifier hoạt động theo quy trình rõ ràng, đảm bảo thao tác dễ dàng. Đầu tiên, người dùng chọn tính năng: thay đổi ảnh bìa hoặc ngày tháng; nhập "0" để thoát. Tiếp theo, nhập đường dẫn thư mục, mặc định là thư mục hiện tại, với tùy chọn quay lại. Công cụ yêu cầu chọn số dòng cần sửa, sau đó nhập URL ảnh hoặc ngày tháng (mặc định dùng hệ thống). Sau khi xử lý, công cụ hiển thị số tệp đã cập nhật. Xử lý lỗi thông minh thông báo nếu thư mục không tồn tại hoặc ngày không hợp lệ. Cuối cùng, người dùng có thể chạy lại, truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai. Quy trình lặp lại mượt mà, giúp cập nhật nội dung Markdown hiệu quả, minh bạch, phù hợp cho blogger và quản lý nội dung muốn duy trì thông tin chính xác, chuyên nghiệp.',
+		},
+		{
+			title: 'Phương pháp triển khai công cụ',
+			description:
+				'Markdown Attribute Modifier được xây dựng bằng Python, sử dụng thư viện os, glob để xử lý tệp Markdown. Mã nguồn chia thành các hàm chuyên biệt: replace_image_line cập nhật ảnh bìa, process_markdown_files thay đổi ngày tháng. Xử lý lỗi được tích hợp kỹ lưỡng, thông báo rõ ràng khi thư mục trống hoặc định dạng ngày sai. Giao diện dòng lệnh đơn giản cho phép chọn tính năng, nhập số dòng, với kết quả hiển thị số tệp đã xử lý. Công cụ hỗ trợ quay lại bước trước, tăng tính linh hoạt. Được phát triển bởi @nhavantuonglai, mã nguồn tối ưu, dễ bảo trì, cho phép mở rộng tính năng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật, đảm bảo trải nghiệm đáng tin cậy. Công cụ này giúp người dùng cập nhật thuộc tính Markdown nhanh chóng, chính xác, hỗ trợ quản lý nội dung chuyên nghiệp, hiệu quả.',
+		},
+	]}
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-526.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+></CTA>
+
+<CTA
+	title="Đánh giá trải nghiệm Markdown Attribute Modifier"
+	items={[
+		{
+			title: 'Phản hồi từ blogger và quản lý nội dung',
+			description:
+				'Tiện ích Markdown Attribute Modifier nhận được nhiều lời khen từ blogger và quản lý nội dung nhờ tính hiệu quả và dễ dùng. Theo Blogging Tools Review, công cụ này là giải pháp tuyệt vời để cập nhật ảnh bìa và ngày tháng mà không cần chỉnh sửa thủ công. Tùy chọn URL mặc định và xử lý hàng loạt tệp được đánh giá cao vì tiết kiệm thời gian. Xử lý lỗi thông minh, như thông báo khi thư mục trống, mang lại độ tin cậy. Một bài viết trên GitHub nhấn mạnh tích hợp tài nguyên nhavantuonglai.com, hỗ trợ trải nghiệm toàn diện. Mã nguồn mở cho phép tùy chỉnh linh hoạt, phù hợp với nhu cầu riêng. Với giao diện dòng lệnh thân thiện và hiệu suất cao, Markdown Attribute Modifier là công cụ không thể thiếu để tổ chức nội dung, giúp blogger và quản lý nội dung duy trì tệp Markdown chính xác, chuyên nghiệp.',
+		},
+		{
+			title: 'Ý kiến từ cộng đồng người dùng',
+			description:
+				'Cộng đồng người dùng Markdown Attribute Modifier bày tỏ sự hài lòng qua phản hồi trên diễn đàn và GitHub. Một người dùng chia sẻ: Chỉ vài bước, tôi đã cập nhật ngày tháng cho hàng loạt bài viết – thật nhanh chóng! Khả năng thay đổi ảnh bìa bằng URL tùy chỉnh và kết quả hiển thị số tệp xử lý được đánh giá cao vì minh bạch. Giao diện dòng lệnh trực quan, xử lý lỗi mượt mà nhận được nhiều lời khen. Tích hợp nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng, nâng cao trải nghiệm. Phản hồi tích cực này khẳng định giá trị của công cụ, là động lực để đội ngũ @nhavantuonglai tiếp tục cải tiến. Markdown Attribute Modifier không chỉ giúp quản lý nội dung hiệu quả mà còn mang lại trải nghiệm đáng tin cậy, hỗ trợ người dùng duy trì tệp Markdown chuyên nghiệp, cập nhật.',
+		},
+	]}
+	image={{
+		src: 'https://banmaixanh.vercel.app/image/cover/001-022.jpg',
+		alt: 'nhan-tin-instagram',
+	}}
+></CTA>
+
+<Question
+	title="Câu hỏi thường gặp về Markdown Attribute Modifier"
+	items={[
+		{
+			title: 'Làm thế nào để cài đặt công cụ?',
+			description:
+				'Để cài đặt Markdown Attribute Modifier, chạy lệnh npm install markdown-attribute trong terminal. Sao chép repository và chạy script Python trực tiếp. Công cụ chỉ cần Python, không yêu cầu thư viện phụ thuộc. Khởi động để chọn tính năng cập nhật.',
+			icon: 'tabler:chevrons-right',
+		},
+		{
+			title: 'Lỗi thư mục không tồn tại xử lý ra sao?',
+			description:
+				'Khi công cụ báo thư mục không tồn tại, kiểm tra lại đường dẫn đã nhập. Markdown Attribute Modifier thông báo chi tiết nếu thư mục không hợp lệ. Nhập lại đường dẫn đúng hoặc liên hệ info@nhavantuonglai.com để được hỗ trợ thêm.',
+			icon: 'tabler:chevrons-right',
+		},
+		{
+			title: 'Tại sao không tìm thấy tệp để xử lý?',
+			description:
+				'Nếu công cụ báo không tìm thấy tệp, kiểm tra thư mục có chứa tệp Markdown không. Markdown Attribute Modifier thông báo nếu thư mục trống hoặc tệp sai định dạng. Chọn thư mục đúng hoặc liên hệ info@nhavantuonglai.com để hỗ trợ.',
+			icon: 'tabler:chevrons-right',
+		},
+		{
+			title: 'Tôi có thể tùy chỉnh công cụ này không?',
+			description:
+				'Markdown Attribute Modifier là mã nguồn mở. Bạn có thể chỉnh sửa index.py để thay đổi logic, thêm tính năng hoặc tùy chỉnh URL mặc định. Fork repository từ GitHub, chỉnh sửa mã nguồn và chạy lại bằng Python để tùy chỉnh.',
+			icon: 'tabler:chevrons-right',
+		},
+	]}
+></Question>
