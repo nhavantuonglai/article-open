@@ -36,7 +36,8 @@
 		"lru-cache": "11.1.0",
 		"rehype-plugin-image-native-lazy-loading": "1.2.0",
 		"table-of-content": "^1.0.6",
-		"unpic": "4.1.2"
+		"unpic": "4.1.2",
+		"apexcharts": "^3.37.2"
 	},
 	"peerDependencies": {
 		"react": "18.2.0",
