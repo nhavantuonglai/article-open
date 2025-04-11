@@ -2,16 +2,11 @@
 import { Icon } from 'astro-icon/components';
 import Image from '~/components/common/image.astro';
 import SocialShare from '~/components/common/social.astro';
-
-import Table from '~/components/article/table.astro';
 import Scrollon from '~/components/article/scrollon.astro';
-
 import PostTags from '~/components/article/tags.astro';
 import Anticopy from '~/components/article/anticopy.astro';
-
 import { Slideup } from '~/assets/framer.jsx';
 
-import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
 
 export interface Props {
@@ -24,11 +19,8 @@ const { Content } = post;
 ---
 
 <header class="relative not-prose w-full h-screen mb-6">
-
 	{post.image ? (
-
 		<div class="relative w-full h-full">
-
 			<Image
 				src={post.image}
 				class="absolute inset-0 object-cover w-full h-full blur-[3px]"
@@ -40,19 +32,15 @@ const { Content } = post;
 				loading="eager"
 				decoding="async"
 			/>
-
 			<div class="absolute inset-0 bg-black/30 dark:bg-black/50"></div>
-					
 			<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 gap-8 h-full items-center">
 				<div>
 					<h1 class="text-white mb-4">{post.title}</h1>
-							
 					<p class="text-white">
 						<time datetime={post.pubDatetime}>
 							{`${new Date(post.pubDatetime)
 								.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
-								.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`
-							}
+								.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`}
 						</time>
 					</p>
 					<p class="text-white">{post.description}</p>
@@ -60,75 +48,51 @@ const { Content } = post;
 						{post.readingTime && (
 							<><span>{post.readingTime}</span> phút đọc</>
 						)}
-							&nbsp;· <span id="counter"></span> lượt xem.
+						 · <span id="counter"></span> lượt xem.
 					</p>
 				</div>
 			</div>
-
 		</div>
-
 	) : (
-
 		<div class="border-t dark:border-slate-700"/>
-
 	)}
-
 </header>
 
 <section class="py-20 max-w-7xl mx-auto pb-10">
-
 	<article>
-		
 		<div class="max-w-8xl mx-auto px-4 sm:px-6">
-
 			<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
-
 				<div class="relative">
-
 					<div id="table-wrapper">
-
 						<div class="relative mt-6">
-
 							<Slideup client:visible>
-
-								<Table/>
-
 								<Scrollon/>
-
 							</Slideup>
-
 						</div>
-
 					</div>
-
 				</div>
-
 				<div>
-
+					<!-- Phần tử để chèn TOC -->
+					<div id="index" class="max-w-3xl mx-auto mb-6"></div>
 					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6">
-
 						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
-
 						<Anticopy/>
-
 					</div>
-
 					<PostTags tags={post.tags}/>
-
 					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500"/>
-
 				</div>
-
 			</div>
-
 		</div>
-
 	</article>
-
 </section>
 
-<script>
+<!-- Tích hợp table-of-content từ npm -->
+<script type="module">
+  import { initTableOfContents } from 'table-of-content';
+  initTableOfContents();
+</script>
 
+<script>
 	document.addEventListener('DOMContentLoaded', () => {
 		let count = localStorage.getItem('pageCounter');
 		if (count === null) {
@@ -144,5 +108,4 @@ const { Content } = post;
 			counterElement.textContent = count;
 		}
 	});
-
 </script>

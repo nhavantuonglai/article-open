@@ -1,97 +1,61 @@
-<button id="toc-button" title="Xem mục lục." class="fixed w-10 h-10 bottom-[100px] bg-primary rounded-full cursor-pointer hidden shadow-md"></button>
+<p class="max-w-3xl mx-auto" id="index">
 
-<div id="toc-content"></div>
+	<script type="module">
 
-<div id="toc-container">
-
-	<script>
-
-		document.addEventListener("DOMContentLoaded", function() {
-			const tocButton = document.getElementById('toc-button');
-			const tocContent = document.getElementById('toc-content');
-			const contentElement = document.querySelector(".prose");
+		function generateTOC() {
+			const index = document.getElementById('index');
 			const headings = document.querySelectorAll('h2, h3, h4');
-			
-			if (headings.length > 0) {
-				const tocList = document.createElement('ul');
-				
-				let visibleHeadings = Math.max(0, headings.length - 20);
-				
-				for (let i = 0; i < visibleHeadings; i++) {
-					const heading = headings[i];
-					const listItem = document.createElement('li');
-					const anchor = document.createElement('a');
-					anchor.href = `#${heading.id}`;
-					anchor.textContent = heading.textContent;
-					
-					listItem.appendChild(anchor);
+
+			const tocList = document.createElement('ul');
+			let currentParent = null;
+
+			headings.forEach(heading => {
+				const listItem = document.createElement('li');
+				const anchor = document.createElement('a');
+				anchor.href = `#${heading.id}`;
+				anchor.textContent = heading.textContent;
+				listItem.appendChild(anchor);
+
+				switch (heading.tagName.toLowerCase()) {
+					case 'h2':
+						break;
+					case 'h3':
+						listItem.style.fontStyle = 'italic';
+						break;
+					case 'h4':
+						break;
+				}
+
+				if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
+					if (currentParent) {
+						const subList = currentParent.querySelector('ul') || document.createElement('ul');
+						subList.appendChild(listItem);
+						currentParent.appendChild(subList);
+					}
+				} else {
 					tocList.appendChild(listItem);
+					currentParent = listItem;
 				}
-				
-				tocContent.appendChild(tocList);
-				
-				function checkContentVisibility() {
-					if (!contentElement) return false;
-					const rect = contentElement.getBoundingClientRect();
-					return rect.top < window.innerHeight && rect.bottom > 0 && 
-							rect.top < 0 && rect.bottom > 500;
-				}
-				
-				window.addEventListener('scroll', function() {
-					if (checkContentVisibility()) {
-						tocButton.style.display = 'block';
-					} else {
-						tocButton.style.display = 'none';
-						tocContent.style.display = 'none';
-					}
-				});
-				
-				setTimeout(() => window.dispatchEvent(new Event('scroll')), 100);
-				
-				let tocVisible = false;
-				tocButton.addEventListener('click', function() {
-					tocVisible = !tocVisible;
-					tocContent.style.display = tocVisible ? 'block' : 'none';
-				});
-				
-				document.addEventListener('click', function(e) {
-					if (tocVisible && e.target !== tocButton && !tocContent.contains(e.target)) {
-						tocVisible = false;
-						tocContent.style.display = 'none';
-					}
-				});
+			});
+
+			index.appendChild(tocList);
+
+			hideLastTOCItems(tocList, 20);
+		}
+
+		function hideLastTOCItems(tocList, count) {
+			const items = tocList.querySelectorAll('li');
+			const totalItems = items.length;
+
+			const itemsToHide = Math.min(count, totalItems);
+
+			for (let i = totalItems - itemsToHide; i < totalItems; i++) {
+				items[i].style.display = 'none';
 			}
-		});
+		}
+
+		window.onload = generateTOC;
 
 	</script>
 
-</div>
-
-<style>
-
-	#toc-button {
-		width: 40px;
-		height: 40px;
-		z-index: 2;
-	}
-
-	#toc-content {
-		position: fixed;
-		bottom: 150px;
-		width: 350px;
-		height: 500px;
-		z-index: 2;
-		overflow-y: auto;
-		background-color: white;
-		padding: 10px;
-		border-radius: 10px;
-		display: none;
-		scrollbar-width: none;
-		-ms-overflow-style: none;
-	}
-
-	#toc-content::-webkit-scrollbar {
-		display: none;
-	}
-
-</style>
+</p>

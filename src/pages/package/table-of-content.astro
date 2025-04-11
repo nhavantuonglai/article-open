@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import NPMJS from '~/components/content/package/table-of-content.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Tiện ích JavaScript tạo mục lục (ToC)',
+	description: 'Trình tạo mục lục (Table of Contents – ToC) là một gói JavaScript tạo ra một nút và bảng mục lục (TOC) nổi cho các website.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<NPMJS/>
+
+	<Action/>
+
+</Layout>
