@@ -1,8 +1,8 @@
-const fs = require('fs');
-const path = require('path');
+import { cpSync, existsSync } from 'fs';
+import { join } from 'path';
 
 // Thư mục nguồn (trong node_modules/nhavantuonglai)
-const sourceDir = path.join(__dirname, '..');
+const sourceDir = join(new URL(import.meta.url).pathname, '..');
 // Thư mục đích (thư mục gốc của dự án cài đặt package)
 const destDir = process.cwd();
 
@@ -17,17 +17,16 @@ const itemsToCopy = [
 ];
 
 itemsToCopy.forEach(item => {
-    const sourcePath = path.join(sourceDir, item);
-    const destPath = path.join(destDir, item);
+    const sourcePath = join(sourceDir, item);
+    const destPath = join(destDir, item);
 
     // Kiểm tra xem tệp/thư mục tồn tại
-    if (fs.existsSync(sourcePath)) {
-        // Sao chép đệ quy (cho thư mục) hoặc trực tiếp (cho tệp)
-        fs.cpSync(sourcePath, destPath, { recursive: true, force: false }, (err) => {
-            if (err) {
-                console.error(`Lỗi khi sao chép ${item}:`, err);
-            }
-        });
-        console.log(`Đã sao chép ${item} ra thư mục gốc`);
+    if (existsSync(sourcePath)) {
+        try {
+            cpSync(sourcePath, destPath, { recursive: true, force: false });
+            console.log(`Đã sao chép ${item} ra thư mục gốc`);
+        } catch (err) {
+            console.error(`Lỗi khi sao chép ${item}:`, err);
+        }
     }
 });
