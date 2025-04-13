@@ -18,7 +18,7 @@
 		"config.yaml",
 		"navigation.js",
 		"types.d.ts",
-		"scripts/"
+		"scripts/",
 	]
     "scripts": {
         "dev": "astro dev",
