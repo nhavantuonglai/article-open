@@ -1,69 +1,279 @@
 ---
 pubDatetime: 2025-03-25T10:10:00Z
-title: 5 chuyện cười triết học có thể dạy bạn một điều gì đó
-description: Có 5 câu chuyện triết học sẽ cần một số giải thích. Sau khi đọc tất cả, bạn không chỉ có vài tràng cười mà còn hiểu rõ hơn về triết học và tại sao nó quan trọng.
+title: A comprehensive introduction to the template website article-open
+description: This project is developed using Astro 5.0 and Tailwind CSS, creating a modern website template that is user-friendly and optimized for SEO.
 image: https://banmaixanh.vercel.app/image/cover/001-770.jpg
 tags:
-  - viet lach
-  - xa hoi hoc
-  - tam ly hoc
-  - tu duy
-  - triet hoc
-  - truyen cuoi
-  - truyen cuoi triet hoc
-  - thales
+  - nhavantuonglai
+  - huong dan su dung
 ---
 
-_Có 5 câu chuyện triết học sẽ cần một số giải thích. Sau khi đọc tất cả, bạn không chỉ có vài tràng cười mà còn hiểu rõ hơn về triết học và tại sao nó quan trọng._
+_This project is developed using Astro 5.0 and Tailwind CSS, creating a modern website template that is user-friendly and optimized for SEO._
 
-## Thực tại được tạo thành từ gì?
+🚀 A comprehensive introduction to the template website /article-open.
 
-Thales bước vào một quán cà phê và gọi một tách. Ông uống một ngụm và lập tức nhổ ra với vẻ ghê tởm, ngước lên nhìn người pha chế và hét: _Cái gì đây, nước à?_
+## Project deployment guide in English (Original Vietnamese below)
 
-Thales thường được gọi là _nhà triết học đầu tiên_ vì ông là nhà triết học sớm nhất mà chúng ta biết tên. Nhưng ông còn là nhiều thứ khác ngoài một nhà triết học; ông còn tham gia vào kinh doanh, kỹ thuật, thiên văn học, khí tượng học và chính sách công.
+_Article Open_ is the open source version of _Article,_ the core code of [nhavantuonglai.com](https://nhavantuonglai.com/). This project is developed using Astro 5.0 and Tailwind CSS, creating a modern website template that is user-friendly and optimized for SEO.
 
-Ý tưởng nổi tiếng nhất của ông là về siêu hình học; ông cho rằng nước là nền tảng của tất cả các chất khác. Dù thứ gì có vẻ không liên quan đến nước (hãy nghĩ về bụi khô hoặc lửa), Thales vẫn lập luận rằng chúng xuất phát từ nước và về cơ bản vẫn là nước, bất kể các đặc tính của chúng có thay đổi ra sao.
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
-Aristotle kể rằng đây là lần đầu tiên một nhà tư tưởng cố gắng giải thích thế giới và cách nó vận hành theo các quy luật tự nhiên. Cho đến ngày nay, mọi khoa học và triết học tìm cách khám phá thực tại ở mức cơ bản nhất đều tiếp tục công việc của Thales, dù họ đã từ lâu bác bỏ đề xuất của ông.
+### ✨ Key Features
 
-## Làm sao tôi có thể biết bất cứ điều gì?
+– Optimized code structure: Simple, accessible, and easy to maintain.
 
-Descartes dẫn người yêu, Jeanne, đến một nhà hàng nhân ngày sinh nhật của cô. Người phục vụ rượu đưa họ danh sách rượu, và Jeanne yêu cầu chọn loại Burgundy đắt nhất trong danh sách. _Tôi không nghĩ thế!_ Descartes phản ứng giận dữ, và ông biến mất.
+– Synchronized components: Consistent structure, implementation, and effects, making everything coherent and uniform.
 
-Descartes là một triết gia người Pháp đã cố gắng tìm nền tảng cho tri thức của mình, giải quyết vấn đề giữa tâm trí và cơ thể, đồng thời phát minh ra triết học hiện đại trong quá trình đó. Ông cũng là người sáng tạo ra hệ tọa độ mà bạn đã sử dụng rất nhiều trong hình học trung học.
+– SEO optimization: Standard schema, meta tag generator for each page and article, helping the website to be easily indexed and achieve better rankings.
 
-Câu nói nổi tiếng nhất của ông, _Tôi tư duy, vậy nên tôi tồn tại,_ xuất phát từ cuốn sách _Suy tưởng siêu hình._ Trong cuốn sách này, ông cố gắng hoài nghi mọi thứ mà ông nghĩ mình biết cho đến khi tìm ra điều không thể nghi ngờ. Hóa ra, điều đó là sự tồn tại của chính ông. Ngay cả khi ông nghi ngờ tính chính xác của mọi thứ ông thấy, suy nghĩ và tin tưởng, ông vẫn phải tồn tại để nghi ngờ điều đó. Sau đó, ông sử dụng những lập luận khá yếu để trở lại tin tưởng vào mọi thứ, nhưng đó là một câu chuyện khác.
+– Motion effects: Creating a modern and user-friendly interface.
 
-Descartes đã kế thừa một truyền thống triết học dài hơi về việc không chỉ hỏi điều gì tồn tại mà còn làm thế nào chúng ta có thể biết. Trong khi ông kết luận rằng chúng ta có thể tin tưởng vào các giác quan của mình, những người khác cho rằng chúng ta không thể hoặc không có thế giới thực nào để các giác quan của chúng ta phát hiện.
+– Impressive PageSpeed Insights: Ensuring optimal page loading speed.
 
-## Điều gì là đúng đắn để làm?
+– Dark Mode: Supporting dark mode to enhance user experience.
 
-Jeremy Bentham bước lên quầy của một quán cà phê, cầm theo một tờ 50 đô la. _Thức uống rẻ nhất ở đây là gì?_ ông hỏi. _Đó là cà phê rang decaf, giá chỉ 1.99 đô,_ người pha chế trả lời. _Tốt,_ Bentham nói và đưa cho cô 50 đô. _Tôi sẽ mua cho 25 người tiếp theo đến đây._
+– Starfield: Beautiful starry background effect.
 
-Jeremy Bentham là người sáng lập chủ nghĩa vị lợi, một triết lý và lý thuyết đạo đức cho rằng điều tốt duy nhất là hạnh phúc và điều đúng đắn cần làm là tối đa hóa nó. Ông cũng là một nhà cải cách xã hội khá lập dị và là người cố vấn của một số nhà tư tưởng xuất sắc người Anh.
+– Supernova: Modern and impressive supernova loading effect.
 
-Chủ nghĩa vị lợi coi hạnh phúc của mọi người là như nhau. Do đó, câu chuyện hài này ám chỉ việc Bentham biết ông có thể tạo ra nhiều hạnh phúc hơn bằng cách mua cà phê cho những người khác thay vì tiêu số tiền đó cho bản thân. Ý tưởng rằng chúng ta nên làm từ thiện vẫn là một phần lớn của chủ nghĩa vị lợi và là cốt lõi trong sự nghiệp của nhà triết học Peter Singer.
+### 🛠️ Operational Resources
 
-Các lý thuyết đạo đức quan trọng khác của Bentham bao gồm chủ nghĩa tuân thủ, dựa trên việc tuân theo các quy luật phổ quát, và đạo đức đức hạnh, lập luận rằng cần xây dựng một tính cách mạnh mẽ. Mặc dù cả ba hệ thống này đồng ý về nhiều điều, những khác biệt nhỏ của chúng có thể dẫn đến những bất đồng lớn.
+– Framework: [Astro](https://nhavantuonglai.com/article/astro) combined with Tailwind CSS.
 
-## Xã hội nên được tổ chức như thế nào?
+– Hosting: [Vercel](https://nhavantuonglai.com/article/vercel).
 
-Pierre Proudhon bước lên quầy và gọi một tách trà xanh Tazo với xi rô hạt toffee, hai shot espresso và hỗn hợp gia vị bí ngô. Người pha chế cảnh báo rằng điều này sẽ rất tệ. _Pah!_ Proudhon bĩu môi. _Trà hợp pháp là trộm cắp!_
+– Data management: GitHub.
 
-Pierre Proudhon là một triết gia vô chính phủ người Pháp và là người đầu tiên sử dụng thuật ngữ _vô chính phủ._ Triết lý chính trị của ông là nền tảng cho tư tưởng vô chính phủ hiện đại và đã ảnh hưởng đến nhiều nhà tư tưởng khác. Trong một trường hợp hiếm có đối với một triết gia chính trị, và còn hiếm hơn đối với một người vô chính phủ, ông đã từng là một nhà lập pháp trong chính phủ Pháp.
+– Status monitoring: Openstatus.
 
-Một trong những câu nói nổi tiếng của ông là _Tài sản là trộm cắp._ Bằng _tài sản,_ ông không có ý nói đến chiếc áo sơ mi hay bàn chải đánh răng của bạn, mà là những thứ như đất đai hoặc nhà máy. Để sở hữu nhưng không trực tiếp sử dụng những thứ này thường có nghĩa là bạn đang thuê người khác làm việc cho mình và giữ lại một phần công sức của họ để làm lợi nhuận. Proudhon coi điều này là không công bằng. Xã hội lý tưởng của ông sẽ có các hợp tác xã, cộng đồng, và các hội tương trợ, cho phép người lao động giữ lại thành quả lao động của chính họ.
+– Copyright protection: DMCA.
 
-Các nhà tư tưởng khác đã đưa ra những cách tổ chức xã hội rất khác nhau. Robert Nozick lập luận rằng quyền sở hữu tư nhân là hợp lý và thuế là bạo quyền. John Rawls lập luận rằng dân chủ xã hội là đỉnh cao của công lý. Hegel cho rằng chế độ quân chủ lập hiến là ý tưởng tốt cuối cùng trong triết học chính trị mà ai đó có thể đưa ra.
+Resources are utilized to optimize resource usage, ensure stable website operation, and minimize costs as much as possible.
 
-Mặc dù họ không thể đồng ý, những triết gia này đặt ra những câu hỏi quan trọng về cách thế giới hoạt động và làm thế nào chúng ta có thể cải thiện nó.
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
-## Tại sao những vấn đề này quan trọng?
+### 🚀 Deployment Guide
 
-Morty về nhà và thấy vợ mình và bạn thân nhất của mình, Lou, khỏa thân trên giường. Ngay khi Morty sắp mở miệng, Lou nhảy ra khỏi giường và nói: _Trước khi cậu nói gì, bạn thân mến, cậu sẽ tin điều gì, tôi hay đôi mắt của cậu?_
+#### Direct Deployment via Vercel
 
-Câu chuyện này được mượn từ cuốn sách _Plato và Platypus Bước vào một quán bar:_ Hiểu triết học qua những câu chuyện hài, một cuốn sách của Thomas Cathcart và Daniel Klein giúp giải thích lịch sử triết học qua những câu chuyện hài hước.
+This is the fastest way to experience \article-open:
 
-Như chúng ta đã thấy với Descartes, vấn đề về thông tin nào chúng ta nên tin tưởng và làm thế nào để biết nó là đúng là một vấn đề quan trọng. Trong trường hợp này, thông tin từ giác quan có thể chấp nhận được, nhưng Morty giờ sẽ phải chuyển sang các nhà tư tưởng như Aristotle, Bentham và Kant để quyết định điều nên làm tiếp theo.
+1. [Register and log in to Vercel](https://vercel.com/new).
+
+2. Select New Project → Import Git Repository.
+
+3. Enter the repository URL:
+
+```
+https://github.com/nhavantuonglai/article-open.git
+```
+
+4. Vercel will automatically create a new repository in your GitHub and deploy the website.
+
+> Note: This method helps you quickly experience the interface, but update and maintenance capabilities will be limited.
+
+#### Indirect Deployment via GitHub (Recommended)
+
+This method allows you full control over the source code:
+
+1. Clone the repository to your personal GitHub account:
+
+```
+gh repo clone nhavantuonglai/article-open
+```
+
+2. Log in to Vercel with your GitHub account.
+
+3. Select Import Repository and choose the repository you just cloned.
+
+4. After deployment, customize the subdomain or assign a custom domain in the Domain section.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### 💻 Local Development Guide
+
+#### Install necessary tools:
+
+– [Visual Studio Code](https://code.visualstudio.com/).
+
+– [Node.js](https://nodejs.org/).
+
+#### Install dependencies:
+
+```bash
+npm install
+```
+
+#### Run development environment:
+
+```bash
+npm run dev
+```
+
+#### Access the local website at:
+
+```
+http://localhost:4321/
+```
+
+To update displayed content, find the corresponding file and folder to adjust. After saving, the interface will automatically update.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### 📜 Development History
+
+The \article-open project is an open version of \article, developed through several stages:
+
+– v25.04.xx (Current): Second interface overhaul version.
+
+– v24.0x.xx: First interface overhaul version, integrating Astro 5.0, Tailwind, and Vercel.
+
+– v23.12.xx: First dynamic website version, integrating Astro and Firebase.
+
+– v23.11.xx: Static website version.
+
+– v23.10.0x: Initial version, focusing on the CMS library.
+
+### 📞 Contact & Support
+
+– Email: [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
+
+– Website: [nhavantuonglai.com](https://nhavantuonglai.com/).
+
+If you have any questions or suggestions, don't hesitate to contact us for the quickest support.
+
+⭐ Don't forget to star this repository if you find it useful!
+
+## Hướng dẫn triển khai dự án (bằng tiếng Việt)
+
+_Article Open_ là phiên bản mã nguồn mở của _Article_ (mã nguồn chính của [nhavantuonglai.com](https://nhavantuonglai.com/)). Dự án này được phát triển bằng Astro 5.0 và Tailwind CSS, tạo nên template website hiện đại, thân thiện với người dùng và công cụ SEO.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### ✨ Tính năng nổi bật
+
+– Cấu trúc code tối ưu: Đơn giản, dễ tiếp cận và dễ bảo trì.
+
+– Components đồng bộ: Đồng nhất cấu trúc, cách triển khai và hiệu ứng, giúp mọi thứ trở nên liền lạc, nhất quán.
+
+– Tối ưu SEO: Schema tiêu chuẩn, meta tag generator trong từng trang, bài viết giúp website dễ dàng được index và có thứ hạng tốt hơn.
+
+– Hiệu ứng chuyển động: Tạo giao diện hiện đại và thân thiện với người dùng.
+
+– PageSpeed Insights ấn tượng: Đảm bảo tốc độ tải trang tối ưu.
+
+– Dark Mode: Hỗ trợ chế độ tối, tăng trải nghiệm người dùng.
+
+– Starfield: Hiệu ứng nền sao tỏa sáng đẹp mắt.
+
+– Supernova: Hiệu ứng tải Siêu tân tinh sáng hiện đại, ấn tượng.
+
+### 🛠️ Nguồn lực vận hành
+
+– Framework: [Astro](https://nhavantuonglai.com/article/astro) kết hợp với Tailwind CSS.
+
+– Hosting: [Vercel](https://nhavantuonglai.com/article/vercel).
+
+– Quản lý dữ liệu: GitHub.
+
+– Theo dõi trạng thái: Openstatus.
+
+– Bảo vệ bản quyền: DMCA.
+
+Nguồn lực được khai thác, sử dụng nhằm tối ưu tài nguyên sử dụng, đảm bảo website vận hành ổn định và ít tiêu hao chi phí nhất có thể.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### 🚀 Hướng dẫn triển khai
+
+#### Triển khai trực tiếp qua Vercel
+
+Đây là cách nhanh nhất để trải nghiệm \article-open:
+
+1. [Đăng ký và đăng nhập Vercel](https://vercel.com/new).
+
+2. Chọn New Project → Import Git Repository.
+
+3. Nhập URL repository:
+
+```
+https://github.com/nhavantuonglai/article-open.git
+```
+
+4. Vercel sẽ tự động tạo repository mới trong GitHub của bạn và deploy website.
+
+> Lưu ý: Phương pháp này giúp bạn nhanh chóng trải nghiệm giao diện, nhưng khả năng cập nhật và bảo trì sẽ bị hạn chế.
+
+#### Triển khai gián tiếp thông qua GitHub (Khuyến nghị)
+
+Cách này cho phép bạn kiểm soát đầy đủ mã nguồn:
+
+1. Clone repository về tài khoản GitHub cá nhân:
+
+```
+gh repo clone nhavantuonglai/article-open
+```
+
+2. Đăng nhập Vercel bằng tài khoản GitHub.
+
+3. Chọn Import Repository và chọn repository vừa clone.
+
+4. Sau khi deploy, tùy chỉnh subdomain hoặc gán domain tùy chỉnh trong mục Domain.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### 💻 Hướng dẫn phát triển local
+
+#### Cài đặt các công cụ cần thiết:
+
+– [Visual Studio Code](https://code.visualstudio.com/).
+
+– [Node.js](https://nodejs.org/).
+
+#### Cài đặt dependencies:
+
+```bash
+npm install
+```
+
+#### Chạy môi trường phát triển:
+
+```bash
+npm run dev
+```
+
+#### Truy cập website local tại:
+
+```
+http://localhost:4321/
+```
+
+Để cập nhật nội dung hiển thị, tìm đúng file và folder tương ứng để điều chỉnh. Sau khi lưu, giao diện sẽ tự động cập nhật.
+
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+
+### 📜 Lịch sử phát triển
+
+Dự án \article-open là phiên bản mở của \article, được phát triển qua nhiều giai đoạn:
+
+– v25.04 (Hiện tại): Phiên bản đại tu giao diện lần 2.
+
+– v24.0x.xx: Phiên bản đại tu giao diện lần 1, kết hợp Astro 5.0, Tailwind và Vercel.
+
+– v23.12.xx: Phiên bản website động đầu tiên, kết hợp Astro và Firebase.
+
+– v23.11.xx: Phiên bản website tĩnh.
+
+– v23.10.0x: Phiên bản đầu tiên, tập trung vào thư viện CMS.
+
+### 📞 Liên hệ & Hỗ trợ
+
+– Email: [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
+
+– Website: [nhavantuonglai.com](https://nhavantuonglai.com/).
+
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, đừng ngần ngại liên hệ với chúng tôi để được hỗ trợ nhanh nhất.
+
+⭐ Đừng quên star repository này nếu bạn thấy nó hữu ích!
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-147.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

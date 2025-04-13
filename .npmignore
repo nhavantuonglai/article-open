@@ -1,0 +1,11 @@
+node_modules/
+.astro/
+.vscode/
+.vercel/
+*.log
+dist/
+src/pages/analytics/
+src/pages/package/
+src/components/analytics/
+src/components/content/analytics/
+src/components/content/analytics/package
