@@ -10,15 +10,16 @@
         "node": "22.x",
         "npm": ">=10.x"
     },
-    "files": [
-        "src/",
-        "public/",
-        "dist/",
-        "astro.config.mjs",
-        "config.yaml",
-        "navigation.js",
-        "types.d.ts"
-    ],
+	"files": [
+		"src/",
+		"public/",
+		"dist/",
+		"astro.config.mjs",
+		"config.yaml",
+		"navigation.js",
+		"types.d.ts",
+		"scripts/"
+	]
     "scripts": {
         "dev": "astro dev",
         "build": "astro build",
@@ -28,7 +29,7 @@
         "typecheck": "tsc --noEmit",
         "validate": "npm run lint && npm run typecheck",
         "prepublishOnly": "npm run build",
-        "postinstall": "node ./scripts/copy-files.js" // Script sao chép tệp
+        "postinstall": "node ./scripts/copy-files.js"
     },
     "dependencies": {
         "@astrojs/react": "4.2.3",
