@@ -1,6 +1,6 @@
 {
     "name": "nhavantuonglai",
-    "version": "25.04.15",
+    "version": "25.04.16", // Tăng version để publish lại
     "description": "Viết là nuôi dưỡng niềm đam mê, chữ để ươm mầm điều yêu thích. Học và hoàn thiện kỹ năng mỗi ngày không mong gì hơn đó là điều duy nhất người ta nhớ để nhắc về.",
     "private": false,
     "type": "module",
@@ -10,16 +10,15 @@
         "node": "22.x",
         "npm": ">=10.x"
     },
-	"files": [
-		"src/",
-		"public/",
-		"dist/",
-		"astro.config.mjs",
-		"config.yaml",
-		"navigation.js",
-		"types.d.ts",
-		"scripts/",
-	]
+    "files": [
+        "src",
+        "public",
+        "astro.config.mjs",
+        "config.yaml",
+        "navigation.js",
+        "types.d.ts",
+        "scripts"
+    ],
     "scripts": {
         "dev": "astro dev",
         "build": "astro build",
