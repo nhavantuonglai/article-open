@@ -22,7 +22,7 @@ export interface Props {
 
 const {
 	id = "header",
-	links = headerdata.links,
+	links = headerData.links,
 } = Astro.props;
 
 const pathcurrent = `/${trimSlash(new URL(Astro.url).pathname)}`;
@@ -69,6 +69,7 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 														{ "aw-link-active": hrefchild === pathcurrent },
 													]}
 													href={hrefchild}
+													target="_blank"
 												>
 													<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
 														{textchild}
@@ -85,6 +86,7 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 																		{ "aw-link-active": hrefgrand === pathcurrent },
 																	]}
 																	href={hrefgrand}
+																	target="_blank"
 																>
 																	<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
 																		{textgrand}
@@ -107,6 +109,7 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 										{ "aw-link-active": href === pathcurrent },
 									]}
 									href={href}
+									target="_blank"
 								>
 									{text}
 								</a>
@@ -125,6 +128,7 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 										{ "aw-link-active": idx === pathlink.slice(-2).length - 1 },
 									]}
 									href={segment.path}
+									target="_blank"
 								>
 									{`/${segment.text}`}
 								</a>
@@ -134,7 +138,7 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 					) : (
 						<li>
 
-							<a class:list={[menuitem, "aw-link-active"]} href="/">
+							<a class:list={[menuitem, "aw-link-active"]} href="/" target="_blank">
 								/
 							</a>
 

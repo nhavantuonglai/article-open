@@ -67,7 +67,5 @@ ui:
         default: rgb(33 39 55)
         heading: rgb(248 243 240)
         muted: rgb(33 39 55 / 66%)
-        bgPage: rgb(248 243 240)
+        page: rgb(248 243 240)
         primary: rgb(255 114 94)
-        secondary: rgb(255 114 94)
-        accent: rgb(255 114 94)

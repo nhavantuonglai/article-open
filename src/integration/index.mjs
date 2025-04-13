@@ -35,7 +35,6 @@ const updateRobotsTxt = (config, logger) => {
 			fs.writeFileSync(robotsTxtFileInOut, updatedContent, { encoding: 'utf8', flags: 'w' });
 		}
 	} catch (err) {
-		// Handle error silently
 	}
 };
 

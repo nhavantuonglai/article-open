@@ -67,7 +67,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 					{secondaryLinks.length > 0 && (
 						<div class="flex flex-wrap gap-4">
 							{secondaryLinks.map(({ text, href }) => (
-								text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} set:html={text}/>
+								text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} target="_blank" set:html={text}/>
 							))}
 						</div>
 					)}
@@ -91,7 +91,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 
 							<li>
 
-								<a class="text-sm text-gray-600 hover:text-primary transition-all duration-300" href={href} aria-label={ariaLabel}>
+								<a class="text-sm text-gray-600 hover:text-primary transition-all duration-300" href={href} target="_blank" aria-label={ariaLabel}>
 
 									<Fragment set:html={text}/>
 

@@ -7,12 +7,10 @@ const html = `
 
 		:root {
 			--aw-color-primary: ${UI.tokens.default.colors.primary};
-			--aw-color-secondary: ${UI.tokens.default.colors.secondary};
-			--aw-color-accent: ${UI.tokens.default.colors.accent};
 			--aw-color-text-heading: ${UI.tokens.default.colors.heading};
 			--aw-color-text-default: ${UI.tokens.default.colors.default};
 			--aw-color-text-muted: ${UI.tokens.default.colors.muted};
-			--aw-color-bg-page: ${UI.tokens.default.colors.bgPage};
+			--aw-color-bg-page: ${UI.tokens.default.colors.page};
 		}
 
 		@keyframes pulse {
@@ -30,7 +28,6 @@ const html = `
 			border-radius: 50%;
 			background: radial-gradient(
 				circle,
-				var(--aw-color-accent) 0%,
 				var(--aw-color-primary) 40%,
 				transparent 70%
 			);

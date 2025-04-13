@@ -17,10 +17,10 @@ Mình cũng chỉ muốn được biết đến với vai trò là người vi�
 
 ## Động viên tinh thần
 
-Nếu nội dung trên website phần nào đó là hữu ích với bạn, hay đơn thuần là bạn muốn ủng hộ mình, hãy follow [Instagram](https://www.instagram.com/nhavantuonglai) của mình nhé.
+Nếu nội dung trên website phần nào đó là hữu ích với bạn, hay đơn thuần là bạn muốn ủng hộ mình, hãy follow [Instagram](https://info.nhavantuonglai.com/instagram) của mình nhé.
 
 Nếu bạn muốn kết nối, trao đổi thư từ với mình, hãy gửi tin nhắn qua Instagram theo đường link ở trên. Hoặc email đến [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com), mình hứa sẽ đọc và trả lời lại với những gì có thể.
 
-Nếu bạn muốn xem ảnh mình chụp, hãy đến với [500px](https://500px.com/p/nhavantuonglai) hoặc [Flickr](https://www.flickr.com/photos/nhavantuonglai), không cần follow, chỉ cần xem rồi cảm nhận. Và tất nhiên, Instagram của mình luôn ngập tràn ảnh film đã chụp từ 2018 đến nay.
+Nếu bạn muốn xem ảnh mình chụp, hãy đến với [500px](https://info.nhavantuonglai.com/500px) hoặc [Flickr](https://info.nhavantuonglai.com/flickr), không cần follow, chỉ cần xem rồi cảm nhận. Và tất nhiên, Instagram của mình luôn ngập tràn ảnh film đã chụp từ 2018 đến nay.
 
-Website được vận hành bởi Vercel, lưu trữ database thông qua [Github](https://github.com/nhavantuonglai), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.
+Website được vận hành bởi Vercel, lưu trữ database thông qua [Github](https://info.nhavantuonglai.com/github), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.

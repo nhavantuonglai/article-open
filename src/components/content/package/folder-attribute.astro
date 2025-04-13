@@ -32,134 +32,172 @@ const numberswinter = uniqueNumbers.slice(16, 20);
 
 const springs = numbersspring.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ đổi tên tệp và thư mục (FFR) ${num}.`
+	alt: `Công cụ Python đổi tên tệp và thư mục (FFR) ${num}.`
 }));
 
 const summers = numberssummer.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ đổi tên tệp và thư mục (FFR) ${num}.`
+	alt: `Công cụ Python đổi tên tệp và thư mục (FFR) ${num}.`
 }));
 
 const autumns = numbersautumn.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ đổi tên tệp và thư mục (FFR) ${num}.`
+	alt: `Công cụ Python đổi tên tệp và thư mục (FFR) ${num}.`
 }));
 
 const winters = numberswinter.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ đổi tên tệp và thư mục (FFR) ${num}.`
+	alt: `Công cụ Python đổi tên tệp và thư mục (FFR) ${num}.`
 }));
 ---
 
 <Gallery
+
 	springs={springs}
 	summers={summers}
 	autumns={autumns}
 	winters={winters}
+
 >
+
 	<Hero
-		title="Tiện ích File and Folder Renamer"
-		subtitle="Công cụ Python tự động đổi tên tệp và thư mục với nhiều định dạng như ngày giờ, kích thước, ký tự tùy chỉnh hoặc ngẫu nhiên."
-		package="npm folder-attribute"
+
+		title="Công cụ Python đổi tên tệp và thư mục (FFR)"
+
+		subtitle="File and folder renamer (FFR) là công cụ Python tự động hóa việc đổi tên tệp và thư mục."
+
+		package="npm install folder-attribute"
+
 	/>
+
 </Gallery>
 
 <CTA
+
 	callToAction={{
 		text: 'Khám phá File and Folder Renamer',
 		href: 'https://nhavantuonglai.com/package/folder-attribute',
 	}}
+
 	items={[
 		{
 			title: 'Đổi tên linh hoạt và hiệu quả',
 			description:
-				'Tiện ích File and Folder Renamer tự động hóa việc đổi tên tệp và thư mục, hỗ trợ nhiều tùy chọn như định dạng ngày giờ, kích thước tệp, số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Sử dụng Python với giao diện dòng lệnh thân thiện, công cụ cho phép người dùng chọn đổi tên thư mục, subfolder hoặc tệp trong thư mục chỉ với vài bước. Người dùng có thể áp dụng định dạng yyyymmdd-hhmmss, thêm kích thước tệp, hoặc gán tiền tố với số thứ tự, đảm bảo tổ chức dữ liệu rõ ràng. Xử lý lỗi thông minh thông báo chi tiết nếu thư mục không tồn tại hoặc tên trùng lặp, mang lại trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com và Instagram, hỗ trợ kỹ thuật qua email. Đây là giải pháp lý tưởng để sắp xếp dữ liệu, tối ưu hóa quản lý tệp cho lập trình viên và quản trị viên hệ thống.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) tự động hóa việc đổi tên tệp và thư mục, hỗ trợ nhiều tùy chọn như định dạng ngày giờ, kích thước tệp, số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Sử dụng Python với giao diện dòng lệnh thân thiện, công cụ cho phép người dùng chọn đổi tên thư mục, subfolder hoặc tệp trong thư mục chỉ với vài bước. Người dùng có thể áp dụng định dạng yyyymmdd-hhmmss, thêm kích thước tệp, hoặc gán tiền tố với số thứ tự, đảm bảo tổ chức dữ liệu rõ ràng. Xử lý lỗi thông minh thông báo chi tiết nếu thư mục không tồn tại hoặc tên trùng lặp, mang lại trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com và Instagram, hỗ trợ kỹ thuật qua email. Đây là giải pháp lý tưởng để sắp xếp dữ liệu, tối ưu hóa quản lý tệp cho lập trình viên và quản trị viên hệ thống.',
 		},
 		{
 			title: 'Kết nối tài nguyên và hỗ trợ',
 			description:
-				'File and Folder Renamer không chỉ là công cụ đổi tên mà còn kết nối người dùng với cộng đồng kỹ thuật. Sau mỗi thao tác, công cụ cung cấp tùy chọn truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai, giúp khám phá tài liệu và hỗ trợ nhanh chóng. Được xây dựng bằng Python với thư viện chuẩn như os, glob, công cụ đảm bảo hiệu suất cao mà không cần cài đặt phụ thuộc phức tạp. Giao diện dòng lệnh trực quan cho phép chọn định dạng đổi tên, thêm ký tự trước/sau tên, hoặc tạo tên ngẫu nhiên, phù hợp cho nhiều nhu cầu tổ chức dữ liệu. Xử lý lỗi chi tiết, như thông báo khi thư mục trống, tăng độ tin cậy. Công cụ này lý tưởng cho lập trình viên, quản trị viên muốn quản lý tệp hiệu quả, đồng thời cung cấp kênh hỗ trợ kỹ thuật qua email, mang lại trải nghiệm toàn diện, minh bạch và dễ sử dụng.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) không chỉ là công cụ đổi tên mà còn kết nối người dùng với cộng đồng kỹ thuật. Sau mỗi thao tác, công cụ cung cấp tùy chọn truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai, giúp khám phá tài liệu và hỗ trợ nhanh chóng. Được xây dựng bằng Python với thư viện chuẩn như os, glob, công cụ đảm bảo hiệu suất cao mà không cần cài đặt phụ thuộc phức tạp. Giao diện dòng lệnh trực quan cho phép chọn định dạng đổi tên, thêm ký tự trước/sau tên, hoặc tạo tên ngẫu nhiên, phù hợp cho nhiều nhu cầu tổ chức dữ liệu. Xử lý lỗi chi tiết, như thông báo khi thư mục trống, tăng độ tin cậy. công cụ này lý tưởng cho lập trình viên, quản trị viên muốn quản lý tệp hiệu quả, đồng thời cung cấp kênh hỗ trợ kỹ thuật qua email, mang lại trải nghiệm toàn diện, minh bạch và dễ sử dụng.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-610.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-050.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
+
 >
+
 	<Fragment slot="content">
-		Tiện ích File and Folder Renamer tự động đổi tên tệp, thư mục với định dạng ngày giờ, kích thước, hoặc ký tự tùy chỉnh. Được phát triển bởi @nhavantuonglai, công cụ có giao diện dòng lệnh dễ dùng, kết nối nhavantuonglai.com để hỗ trợ kỹ thuật.
+
+		Công cụ Python đổi tên tệp và thư mục (FFR) tự động đổi tên tệp, thư mục với định dạng ngày giờ, kích thước, hoặc ký tự tùy chỉnh. Được phát triển bởi @nhavantuonglai, công cụ có giao diện dòng lệnh dễ dùng, kết nối nhavantuonglai.com để hỗ trợ kỹ thuật.
+
 	</Fragment>
+
 </CTA>
 
 <CTA
-	title="Giới thiệu về File and Folder Renamer"
+
+	title="Giới thiệu về công cụ Python đổi tên tệp và thư mục (FFR)"
+
 	isReversed
+
 	items={[
 		{
 			title: 'Nguồn gốc và mục đích phát triển',
 			description:
-				'Tiện ích File and Folder Renamer được @nhavantuonglai phát triển nhằm đơn giản hóa việc đổi tên tệp và thư mục, giúp tổ chức dữ liệu hiệu quả. Sử dụng Python, công cụ hỗ trợ nhiều tùy chọn như định dạng ngày giờ (yyyymmdd-hhmmss), thêm kích thước tệp, gán tiền tố với số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Mục tiêu là giúp lập trình viên, quản trị viên hệ thống quản lý dữ liệu dễ dàng, tránh lặp tên và tăng tính rõ ràng. Giao diện dòng lệnh thân thiện cho phép chọn đổi tên tệp hoặc thư mục, với các bước cấu hình đơn giản. Xử lý lỗi thông minh thông báo khi thư mục không hợp lệ hoặc trống, đảm bảo vận hành ổn định. Tích hợp tài nguyên từ nhavantuonglai.com và Instagram, công cụ không chỉ đổi tên mà còn kết nối người dùng đến hỗ trợ kỹ thuật, mang lại trải nghiệm linh hoạt, minh bạch và tối ưu cho quản lý dữ liệu.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) được @nhavantuonglai phát triển nhằm đơn giản hóa việc đổi tên tệp và thư mục, giúp tổ chức dữ liệu hiệu quả. Sử dụng Python, công cụ hỗ trợ nhiều tùy chọn như định dạng ngày giờ (yyyymmdd-hhmmss), thêm kích thước tệp, gán tiền tố với số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Mục tiêu là giúp lập trình viên, quản trị viên hệ thống quản lý dữ liệu dễ dàng, tránh lặp tên và tăng tính rõ ràng. Giao diện dòng lệnh thân thiện cho phép chọn đổi tên tệp hoặc thư mục, với các bước cấu hình đơn giản. Xử lý lỗi thông minh thông báo khi thư mục không hợp lệ hoặc trống, đảm bảo vận hành ổn định. Tích hợp tài nguyên từ nhavantuonglai.com và Instagram, công cụ không chỉ đổi tên mà còn kết nối người dùng đến hỗ trợ kỹ thuật, mang lại trải nghiệm linh hoạt, minh bạch và tối ưu cho quản lý dữ liệu.',
 		},
 		{
 			title: 'Tầm quan trọng của tổ chức dữ liệu',
 			description:
-				'Tổ chức dữ liệu hiệu quả là yếu tố then chốt để quản lý hệ thống tệp rõ ràng, dễ truy cập. File and Folder Renamer giúp đơn giản hóa việc này bằng cách cung cấp các tùy chọn đổi tên linh hoạt, từ định dạng ngày giờ, kích thước tệp đến tên ngẫu nhiên. Công cụ cho phép đổi tên hàng loạt tệp hoặc thư mục, đảm bảo tên không trùng lặp và dễ nhận diện. Giao diện dòng lệnh trực quan, cùng thống kê số tệp đã xử lý, mang lại sự minh bạch. Xử lý lỗi thông minh, như thông báo khi thư mục trống, giúp tiết kiệm thời gian và tránh sai sót. Được phát triển bởi @nhavantuonglai, công cụ tích hợp hỗ trợ qua nhavantuonglai.com, kết nối người dùng với cộng đồng kỹ thuật. Đây là giải pháp lý tưởng để lập trình viên, quản trị viên tối ưu hóa dữ liệu, nâng cao hiệu quả quản lý và tổ chức hệ thống tệp một cách chuyên nghiệp, đáng tin cậy.',
+				'Tổ chức dữ liệu hiệu quả là yếu tố then chốt để quản lý hệ thống tệp rõ ràng, dễ truy cập. công cụ Python đổi tên tệp và thư mục (FFR) giúp đơn giản hóa việc này bằng cách cung cấp các tùy chọn đổi tên linh hoạt, từ định dạng ngày giờ, kích thước tệp đến tên ngẫu nhiên. công cụ cho phép đổi tên hàng loạt tệp hoặc thư mục, đảm bảo tên không trùng lặp và dễ nhận diện. Giao diện dòng lệnh trực quan, cùng thống kê số tệp đã xử lý, mang lại sự minh bạch. Xử lý lỗi thông minh, như thông báo khi thư mục trống, giúp tiết kiệm thời gian và tránh sai sót. Được phát triển bởi @nhavantuonglai, công cụ tích hợp hỗ trợ qua nhavantuonglai.com, kết nối người dùng với cộng đồng kỹ thuật. Đây là giải pháp lý tưởng để lập trình viên, quản trị viên tối ưu hóa dữ liệu, nâng cao hiệu quả quản lý và tổ chức hệ thống tệp một cách chuyên nghiệp, đáng tin cậy.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-442.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-052.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
+
 	title="Công dụng và tính năng của File and Folder Renamer"
+
 	items={[
 		{
 			title: 'Công cụ đổi tên mạnh mẽ',
 			description:
-				'Tiện ích File and Folder Renamer là giải pháp dòng lệnh hiệu quả, tự động đổi tên tệp và thư mục với nhiều tùy chọn linh hoạt. Sử dụng Python với thư viện os, glob, công cụ hỗ trợ định dạng yyyymmdd-hhmmss, thêm kích thước tệp, gán tiền tố với số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Người dùng chọn đổi tên tệp hoặc thư mục, cấu hình định dạng chỉ trong vài bước. Kết quả hiển thị chi tiết số tệp đã xử lý, tăng tính minh bạch. Xử lý lỗi thông minh thông báo nếu thư mục không tồn tại hoặc tên không hợp lệ, đảm bảo trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com, hỗ trợ kỹ thuật qua email. Đây là lựa chọn hoàn hảo để lập trình viên, quản trị viên tổ chức dữ liệu nhanh chóng, chính xác, nâng cao hiệu quả quản lý hệ thống tệp.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) là giải pháp dòng lệnh hiệu quả, tự động đổi tên tệp và thư mục với nhiều tùy chọn linh hoạt. Sử dụng Python với thư viện os, glob, công cụ hỗ trợ định dạng yyyymmdd-hhmmss, thêm kích thước tệp, gán tiền tố với số thứ tự, thêm ký tự tùy chỉnh hoặc tạo tên ngẫu nhiên. Người dùng chọn đổi tên tệp hoặc thư mục, cấu hình định dạng chỉ trong vài bước. Kết quả hiển thị chi tiết số tệp đã xử lý, tăng tính minh bạch. Xử lý lỗi thông minh thông báo nếu thư mục không tồn tại hoặc tên không hợp lệ, đảm bảo trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com, hỗ trợ kỹ thuật qua email. Đây là lựa chọn hoàn hảo để lập trình viên, quản trị viên tổ chức dữ liệu nhanh chóng, chính xác, nâng cao hiệu quả quản lý hệ thống tệp.',
 		},
 		{
 			title: 'Tính năng nổi bật',
 			description:
-				'File and Folder Renamer nổi bật với khả năng đổi tên linh hoạt, hỗ trợ tổ chức dữ liệu hiệu quả. Công cụ cung cấp nhiều định dạng như yyyymmdd-hhmmss, thêm kích thước tệp, tiền tố với số thứ tự, ký tự tùy chỉnh hoặc tên ngẫu nhiên, đáp ứng mọi nhu cầu quản lý. Giao diện dòng lệnh thân thiện cho phép chọn đổi tên tệp hoặc thư mục, với kết quả hiển thị số mục đã xử lý, đảm bảo minh bạch. Xử lý lỗi thông minh là điểm nhấn, thông báo rõ ràng khi thư mục trống hoặc thao tác thất bại, tăng độ tin cậy. Được phát triển bởi @nhavantuonglai, công cụ sử dụng Python với mã nguồn tối ưu, dễ mở rộng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng. Đây là giải pháp lý tưởng để sắp xếp dữ liệu, giúp lập trình viên và quản trị viên quản lý hệ thống tệp chuyên nghiệp, hiệu quả.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) nổi bật với khả năng đổi tên linh hoạt, hỗ trợ tổ chức dữ liệu hiệu quả. công cụ cung cấp nhiều định dạng như yyyymmdd-hhmmss, thêm kích thước tệp, tiền tố với số thứ tự, ký tự tùy chỉnh hoặc tên ngẫu nhiên, đáp ứng mọi nhu cầu quản lý. Giao diện dòng lệnh thân thiện cho phép chọn đổi tên tệp hoặc thư mục, với kết quả hiển thị số mục đã xử lý, đảm bảo minh bạch. Xử lý lỗi thông minh là điểm nhấn, thông báo rõ ràng khi thư mục trống hoặc thao tác thất bại, tăng độ tin cậy. Được phát triển bởi @nhavantuonglai, công cụ sử dụng Python với mã nguồn tối ưu, dễ mở rộng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng. Đây là giải pháp lý tưởng để sắp xếp dữ liệu, giúp lập trình viên và quản trị viên quản lý hệ thống tệp chuyên nghiệp, hiệu quả.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-611.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-051.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
+
 	title="Quy trình sử dụng File and Folder Renamer"
+
 	isReversed
+
 	items={[
 		{
 			title: 'Logic vận hành công cụ',
 			description:
-				'Tiện ích File and Folder Renamer hoạt động theo quy trình rõ ràng, đảm bảo thao tác dễ dàng. Đầu tiên, người dùng chọn đổi tên thư mục/subfolder hoặc tệp; nhập "0" để thoát. Tiếp theo, nhập đường dẫn thư mục, mặc định là thư mục hiện tại, với tùy chọn quay lại. Công cụ yêu cầu chọn tính năng: định dạng ngày giờ, thêm ký tự, hoặc tên ngẫu nhiên. Tùy thuộc tính năng, người dùng cấu hình định dạng (như yyyymmdd-hhmmss) hoặc nhập ký tự, vị trí thêm. Sau khi xử lý, công cụ hiển thị số tệp đã đổi tên. Xử lý lỗi thông minh thông báo nếu thư mục trống hoặc không hợp lệ. Cuối cùng, người dùng có thể chạy lại, truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai. Quy trình lặp lại mượt mà, giúp tổ chức dữ liệu hiệu quả, minh bạch cho mọi nhu cầu quản lý tệp.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) hoạt động theo quy trình rõ ràng, đảm bảo thao tác dễ dàng. Đầu tiên, người dùng chọn đổi tên thư mục hoặc subfolder hoặc tệp; nhập 0 để thoát. Tiếp theo, nhập đường dẫn thư mục, mặc định là thư mục hiện tại, với tùy chọn quay lại. công cụ yêu cầu chọn tính năng: định dạng ngày giờ, thêm ký tự, hoặc tên ngẫu nhiên. Tùy thuộc tính năng, người dùng cấu hình định dạng (như yyyymmdd-hhmmss) hoặc nhập ký tự, vị trí thêm. Sau khi xử lý, công cụ hiển thị số tệp đã đổi tên. Xử lý lỗi thông minh thông báo nếu thư mục trống hoặc không hợp lệ. Cuối cùng, người dùng có thể chạy lại, truy cập nhavantuonglai.com hoặc Instagram của @nhavantuonglai. Quy trình lặp lại mượt mà, giúp tổ chức dữ liệu hiệu quả, minh bạch cho mọi nhu cầu quản lý tệp.',
 		},
 		{
 			title: 'Phương pháp triển khai công cụ',
 			description:
-				'File and Folder Renamer được xây dựng bằng Python, sử dụng thư viện os, glob để đổi tên tệp, thư mục. Mã nguồn chia thành các hàm chuyên biệt: rename_with_format xử lý định dạng ngày giờ, rename_with_chars thêm ký tự, generate_random_name tạo tên ngẫu nhiên. Xử lý lỗi được tích hợp kỹ lưỡng, thông báo rõ ràng khi thư mục không tồn tại hoặc thao tác thất bại. Giao diện dòng lệnh đơn giản cho phép chọn tính năng, cấu hình định dạng, với kết quả hiển thị số tệp đã xử lý. Công cụ hỗ trợ quay lại bước trước, tăng tính linh hoạt. Được phát triển bởi @nhavantuonglai, mã nguồn tối ưu, dễ bảo trì, cho phép mở rộng tính năng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật, đảm bảo trải nghiệm đáng tin cậy. Công cụ này giúp người dùng tổ chức dữ liệu, đổi tên hệ thống tệp một cách chuyên nghiệp, hiệu quả.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) được xây dựng bằng Python, sử dụng thư viện os, glob để đổi tên tệp, thư mục. Mã nguồn chia thành các hàm chuyên biệt: rename_with_format xử lý định dạng ngày giờ, rename_with_chars thêm ký tự, generate_random_name tạo tên ngẫu nhiên. Xử lý lỗi được tích hợp kỹ lưỡng, thông báo rõ ràng khi thư mục không tồn tại hoặc thao tác thất bại. Giao diện dòng lệnh đơn giản cho phép chọn tính năng, cấu hình định dạng, với kết quả hiển thị số tệp đã xử lý. công cụ hỗ trợ quay lại bước trước, tăng tính linh hoạt. Được phát triển bởi @nhavantuonglai, mã nguồn tối ưu, dễ bảo trì, cho phép mở rộng tính năng. Tích hợp tài nguyên nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật, đảm bảo trải nghiệm đáng tin cậy. công cụ này giúp người dùng tổ chức dữ liệu, đổi tên hệ thống tệp một cách chuyên nghiệp, hiệu quả.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-526.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-056.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
+
 	title="Đánh giá trải nghiệm File and Folder Renamer"
+
 	items={[
 		{
 			title: 'Phản hồi từ lập trình viên và quản trị viên',
 			description:
-				'Tiện ích File and Folder Renamer nhận được nhiều lời khen từ lập trình viên và quản trị viên nhờ tính linh hoạt và dễ dùng. Theo Tech Tools Weekly, công cụ này là giải pháp tuyệt vời để đổi tên hàng loạt tệp, thư mục mà không cần phần mềm phức tạp. Tùy chọn định dạng như yyyymmdd-hhmmss hoặc thêm ký tự tùy chỉnh được đánh giá cao vì tăng tính tổ chức. Xử lý lỗi thông minh, như thông báo khi thư mục trống, giúp tiết kiệm thời gian. Một bài viết trên GitHub nhấn mạnh tích hợp tài nguyên nhavantuonglai.com, mang lại trải nghiệm toàn diện. Mã nguồn mở cho phép tùy chỉnh dễ dàng, phù hợp với nhu cầu riêng. Với giao diện dòng lệnh thân thiện và hiệu suất cao, File and Folder Renamer là công cụ không thể thiếu để quản lý dữ liệu, giúp lập trình viên và quản trị viên tổ chức hệ thống tệp chuyên nghiệp, hiệu quả.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) nhận được nhiều lời khen từ lập trình viên và quản trị viên nhờ tính linh hoạt và dễ dùng. Theo Tech Tools Weekly, công cụ này là giải pháp tuyệt vời để đổi tên hàng loạt tệp, thư mục mà không cần phần mềm phức tạp. Tùy chọn định dạng như yyyymmdd-hhmmss hoặc thêm ký tự tùy chỉnh được đánh giá cao vì tăng tính tổ chức. Xử lý lỗi thông minh, như thông báo khi thư mục trống, giúp tiết kiệm thời gian. Một bài viết trên GitHub nhấn mạnh tích hợp tài nguyên nhavantuonglai.com, mang lại trải nghiệm toàn diện. Mã nguồn mở cho phép tùy chỉnh dễ dàng, phù hợp với nhu cầu riêng. Với giao diện dòng lệnh thân thiện và hiệu suất cao, File and Folder Renamer là công cụ không thể thiếu để quản lý dữ liệu, giúp lập trình viên và quản trị viên tổ chức hệ thống tệp chuyên nghiệp, hiệu quả.',
 		},
 		{
 			title: 'Ý kiến từ cộng đồng người dùng',
@@ -167,19 +205,25 @@ const winters = numberswinter.map(num => ({
 				'Cộng đồng người dùng File and Folder Renamer bày tỏ sự hài lòng qua phản hồi trên diễn đàn và GitHub. Một người dùng chia sẻ: Chỉ vài bước, tôi đã đổi tên hàng loạt tệp theo ngày giờ – thật tiện lợi! Tùy chọn thêm ký tự hoặc tạo tên ngẫu nhiên được đánh giá cao vì đáp ứng nhiều nhu cầu. Giao diện dòng lệnh trực quan, cùng kết quả hiển thị số tệp xử lý, mang lại sự minh bạch. Xử lý lỗi mượt mà và tích hợp nhavantuonglai.com, Instagram nhận được nhiều lời khen vì hỗ trợ kỹ thuật nhanh. Phản hồi tích cực này khẳng định giá trị của công cụ, là động lực để đội ngũ @nhavantuonglai tiếp tục cải tiến. File and Folder Renamer không chỉ giúp tổ chức dữ liệu mà còn mang lại trải nghiệm đáng tin cậy, hỗ trợ người dùng quản lý hệ thống tệp một cách hiệu quả, chuyên nghiệp.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-022.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-052.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <Question
+
 	title="Câu hỏi thường gặp về File and Folder Renamer"
+
 	items={[
 		{
-			title: 'Làm thế nào để cài đặt công cụ?',
+			title: 'Làm thế nào để cài đặt công cụ Python đổi tên tệp và thư mục (FFR)?',
 			description:
-				'Để cài đặt File and Folder Renamer, chạy lệnh npm install folder-attribute trong terminal. Sao chép repository và chạy script Python trực tiếp. Công cụ chỉ cần Python, không yêu cầu thư viện phụ thuộc. Khởi động để chọn tính năng đổi tên.',
+				'Để cài đặt File and Folder Renamer, chạy lệnh npm install folder-attribute trong terminal. Sao chép repository và chạy script Python trực tiếp. công cụ chỉ cần Python, không yêu cầu thư viện phụ thuộc. Khởi động để chọn tính năng đổi tên.',
 			icon: 'tabler:chevrons-right',
 		},
 		{
@@ -195,10 +239,13 @@ const winters = numberswinter.map(num => ({
 			icon: 'tabler:chevrons-right',
 		},
 		{
-			title: 'Tôi có thể tùy chỉnh công cụ này không?',
+			title: 'Tôi có thể tùy chỉnh công cụ Python đổi tên tệp và thư mục (FFR) không?',
 			description:
-				'File and Folder Renamer là mã nguồn mở. Bạn có thể chỉnh sửa index.py để thêm định dạng, thay đổi logic hoặc tích hợp tính năng mới. Fork repository từ GitHub, chỉnh sửa mã nguồn và chạy lại bằng Python để tùy chỉnh.',
+				'Công cụ Python đổi tên tệp và thư mục (FFR) là mã nguồn mở. Bạn có thể chỉnh sửa index.py để thêm định dạng, thay đổi logic hoặc tích hợp tính năng mới. Fork repository từ GitHub, chỉnh sửa mã nguồn và chạy lại bằng Python để tùy chỉnh.',
 			icon: 'tabler:chevrons-right',
 		},
 	]}
-></Question>
+
+>
+
+</Question>

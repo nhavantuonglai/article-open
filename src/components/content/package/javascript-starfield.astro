@@ -32,173 +32,220 @@ const numberswinter = uniqueNumbers.slice(16, 20);
 
 const springs = numbersspring.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Hình ảnh phân tích gói npm ${num}.`
+	alt: `Hiệu ứng nền trường sao (Starfield) ${num}.`
 }));
 
 const summers = numberssummer.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Hình ảnh phân tích gói npm ${num}.`
+	alt: `Hiệu ứng nền trường sao (Starfield) ${num}.`
 }));
 
 const autumns = numbersautumn.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Hình ảnh phân tích gói npm ${num}.`
+	alt: `Hiệu ứng nền trường sao (Starfield) ${num}.`
 }));
 
 const winters = numberswinter.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Hình ảnh phân tích gói npm ${num}.`
+	alt: `Hiệu ứng nền trường sao (Starfield) ${num}.`
 }));
 ---
 
 <Gallery
+
 	springs={springs}
 	summers={summers}
 	autumns={autumns}
 	winters={winters}
+
 >
+
 	<Hero
-		title="Tiện ích Starfield Animation"
-		subtitle="Gói JavaScript tạo nền trường sao động với các ngôi sao tỏa ra từ trung tâm, thêm nét vũ trụ cho trang website."
-		package="npm javascript-starfield"
+
+		title="Hiệu ứng nền trường sao (Starfield)."
+
+		subtitle="Hiệu ứng trường sao (Starfield) là gói JavaScript tạo nền trường sao động với các ngôi sao tỏa ra từ trung tâm, thêm nét vũ trụ cho website."
+
+		package="npm install javascript-starfield"
+
 	/>
+
 </Gallery>
 
 <CTA
+
 	callToAction={{
-		text: 'Khám phá Starfield Animation',
+		text: 'Khám phá hiệu ứng nền trường sao (Starfield)',
 		href: 'https://nhavantuonglai.com/package/javascript-starfield',
 	}}
+
 	items={[
 		{
 			title: 'Nền trường sao động ấn tượng',
 			description:
-				'Tiện ích Starfield Animation là gói JavaScript tạo nền trường sao động, với các ngôi sao tỏa ra từ trung tâm, mang lại vẻ đẹp vũ trụ cho trang website. Công cụ sử dụng canvas để vẽ ngôi sao với kích thước, tốc độ, màu sắc tùy chỉnh, từ 0.5 đến 2 pixel, tốc độ 0.5 lần kích thước, và bảng màu ấm như đỏ, cam. Ngôi sao xuất hiện liên tục (5 ngôi sao mỗi giây), lan tỏa rồi mờ dần khi vượt giới hạn màn hình. Công cụ tự động điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn, và khởi động lại khi hiển thị. Người dùng tích hợp qua HTML hoặc gọi initStarfield() thủ công. Được phát triển bởi @nhavantuonglai, không cần phụ thuộc, tích hợp nhavantuonglai.com và Instagram, hỗ trợ qua email. Đây là giải pháp lý tưởng để tăng tính thẩm mỹ, làm nổi bật giao diện website.',
+				'Hiệu ứng nền trường sao (Starfield) là gói JavaScript tạo nền trường sao động, với các ngôi sao tỏa ra từ trung tâm, mang lại vẻ đẹp vũ trụ cho website. công cụ sử dụng canvas để vẽ ngôi sao với kích thước, tốc độ, màu sắc tùy chỉnh, từ 0.5 đến 2 pixel, tốc độ 0.5 lần kích thước, và bảng màu ấm như đỏ, cam. Ngôi sao xuất hiện liên tục (5 ngôi sao mỗi giây), lan tỏa rồi mờ dần khi vượt giới hạn màn hình. công cụ tự động điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn, và khởi động lại khi hiển thị. Người dùng tích hợp qua HTML hoặc gọi initStarfield() thủ công. Được phát triển bởi @nhavantuonglai, không cần phụ thuộc, tích hợp nhavantuonglai.com và Instagram, hỗ trợ qua email. Đây là giải pháp lý tưởng để tăng tính thẩm mỹ, làm nổi bật giao diện website.',
 		},
 		{
 			title: 'Tích hợp linh hoạt và hỗ trợ',
 			description:
-				'Starfield Animation không chỉ tạo hiệu ứng trường sao mà còn mang lại sự linh hoạt và kết nối cộng đồng. Công cụ tự động chạy khi DOM tải, thêm canvas #starfield vào body với z-index -1, đảm bảo không che nội dung. Ngôi sao tỏa từ trung tâm với hiệu ứng gradient, mờ dần theo khoảng cách, tạo chiều sâu. Người dùng có thể hủy bằng destroy(), xóa canvas và sự kiện khi không cần. Được xây dựng bằng JavaScript thuần, hoạt động mượt mà trên trình duyệt hiện đại mà không cần thư viện phụ. Tự động dừng khi trang ẩn, tái khởi động khi hiển thị, tối ưu hiệu suất. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com và Instagram, hỗ trợ kỹ thuật qua email. Đây là lựa chọn hoàn hảo để nâng cao giao diện, mang lại trải nghiệm trực quan, chuyên nghiệp cho trang website hoặc ứng dụng.',
+				'Hiệu ứng nền trường sao (Starfield) không chỉ tạo hiệu ứng trường sao mà còn mang lại sự linh hoạt và kết nối cộng đồng. công cụ tự động chạy khi DOM tải, thêm canvas #starfield vào body với z-index -1, đảm bảo không che nội dung. Ngôi sao tỏa từ trung tâm với hiệu ứng gradient, mờ dần theo khoảng cách, tạo chiều sâu. Người dùng có thể hủy bằng destroy(), xóa canvas và sự kiện khi không cần. Được xây dựng bằng JavaScript thuần, hoạt động mượt mà trên trình duyệt hiện đại mà không cần thư viện phụ. Tự động dừng khi trang ẩn, tái khởi động khi hiển thị, tối ưu hiệu suất. Được phát triển bởi @nhavantuonglai, công cụ tích hợp tài nguyên nhavantuonglai.com và Instagram, hỗ trợ kỹ thuật qua email. Đây là lựa chọn hoàn hảo để nâng cao giao diện, mang lại trải nghiệm trực quan, chuyên nghiệp cho website hoặc ứng dụng.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-610.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-040.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
+
 >
+
 	<Fragment slot="content">
-		Tiện ích Starfield Animation tạo nền trường sao động, ngôi sao tỏa từ trung tâm với màu sắc tùy chỉnh. Được phát triển bởi @nhavantuonglai, công cụ dễ tích hợp, kết nối nhavantuonglai.com để hỗ trợ kỹ thuật.
+
+		Hiệu ứng nền trường sao (Starfield) tạo nền trường sao động, ngôi sao tỏa từ trung tâm với màu sắc tùy chỉnh. Được phát triển bởi @nhavantuonglai, công cụ dễ tích hợp, kết nối nhavantuonglai.com để hỗ trợ kỹ thuật.
+
 	</Fragment>
+
 </CTA>
 
 <CTA
-	title="Giới thiệu về Starfield Animation"
+
+	title="Giới thiệu về hiệu ứng nền trường sao (Starfield)"
+
 	isReversed
+
 	items={[
 		{
 			title: 'Nguồn gốc và mục đích phát triển',
 			description:
-				'Tiện ích Starfield Animation được @nhavantuonglai phát triển nhằm mang lại hiệu ứng trường sao động, tăng tính thẩm mỹ cho trang website. Sử dụng JavaScript và canvas, công cụ tạo ngôi sao tỏa từ trung tâm với kích thước từ 0.5 đến 2 pixel, tốc độ 0.5 lần kích thước, màu sắc ấm như đỏ, cam. Mỗi giây, 5 ngôi sao mới xuất hiện, lan tỏa rồi mờ dần khi vượt màn hình, tạo cảm giác vũ trụ sâu thẳm. Mục tiêu là cung cấp nền trang trí đẹp mắt, dễ tích hợp, không ảnh hưởng nội dung chính. Công cụ tự động chạy khi DOM tải, điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn. Tích hợp qua HTML hoặc initStarfield(), hủy bằng destroy(). Kết nối nhavantuonglai.com và Instagram, hỗ trợ qua email, Starfield Animation là giải pháp trực quan, chuyên nghiệp để làm nổi bật giao diện website.',
+				'Hiệu ứng nền trường sao (Starfield) được @nhavantuonglai phát triển nhằm mang lại hiệu ứng trường sao động, tăng tính thẩm mỹ cho website. Sử dụng JavaScript và canvas, công cụ tạo ngôi sao tỏa từ trung tâm với kích thước từ 0.5 đến 2 pixel, tốc độ 0.5 lần kích thước, màu sắc ấm như đỏ, cam. Mỗi giây, 5 ngôi sao mới xuất hiện, lan tỏa rồi mờ dần khi vượt màn hình, tạo cảm giác vũ trụ sâu thẳm. Mục tiêu là cung cấp nền trang trí đẹp mắt, dễ tích hợp, không ảnh hưởng nội dung chính. công cụ tự động chạy khi DOM tải, điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn. Tích hợp qua HTML hoặc initStarfield(), hủy bằng destroy(). Kết nối nhavantuonglai.com và Instagram, hỗ trợ qua email, hiệu ứng nền trường sao (Starfield) là giải pháp trực quan, chuyên nghiệp để làm nổi bật giao diện website.',
 		},
 		{
 			title: 'Tầm quan trọng của hiệu ứng giao diện',
 			description:
-				'Hiệu ứng giao diện đẹp mắt là yếu tố quan trọng để thu hút người dùng, tạo ấn tượng cho trang website. Starfield Animation đáp ứng điều này bằng cách tạo nền trường sao động, với ngôi sao tỏa từ trung tâm, mang phong cách vũ trụ. Công cụ sử dụng canvas để vẽ 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, với kích thước, tốc độ, màu sắc đa dạng, tạo chiều sâu qua hiệu ứng gradient và mờ dần. Tự động thích nghi kích thước cửa sổ, dừng khi trang ẩn để tối ưu hiệu suất, công cụ mang lại trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, nó tích hợp dễ dàng qua script HTML, không cần phụ thuộc. Hỗ trợ qua nhavantuonglai.com và Instagram giúp kết nối cộng đồng kỹ thuật. Đây là giải pháp lý tưởng để nâng cao thẩm mỹ, làm giao diện website trở nên sinh động, chuyên nghiệp hơn.',
+				'Hiệu ứng giao diện đẹp mắt là yếu tố quan trọng để thu hút người dùng, tạo ấn tượng cho website. hiệu ứng nền trường sao (Starfield) đáp ứng điều này bằng cách tạo nền trường sao động, với ngôi sao tỏa từ trung tâm, mang phong cách vũ trụ. công cụ sử dụng canvas để vẽ 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, với kích thước, tốc độ, màu sắc đa dạng, tạo chiều sâu qua hiệu ứng gradient và mờ dần. Tự động thích nghi kích thước cửa sổ, dừng khi trang ẩn để tối ưu hiệu suất, công cụ mang lại trải nghiệm mượt mà. Được phát triển bởi @nhavantuonglai, nó tích hợp dễ dàng qua script HTML, không cần phụ thuộc. Hỗ trợ qua nhavantuonglai.com và Instagram giúp kết nối cộng đồng kỹ thuật. Đây là giải pháp lý tưởng để nâng cao thẩm mỹ, làm giao diện website trở nên sinh động, chuyên nghiệp hơn.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-442.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-042.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
-	title="Công dụng và tính năng của Starfield Animation"
+
+	title="Công dụng và tính năng của hiệu ứng nền trường sao (Starfield)"
+
 	items={[
 		{
 			title: 'Công cụ hiệu ứng trường sao mạnh mẽ',
 			description:
-				'Tiện ích Starfield Animation là giải pháp JavaScript tạo nền trường sao động, với các ngôi sao tỏa từ trung tâm, mang lại vẻ đẹp vũ trụ cho trang website. Công cụ sử dụng canvas #starfield, vẽ 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, với kích thước 0.5-2 pixel, tốc độ 0.5 lần kích thước, và màu sắc ấm như đỏ, cam. Ngôi sao có hiệu ứng gradient, mờ dần khi lan tỏa, tạo chiều sâu. Tự động chạy khi DOM tải, điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn, tối ưu hiệu suất. Người dùng tích hợp qua HTML hoặc gọi initStarfield(), hủy bằng destroy(). Được phát triển bởi @nhavantuonglai, không cần phụ thuộc, tích hợp nhavantuonglai.com, hỗ trợ qua email. Đây là lựa chọn hoàn hảo để tăng tính thẩm mỹ, làm nổi bật giao diện website một cách chuyên nghiệp, ấn tượng.',
+				'Hiệu ứng nền trường sao (Starfield) là giải pháp JavaScript tạo nền trường sao động, với các ngôi sao tỏa từ trung tâm, mang lại vẻ đẹp vũ trụ cho website. công cụ sử dụng canvas #starfield, vẽ 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, với kích thước 0.5-2 pixel, tốc độ 0.5 lần kích thước, và màu sắc ấm như đỏ, cam. Ngôi sao có hiệu ứng gradient, mờ dần khi lan tỏa, tạo chiều sâu. Tự động chạy khi DOM tải, điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn, tối ưu hiệu suất. Người dùng tích hợp qua HTML hoặc gọi initStarfield(), hủy bằng destroy(). Được phát triển bởi @nhavantuonglai, không cần phụ thuộc, tích hợp nhavantuonglai.com, hỗ trợ qua email. Đây là lựa chọn hoàn hảo để tăng tính thẩm mỹ, làm nổi bật giao diện website một cách chuyên nghiệp, ấn tượng.',
 		},
 		{
 			title: 'Tính năng nổi bật',
 			description:
-				'Starfield Animation nổi bật với khả năng tạo trường sao động, nâng cao giao diện website. Công cụ vẽ ngôi sao tỏa từ trung tâm qua canvas, với 50 ngôi sao khởi tạo, thêm 5 ngôi sao mỗi giây, kích thước 0.5-2 pixel, màu sắc đa dạng như đỏ, cam. Hiệu ứng gradient và mờ dần theo khoảng cách mang lại chiều sâu, trong khi tốc độ 0.5 lần kích thước tạo chuyển động mượt mà. Tự động thích nghi kích thước cửa sổ, dừng khi trang ẩn, tái khởi động khi hiển thị, tối ưu hiệu suất. Được phát triển bởi @nhavantuonglai, công cụ dùng JavaScript thuần, dễ mở rộng, tích hợp qua script HTML hoặc module. Hỗ trợ qua nhavantuonglai.com và Instagram đảm bảo kỹ thuật nhanh chóng. Đây là giải pháp lý tưởng để trang trí giao diện, mang lại trải nghiệm trực quan, chuyên nghiệp cho người dùng website.',
+				'Hiệu ứng nền trường sao (Starfield) nổi bật với khả năng tạo trường sao động, nâng cao giao diện website. công cụ vẽ ngôi sao tỏa từ trung tâm qua canvas, với 50 ngôi sao khởi tạo, thêm 5 ngôi sao mỗi giây, kích thước 0.5-2 pixel, màu sắc đa dạng như đỏ, cam. Hiệu ứng gradient và mờ dần theo khoảng cách mang lại chiều sâu, trong khi tốc độ 0.5 lần kích thước tạo chuyển động mượt mà. Tự động thích nghi kích thước cửa sổ, dừng khi trang ẩn, tái khởi động khi hiển thị, tối ưu hiệu suất. Được phát triển bởi @nhavantuonglai, công cụ dùng JavaScript thuần, dễ mở rộng, tích hợp qua script HTML hoặc module. Hỗ trợ qua nhavantuonglai.com và Instagram đảm bảo kỹ thuật nhanh chóng. Đây là giải pháp lý tưởng để trang trí giao diện, mang lại trải nghiệm trực quan, chuyên nghiệp cho người dùng website.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-611.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-041.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
-	title="Quy trình sử dụng Starfield Animation"
+
+	title="Quy trình sử dụng hiệu ứng nền trường sao (Starfield)"
+
 	isReversed
+
 	items={[
 		{
 			title: 'Logic vận hành công cụ',
 			description:
-				'Tiện ích Starfield Animation hoạt động theo quy trình đơn giản, hiệu quả để tạo nền trường sao động. Khi DOM tải, công cụ tự động thêm canvas #starfield vào body, vẽ 50 ngôi sao ban đầu từ trung tâm với kích thước 0.5-2 pixel, màu đỏ, cam. Mỗi giây, 5 ngôi sao mới xuất hiện, tỏa ra với tốc độ 0.5 lần kích thước, mờ dần khi vượt màn hình qua hiệu ứng gradient. Canvas điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn qua visibilitychange, khởi động lại khi hiển thị. Người dùng tích hợp script HTML để chạy tự động, hoặc gọi initStarfield() thủ công, hủy bằng destroy(). Được phát triển bởi @nhavantuonglai, công cụ tối ưu hiệu suất, không che nội dung nhờ z-index -1. Tích hợp nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật, tạo giao diện website sinh động, chuyên nghiệp.',
+				'Hiệu ứng nền trường sao (Starfield) hoạt động theo quy trình đơn giản, hiệu quả để tạo nền trường sao động. Khi DOM tải, công cụ tự động thêm canvas #starfield vào body, vẽ 50 ngôi sao ban đầu từ trung tâm với kích thước 0.5-2 pixel, màu đỏ, cam. Mỗi giây, 5 ngôi sao mới xuất hiện, tỏa ra với tốc độ 0.5 lần kích thước, mờ dần khi vượt màn hình qua hiệu ứng gradient. Canvas điều chỉnh theo kích thước cửa sổ, dừng khi trang ẩn qua visibilitychange, khởi động lại khi hiển thị. Người dùng tích hợp script HTML để chạy tự động, hoặc gọi initStarfield() thủ công, hủy bằng destroy(). Được phát triển bởi @nhavantuonglai, công cụ tối ưu hiệu suất, không che nội dung nhờ z-index -1. Tích hợp nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật, tạo giao diện website sinh động, chuyên nghiệp.',
 		},
 		{
 			title: 'Phương pháp triển khai công cụ',
 			description:
-				'Starfield Animation được xây dựng bằng JavaScript thuần, sử dụng canvas để tạo trường sao động, dễ tích hợp vào dự án website. Công cụ thêm #starfield vào body, vẽ ngôi sao tỏa từ trung tâm với 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, kích thước 0.5-2 pixel, màu ấm. Hiệu ứng gradient và mờ dần tăng chiều sâu, trong khi sự kiện resize, visibilitychange đảm bảo thích nghi kích thước, trạng thái hiển thị. Hàm initStarfield() khởi tạo, chạy tự động qua DOMContentLoaded hoặc thủ công, hủy bằng destroy() để xóa canvas, sự kiện. Được phát triển bởi @nhavantuonglai, mã nguồn tối ưu, không cần phụ thuộc, tích hợp qua HTML hoặc module JS. Hỗ trợ qua nhavantuonglai.com và Instagram mang lại kỹ thuật nhanh chóng. Công cụ giúp trang trí giao diện website hiệu quả, chuyên nghiệp, tạo trải nghiệm trực quan, sinh động.',
+				'Hiệu ứng nền trường sao (Starfield) được xây dựng bằng JavaScript thuần, sử dụng canvas để tạo trường sao động, dễ tích hợp vào dự án website. công cụ thêm #starfield vào body, vẽ ngôi sao tỏa từ trung tâm với 50 ngôi sao ban đầu, thêm 5 ngôi sao mỗi giây, kích thước 0.5-2 pixel, màu ấm. Hiệu ứng gradient và mờ dần tăng chiều sâu, trong khi sự kiện resize, visibilitychange đảm bảo thích nghi kích thước, trạng thái hiển thị. Hàm initStarfield() khởi tạo, chạy tự động qua DOMContentLoaded hoặc thủ công, hủy bằng destroy() để xóa canvas, sự kiện. Được phát triển bởi @nhavantuonglai, mã nguồn tối ưu, không cần phụ thuộc, tích hợp qua HTML hoặc module JS. Hỗ trợ qua nhavantuonglai.com và Instagram mang lại kỹ thuật nhanh chóng. công cụ giúp trang trí giao diện website hiệu quả, chuyên nghiệp, tạo trải nghiệm trực quan, sinh động.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-526.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-046.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <CTA
-	title="Đánh giá trải nghiệm Starfield Animation"
+
+	title="Đánh giá trải nghiệm hiệu ứng nền trường sao (Starfield)"
+
 	items={[
 		{
 			title: 'Phản hồi từ nhà phát triển website',
 			description:
-				'Tiện ích Starfield Animation nhận được nhiều lời khen từ nhà phát triển website nhờ hiệu ứng đẹp mắt và dễ dùng. Theo Web Design Trends, công cụ này là giải pháp tuyệt vời để thêm nền trường sao động mà không cần cấu hình phức tạp. Hiệu ứng ngôi sao tỏa từ trung tâm với gradient, mờ dần được đánh giá cao vì tạo chiều sâu, trong khi tự động dừng khi trang ẩn giúp tối ưu hiệu suất. Một bài viết trên GitHub nhấn mạnh tích hợp nhavantuonglai.com, mang lại trải nghiệm toàn diện. Mã nguồn JavaScript thuần, không phụ thuộc, dễ tích hợp qua HTML hoặc module, phù hợp cho giao diện blog, ứng dụng. Starfield Animation là công cụ không thể thiếu để nâng cao thẩm mỹ, giúp nhà phát triển tạo giao diện website sinh động, chuyên nghiệp, thu hút người dùng một cách hiệu quả, ấn tượng.',
+				'Hiệu ứng nền trường sao (Starfield) nhận được nhiều lời khen từ nhà phát triển website nhờ hiệu ứng đẹp mắt và dễ dùng. Theo Design Trends, công cụ này là giải pháp tuyệt vời để thêm nền trường sao động mà không cần cấu hình phức tạp. Hiệu ứng ngôi sao tỏa từ trung tâm với gradient, mờ dần được đánh giá cao vì tạo chiều sâu, trong khi tự động dừng khi trang ẩn giúp tối ưu hiệu suất. Một bài viết trên GitHub nhấn mạnh tích hợp nhavantuonglai.com, mang lại trải nghiệm toàn diện. Mã nguồn JavaScript thuần, không phụ thuộc, dễ tích hợp qua HTML hoặc module, phù hợp cho giao diện blog, ứng dụng. hiệu ứng nền trường sao (Starfield) là công cụ không thể thiếu để nâng cao thẩm mỹ, giúp nhà phát triển tạo giao diện website sinh động, chuyên nghiệp, thu hút người dùng một cách hiệu quả, ấn tượng.',
 		},
 		{
 			title: 'Ý kiến từ cộng đồng người dùng',
 			description:
-				'Cộng đồng người dùng Starfield Animation bày tỏ sự hài lòng qua phản hồi trên diễn đàn và GitHub. Một người dùng chia sẻ: Nền trường sao động xuất hiện ngay khi tải trang, làm giao diện đẹp hơn hẳn – thật ấn tượng! Tính năng ngôi sao tỏa ra, mờ dần với màu sắc ấm được khen ngợi vì tăng tính trực quan. Giao diện mượt mà, tích hợp dễ dàng qua script HTML, cùng khả năng dừng khi trang ẩn nhận được nhiều lời khen. Tích hợp nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng, nâng cao trải nghiệm. Phản hồi tích cực này khẳng định giá trị của công cụ, là động lực để @nhavantuonglai tiếp tục cải tiến. Starfield Animation không chỉ trang trí giao diện mà còn mang lại trải nghiệm đáng tin cậy, giúp người dùng tạo trang website sinh động, chuyên nghiệp.',
+				'Cộng đồng người dùng hiệu ứng nền trường sao (Starfield) bày tỏ sự hài lòng qua phản hồi trên diễn đàn và GitHub. Một người dùng chia sẻ: Nền trường sao động xuất hiện ngay khi tải trang, làm giao diện đẹp hơn hẳn – thật ấn tượng! Tính năng ngôi sao tỏa ra, mờ dần với màu sắc ấm được khen ngợi vì tăng tính trực quan. Giao diện mượt mà, tích hợp dễ dàng qua script HTML, cùng khả năng dừng khi trang ẩn nhận được nhiều lời khen. Tích hợp nhavantuonglai.com và Instagram mang lại hỗ trợ kỹ thuật nhanh chóng, nâng cao trải nghiệm. Phản hồi tích cực này khẳng định giá trị của công cụ, là động lực để @nhavantuonglai tiếp tục cải tiến. hiệu ứng nền trường sao (Starfield) không chỉ trang trí giao diện mà còn mang lại trải nghiệm đáng tin cậy, giúp người dùng tạo website sinh động, chuyên nghiệp.',
 		},
 	]}
+
 	image={{
-		src: 'https://banmaixanh.vercel.app/image/cover/001-022.jpg',
+		src: 'https://banmaixanh.vercel.app/image/cover/001-042.jpg',
 		alt: 'nhan-tin-instagram',
 	}}
-></CTA>
+
+>
+
+</CTA>
 
 <Question
-	title="Câu hỏi thường gặp về Starfield Animation"
+
+	title="Câu hỏi thường gặp về hiệu ứng nền trường sao (Starfield)"
+
 	items={[
 		{
-			title: 'Làm thế nào để cài đặt công cụ?',
+			title: 'Làm thế nào để cài đặt hiệu ứng nền trường sao (Starfield)?',
 			description:
-				'Để cài đặt Starfield Animation, chạy lệnh npm install javascript-starfield trong terminal. Thêm script vào HTML qua <script src="node_modules/javascript-starfield/index.js"></script> hoặc nhập module trong JS để khởi động.',
+				'Để cài đặt hiệu ứng nền trường sao (Starfield), chạy lệnh npm install javascript-starfield trong terminal. Thêm script vào HTML qua <script src="node_modules/javascript-starfield/index.js"></script> hoặc nhập module trong JS để khởi động.',
 			icon: 'tabler:chevrons-right',
 		},
 		{
 			title: 'Lỗi canvas không hiển thị xử lý ra sao?',
 			description:
-				'Nếu canvas không hiển thị, kiểm tra #starfield có bị CSS khác ghi đè không. Starfield Animation thêm canvas vào body với z-index -1. Điều chỉnh CSS hoặc liên hệ info@nhavantuonglai.com để được hỗ trợ.',
+				'Nếu canvas không hiển thị, kiểm tra #starfield có bị CSS khác ghi đè không. hiệu ứng nền trường sao (Starfield) thêm canvas vào body với z-index -1. Điều chỉnh CSS hoặc liên hệ info@nhavantuonglai.com để được hỗ trợ.',
 			icon: 'tabler:chevrons-right',
 		},
 		{
-			title: 'Tại sao hiệu ứng dừng khi đổi tab?',
+			title: 'Tại sao hiệu ứng nền trường sao (Starfield) dừng khi đổi sang tab mới?',
 			description:
-				'Hiệu ứng dừng khi đổi tab do công cụ dùng visibilitychange để tối ưu hiệu suất. Starfield Animation tự động chạy lại khi tab hiển thị. Nếu cần tùy chỉnh, chỉnh sửa index.js hoặc liên hệ info@nhavantuonglai.com.',
+				'Hiệu ứng dừng khi đổi tab do công cụ dùng visibilitychange để tối ưu hiệu suất. hiệu ứng nền trường sao (Starfield) tự động chạy lại khi tab hiển thị. Nếu cần tùy chỉnh, chỉnh sửa index.js hoặc liên hệ info@nhavantuonglai.com.',
 			icon: 'tabler:chevrons-right',
 		},
 		{
-			title: 'Tôi có thể tùy chỉnh công cụ này không?',
+			title: 'Tôi có thể tùy chỉnh hiệu ứng nền trường sao (Starfield) không?',
 			description:
-				'Starfield Animation là mã nguồn mở. Bạn có thể chỉnh sửa index.js để thay đổi số ngôi sao, màu sắc, tốc độ. Fork repository từ GitHub, chỉnh sửa mã nguồn và tích hợp lại vào dự án để tùy chỉnh.',
+				'Hiệu ứng nền trường sao (Starfield) là mã nguồn mở. Bạn có thể chỉnh sửa index.js để thay đổi số ngôi sao, màu sắc, tốc độ. Fork repository từ GitHub, chỉnh sửa mã nguồn và tích hợp lại vào dự án để tùy chỉnh.',
 			icon: 'tabler:chevrons-right',
 		},
 	]}
-></Question>
+
+>
+
+</Question>

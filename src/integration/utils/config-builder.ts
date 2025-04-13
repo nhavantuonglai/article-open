@@ -32,13 +32,11 @@ const defaultConfig = {
 		tokens: {
 			default: {
 				colors: {
-					default: 'rgb(16 16 16)',
-					heading: 'rgb(0 0 0)',
-					muted: 'rgb(16 16 16 / 66%)',
-					bgPage: 'rgb(255 255 255)',
-					primary: 'rgb(1 97 239)',
-					secondary: 'rgb(1 84 207)',
-					accent: 'rgb(109 40 217)',
+					default: 'rgb(33 39 55)',
+					heading: 'rgb(248 243 240)',
+					muted: 'rgb(33 39 55 / 66%)',
+					page: 'rgb(248 243 240)',
+					primary: 'rgb(255 114 94)',
 				},
 			},
 		},

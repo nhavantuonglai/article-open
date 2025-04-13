@@ -1,51 +1,58 @@
+---
+import apexcharts from 'apexcharts';
+---
+
 <div class="px-4 pt-6">
-
-	<h2>Biểu đồ tải NPMJS</h2>
-
+	<h2>Nhiệt độ Đà Nẵng gần đây (°C)</h2>
 	<div class="p-4 border border-gray-200 rounded-lg shadow-sm dark:border-gray-700 sm:p-6 dark:bg-gray-800">
-
-		<div id="main-chart"></div>
-
+		<div id="temp-chart"></div>
 	</div>
-
 </div>
 
 <script>
-
-	import apexcharts from 'apexcharts';
-
 	async function fetchData() {
-		const response = await fetch('https://raw.githubusercontent.com/nhavantuonglai/python-npm-analytics/main/npmjs/nhavantuonglai.json');
+		const response = await fetch('https://raw.githubusercontent.com/your-username/your-repo/main/weather/danang_temp.json');
 		return response.json();
 	}
 
 	function formatDate(dateStr) {
 		const date = new Date(dateStr.slice(0, 4), dateStr.slice(4, 6) - 1, dateStr.slice(6, 8));
-		return date.toLocaleDateString('en-US', { day: '2-digit', month: 'short' });
+		return date.toLocaleDateString('vi-VN', { day: '2-digit', month: 'short' });
 	}
 
 	async function renderChart() {
 		const data = await fetchData();
-		const dates = Object.keys(data).sort();
-		const downloads = dates.map((date) => data[date]);
-		const formattedDates = dates.map(formatDate);
+		const dates = Object.keys(data).sort().slice(-60);
+		const temps = dates.map((date) => parseFloat(data[date]));
+
+		const last30Dates = dates.slice(-30);
+		const prev30Dates = dates.slice(-60, -30);
+		const last30Temps = temps.slice(-30);
+		const prev30Temps = temps.slice(-60, -30);
+		const last30Formatted = last30Dates.map(formatDate);
+		const prev30Formatted = prev30Dates.map(formatDate);
 
 		const options = {
 			chart: {
 				height: 420,
-				type: 'area',
+				type: 'line',
 				foreColor: document.documentElement.classList.contains('dark') ? '#9CA3AF' : '#6B7280',
 				toolbar: { show: false },
 			},
 			series: [
 				{
-					name: 'Lượt tải',
-					data: downloads,
+					name: '30 ngày gần nhất',
+					data: last30Temps,
 					color: '#FF725E',
+				},
+				{
+					name: '30 ngày trước đó',
+					data: prev30Temps,
+					color: '#3B82F6',
 				},
 			],
 			xaxis: {
-				categories: formattedDates,
+				categories: last30Formatted,
 				labels: {
 					style: {
 						colors: document.documentElement.classList.contains('dark') ? '#9CA3AF' : '#6B7280',
@@ -60,27 +67,34 @@
 				},
 			},
 			yaxis: {
+				title: { text: 'Nhiệt độ (°C)' },
 				labels: {
 					style: {
 						colors: document.documentElement.classList.contains('dark') ? '#9CA3AF' : '#6B7280',
 						fontSize: '14px',
 						fontWeight: 500,
 					},
-					formatter: (value) => value.toLocaleString(),
+					formatter: (value) => `${value.toFixed(1)}°C`,
 				},
 			},
-			fill: {
-				type: 'gradient',
-				gradient: {
-					opacityFrom: document.documentElement.classList.contains('dark') ? 0 : 0.45,
-					opacityTo: document.documentElement.classList.contains('dark') ? 0.15 : 0,
-				},
+			stroke: {
+				curve: 'smooth',
+				width: 2,
 			},
 			dataLabels: { enabled: false },
 			tooltip: {
 				style: {
 					fontSize: '14px',
 					fontFamily: 'Inter, sans-serif',
+				},
+				x: {
+					formatter: (index) => {
+						const allDates = [...prev30Formatted, ...last30Formatted];
+						return allDates[index - 1] || '';
+					},
+				},
+				y: {
+					formatter: (value) => `${value.toFixed(1)}°C`,
 				},
 			},
 			grid: {
@@ -89,12 +103,12 @@
 				padding: { left: 35, bottom: 15 },
 			},
 			markers: {
-				size: 5,
+				size: 4,
 				strokeColors: '#ffffff',
 			},
 		};
 
-		const chart = new apexcharts(document.getElementById('main-chart'), options);
+		const chart = new ApexCharts(document.getElementById('temp-chart'), options);
 		chart.render();
 
 		document.addEventListener('dark-mode', () => {

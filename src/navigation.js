@@ -11,12 +11,22 @@ export const headerData = {
 				{ text: "Giới thiệu", href: "https://nhavantuonglai.com/about" },
 				{
 					text: "Thông tin",
+					href: "https://nhavantuonglai.com",
 					links: [
 						{ text: "Điều khoản", href: "https://nhavantuonglai.com/term" },
 						{ text: "Chính sách", href: "https://nhavantuonglai.com/policy" },
-						{ text: "Phiên bản", href: "https://nhavantuonglai.com/vesion" },
+						{ text: "Phiên bản", href: "https://nhavantuonglai.com/version" },
 					],
 				},
+				{
+					text: "Nguồn dữ liệu",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "RSS", href: "https://nhavantuonglai.com/rss.xml" },
+						{ text: "Sitemaps", href: "https://nhavantuonglai.com/sitemap-0.xml" },
+					],
+				},
+				{ text: "Trạng thái", href: "https://info.nhavantuonglai.com/openstatus" },
 			],
 		},
 
@@ -29,10 +39,10 @@ export const headerData = {
 					text: "Kỹ năng viết lách",
 					href: "https://nhavantuonglai.com/tags/ky-nang-viet",
 					links: [
-						{ text: "Viết sách" },
-						{ text: "Viết content" },
-						{ text: "Content SEO" },
-						{ text: "Tối ưu content" },
+						{ text: "Viết sách", href: "https://nhavantuonglai.com/tags/viet-sach" },
+						{ text: "Viết content", href: "https://nhavantuonglai.com/tags/viet-content" },
+						{ text: "Content SEO", href: "https://nhavantuonglai.com/tags/content-seo" },
+						{ text: "Tối ưu content", href: "https://nhavantuonglai.com/tags/toi-uu-content" },
 					],
 				},
 			],
@@ -69,21 +79,21 @@ export const headerData = {
 					text: "Lịch sử",
 					href: "https://nhavantuonglai.com/tags/lich-su",
 					links: [
-						{ text: "Lịch sử Việt Nam" },
-						{ text: "Lịch sử thế giới" },
-						{ text: "Lịch sử cổ đại" },
-						{ text: "Lịch sử trung đại" },
-						{ text: "Lịch sử hiện đại" },
+						{ text: "Lịch sử Việt Nam", href: "https://nhavantuonglai.com/tags/lich-su-viet-nam" },
+						{ text: "Lịch sử thế giới", href: "https://nhavantuonglai.com/tags/lich-su-the-gioi" },
+						{ text: "Lịch sử cổ đại", href: "https://nhavantuonglai.com/tags/lich-su-co-dai" },
+						{ text: "Lịch sử trung đại", href: "https://nhavantuonglai.com/tags/lich-su-trung-dai" },
+						{ text: "Lịch sử hiện đại", href: "https://nhavantuonglai.com/tags/lich-su-hien-dai" },
 					],
 				},
 				{
 					text: "Tâm lý học",
 					href: "https://nhavantuonglai.com/tags/tam-ly-hoc",
 					links: [
-						{ text: "Tham vấn tâm lý" },
-						{ text: "Tội phạm học" },
-						{ text: "Vấn đề tâm lý" },
-						{ text: "Tâm lý động vật" },
+						{ text: "Tham vấn tâm lý", href: "https://nhavantuonglai.com/tags/tham-van-tam-ly" },
+						{ text: "Tội phạm học", href: "https://nhavantuonglai.com/tags/toi-pham-hoc" },
+						{ text: "Vấn đề tâm lý", href: "https://nhavantuonglai.com/tags/van-de-tam-ly" },
+						{ text: "Tâm lý động vật", href: "https://nhavantuonglai.com/tags/tam-ly-dong-vat" },
 					],
 				},
 				{
@@ -116,24 +126,25 @@ export const headerData = {
 			text: "Lập trình",
 			links: [
 				{ text: "Tổng quát", href: "https://nhavantuonglai.com/tags/developer" },
-				{ text: "Blockchain" },
+				{ text: "Blockchain", href: "https://nhavantuonglai.com/tags/blockchain" },
 				{
 					text: "Website",
 					href: "https://nhavantuonglai.com/tags/website",
 					links: [
 						{ text: "Xây dựng website", href: "https://nhavantuonglai.com/tags/website-builder" },
-						{ text: "Tối ưu website" },
-						{ text: "Giao diện website" },
-						{ text: "Tương tác website" },
+						{ text: "Tối ưu website", href: "https://nhavantuonglai.com/tags/toi-uu-website" },
+						{ text: "Giao diện website", href: "https://nhavantuonglai.com/tags/giao-dien-website" },
+						{ text: "Tương tác website", href: "https://nhavantuonglai.com/tags/tuong-tac-website" },
 					],
 				},
 				{
 					text: "Phần mềm",
+					href: "https://nhavantuonglai.com/tags/phan-mem",
 					links: [
-						{ text: "Phần mềm Android" },
-						{ text: "Phần mềm iOS" },
-						{ text: "Phần mềm Windos" },
-						{ text: "Phần mềm mở" },
+						{ text: "Phần mềm Android", href: "https://nhavantuonglai.com/tags/phan-mem-android" },
+						{ text: "Phần mềm iOS", href: "https://nhavantuonglai.com/tags/phan-mem-ios" },
+						{ text: "Phần mềm Windos", href: "https://nhavantuonglai.com/tags/phan-mem-windos" },
+						{ text: "Phần mềm mở", href: "https://nhavantuonglai.com/tags/phan-mem-mo" },
 					],
 				},
 				{
@@ -153,47 +164,100 @@ export const headerData = {
 				{ text: "Tổng quát", href: "https://nhavantuonglai.com/analytics" },
 				{
 					text: "Văn bản",
+					href: "https://nhavantuonglai.com/analytics",
 					links: [
-						{ text: "Đếm chữ văn bản" },
-						{ text: "In hoa văn bản" },
-						{ text: "In đậm văn bản" },
-						{ text: "Bộ biểu tượng Emoji" },
+						{ text: "Đếm chữ văn bản", href: "https://nhavantuonglai.com/analytics/count" },
+						{ text: "In hoa văn bản", href: "https://nhavantuonglai.com/analytics/lower" },
+						{ text: "In đậm văn bản", href: "https://nhavantuonglai.com/analytics/unicode" },
+						{ text: "Bộ biểu tượng Emoji", href: "https://nhavantuonglai.com/analytics/emoji" },
 					],
 				},
 				{
-					text: "Giải trí",
+					text: "Trực tuyến",
+					href: "https://nhavantuonglai.com/analytics",
 					links: [
 						{ text: "Nghe FM trực tuyến", href: "https://nhavantuonglai.com/analytics/radio" },
-						{ text: "Xem video trực tuyến" },
+						{ text: "Đọc báo trực tuyến", href: "https://nhavantuonglai.com/analytics/newspaper" },
 						{ text: "Bây giờ là mấy giờ", href: "https://nhavantuonglai.com/analytics/time" },
 						{ text: "Đếm ngược Giao thừa", href: "https://nhavantuonglai.com/analytics/countdown" },
 					],
 				},
 				{
 					text: "AI",
+					href: "https://nhavantuonglai.com/analytics",
 					links: [
-						{ text: "Trò chuyện" },
-						{ text: "Phụ đề" },
-						{ text: "Đọc hình" },
-						{ text: "Đọc chữ" },
+						{ text: "Trò chuyện AI", href: "https://nhavantuonglai.com/analytics/integrate" },
+						{ text: "Dịch phụ đề", href: "https://nhavantuonglai.com/analytics/subtitle" },
+						{ text: "Đọc hình OCR", href: "https://nhavantuonglai.com/analytics/ocr" },
+						{ text: "Đọc chữ", href: "https://nhavantuonglai.com/analytics/voicemaker" },
 					],
 				},
 				{
 					text: "Dữ liệu",
+					href: "https://nhavantuonglai.com/analytics",
 					links: [
-						{ text: "Phạt nguội AI" },
-						{ text: "Kiểm tra số tài khoản" },
-						{ text: "Kiểm tra mã số thuế" },
-						{ text: "Từ điển trực tuyến" },
+						{ text: "Phạt nguội AI", href: "https://nhavantuonglai.com/analytics/phat-nguoi" },
+						{ text: "Kiểm tra số tài khoản", href: "https://nhavantuonglai.com/analytics/so-tai-khoan" },
+						{ text: "Kiểm tra mã số thuế", href: "https://nhavantuonglai.com/analytics/ma-so-thue" },
+						{ text: "Từ điển trực tuyến", href: "https://nhavantuonglai.com/analytics/dictionary" },
 					],
 				},
 				{
 					text: "Trò chơi",
+					href: "https://nhavantuonglai.com/analytics",
 					links: [
 						{ text: "Rắn săn mồi", href: "https://nhavantuonglai.com/analytics/snake" },
-						{ text: "Xếp hình" },
-						{ text: "Giải đố" },
-						{ text: "Mê cung" },
+						{ text: "Xếp hình", href: "https://nhavantuonglai.com" },
+						{ text: "Giải đố", href: "https://nhavantuonglai.com" },
+						{ text: "Mê cung", href: "https://nhavantuonglai.com" },
+
+					],
+				},
+			],
+		},
+
+		{
+			text: "Tệp lệnh",
+			links: [
+				{ text: "Tổng quát", href: "https://nhavantuonglai.com" },
+				{
+					text: "Dữ liệu",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Đổi tên tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-attribute" },
+						{ text: "Di chuyển tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-execute" },
+					],
+				},
+				{
+					text: "Liên kết",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Tổng hợp sitemap", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
+						{ text: "Tìm liên kết bên ngoài", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
+					],
+				},
+				{
+					text: "Giao diện",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Hiệu ứng nền trường sao", href: "https://nhavantuonglai.com/package/javascript-starfield" },
+						{ text: "Hiệu ứng tải supernova", href: "https://nhavantuonglai.com/package/javascript-supernova" },
+						{ text: "Mục lục bài viết", href: "https://nhavantuonglai.com/package/table-of-content" },
+						{ text: "Biên tập tệp markdown", href: "https://nhavantuonglai.com/package/markdown-attribute" },
+					],
+				},
+				{
+					text: "Công cụ AI",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Trò chuyện với Gemini", href: "https://nhavantuonglai.com/package/gemini-chat" },
+					],
+				},
+				{
+					text: "Phân tích",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "NPMJS Analytics", href: "https://nhavantuonglai.com/package/npmjs-analytics" },
 
 					],
 				},
@@ -203,9 +267,9 @@ export const headerData = {
 		{
 			text: "Tiện ích",
 			links: [
-				{ text: "In tài liệu" },
-				{ text: "Chụp ảnh màn hình" },
-				{ text: "Dịch văn bản" },
+				{ text: "In tài liệu", href: "https://nhavantuonglai.com" },
+				{ text: "Chụp ảnh màn hình", href: "https://nhavantuonglai.com" },
+				{ text: "Dịch văn bản", href: "https://nhavantuonglai.com" },
 			],
 		},
 
@@ -217,35 +281,38 @@ export const headerData = {
 					href: "https://nhavantuonglai.com/contact",
 					links: [
 						{ text: "Gửi thư", href: "mailto:info@nhavantuonglai.com" },
-						{ text: "Nhắn tin", href: "https://instagram.com/nhavantuonglai" },
-						{ text: "Điện thoại" },
+						{ text: "Nhắn tin", href: "https://info.nhavantuonglai.com/instagram" },
+						{ text: "Điện thoại", href: "https://nhavantuonglai.com" },
 					],
 				},
 				{
 					text: "Thư viện ảnh",
+					href: "https://nhavantuonglai.com",
 					links: [
-						{ text: "500px", href: "https://500px.com/p/nhavantuonglai" },
-						{ text: "Flickr", href: "https://flickr.com/photos/nhavantuonglai/" },
-						{ text: "Adobe" },
-						{ text: "Freepik" },
+						{ text: "500px", href: "https://info.nhavantuonglai.com/500px" },
+						{ text: "Flickr", href: "https://info.nhavantuonglai.com/flickr" },
+						{ text: "Adobe", href: "https://nhavantuonglai.com" },
+						{ text: "Freepik", href: "https://nhavantuonglai.com" },
 
 					],
 				},
 				{
 					text: "Mạng xã hội",
+					href: "https://nhavantuonglai.com",
 					links: [
-						{ text: "Facebook" },
-						{ text: "Linkedin" },
-						{ text: "X", href: "https://x.com/nhavantuonglai" },
+						{ text: "Facebook", href: "https://nhavantuonglai.com" },
+						{ text: "Linkedin", href: "https://info.nhavantuonglai.com/linkedin" },
+						{ text: "X", href: "https://info.nhavantuonglai.com/x" },
 
 					],
 				},
 				{
 					text: "Mã nguồn mở",
+					href: "https://nhavantuonglai.com",
 					links: [
-						{ text: "Github", href: "https://github.com/nhavantuonglai" },
-						{ text: "Open", href: "https://github.com/nhavantuonglai/article-open" },
-						{ text: "Terminal", href: "https://github.com/nhavantuonglai/terminal-open" },
+						{ text: "Github", href: "https://info.nhavantuonglai.com/github" },
+						{ text: "Open", href: "https://info.nhavantuonglai.com/article-open" },
+						{ text: "Terminal", href: "https://info.nhavantuonglai.com/terminal-open" },
 					],
 				},
 			],
@@ -373,19 +440,19 @@ export const footerData = {
 		{
 			ariaLabel: 'X',
 			icon: 'tabler:brand-x',
-			href: 'https://x.com/nhavantuonglai'
+			href: 'https://info.nhavantuonglai.com/x'
 		},
 
 		{
 			ariaLabel: 'Instagram',
 			icon: 'tabler:brand-instagram',
-			href: 'https://instagram.com/nhavantuonglai'
+			href: 'https://info.nhavantuonglai.com/instagram'
 		},
 
 		{
 			ariaLabel: 'Linkedin',
 			icon: 'tabler:brand-linkedin',
-			href: 'https://linkedin.com/in/nguyenchanhdanh'
+			href: 'https://info.nhavantuonglai.com/linkedin'
 		},
 
 		{

@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @layer base {
+
 	html {
 		scrollbar-width: none;
 		-ms-overflow-style: none;
@@ -12,7 +13,6 @@
 		font-style: normal;
 		font-variation-settings: "wdth" 100;
 	}
-
 
 	html::-webkit-scrollbar {
 		display: none;

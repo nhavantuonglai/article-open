@@ -1,14 +1,10 @@
-# Build & dependency folders
 .astro/
 node_modules/
-
-# VSCode settings
 .vscode/
-
-# Environment files
-.env
-
-# Analytics-related folders
-src/page/analytics/
+.vercel
+dist/
+src/pages/analytics/
+src/pages/package/
 src/components/analytics/
 src/components/content/analytics/
+src/components/content/analytics/package
