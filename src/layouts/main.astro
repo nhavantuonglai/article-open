@@ -12,9 +12,6 @@ import Opentab from '~/components/javascript/open-tab.astro';
 
 import BasicScripts from '~/components/javascript/basic.astro';
 
-import Loading from '~/components/javascript/supernova.astro';
-import Milkyway from '~/components/javascript/starfield.astro';
-
 import { useState, useEffect } from "react";
 
 import type { MetaData as MetaDataType } from '~/types';
@@ -87,10 +84,6 @@ const { language, textDirection } = I18N;
 			</iframe>
 
 		</noscript>
-
-		<Loading/>
-
-		<Milkyway/>
 
 		<style is:global>
 			img {
