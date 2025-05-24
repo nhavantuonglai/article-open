@@ -2,8 +2,10 @@
 import Layout from '~/layouts/page.astro';
 
 import Broken from '~/components/widgets/broken.astro';
+import Latest from '~/components/article/latest.astro';
+import NPMJS from '~/components/content/package/npmjs.astro';
 
-import { getHomePermalink} from '~/utils/permalinks';
+import Action from '~/components/content/main/action.astro';
 
 const metadata = {
 	title: '404',
@@ -14,5 +16,7 @@ const metadata = {
 <Layout metadata={metadata}>
 
 	<Broken/>
+
+	<Latest/>
 
 </Layout>

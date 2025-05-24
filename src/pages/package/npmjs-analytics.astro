@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import NPMJS from '~/components/content/package/npmjs-analytics.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ Node.js phân tích, đo lường lượt tải NPMJS',
+	description: 'NPMJS Analytics là công cụ Node.js phân tích thống kê lượt tải các gói npm do một người dùng chỉ định quản lý.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<NPMJS/>
+
+	<Action/>
+
+</Layout>

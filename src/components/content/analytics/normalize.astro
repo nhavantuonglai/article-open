@@ -1,6 +1,7 @@
 ---
 import Gallery from '~/components/widgets/gallery.astro';
 import Maintenance from '~/components/analytics/maintenance.astro';
+import Normalize from '~/components/analytics/normalize.astro';
 
 import CTA from '~/components/widgets/services.astro';
 import Question from '~/components/widgets/question.astro';
@@ -31,22 +32,22 @@ const numberswinter = uniqueNumbers.slice(16, 20);
 
 const springs = numbersspring.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	alt: `Công cụ chuẩn hóa dữ liệu thô ${num}.`
 	}));
 
 const summers = numberssummer.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	alt: `Công cụ chuẩn hóa dữ liệu thô ${num}.`
 	}));
 
 const autumns = numbersautumn.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	alt: `Công cụ chuẩn hóa dữ liệu thô ${num}.`
 	}));
 
 const winters = numberswinter.map(num => ({
 	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Công cụ nâng cao, đa chức năng, hữu ích trong nhiều trường hợp ${num}.`
+	alt: `Công cụ chuẩn hóa dữ liệu thô ${num}.`
 	}));
 ---
 
@@ -60,10 +61,13 @@ const winters = numberswinter.map(num => ({
 >
 
 	<Maintenance
-		subtitle="Website hiện tại đang trong quá trình chuyển đổi, cập nhật giao diện. Nên công cụ này tạm thời không hoạt động, vui lòng quay lại sau."
+		title="Công cụ chuẩn hóa dữ liệu thô."
+		subtitle="Công cụ chuẩn hóa dữ liệu thô đảm bảo dữ liệu của bạn sạch và dễ sử dụng với công cụ chuẩn hóa dữ liệu thô."
 	/>
 
 </Gallery>
+
+<Normalize/>
 
 <CTA
 

@@ -59,7 +59,7 @@ const winters = numberswinter.map(num => ({
 	<Hero
 
 		title="Lỗi 404 đã xuất hiện."
-		subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+		subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>50</span> giây."
 
 	/>
 
@@ -67,7 +67,7 @@ const winters = numberswinter.map(num => ({
 
 <script>
 
-	let timeLeft = 5;
+	let timeLeft = 50;
 	const countdownElement = document.getElementById('countdown');
 	
 	const countdownInterval = setInterval(() => {

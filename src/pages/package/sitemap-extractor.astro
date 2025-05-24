@@ -1,0 +1,20 @@
+---
+import Layout from '~/layouts/page.astro';
+
+import NPMJS from '~/components/content/package/sitemap-extractor.astro';
+
+import Action from '~/components/content/main/action.astro';
+
+const metadata = {
+	title: 'Công cụ Python trích xuất sitemap và liên kết bên ngoài (SLE)',
+	description: 'Sitemap and link extractor (SLE) là công cụ Python trích xuất URL từ sitemap hoặc từ danh sách URL.',
+};
+---
+
+<Layout metadata={metadata}>
+
+	<NPMJS/>
+
+	<Action/>
+
+</Layout>

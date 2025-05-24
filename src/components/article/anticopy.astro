@@ -1,45 +1,66 @@
 <script client:load>
 
-	document.onselectstart = () => false;
+	document.addEventListener('DOMContentLoaded', function() {
 
-	function preventCopy(e) {
-		e.preventDefault();
-	}
+		const style = document.createElement('style');
+		style.textContent = `
+			::selection {
+				background: transparent !important;
+				color: inherit !important;
+			}
+			::-moz-selection {
+				background: transparent !important;
+				color: inherit !important;
+			}
+		`;
+		document.head.appendChild(style);
+		
+		document.addEventListener('mouseup', function() {
+			const selection = window.getSelection();
+			const selectedText = selection.toString();
+			
+			if (selectedText && selectedText.length > 0) {
+				document.execCommand('copy');
+			}
+		});
+		
+		document.addEventListener('copy', function(e) {
 
-	function allowCopy() {
-		return true;
-	}
+			const selection = window.getSelection();
+			const selectedText = selection.toString();
+			
+			if (selectedText && selectedText.length > 0) {
+				let trimmedText = selectedText;
+				
+				if (selectedText.length > 500) {
+					trimmedText = selectedText.substring(0, 500) + "…";
+				}
+				
+				const currentUrl = window.location.href;
+				const modifiedText = trimmedText + "\n\nĐọc bài chi tiết tại: " + currentUrl;
+				
+				e.clipboardData.setData('text/plain', modifiedText);
+				e.preventDefault();
+			}
+		});
 
-	if (window.sidebar) {
-		document.onmousedown = preventCopy;
-		document.onclick = allowCopy;
-	}
-
-</script>
-
-<script client:load type="text/javascript">
-	function preventRightClickIE() {
-		if (document.all) {
-			return false;
+		document.oncontextmenu = function() {
+			return false
 		}
-	}
-
-	function preventRightClickNS(e) {
-		if (document.layers || (document.getElementById && !document.all)) {
-			if (e.which == 2 || e.which == 3) {
-				return false;
+		
+		function preventRightClickNS(e) {
+			if (e.which == 3)
+				{(which == 3)
+				return false
 			}
 		}
-	}
-
-	if (document.layers) {
-		document.captureEvents(Event.MOUSEDOWN);
-		document.onmousedown = preventRightClickNS;
-	} else {
-		document.onmouseup = preventRightClickNS;
-		document.oncontextmenu = preventRightClickIE;
-	}
-
-	document.oncontextmenu = () => false;
+		
+		if (document.layers) {
+			document.captureEvents(Event.MOUSEDOWN);
+			document.onmousedown = preventRightClickNS;
+		} else {
+			document.onmouseup = preventRightClickNS;
+		}
+	});
 
 </script>
