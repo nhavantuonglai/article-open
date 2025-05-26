@@ -1,22 +1,16 @@
 ---
-import Layout from '~/layouts/page.astro';
+import Terminal from '~/layouts/terminal.astro';
 
 import Broken from '~/components/widgets/broken.astro';
-import Latest from '~/components/article/latest.astro';
-import NPMJS from '~/components/content/package/npmjs.astro';
-
-import Action from '~/components/content/main/action.astro';
 
 const metadata = {
-	title: '404',
-	description: "Nội dung này đang không khả dụng, vui lòng thử lại liên kết hoặc truy cập từ trang chủ.",
+	title: 'Nội dung gián đoạn do lỗi không xác định',
+	description: "Nội dung gián đoạn do lỗi không xác định, vui lòng tham khảo thông tin từ công cụ Đọc báo trực tuyến mới nhất bằng RSS để biết thêm thông tin.",
 };
 ---
 
-<Layout metadata={metadata}>
+<Terminal metadata={metadata}>
 
 	<Broken/>
 
-	<Latest/>
-
-</Layout>
+</Terminal>

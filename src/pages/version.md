@@ -3,282 +3,226 @@ layout: '~/layouts/markdown.astro'
 title: "Lịch sử phiên bản"
 ---
 
-_\article_ là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.com/), hạn chế quyền truy cập và không giới hạn các tính năng.
+_Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai thể hiện kỹ năng viết, vốn hiểu biết và sự chiêm nghiệm với những điều đã trải qua. Chúng là những dòng văn vừa mang nặng tính cá nhân, lại rất phổ quát và sâu sắc._
 
-[\article-open](https://info.nhavantuonglai.com/article-open) là phiên bản mã nguồn mở của _\article_ với quyền truy cập miễn phí và giới hạn tính năng.
+## Giới thiệu dự án
 
-Mã nguồn _\article_  sử dụng Astro 5.0 và Tailwind CSS để tạo nên một phiên bản website hiện đại với:
+_article_ là mã nguồn chính thức của website [nhavantuonglai.com](https://nhavantuonglai.com/), sử dụng nền tảng website hiện đại, được xây dựng trên công nghệ Astro 5.0 và Tailwind CSS.
 
-– Cải thiện cấu trúc code, giúp mọi thứ trở nên đơn giản và dễ dàng tiếp cận.
+[article-open](https://info.nhavantuonglai.com/article-open) là phiên bản mã nguồn mở, quyền truy cập miễn phí và giới hạn tính năng.
 
-– Đồng bộ, áp dụng components cho tất cả các trang, giúp cấu trúc trở nên dễ hiểu và cập nhật.
+## Đặc điểm nổi bật
 
-– Tối ưu kỹ thuật SEO, khi cung cấp thẻ schema tiêu chuẩn, meta tag generator nâng cao, giúp website dễ dàng được các công cụ tìm kiếm nhận diện và index trang.
+– Kiến trúc hiện đại: Sử dụng Astro 5.0 và Tailwind CSS để tạo ra giao diện responsive và hiệu suất cao.
 
-– Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
+– Cấu trúc code tối ưu: Được tổ chức một cách khoa học, dễ bảo trì và mở rộng.
 
-Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website Astro lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+– SEO friendly: Tích hợp schema markup, meta tag generator và các công cụ tối ưu SEO chuyên nghiệp.
 
-## Nguồn lực vận hành
+– Trải nghiệm người dùng: Hiệu ứng chuyển động mượt mà và giao diện trực quan.
 
-– Nền tảng triển khai: [Astro](https://nhavantuonglai.com/article/tim-hieu-astro) kết hợp cùng Tailwind.
+– Hiệu suất cao: Đạt điểm số PageSpeed Insights ấn tượng.
 
-– Hosting: [Vercel](https://nhavantuonglai.com/article/tim-hieu-vercel).
+## Hạ tầng kỹ thuật
 
-– Quản lý dữ liệu: Github.
+| Thành phần | Công nghệ |
+|------------|-----------|
+| Framework | [Astro](https://nhavantuonglai.com/article/tim-hieu-astro) + Tailwind CSS. |
+| Hosting | [Vercel](https://nhavantuonglai.com/article/tim-hieu-vercel). |
+| Lưu trữ mã nguồn | GitHub. |
+| Monitoring | OpenStatus. |
+| Bảo vệ bản quyền | DMCA. |
 
-– Theo dõi trạng thái: Openstatus.
-
-– Bảo vệ bản quyền: DMCA.
-
-Nguồn lực được khai thác, sử dụng nhằm tối ưu tài nguyên sử dụng, đảm bảo website vận hành ổn định và ít tiêu hao chi phí nhất có thể.
+Hạ tầng được thiết kế để tối ưu tài nguyên, đảm bảo vận hành ổn định với chi phí thấp nhất.
 
 ## Lịch trình cập nhật
 
-– Thứ 6 hàng tuần: Cập nhật hình bìa trang chủ, nội dung bài viết.
+– Hàng tuần (Thứ 6): Cập nhật hình bìa trang chủ và nội dung bài viết.
 
-– Thứ 6 tuần 1 và 3 hàng tháng: Cập nhật ảnh bìa, ngày đăng bài viết.
+– Tuần 1, 3 mỗi tháng (Thứ 6): Cập nhật ảnh bìa và ngày đăng bài viết.
 
-– Thứ 6 tuần 4 hàng tháng: Cập nhật khác.
+– Tuần 4 mỗi tháng (Thứ 6): Cập nhật tính năng và cải tiến khác.
 
-Việc cập nhật được diễn ra tự động, không ảnh hưởng đến quá trình trải nghiệm, đọc nội dung trên website.
+Tất cả cập nhật được thực hiện tự động, không ảnh hưởng đến trải nghiệm người dùng.
 
-## article | v25.01
+## Version 25.01
 
-### Tổng quan
-
-article | v25.01. dựa trên mã nguồn so với article | v24.09. để kế thừa, phát triển code toàn diện hơn. Cấu trúc code được đồng bộ, giúp các tiêu chuẩn được áp dụng lên toàn bộ trang. Ngoài ra, hiệu ứng chuyển động, và các tính năng mới cũng được phát triển mạnh, tạo ra không gian tương tác và vận hành hiệu quả hơn.
-
-### Chi tiết cập nhật
-
-2025.04.01: Cải tiến toàn bộ giao diện.
-
-2025.03.12: Cập nhật giao diện nền Trời sao.
-
-2025.03.09: Cập nhật button điều hướng lên đầu trang với mục Article.
-
-2025.03.07: Cập nhật button thư mục bài viết với mục Article.
-
-2025.03.05: Tối ưu cấu trúc code.
-
-2025.02.17: Cập nhật cấu trúc, tinh giản nội dung hiển thị, đồng nhất thuộc tính.
-
-2025.02.15: Cập nhật cấu trúc Open Graph, đảm bảo hiển thị tốt trên các nền tảng.
-
-2025.02.14: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính Analytics.
-
-2025.02.09: Cập nhật bố cục trình bày trong mục Article.
-
-2025.02.03: Cập nhật Framer motion.
-
-2025.02.02: Cập nhật mã nguồn, đồng bộ cấu trúc thuộc tính bằng CSS.
-
-2025.02.03: Cập nhật bố cục trình bày trong mục Analytics.
-
-2025.02.02: Cập nhật tính năng [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).
-
-2025.02.01: Cập nhật tính năng [Truy vấn mã số thuế](https://nhavantuonglai.com/analytics/ma-so-thue).
-
-2025.01.30: Cập nhật tính năng [Truy vấn số tài khoản](https://nhavantuonglai.com/analytics/so-tai-khoan).
-
-2025.01.29: Cập nhật tính năng [Đếm ngược giao thừa](https://nhavantuonglai.com/analytics/countdown).
-
-2025.01.28: Cập nhật tính năng [Bây giờ là mấy giờ?](https://nhavantuonglai.com/analytics/time).
-
-2025.01.27: Cập nhật tính năng [Kiểm tra phạt nguội trực tuyến](https://nhavantuonglai.com/analytics/phat-nguoi).
-
-2025.01.26: Cập nhật tính năng [Từ điển trực tuyến](https://nhavantuonglai.com/analytics/dictionary).
-
-2025.01.25: Cập nhật tính năng [Nghe Radio trực tuyến](https://nhavantuonglai.com/analytics/radio).
-
-2025.01.24: Cập nhật tính năng [Xem video trực tuyến](https://nhavantuonglai.com/analytics/streaming).
-
-2025.01.23: Cập nhật tính năng [Dịch phụ đề bằng Ai](https://nhavantuonglai.com/analytics/subtitle).
-
-2025.01.22: Cập nhật tính năng [Chuyển văn bản thành giọng nói bằng AI](https://nhavantuonglai.com/analytics/voicemaker).
-
-2025.01.21: Cập nhật tính năng [Đọc văn bản trong tài liệu bằng AI](https://nhavantuonglai.com/analytics/ocr).
-
-2025.01.20: Cập nhật tính năng [Trích xuất tiêu đề từ liên kết](https://nhavantuonglai.com/analytics/title).
-
-## article | v24.09
+Phát hành: Tháng 1/2025. Trạng thái: Đang phát triển.
 
 ### Tổng quan
 
-article | v24.09. không thay đổi về mã nguồn so với article | v24.04. mà chỉ tập trung vào những tính năng mới sẽ áp dụng trên website. Mục tiêu của article | v24.09. là tạo ra các không gian tương tác, ứng dụng tính năng để thu hút và giữ chân người dùng trên website.
+Phiên bản 25.01 kế thừa và phát triển toàn diện từ v24.09, tập trung vào việc đồng bộ cấu trúc code và mở rộng tính năng tương tác. Đây là bước tiến quan trọng trong việc hiện đại hóa nền tảng.
 
-### Chi tiết cập nhật
+### Cập nhật chính
 
-2025.01.06: Cập nhật bố cục trình bày trong mục Article.
+#### Cải tiến giao diện
 
-2024.12.31: Cập nhật font chữ, chuyển sang Montserrat.
+– 25/05/2025: Cập nhật bộ màu (#a8c686 / RGB: 168, 198, 134).
 
-2024.12.28: Cập nhật mã nguồn, giảm sự lệ thuộc vào thuộc tính Astro.
+– 01/04/2025: Cải tiến toàn bộ giao diện người dùng.
 
-2024.12.20: Cập nhật mã nguồn, tăng hiệu quả đọc và hiểu code.
+– 09/03/2025: Thêm button điều hướng lên đầu trang cho mục Article.
 
-2024.12.20: Cập nhật cấu trúc Navigation bar.
+– 05/03/2025: Tối ưu cấu trúc code tổng thể.
 
-2024.12.10: Cập nhật tính năng [Integrate AI](https://nhavantuonglai.com/analytics/integrate).
+#### Cải tiến kỹ thuật
 
-2024.12.08: Cập nhật lại tiêu đề và mô tả website.
+– 25/05/2025: Đồng bộ thuộc tính Config và Tailwind.
 
-2024.11.30: Kích hoạt tính năng [mục lục bài viết](https://nhavantuonglai.com/article/muc-luc-bai-viet).
+– 17/02/2025: Cập nhật cấu trúc và tinh giản nội dung hiển thị.
 
-2024.11.11: Cập nhật bộ [biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
+– 15/02/2025: Tối ưu Open Graph cho các nền tảng mạng xã hội.
 
-2024.10.28: Cập nhật thuộc tính index cho các trang phụ trong mục Article.
+– 14/02/2025: Đồng bộ cấu trúc Analytics.
 
-2024.10.26: Kích hoạt tính năng [tự động mở trang mới](https://nhavantuonglai.com/article/tu-dong-mo-trang).
+– 09/02/2025: Cải tiến bố cục mục Article.
 
-2024.10.04: Cập nhật config, mở rộng hiển thị bài viết trên trang.
+– 03/02/2025: Tích hợp Framer Motion cho hiệu ứng động.
 
-2024.09.22: Cập nhật schema, cho phép hiển thị thêm nhiều thuộc tính SEO hơn.
+– 02/02/2025: Đồng bộ thuộc tính CSS.
 
-2024.09.12: Cập nhật tính năng [chuẩn hóa Unicode](https://nhavantuonglai.com/analytics/unicode).
+#### Tính năng mới
 
-2024.09.11: Cập nhật tính năng [chuyển chữ hoa thành chữ thường](https://nhavantuonglai.com/analytics/lower).
+– 25/05/2025: [Cửa sổ thông báo](http://nhavantuonglai.com/article/cua-so-thong-bao).
 
-2024.09.10: Cập nhật tính năng [chuẩn hóa dữ liệu thô](https://nhavantuonglai.com/analytics/normalize).
+– 02/02/2025: [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).
 
-2024.09.09: Cập nhật tính năng [thống kê tần suất văn bản](https://nhavantuonglai.com/analytics/count).
+– 01/02/2025: [Truy vấn mã số thuế](https://nhavantuonglai.com/analytics/ma-so-thue).
 
-2024.09.08: Launching website thành công.
+– 30/01/2025: [Truy vấn số tài khoản](https://nhavantuonglai.com/analytics/so-tai-khoan).
 
-### Lý do chuyển sang article | v25.01
+– 29/01/2025: [Đếm ngược giao thừa](https://nhavantuonglai.com/analytics/countdown).
 
-article | v24.04. là phiên bản đã hoàn thiện, làm tốt nhất những gì đã có. Việc chuyển sang article | v25.01. giúp cải tiến, cập nhật thêm nhiều chức năng, tính năng mới trên website.
+– 28/01/2025: [Đồng hồ thời gian](https://nhavantuonglai.com/analytics/time).
 
-## article | v24.04
+– 27/01/2025: [Kiểm tra phạt nguội](https://nhavantuonglai.com/analytics/phat-nguoi).
 
-### Tổng quan
+– 26/01/2025: [Từ điển trực tuyến](https://nhavantuonglai.com/analytics/dictionary).
 
-article | v24.04. không thay đổi về mã nguồn so với article | v24.01. mà chỉ thay đổi hosting, chuyển sang Vercel. Sự cải tiến này giúp thư viện CMS được quản lý dễ dàng, và hệ thống tracking diễn ra được hiệu quả hơn.
+– 25/01/2025: [Radio trực tuyến](https://nhavantuonglai.com/analytics/radio).
 
-### Chi tiết cập nhật
+– 24/01/2025: [Streaming video](https://nhavantuonglai.com/analytics/streaming).
 
-2024.08.31: Toàn tất dự án.
+– 23/01/2025: [Dịch phụ đề AI](https://nhavantuonglai.com/analytics/subtitle).
 
-2024.08.12: Đồng bộ màu sắc giữa các thuộc tính, block. Mã màu HEX áp dụng: #16a34a. Mã màu RGB áp dụng: (22 163 74).
+– 22/01/2025: [Text to Speech AI](https://nhavantuonglai.com/analytics/voicemaker).
 
-2024.08.08: Đồng bộ thuộc tính giữa các trang, block.
+– 21/01/2025: [OCR AI](https://nhavantuonglai.com/analytics/ocr).
 
-2024.07.25: Cập nhật tính năng [tiến trình đọc bài](https://nhavantuonglai.com/article/tien-trinh-doc-bai).
+– 20/01/2025: [Trích xuất tiêu đề](https://nhavantuonglai.com/analytics/title).
 
-2024.07.12: Cập nhật tính năng thông báo nhanh. Hủy tính năng trong bản cập nhật 2024.09.01.
+## Version 24.09
 
-2024.06.21: Cập nhật tính năng phát nhạc dưới nền.
-
-2024.06.13: Sắp xếp lại code hiển thị, giúp tăng tốc độ deploy.
-
-2024.05.26: Cập nhật popup chat.
-
-2024.05.20: Cập nhật tính năng [anticopy và disable clicks](https://nhavantuonglai.com/article/sao-chep-noi-dung).
-
-2024.05.16: Cập nhật tính năng bình luận bằng Facebook. Hủy tính năng trong bản cập nhật 2024.09.01.
-
-2024.05.10: Cập nhật tính năng theo dõi trạng thái thông qua Openstatus.
-
-2024.05.12: Cập nhật tính năng bảo vệ bản quyền nội dung thông qua DMCA.
-
-2024.04.21: Launching website thành công.
-
-### Lý do chuyển sang article | v24.09
-
-article | v24.04. là phiên bản tốt, tối ưu nhất từ trước đến nay, việc chuyển sang article | v24.09 nhằm đáp ứng những yêu cầu khắt khe, cao hơn trong bối cảnh hiện tại.
-
-## article | v24.01
+Phát hành: Tháng 9/2024. Trạng thái: Đã kết thúc phát triển, mã nguồn không thể sử dụng.
 
 ### Tổng quan
 
-article | v24.01. là phiên bản kế thừa từ article | v23.12. với nhiều cải tiến, cụ thể là giao diện và bố cục được đầu tư cải thiện, nhằm đem lại trải nghiệm tốt nhất cho người đọc.
+Phiên bản 24.09 tập trung phát triển các tính năng tương tác và ứng dụng thực tế để nâng cao trải nghiệm người dùng, không thay đổi cấu trúc code cốt lõi.
 
-### Chi tiết cập nhật
+### Cập nhật đáng chú ý
 
-2023.04.21: Toàn tất dự án.
+#### Cải tiến giao diện
 
-2024.03.07: Kích hoạt trình Adsense.
+– 06/01/2025: Cải tiến bố cục mục Article.
 
-2024.02.10: Đồng bộ màu sắc giữa các thuộc tính, block. Mã màu HEX áp dụng: #ff725e. Mã màu RGB áp dụng: (255 114 94).
+– 31/12/2024: Chuyển sang font Montserrat.
 
-2024.02.06: Cập nhật Google Tag Manager.
+– 28/12/2024: Giảm phụ thuộc vào Astro framework.
 
-2024.02.04: Bổ sung trang con mới.
+– 20/12/2024: Tối ưu khả năng đọc code và cấu trúc Navigation.
 
-2024.01.30: Chuyển slug từ /posts sang /article.
+#### Cải tiến kỹ thuật
 
-2024.01.22: Hiệu chỉnh bố cục hiển thị (căn đều nội dung trong các block) trên trang.
+– 10/12/2024: [Integrate AI](https://nhavantuonglai.com/analytics/integrate).
 
-2024.01.18: Hiệu chỉnh nội dung hiển thị trên trang.
+– 30/11/2024: [Mục lục bài viết](https://nhavantuonglai.com/article/muc-luc-bai-viet).
 
-2024.01.11: Launching website thành công.
+– 11/11/2024: [Bộ biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
 
-### Lý do chuyển sang article | v24.04
+– 26/10/2024: [Tự động mở trang mới](https://nhavantuonglai.com/article/tu-dong-mo-trang).
 
-article | v24.01. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, giải quyết tốt các vấn đề tồn đọng của các phiên bản webiste cũ trước. Tuy nhiên, article | v24.01. được deploy thông qua Firebase, gặp nhiều thách thức và giới hạn khi triển khai thư viện CMS số lượng lớn. Việc triển khai website sang article | v24.04. là cách giải quyết tốt nhất cho vấn đề này.
+#### Tính năng mới
 
-## article | v23.12
+– 12/09/2024: [Chuẩn hóa Unicode](https://nhavantuonglai.com/analytics/unicode)
 
-### Tổng quan
+– 11/09/2024: [Chuyển chữ hoa thành thường](https://nhavantuonglai.com/analytics/lower)
 
-article | v23.12. là phiên bản website động, code được viết bằng Astro và quản lý hosting thông qua Firebase. Ở phiên bản này, các cải tiến diễn ra ở cả giao diện lẫn thư viện trang.
+– 10/09/2024: [Chuẩn hóa dữ liệu thô](https://nhavantuonglai.com/analytics/normalize)
 
-### Chi tiết cập nhật
+– 09/09/2024: [Thống kê tần suất văn bản](https://nhavantuonglai.com/analytics/count)
 
-2023.12.31: Toàn tất dự án.
+Lý do nâng cấp lên v25.01: Cần cải tiến toàn diện cấu trúc và bổ sung nhiều tính năng mới.
 
-2023.12.30: Chuyển slug từ /posts sang /article.
+## Version 24.04
 
-2023.12.28: Hiệu chỉnh bố cục hiển thị (căn đều nội dung trong các block) trên trang.
-
-2023.12.18: Hiệu chỉnh nội dung hiển thị trên trang.
-
-2023.12.16: Launching website thành công.
-
-### Lý do chuyển sang article | v24.01
-
-article | v23.12. là phiên bản website động, tốc độ tải nhanh và thân thiện với người đọc, tuy nhiên vẫn còn tồn tại nhiều hạn chế như giao diện đơn giản và bị giới hạn cách trình bày, sitemaps cấu hình sai và khó sửa, cũng như nhận được nhiều đánh giá không tốt về trải nghiệm đọc. Việc triển khai website sang v04. là cách giải quyết tốt nhất cho vấn đề này.
-
-## article | v23.11
+Phát hành: Tháng 04/2024. Trạng thái: Đã kết thúc phát triển, mã nguồn không thể sử dụng.
 
 ### Tổng quan
 
-article | v23.11 là phiên bản website tĩnh, code được viết bằng HTML và quản lý hosting thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với giao diện và bố cục trang, còn thư viện CMS không được khai thác.
+Phiên bản ổn định với việc chuyển đổi hosting sang Vercel, cải thiện quản lý CMS và hiệu suất tracking.
 
-### Chi tiết cập nhật
+### Cập nhật chính
 
-2023.12.16: Toàn tất dự án.
+– 31/08/2024: Hoàn thiện dự án.
 
-2023.11.28: Điều chỉnh danh sách bài.
+– 12/08/2024: Cập nhật bộ màu (#16a34a / RGB: 22,163,74).
 
-2023.11.25: Hoàn chỉnh giao diện hiển thị.
+– 25/07/2024: [Tiến trình đọc bài](https://nhavantuonglai.com/article/tien-trinh-doc-bai).
 
-2023.11.13: Cập nhật hiệu ứng Carousel.
+– 20/05/2024: [Chống sao chép nội dung](https://nhavantuonglai.com/article/sao-chep-noi-dung).
 
-2023.11.01: Launching website thành công.
+– 12/05/2024: Bảo vệ bản quyền DMCA.
 
-### Lý do chuyển sang article | v23.12
+– 10/05/2024: Giám sát trạng thái OpenStatus.
 
-article | v23.11. là phiên bản website tĩnh, giao diện hiện đại và thân thiện với người đọc nhưng nội dung chỉ có thể liên kết thể hiện qua bên thứ 3, điều này làm giới hạn khả năng hiển thị và tính chuyên nghiệp của dự án. Việc triển khai website sang article | v23.12. là cách giải quyết tốt nhất cho vấn đề này.
+Lý do nâng cấp lên v24.09: Đáp ứng yêu cầu cao hơn về tính năng và tương tác.
 
-## article | v23.10
+## Version 24.01
+
+Phát hành: Tháng 01/2024. Trạng thái: Đã kết thúc phát triển, mã nguồn không thể sử dụng.
 
 ### Tổng quan
 
-article | v23.10. là phiên bản website đầu tiên, giao diện và hosting thuộc quản lý bởi Github, thư viện CMS được đồng bộ thông qua Github. Ở phiên bản này, các cải tiến chỉ diễn ra với thư viện CMS do giao diện và bố cục trang luôn cố định.
+Kế thừa từ v23.12 với nhiều cải tiến về giao diện và trải nghiệm người dùng.
 
-### Chi tiết cập nhật
+### Cập nhật chính
 
-2023.10.31: Toàn tất dự án.
+– 07/03/2024: Kích hoạt Google AdSense.
 
-2023.10.31: Toàn tất tối ưu thư viện CMS.
+– 10/02/2024: Cập nhật màu sắc (#ff725e / RGB: 255,114,94).
 
-2023.10.14: Gán subdomain www vào website.
+– 30/01/2024: Đổi URL từ /posts sang /article.
 
-2023.10.02: Gán subdomain info vào website.
+– 22/01/2024: Cải tiến bố cục và căn chỉnh nội dung.
 
-2023.10.02: Launching website thành công.
+Lý do nâng cấp lên v24.04: Giải quyết hạn chế của Firebase hosting với CMS quy mô lớn.
 
-### Lý do chuyển sang article | v23.11
+## Các phiên bản cũ
 
-article | v23.10. là phiên bản sơ khai, giúp thư viện CMS hiển thị hiệu quả nhưng bị giới hạn về cách trình bày. Việc triển khai sang article | v23.11. sẽ kỳ vọng giải quyết được vấn đề này.
+### Version 23.12
+
+– Công nghệ: Astro + Firebase.
+
+– Đặc điểm: Website động với tốc độ tải nhanh.
+
+– Hạn chế: Giao diện đơn giản, cấu hình sitemap phức tạp.
+
+### Version 23.11
+
+– Công nghệ: HTML tĩnh + GitHub hosting.
+
+– Đặc điểm: Giao diện hiện đại với hiệu ứng Carousel.
+
+– Hạn chế: Nội dung phụ thuộc vào bên thứ ba.
+
+### Version 23.10
+
+– Công nghệ: GitHub Pages.
+
+– Đặc điểm: Phiên bản đầu tiên, tập trung vào CMS.
+
+– Hạn chế: Giao diện cố định, khả năng tùy biến thấp.
+
+Qua 06 phiên bản phát triển, _article_ đã tiến hóa từ một website tĩnh đơn giản thành một nền tảng website hiện đại, đầy đủ tính năng với hơn 20 công cụ tương tác. Mỗi phiên bản đều đánh dấu một bước tiến quan trọng trong việc cải thiện trải nghiệm người dùng và hiệu suất kỹ thuật.
+
+Version 25.01 hiện tại đại diện cho đỉnh cao của sự phát triển, kết hợp giữa công nghệ tiên tiến, giao diện hiện đại và hệ sinh thái tính năng phong phú.

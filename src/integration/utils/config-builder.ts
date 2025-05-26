@@ -1,7 +1,15 @@
 import merge from 'lodash.merge';
-import type { MetaData } from '~/types';
+import type { Config } from '~/types';
+
+const colorTokens = {
+	default: 'var(--aw-color-default)',
+	muted: 'var(--aw-color-muted)',
+	page: 'var(--aw-color-page)',
+	primary: 'var(--aw-color-primary)',
+};
 
 const defaultConfig = {
+
 	site: {
 		name: 'Website',
 		site: undefined,
@@ -9,38 +17,37 @@ const defaultConfig = {
 		trailingSlash: false,
 		googleSiteVerificationId: '',
 	},
+
 	metadata: {
 		title: { default: 'Website', template: '%s' },
 		description: '',
 		robots: { index: false, follow: false },
 		openGraph: { type: 'website' },
 	},
+
 	i18n: { language: 'en', textDirection: 'ltr' },
+
 	apps: {
 		blog: {
 			isEnabled: false,
 			postsPerPage: 6,
 			isRelatedPostsEnabled: false,
 			relatedPostsCount: 4,
-			post: { isEnabled: true, permalink: '/blog/%slug%', robots: { index: true, follow: true } },
+			post: { isEnabled: true, permalink: '/article/%slug%', robots: { index: true, follow: true } },
 			tag: { isEnabled: true, pathname: 'tag', robots: { index: false, follow: true } },
 		},
 	},
+
 	ui: {
 		theme: 'system',
 		classes: {},
 		tokens: {
 			default: {
-				colors: {
-					default: 'rgb(33 39 55)',
-					heading: 'rgb(248 243 240)',
-					muted: 'rgb(33 39 55 / 66%)',
-					page: 'rgb(248 243 240)',
-					primary: 'rgb(255 114 94)',
-				},
+				colors: colorTokens,
 			},
 		},
 	},
+
 	analytics: {
 		vendors: {
 			googleAnalytics: { id: undefined, partytown: true },
@@ -48,15 +55,26 @@ const defaultConfig = {
 	},
 };
 
-const getConfig = <T>(key: keyof typeof defaultConfig, userConfig?: T): T => {
-	return merge({}, defaultConfig[key], userConfig);
-};
+const getConfig = (key, userConfig) => merge({}, defaultConfig[key], userConfig);
 
-export default (config: Config) => ({
+export default (config) => ({
+
 	SITE: getConfig('site', config?.site),
 	I18N: getConfig('i18n', config?.i18n),
 	METADATA: getConfig('metadata', config?.metadata),
 	APP_BLOG: getConfig('apps.blog', config?.apps?.blog),
 	UI: getConfig('ui', config?.ui),
 	ANALYTICS: getConfig('analytics', config?.analytics),
+
+	theme: {
+		extend: {
+			colors: {
+				default: colorTokens.default,
+				muted: colorTokens.muted,
+				page: colorTokens.page,
+				primary: colorTokens.primary,
+			},
+		},
+	},
+
 });

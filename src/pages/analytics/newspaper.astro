@@ -1,9 +1,7 @@
 ---
-import Layout from '~/layouts/page.astro';
+import Terminal from '~/layouts/terminal.astro';
 
-import Newspaper from '~/components/content/analytics/newspaper.astro';
-
-import Action from '~/components/content/main/action.astro';
+import Newspaper from '~/components/analytics/newspaper.astro';
 
 const metadata = {
 	title: 'Đọc báo trực tuyến mới nhất bằng RSS',
@@ -11,10 +9,8 @@ const metadata = {
 };
 ---
 
-<Layout metadata={metadata}>
+<Terminal metadata={metadata}>
 
 	<Newspaper/>
 
-	<Action/>
-
-</Layout>
+</Terminal>

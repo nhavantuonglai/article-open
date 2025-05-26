@@ -7,7 +7,6 @@ import Table from '~/components/article/table.astro';
 import Scrollon from '~/components/article/scrollon.astro';
 
 import PostTags from '~/components/article/tags.astro';
-import Anticopy from '~/components/article/anticopy.astro';
 
 import { Slideup } from '~/assets/framer.jsx';
 
@@ -108,8 +107,6 @@ const { Content } = post;
 					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6">
 
 						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
-
-						<Anticopy/>
 
 					</div>
 

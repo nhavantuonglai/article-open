@@ -10,6 +10,10 @@ import Schema from '~/components/javascript/schema.astro';
 import Analytics from '~/components/javascript/analytics.astro';
 import Opentab from '~/components/javascript/open-tab.astro';
 
+import Anticopy from '~/components/article/anticopy.astro';
+
+import Notification from '~/components/content/main/notification.astro';
+
 import BasicScripts from '~/components/javascript/basic.astro';
 
 import { useState, useEffect } from "react";
@@ -72,6 +76,10 @@ const { language, textDirection } = I18N;
 	<body class="antialiased text-default bg-page tracking-tight">
 
 		<slot/>
+
+		<Notification/>
+
+		<Anticopy/>
 
 		<BasicScripts/>
 

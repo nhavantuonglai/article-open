@@ -60,12 +60,3 @@ apps:
 
 ui:
   theme: "system"
-
-  tokens:
-    default:
-      colors:
-        default: rgb(33 39 55)
-        heading: rgb(248 243 240)
-        muted: rgb(33 39 55 / 66%)
-        page: rgb(248 243 240)
-        primary: rgb(255 114 94)

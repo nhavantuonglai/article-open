@@ -1,143 +1,22 @@
-<section>
+---
+import Terminal from '~/layouts/terminal.astro';
 
-	<div class="max-w-7xl mx-auto px-4 sm:px-6">
+import VNExpress from '~/components/javascript/vnexpress.astro';
 
-		<div class="text-center pb-10 md:pb-16 mx-auto">
+const metadata = {
 
-			<div class="terminal">
+	title: 'Đọc báo trực tuyến mới nhất bằng RSS',
+	description: 'Được thiết kế với giao diện trực quan, dễ sử dụng, công cụ Đọc báo trực tuyến mới nhất bằng RSS cho phép người dùng theo dõi nhiều nguồn tin tức yêu thích chỉ trong một nơi duy nhất.',
 
-				<div class="command-content">
+};
 
-					<p class="text-xl command-line" id="output"></p>
+const terminalConfig = {
+	ipText: 'Đang lấy địa chỉ',
+};
+---
 
-				</div>
+<Terminal metadata={metadata} terminalConfig={terminalConfig}>
 
-			</div>
+	<VNExpress rssUrl="https://vnexpress.net/rss/tin-moi-nhat.rss" displayInterval={10000} />
 
-		</div>
-
-	</div>
-
-	<script client:load>
-
-		class RSSFeedReader {
-			constructor(outputElementId) {
-				this.output = document.getElementById(outputElementId);
-				this.commandHistory = '';
-				this.descriptions = [];
-				this.currentIndex = 0;
-				this.seenTitles = new Set();
-
-				this.options = {
-					corsProxy: 'https://api.allorigins.win/get?url=',
-					rssUrl: 'https://vnexpress.net/rss/tin-moi-nhat.rss',
-					refreshInterval: 300000,
-					displayInterval: 10000,
-					maxHistoryLines: 100
-				};
-			}
-
-			cleanText(text) {
-				return text
-					.replace(/<!\[CDATA\[/g, '')
-					.replace(/\]\]>/g, '')
-					.replace(/<[^>]*>/g, '')
-					.replace(/['"]/g, '')
-					.replace(/\s*-\s*/g, ' ')
-					.replace(/\s+/g, ' ')
-					.trim();
-			}
-
-			formatTime(date) {
-				const pad = num => num.toString().padStart(2, '0');
-				return `${pad(date.getHours())} giờ ${pad(date.getMinutes())} phút ${pad(date.getSeconds())} giây`;
-			}
-
-			async fetchRSSFeed() {
-				try {
-					const response = await fetch(this.options.corsProxy + encodeURIComponent(this.options.rssUrl));
-					if (!response.ok) throw new Error();
-					
-					const data = await response.json();
-					const xmlDoc = new DOMParser().parseFromString(data.contents, 'text/xml');
-					this.processItems(xmlDoc.getElementsByTagName('item'));
-				} catch (error) {
-					this.descriptions = ['Dữ liệu đầu ra đang bị quá tải, vui lòng thử lại sau.'];
-					this.addCommand();
-				}
-			}
-
-			processItems(items) {
-				const newDescriptions = [];
-				
-				for (let i = 0; i < items.length; i++) {
-					const item = items[i];
-					const title = this.cleanText(item.getElementsByTagName('title')[0]?.textContent || '');
-					
-					if (!this.seenTitles.has(title)) {
-						const description = this.cleanText(item.getElementsByTagName('description')[0]?.textContent || '');
-						if (description) {
-							newDescriptions.push(`${title}\n${description}`);
-							this.seenTitles.add(title);
-						}
-					}
-				}
-
-				this.descriptions = [...newDescriptions, ...this.descriptions].slice(0, 50);
-			}
-
-			addCommand() {
-				if (!this.descriptions.length) return;
-
-				const timestamp = this.formatTime(new Date());
-				const description = this.descriptions[this.currentIndex];
-				this.commandHistory += `${timestamp}: ${description}\n\n`;
-
-				if (this.output) {
-					this.output.textContent = this.commandHistory;
-					this.output.scrollTop = this.output.scrollHeight;
-				}
-
-				const lines = this.commandHistory.split('\n');
-				if (lines.length > this.options.maxHistoryLines) {
-					this.commandHistory = lines.slice(-this.options.maxHistoryLines).join('\n');
-				}
-
-				this.currentIndex = (this.currentIndex + 1) % this.descriptions.length;
-			}
-
-			init() {
-				this.fetchRSSFeed();
-				setInterval(() => this.fetchRSSFeed(), this.options.refreshInterval);
-				setInterval(() => this.addCommand(), this.options.displayInterval);
-			}
-		}
-
-		document.addEventListener('DOMContentLoaded', () => {
-			new RSSFeedReader('output').init();
-		});
-
-	</script>
-
-</section>
-
-<style>
-
-	.terminal {
-		height: 100vh;
-		overflow: hidden;
-	}
-
-	.command-content {
-		height: 100%;
-		padding: 5px;
-	}
-
-	.command-line {
-		padding: 10px;
-		line-height: 1.5;
-		overflow-wrap: break-word;
-		white-space: pre-wrap;
-	}
-
-</style>
+</Terminal>
