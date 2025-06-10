@@ -46,7 +46,7 @@ export default defineConfig({
 		mdx(),
 		icon({
 			include: {
-				tabler: ['chevron-right']
+				tabler: ['chevron-right', 'chevron-left']
 			},
 		}),
 		...whenExternalScripts(() =>
