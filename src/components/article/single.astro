@@ -2,11 +2,9 @@
 import { Icon } from 'astro-icon/components';
 import Image from '~/components/common/image.astro';
 import SocialShare from '~/components/common/social.astro';
-
 import Table from '~/components/article/table.astro';
 import PostTags from '~/components/article/tags.astro';
 import Scrollon from '~/components/article/scrollon.astro';
-
 import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
 
@@ -17,23 +15,28 @@ export interface Props {
 
 const { post, url } = Astro.props;
 const { Content } = post;
+
+const base = "max-w-3xl mx-auto";
+
+const text = "text-justify text-muted";
+
 ---
 
-<section class="max-w-8xl mx-auto py-20 px-4 pb-10 sm:px-6">
+<section class="max-w-8xl mx-auto py-20 px-4 sm:px-6 pb-10">
 
 	<article>
 
 		<header>
 
-			<h1 class="text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading">
+			<h1 class={`${base} ${text} text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading mt-4 mb-6`}>
 				{post.title}
 			</h1>
 
-			<p class="text-xl md:text-2xl text-muted dark:text-slate-400 text-justify">
+			<p class={`${base} ${text} text-xl md:text-2xl mt-4 mb-6`}>
 				{post.description}
 			</p>
 
-			<div class="text-xl md:text-2xl text-muted dark:text-slate-400 flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+			<div class={`${base} ${text} text-xl md:text-2xl flex justify-between flex-col sm:flex-row mt-4 mb-6 sm:items-center`}>
 
 				<p>
 					<time datetime={post.pubDatetime} class="inline-block">
@@ -41,14 +44,12 @@ const { Content } = post;
 							.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
 							.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
 					</time>
-
 					{post.readingTime && (
 						<>
-							&nbsp;· <span>{post.readingTime}</span> phút đọc
+							 · <span>{post.readingTime}</span> phút đọc
 						</>
 					)}
-
-					&nbsp;· <span id="counter"></span> lượt xem.
+					 · <span id="counter"></span> lượt xem.
 					<script client:load>
 						let count = localStorage.getItem('pageCounter');
 						if (count === null) {
@@ -56,9 +57,7 @@ const { Content } = post;
 						} else {
 							count = parseInt(count);
 						}
-
 						count += 1;
-
 						localStorage.setItem('pageCounter', count);
 						document.getElementById('counter').textContent = count;
 					</script>
@@ -68,12 +67,14 @@ const { Content } = post;
 
 		</header>
 
-		<Table/>
+		<div class={`${base} ${text} mt-4 mb-6`}>
+			<Table/>
+		</div>
 
 		{post.image ? (
 			<Image
 				src={post.image}
-				class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6"
+				class={`${base} ${text} mt-4 mb-6`}
 				widths={[400, 900]}
 				sizes="(max-width: 900px) 400px, 900px"
 				alt={post?.description || ''}
@@ -83,33 +84,27 @@ const { Content } = post;
 				decoding="async"
 			/>
 		) : (
-			<div class="border-t dark:border-slate-700"/>
+			<div class="border-t" />
 		)}
 
 		<div class="relative">
-
 			<div id="table-wrapper">
-
-				<div class="relative mt-6">
-
-					<Scrollon/>
-
+				<div class={`${text} mt-4 mb-6`}>
+					<Scrollon />
 				</div>
-
 			</div>
-
 		</div>
 
-		<div class="text-justify mx-auto prose prose-xl md:text-2xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]">
-			{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+		<div class={`${base} ${text} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
+			{Content ? <Content /> : <Fragment set:html={post.content || ''} />}
 		</div>
 
-		<div class="flex justify-between flex-col sm:flex-row">
-			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
+		<div class={`${base} ${text} flex justify-between flex-col sm:flex-row mt-4 mb-6`}>
+			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5" />
 		</div>
 
-		<div class="flex justify-between flex-col sm:flex-row">
-			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500 dark:text-slate-600"/>
+		<div class={`${base} ${text} flex justify-between flex-col sm:flex-row mt-4 mb-6`}>
+			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500" />
 		</div>
 
 	</article>

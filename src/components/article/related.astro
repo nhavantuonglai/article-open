@@ -16,18 +16,23 @@ const relatedPosts = post.tags ? getRelatedPosts(fetchedPosts, post.slug, post.t
 const randomPosts = relatedPosts
 	.sort(() => Math.random() - 0.5)
 	.slice(0, 99);
+
+const base = "max-w-3xl mx-auto px-4 sm:px-6";
+
+const containerClasses = `${base} pt-0`;
+
 ---
 
-	{APP_BLOG.isRelatedPostsEnabled && (
+{APP_BLOG.isRelatedPostsEnabled && (
 
-		<BlogHighlightedPosts
+	<BlogHighlightedPosts
 
-			classes={{ container: "pt-0 lg:pt-0 md:pt-0" }}
-			title="Có thể bạn chưa đọc"
-			linkText="Xem tất cả"
-			linkUrl={getBlogPermalink()}
-			postIds={randomPosts.map((post) => post.id)}
+		classes={{ container: containerClasses }}
+		title="Có thể bạn chưa đọc"
+		linkText="Xem tất cả"
+		linkUrl={getBlogPermalink()}
+		postIds={randomPosts.map((post) => post.id)}
 
-		/>
+	/>
 
-	)}
+)}
