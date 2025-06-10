@@ -25,11 +25,11 @@ const { Content } = post;
 
 		<header>
 
-			<h1 class="mb-6 md:mb-12 px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading">
+			<h1 class="text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading">
 				{post.title}
 			</h1>
 
-			<p class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify">
+			<p class="text-xl md:text-2xl text-muted dark:text-slate-400 text-justify">
 				{post.description}
 			</p>
 
@@ -100,15 +100,15 @@ const { Content } = post;
 
 		</div>
 
-		<div class="sm:px-6 max-w-3xl px-6 text-justify mx-auto prose prose-xl md:text-2xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]">
+		<div class="text-justify mx-auto prose prose-xl md:text-2xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]">
 			{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
 		</div>
 
-		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
+		<div class="flex justify-between flex-col sm:flex-row">
 			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
 		</div>
 
-		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
+		<div class="flex justify-between flex-col sm:flex-row">
 			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500 dark:text-slate-600"/>
 		</div>
 

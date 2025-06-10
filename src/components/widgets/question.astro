@@ -44,27 +44,23 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 
 			{items.map((item, index) => (
 
-				<Slideup client:visible delay={getDelay(index)}>
+				<div class="flex mb-8 items-start">
 
-					<div class="flex mb-8 items-start">
+					<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
+						<span class="text-sm font-bold">{index + 1}</span>
+					</div>
 
-						<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
-							<span class="text-sm font-bold">{index + 1}</span>
-						</div>
+					<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
 
-						<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+						<h3 class="text-xl">{item.title}</h3>
 
-							<h3 class="text-xl">{item.title}</h3>
-
-							<div class="mt-2">
-								<p class="text-xl text-muted">{item.description}</p>
-							</div>
-
+						<div class="mt-2">
+							<p class="text-xl text-muted">{item.description}</p>
 						</div>
 
 					</div>
 
-				</Slideup>
+				</div>
 
 			))}
 
