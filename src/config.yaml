@@ -36,6 +36,7 @@ apps:
   blog:
     isEnabled: true
     postsPerPage: 20
+    cache: true
 
     post:
       isEnabled: true
@@ -56,7 +57,7 @@ apps:
         index: true
 
     isRelatedPostsEnabled: true
-    relatedPostsCount: 12
+    relatedPostsCount: 6
 
 ui:
   theme: "system"
