@@ -45,7 +45,7 @@ export default defineConfig({
 		mdx(),
 		icon({
 			include: {
-				tabler: ['chevron-right', 'chevron-left', 'square-rounded-arrow-right', 'brand-x', 'brand-facebook', 'brand-linkedin', 'whatsapp', 'mail']
+				tabler: ['chevron-right', 'chevron-left', 'square-rounded-arrow-right', 'brand-x', 'brand-facebook', 'brand-linkedin', 'brand-whatsapp', 'mail']
 			},
 		}),
 		...whenExternalScripts(() =>
