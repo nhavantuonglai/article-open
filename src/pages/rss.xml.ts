@@ -11,7 +11,7 @@ export const GET = async () => {
 		});
 	}
 
-	const posts = await getCollection('blog', ({ data }) => !!data.pubDatetime)
+	const posts = await getCollection('post', ({ data }) => !!data.pubDatetime)
 		.then(posts => posts.sort((a, b) => new Date(b.data.pubDatetime).getTime() - new Date(a.data.pubDatetime).getTime()))
 		.then(posts => posts.slice(0, 50));
 

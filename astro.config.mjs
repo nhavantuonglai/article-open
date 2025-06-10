@@ -40,13 +40,12 @@ export default defineConfig({
 		sitemap({
 			changefreq: 'weekly',
 			priority: 0.7,
-			entryBase: '/sitemaps.xml',
 			filter: (page) => !page.match(/\/tags\/.*\/[0-9]+$/),
 		}),
 		mdx(),
 		icon({
 			include: {
-				tabler: ['chevron-right', 'chevron-left', 'square-rounded-arrow-right', 'brand-x', 'brand-facebook']
+				tabler: ['chevron-right', 'chevron-left', 'square-rounded-arrow-right', 'brand-x', 'brand-facebook', 'brand-linkedin']
 			},
 		}),
 		...whenExternalScripts(() =>
@@ -55,14 +54,14 @@ export default defineConfig({
 			})
 		),
 		compress({
-			CSS: true,
+			CSS: false,
 			HTML: {
 				'html-minifier-terser': {
 					removeAttributeQuotes: false,
 				},
 			},
-			Image: true,
-			JavaScript: true,
+			Image: false,
+			JavaScript: false,
 			SVG: false,
 			Logger: 1,
 		}),
@@ -92,4 +91,10 @@ export default defineConfig({
 			noExternal: ['react', 'react-dom'],
 		},
 	},
+	hooks: {
+			'astro:build:done': async ({ dir }) => {
+				const sitemapPath = path.join(dir, 'sitemap-index.xml');
+				const newSitemapPath = path.join(dir, 'sitemap.xml');
+			},
+		},
 });
