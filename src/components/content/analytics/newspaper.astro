@@ -1,81 +1,15 @@
 ---
 import type { CallToAction } from '~/types';
 
-import Gallery from '~/components/widgets/gallery.astro';
 import Newspaper from '~/components/analytics/newspaper.astro';
 
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
 import Question from '~/components/widgets/question.astro';
 
-function getRandomInt(min, max) {
-	return Math.floor(Math.random() * (max - min + 1)) + min;
-	}
-
-function formatNumber(num) {
-	return num.toString().padStart(3, '0');
-	}
-
-function generateUniqueRandomNumbers(count, min, max) {
-	const numbers = new Set();
-	
-	while (numbers.size < count) {
-		numbers.add(getRandomInt(min, max));
-	}
-	
-	return Array.from(numbers);
-	}
-
-const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
-const numbersspring = uniqueNumbers.slice(1, 5);
-const numberssummer = uniqueNumbers.slice(6, 10);
-const numbersautumn = uniqueNumbers.slice(11, 15);
-const numberswinter = uniqueNumbers.slice(16, 20);
-
-const springs = numbersspring.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Đọc báo trực tuyến mới nhất bằng RSS ${num}.`
-	}));
-
-const summers = numberssummer.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Đọc báo trực tuyến mới nhất bằng RSS ${num}.`
-	}));
-
-const autumns = numbersautumn.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Đọc báo trực tuyến mới nhất bằng RSS ${num}.`
-	}));
-
-const winters = numberswinter.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/001-${formatNumber(num)}.jpg`,
-	alt: `Đọc báo trực tuyến mới nhất bằng RSS ${num}.`
-	}));
-
-export interface Props {
-	subtitle?: string;
-	tagline?: string;
-	content?: string;
-}
-
-const {
-	subtitle = await Astro.slots.render('subtitle'),
-	tagline,
-	content = await Astro.slots.render('content'),
-} = Astro.props;
 ---
 
 <Newspaper/>
-
-<Gallery
-
-	springs={springs}
-	summers={summers}
-	autumns={autumns}
-	winters={winters}
-
->
-
 
 	<div class="absolute inset-0 z-20 flex items-center">
 
@@ -106,8 +40,6 @@ const {
 		</div>
 
 	</div>
-
-</Gallery>
 
 <CTA
 

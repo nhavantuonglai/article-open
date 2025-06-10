@@ -1,71 +1,19 @@
 ---
-import Gallery from '~/components/widgets/gallery.astro';
 import Countdown from '~/components/analytics/countdown.astro';
 
 import Button from '~/components/ui/button.astro';
 import CTA from '~/components/widgets/services.astro';
 import Question from '~/components/widgets/question.astro';
 
-function getRandomInt(min, max) {
-	return Math.floor(Math.random() * (max - min + 1)) + min;
-	}
-
-function formatNumber(num) {
-	return num.toString().padStart(3, '0');
-	}
-
-function generateUniqueRandomNumbers(count, min, max) {
-	const numbers = new Set();
-
-	while (numbers.size < count) {
-		numbers.add(getRandomInt(min, max));
-	}
-
-	return Array.from(numbers);
-	}
-
-const uniqueNumbers = generateUniqueRandomNumbers(20, 1, 699);
-const numbersspring = uniqueNumbers.slice(1, 5);
-const numberssummer = uniqueNumbers.slice(6, 10);
-const numbersautumn = uniqueNumbers.slice(11, 15);
-const numberswinter = uniqueNumbers.slice(16, 20);
-
-const springs = numbersspring.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Còn bao nhiêu ngày nữa đến Tết 2026 ${num}?`
-	}));
-
-const summers = numberssummer.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Còn bao nhiêu ngày nữa đến Tết 2026 ${num}?`
-	}));
-
-const autumns = numbersautumn.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Còn bao nhiêu ngày nữa đến Tết 2026 ${num}?`
-	}));
-
-const winters = numberswinter.map(num => ({
-	src: `https://banmaixanh.vercel.app/image/cover/002-${formatNumber(num)}.jpg`,
-	alt: `Còn bao nhiêu ngày nữa đến Tết 2026 ${num}?`
-	}));
 ---
 
-<Gallery
 
-	springs={springs}
-	summers={summers}
-	autumns={autumns}
-	winters={winters}
-
->
 	<Countdown
 
 		subtitle="Còn bao nhiêu ngày nữa đến Tết 2026 giúp bạn biết chính xác còn bao nhiêu ngày, giờ, phút để sẵn sàng chào đón năm mới trọn vẹn nhất."
 
 	/>
 
-</Gallery>
 
 <CTA
 
