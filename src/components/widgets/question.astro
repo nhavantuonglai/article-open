@@ -1,7 +1,6 @@
 ---
 import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
-import { Slideup } from '~/assets/framer.jsx';
 
 interface Props {
 	title?: string;
@@ -27,8 +26,6 @@ const {
 
 const getDelay = (index) => (index * 0.15).toFixed(2);
 ---
-
-<Slideup client:visible>
 
 	<Wrapper
 		id={id}
@@ -74,5 +71,3 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 		</div>
 
 	</Wrapper>
-
-</Slideup>

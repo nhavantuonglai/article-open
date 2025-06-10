@@ -4,11 +4,8 @@ import Image from '~/components/common/image.astro';
 import SocialShare from '~/components/common/social.astro';
 
 import Table from '~/components/article/table.astro';
-import Scrollon from '~/components/article/scrollon.astro';
-
 import PostTags from '~/components/article/tags.astro';
-
-import { Slideup } from '~/assets/framer.jsx';
+import Scrollon from '~/components/article/scrollon.astro';
 
 import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
@@ -22,124 +19,99 @@ const { post, url } = Astro.props;
 const { Content } = post;
 ---
 
-<header class="relative not-prose w-full h-screen mb-6">
+<section class="max-w-8xl mx-auto py-20 px-4 pb-10 sm:px-6">
 
-	{post.image ? (
+	<article>
 
-		<div class="relative w-full h-full">
+		<header>
 
+			<h1 class="mb-6 md:mb-12 px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading">
+				{post.title}
+			</h1>
+
+			<p class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify">
+				{post.description}
+			</p>
+
+			<div class="text-xl md:text-2xl text-muted dark:text-slate-400 flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+
+				<p>
+					<time datetime={post.pubDatetime} class="inline-block">
+						{`${new Date(post.pubDatetime)
+							.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
+							.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
+					</time>
+
+					{post.readingTime && (
+						<>
+							&nbsp;· <span>{post.readingTime}</span> phút đọc
+						</>
+					)}
+
+					&nbsp;· <span id="counter"></span> lượt xem.
+					<script client:load>
+						let count = localStorage.getItem('pageCounter');
+						if (count === null) {
+							count = Math.floor(Math.random() * (543 - 74 + 1)) + 45;
+						} else {
+							count = parseInt(count);
+						}
+
+						count += 1;
+
+						localStorage.setItem('pageCounter', count);
+						document.getElementById('counter').textContent = count;
+					</script>
+				</p>
+
+			</div>
+
+		</header>
+
+		<Table/>
+
+		{post.image ? (
 			<Image
 				src={post.image}
-				class="absolute inset-0 object-cover w-full h-full blur-[3px]"
-				widths={[600, 900]}
-				sizes="(max-width: 900px) 600px, 900px"
+				class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6"
+				widths={[400, 900]}
+				sizes="(max-width: 900px) 400px, 900px"
 				alt={post?.description || ''}
 				width="auto"
 				height="auto"
 				loading="eager"
 				decoding="async"
 			/>
+		) : (
+			<div class="border-t dark:border-slate-700"/>
+		)}
 
-			<div class="absolute inset-0 bg-black/30 dark:bg-black/50"></div>
-					
-			<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 gap-8 h-full items-center">
-				<div>
-					<h1 class="text-white mb-4">{post.title}</h1>
-							
-					<p class="text-white">
-						<time datetime={post.pubDatetime}>
-							{`${new Date(post.pubDatetime)
-								.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
-								.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}.`
-							}
-						</time>
-					</p>
-					<p class="text-white">{post.description}</p>
-					<p class="text-white">
-						{post.readingTime && (
-							<><span>{post.readingTime}</span> phút đọc</>
-						)}
-							&nbsp;· <span id="counter"></span> lượt xem.
-					</p>
+		<div class="relative">
+
+			<div id="table-wrapper">
+
+				<div class="relative mt-6">
+
+					<Scrollon/>
+
 				</div>
+
 			</div>
 
 		</div>
 
-	) : (
+		<div class="sm:px-6 max-w-3xl px-6 text-justify mx-auto prose prose-xl md:text-2xl dark:prose-invert dark:prose-headings:text-primary prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank dark:prose-a:text-accent prose-img:rounded-md mt-4 prose-headings:scroll-mt-[20px]">
+			{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+		</div>
 
-		<div class="border-t dark:border-slate-700"/>
+		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
+			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
+		</div>
 
-	)}
-
-</header>
-
-<section class="py-20 max-w-7xl mx-auto pb-10">
-
-	<article>
-		
-		<div class="max-w-8xl mx-auto px-4 sm:px-6">
-
-			<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
-
-				<div class="relative">
-
-					<div id="table-wrapper">
-
-						<div class="relative mt-6">
-
-							<Slideup client:visible>
-
-								<Table/>
-
-								<Scrollon/>
-
-							</Slideup>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<div>
-
-					<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6">
-
-						{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
-
-					</div>
-
-					<PostTags tags={post.tags}/>
-
-					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500"/>
-
-				</div>
-
-			</div>
-
+		<div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
+			<SocialShare url={url} text={post.title} class="mt-5 sm:mt-1 align-middle text-gray-500 dark:text-slate-600"/>
 		</div>
 
 	</article>
 
 </section>
-
-<script>
-
-	document.addEventListener('DOMContentLoaded', () => {
-		let count = localStorage.getItem('pageCounter');
-		if (count === null) {
-			count = Math.floor(Math.random() * (543 - 74 + 1)) + 45;
-		} else {
-			count = parseInt(count);
-		}
-		count += 1;
-		localStorage.setItem('pageCounter', count);
-		
-		const counterElement = document.getElementById('counter');
-		if (counterElement) {
-			counterElement.textContent = count;
-		}
-	});
-
-</script>

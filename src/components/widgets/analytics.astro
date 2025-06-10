@@ -1,6 +1,4 @@
 ---
-import { Slideup } from '~/assets/framer.jsx';
-
 export interface Props {
 	id: string;
 	title?: string;
@@ -30,9 +28,6 @@ const styles = "resize: none; height: 150px;";
 const file = "flex flex-col items-center justify-center p-6 rounded-md bg-gray-50";
 const button = "mb-6 text-lg font-medium leading-6";
 ---
-
-<Slideup client:visible>
-
 	<section class="relative md:-mt-[76px] not-prose">
 
 		<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
@@ -193,5 +188,3 @@ const button = "mb-6 text-lg font-medium leading-6";
 			}
 		});
 	</script>
-
-</Slideup>

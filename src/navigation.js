@@ -26,7 +26,7 @@ export const headerData = {
 						{ text: "Sitemaps", href: "https://nhavantuonglai.com/sitemap-0.xml" },
 					],
 				},
-				{ text: "Trạng thái", href: "https://info.nhavantuonglai.com/openstatus" },
+				{ text: "Trạng thái", href: "https://nhavantuonglai.openstatus.dev" },
 			],
 		},
 
@@ -281,7 +281,7 @@ export const headerData = {
 					href: "https://nhavantuonglai.com/contact",
 					links: [
 						{ text: "Gửi thư", href: "mailto:info@nhavantuonglai.com" },
-						{ text: "Nhắn tin", href: "https://info.nhavantuonglai.com/instagram" },
+						{ text: "Nhắn tin", href: "https://instagram.com/nhavantuonglai" },
 						{ text: "Điện thoại", href: "https://nhavantuonglai.com" },
 					],
 				},
@@ -289,8 +289,8 @@ export const headerData = {
 					text: "Thư viện ảnh",
 					href: "https://nhavantuonglai.com",
 					links: [
-						{ text: "500px", href: "https://info.nhavantuonglai.com/500px" },
-						{ text: "Flickr", href: "https://info.nhavantuonglai.com/flickr" },
+						{ text: "500px", href: "https://500px.com/p/nhavantuonglai" },
+						{ text: "Flickr", href: "https://flickr.com/photos/nhavantuonglai" },
 						{ text: "Adobe", href: "https://nhavantuonglai.com" },
 						{ text: "Freepik", href: "https://nhavantuonglai.com" },
 
@@ -301,8 +301,8 @@ export const headerData = {
 					href: "https://nhavantuonglai.com",
 					links: [
 						{ text: "Facebook", href: "https://nhavantuonglai.com" },
-						{ text: "Linkedin", href: "https://info.nhavantuonglai.com/linkedin" },
-						{ text: "X", href: "https://info.nhavantuonglai.com/x" },
+						{ text: "Linkedin", href: "https://linkedin.com/in/nguyenchanhdanh" },
+						{ text: "X", href: "https://x.com/nhavantuonglai" },
 
 					],
 				},
@@ -310,9 +310,9 @@ export const headerData = {
 					text: "Mã nguồn mở",
 					href: "https://nhavantuonglai.com",
 					links: [
-						{ text: "Github", href: "https://info.nhavantuonglai.com/github" },
-						{ text: "Open", href: "https://info.nhavantuonglai.com/article-open" },
-						{ text: "Terminal", href: "https://info.nhavantuonglai.com/terminal-open" },
+						{ text: "Github", href: "https://github.com/nhavantuonglai" },
+						{ text: "Open", href: "https://github.com/nhavantuonglai/article-open" },
+						{ text: "Terminal", href: "https://github.com/nhavantuonglai/terminal-open" },
 					],
 				},
 			],
@@ -429,7 +429,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.04.13',
+			text: 'v25.04.14',
 			href: 'https://nhavantuonglai.com/version'
 		},
 
@@ -440,19 +440,19 @@ export const footerData = {
 		{
 			ariaLabel: 'X',
 			icon: 'tabler:brand-x',
-			href: 'https://info.nhavantuonglai.com/x'
+			href: 'https://x.com/nhavantuonglai'
 		},
 
 		{
 			ariaLabel: 'Instagram',
 			icon: 'tabler:brand-instagram',
-			href: 'https://info.nhavantuonglai.com/instagram'
+			href: 'https://instagram.com/nhavantuonglai'
 		},
 
 		{
 			ariaLabel: 'Linkedin',
 			icon: 'tabler:brand-linkedin',
-			href: 'https://info.nhavantuonglai.com/linkedin'
+			href: 'https://linkedin.com/in/nguyenchanhdanh'
 		},
 
 		{

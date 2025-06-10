@@ -83,6 +83,8 @@ Phiên bản 25.01 kế thừa và phát triển toàn diện từ v24.09, tập
 
 #### Tính năng mới
 
+– 02/06/2025: Bình luận bài viết.
+
 – 25/05/2025: [Cửa sổ thông báo](http://nhavantuonglai.com/article/cua-so-thong-bao).
 
 – 02/02/2025: [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).

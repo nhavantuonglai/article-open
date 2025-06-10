@@ -3,11 +3,6 @@ import { Icon } from 'astro-icon/components';
 import { SITE } from 'nhavantuonglai:config';
 import { getHomePermalink } from '~/utils/permalinks';
 
-import Openstatus from '~/components/javascript/openstatus.astro';
-import Since from '~/components/javascript/since.astro';
-import DCMA from '~/components/javascript/dcma.astro';
-import Address from '~/components/javascript/address.astro';
-
 interface Link {
 	text?: string;
 	href?: string;
@@ -31,52 +26,6 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 ---
 
 <footer class="relative not-prose bg-white border-t border-gray-200">
-	<div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
-
-		<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
-
-			<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
-				<div class="grid grid-cols-1 gap-6">
-
-					<DCMA/>
-
-					<Openstatus/>
-
-					<Since/>
-
-				</div>
-			</div>
-
-			<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
-				<div class="space-y-6">
-
-					<div>
-
-						<Address/>
-
-						<div class="flex flex-wrap gap-3">
-							{socialLinks.map(({ ariaLabel, href, icon }) => (
-								<a class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center transition-transform hover:scale-110 hover:bg-primary/10" aria-label={ariaLabel} href={href} target="_blank">
-									{icon && <Icon name={icon} class="w-5 h-5 text-primary"/>}
-								</a>
-							))}
-						</div>
-
-					</div>
-
-					{secondaryLinks.length > 0 && (
-						<div class="flex flex-wrap gap-4">
-							{secondaryLinks.map(({ text, href }) => (
-								text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} target="_blank" set:html={text}/>
-							))}
-						</div>
-					)}
-
-				</div>
-			</div>
-
-		</div>
-	</div>
 
 	<div class="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">

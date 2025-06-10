@@ -1,0 +1,164 @@
+#waline, .wl-comment {
+	margin: 0 !important;
+}
+
+.wl-panel {
+	margin: 0 !important;
+	padding: 0 !important;
+	background: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.wl-editor a[href="https://guides.github.com/features/mastering-markdown/"] {
+	display: none !important;
+}
+
+.wl-header, .wl-editor, .wl-footer {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.wl-header-item:nth-child(3) {
+	display: none !important;
+}
+
+.wl-actions .wl-action:nth-child(1),
+.wl-actions .wl-action:nth-child(2), 
+.wl-actions .wl-action:nth-child(3),
+.wl-actions .wl-action:nth-child(4) {
+	display: none !important;
+}
+
+.wl-nick, .wl-mail {
+	border: 1px solid #d1d5db;
+	border-radius: 0.5rem;
+	padding: 0.75rem 1rem;
+	font-family: inherit;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	text-align: justify;
+	color: var(--aw-color-text-muted);
+	width: 100%;
+	box-sizing: border-box;
+	transition: border-color 0.3s ease;
+}
+
+.wl-editor {
+	background: white;
+	border: 1px solid #d1d5db;
+	border-radius: 0.5rem;
+	padding: 1.5rem 1rem;
+	font-family: inherit;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	text-align: justify;
+	color: var(--aw-color-text-muted);
+	width: 100%;
+	box-sizing: border-box;
+	transition: border-color 0.3s ease;
+	margin-bottom: 4.5rem;
+	min-height: 120px;
+}
+
+.wl-header-item {
+	display: flex;
+	align-items: center;
+}
+
+.wl-nick-label, .wl-mail-label {
+	font-family: inherit;
+	font-size: 1.125rem;
+	font-weight: 500;
+	color: #a8c686;
+	margin-right: 10px;
+	margin-bottom: 0.75rem;
+	flex-shrink: 0;
+	display: block;
+	width: 100%;
+}
+
+.wl-info {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 1.5rem;
+}
+
+.wl-text-number {
+	display: inline-block !important;
+	color: #a8c686;
+}
+
+.wl-info .wl-btn:not(.primary) {
+	display: none !important;
+}
+
+.wl-btn.primary {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.5rem 20px;
+	background-color: white;
+	color: #a8c686;
+	font-size: 1rem;
+	font-weight: 500;
+	border-radius: 2rem;
+	border: 1px solid var(--aw-color-primary);
+}
+
+.wl-btn.primary:hover {
+	background-color: var(--aw-color-primary);
+	color: white;
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.wl-meta-head, .wl-sort, .wl-empty {
+	display: block !important;
+	color: #a8c686;
+	margin-bottom: 1.5rem;
+}
+
+.wl-meta-head, .wl-cards, .wl-empty {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.wl-nick:focus, .wl-mail:focus, .wl-editor:focus {
+	outline: none;
+	border-color: var(--aw-color-primary, #007bff);
+	box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.wl-user-avatar, .wl-meta, .wl-user, .wl-meta-head {
+	display: none !important;
+}
+
+.wl-card, .wl-card-item {
+	margin-left: 0 !important;
+	padding-left: 0 !important;
+}
+
+.wl-cards {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.wl-card {
+	margin-bottom: 1rem;
+}
+
+.wl-card-item {
+	border: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+@media (min-width: 768px) {
+	.wl-nick, .wl-mail, .wl-editor {
+		padding-left: 1.5rem;
+		padding-right: 1.5rem;
+	}
+}

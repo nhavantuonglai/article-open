@@ -11,8 +11,6 @@ import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';
 import { getFormattedDate } from '~/utils/utils';
 
-import { Slideup } from '~/assets/framer.jsx';
-
 export interface Props {
 	post: Post;
 }
@@ -28,9 +26,6 @@ const truncateDescription = (text, maxWords = 30) => {
 	return words.length > maxWords ? truncated + '…' : truncated;
 };
 ---
-
-<Slideup client:visible>
-
 	<article class={`grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''} mb-6 p-6 rounded-lg w-full transition-all hover:shadow-lg bg-white`}>
 
 		{image && (
@@ -100,5 +95,3 @@ const truncateDescription = (text, maxWords = 30) => {
 		</div>
 
 	</article>
-
-</Slideup>

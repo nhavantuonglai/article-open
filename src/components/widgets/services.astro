@@ -4,7 +4,6 @@ import Headline from '~/components/ui/headline.astro';
 import Wrapper from '~/components/ui/wrapper.astro';
 import Button from '~/components/ui/button.astro';
 import Image from '~/components/common/image.astro';
-import { Slideup } from '~/assets/framer.jsx';
 
 const {
 	title = await Astro.slots.render('title'),
@@ -60,7 +59,6 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 								<div class="absolute left-4 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary to-primary-700 h-full"></div>
 								
 								{items.map((item, index) => (
-									<Slideup client:visible delay={getDelay(index)}>
 
 										<div class="flex mb-8 items-start">
 
@@ -92,7 +90,6 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 
 										</div>
 
-									</Slideup>
 								))}
 
 							</div>
@@ -103,7 +100,6 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 					<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
 
 						{image && (
-							<Slideup client:visible delay={0.2}>
 								<div class="relative m-auto max-w-4xl">
 
 									{typeof image === 'string' ? (
@@ -121,7 +117,6 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 									)}
 
 								</div>
-							</Slideup>
 						)}
 
 					</div>

@@ -47,7 +47,21 @@ const { language, textDirection } = I18N;
 		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
 
-		<Opentab/>
+		<script async custom-element="amp-auto-ads"
+
+				src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+
+		</script>
+
+		<script is:inline>
+
+			document.addEventListener('readystatechange', function() {
+			if (document.readyState === 'interactive') {
+				document.body.style.opacity = "1";
+			}
+			});
+
+		</script>
 
 		<style is:inline>
 
@@ -61,25 +75,15 @@ const { language, textDirection } = I18N;
 
 		</style>
 
-		<script is:inline>
-
-			document.addEventListener('readystatechange', function() {
-			if (document.readyState === 'interactive') {
-				document.body.style.opacity = "1";
-			}
-			});
-
-		</script>
-
 	</head>
 
 	<body class="antialiased text-default bg-page tracking-tight">
 
 		<slot/>
 
-		<Notification/>
+		<Opentab/>
 
-		<Anticopy/>
+		<Notification/>
 
 		<BasicScripts/>
 
@@ -92,6 +96,12 @@ const { language, textDirection } = I18N;
 			</iframe>
 
 		</noscript>
+
+		<amp-auto-ads type="adsense"
+
+				data-ad-client="ca-pub-1056697946796503">
+
+		</amp-auto-ads>
 
 		<style is:global>
 			img {
