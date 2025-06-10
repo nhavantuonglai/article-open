@@ -7,8 +7,6 @@ import Article from '~/components/content/blog/article.astro';
 import BlogList from '~/components/article/list.astro';
 import Pagination from '~/components/article/pagination.astro';
 
-import Action from '~/components/content/main/action.astro';
-
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
 
 export const prerender = true;
@@ -46,7 +44,5 @@ const metadata = {
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
 
 	</section>
-
-	<Action/>
 
 </Layout>
