@@ -10,7 +10,7 @@ import compress from 'astro-compress';
 import react from '@astrojs/react';
 import vercel from '@astrojs/vercel';
 import astrowind from './src/integration';
-import { readingTimeRemarkPlugin, lazyImagesRehypePlugin } from './src/utils/frontmatter.mjs';
+import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin, lazyImagesRehypePlugin } from './src/utils/frontmatter.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const hasExternalScripts = false;
