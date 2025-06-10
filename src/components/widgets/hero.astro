@@ -31,21 +31,21 @@ const {
 			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
 				{tagline && (
 					<p
-						class="text-base text-secondary dark:text-blue-200 font-bold tracking-wide uppercase"
+						class="text-base text-secondary font-bold tracking-wide uppercase"
 						set:html={tagline}
 					/>
 				)}
 
 				{title && (
 					<h1
-						class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading dark:text-gray-200"
+						class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading"
 						set:html={title}
 					/>
 				)}
 
 				<div class="max-w-3xl mx-auto lg:max-w-none">
 					{subtitle && (
-						<p class="text-xl text-justify text-muted mb-6 dark:text-slate-300" set:html={subtitle} />
+						<p class="text-xl text-justify text-muted mb-6" set:html={subtitle} />
 					)}
 
 					{actions && (

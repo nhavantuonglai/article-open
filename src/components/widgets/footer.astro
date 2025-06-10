@@ -32,7 +32,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 
 			{links.map(({ title, links }) => (
 
-				<div class="p-6 rounded-lg w-full transition-all hover:shadow-lg">
+				<div class="mt-6 w-full">
 
 					{title && <p class="text-xl font-semibold text-gray-900 mb-4">{title}</p>}
 					<ul class="space-y-2">
@@ -40,7 +40,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 
 							<li>
 
-								<a class="text-sm text-gray-600 hover:text-primary transition-all duration-300" href={href} target="_blank" aria-label={ariaLabel}>
+								<a class="text-sm text-gray-600 hover:text-primary" href={href} target="_blank" aria-label={ariaLabel}>
 
 									<Fragment set:html={text}/>
 

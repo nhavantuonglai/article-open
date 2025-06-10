@@ -21,7 +21,7 @@ const truncateText = (text: string, maxLength: number, isTitle: boolean = false)
 
 ---
 
-<article class="mb-6 p-6 rounded-lg w-full transition-all hover:shadow-lg bg-white">
+<article class="mb-6 mb-6">
 
 	{image && (
 
@@ -51,7 +51,7 @@ const truncateText = (text: string, maxLength: number, isTitle: boolean = false)
 		{APP_BLOG?.post?.isEnabled ? (
 			<a
 				href={getPermalink(post.permalink, 'post')}
-				class="hover:text-primary transition ease-in duration-200"
+				class="hover:text-primary"
 				target="_blank"
 			>
 				{truncateText(post.title, 60, true)}

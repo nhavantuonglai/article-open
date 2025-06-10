@@ -1,0 +1,160 @@
+---
+pubDatetime: 2017-11-27T10:10:00Z
+title: Hiểu về trái tim | Chương 09
+description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
+image: https://banmaixanh.vercel.app/image/cover/001-452.jpg
+tags:
+  - thu vien
+  - van hoc
+  - van hoc viet nam
+  - doan van
+  - ton giao
+  - phat giao
+  - thien van
+  - thuc hanh ton giao
+  - minh niem
+  - hieu ve trai tim
+---
+
+_Người ta vẫn thường nói rằng nghèo là khổ, nghèo khổ, chứ ít ai nói giàu khổ cả. Thật ra, người nghèo có nỗi khổ của người nghèo mà người giàu cũng có nỗi khổ của người giàu. Người nghèo vì không chấp nhận cái nghèo, oán ghét cái nghèo, muốn được giàu nên mới khổ. Còn người giàu lại sợ bấy nhiêu tài sản chưa đủ làm người khác nể phục, sợ bị phá sản, sợ bị kẻ xấu lợi dụng hay hãm hại nên mới khổ._
+
+_So ra cái khổ của người giàu còn phức tạp và nan giải hơn người nghèo. Phải chi trong xã hội ai cũng như ai, ai cũng sở hữu tài sản như nhau thì chắc chắn ý niệm giàu nghèo sẽ không có. Nhưng điều ấy không bao giờ là thực tế khi con người ngày càng ưa chuộng vật chất và xem đó là điều kiện căn bản của hạnh phúc. Cho nên, nếu ta may mắn không bị cuốn theo quan niệm của xã hội mà thoát ra khỏi ý niệm giàu nghèo, ta thấy sự hưởng thụ vật chất không phải là lý do lớn nhất để ta có mặt ở trên cõi đời này, thì chắc chắn ta sẽ không còn than nghèo khổ nữa._
+
+_Người ta cũng thường gộp chung cực với khổ, cực khổ. Nhưng bản thân của sự cực nhọc chưa chắc đã là khổ. Chỉ vì ta kháng cự lại nó, ta muốn mình không phải vất vả mà vẫn có đầy đủ mọi thứ tiện nghi như bao người khác nên ta mới khổ. Ta chỉ biết so sánh, đòi hỏi, chứ không chịu tìm hiểu căn nguyên sâu xa tại sao mình lại cơ cực._
+
+Tại sao ta cứ mãi than phiền và đòi hỏi cuộc đời, mà có bao giờ ta tự hỏi cuộc đời cần gì nơi ta?
+
+## Công bằng hay sòng phẳng?
+
+Ở làng quê Việt Nam ngày xưa, khi làm mùa vụ, người nông dân có thể nhờ vài người trong thôn xóm đến phụ giúp mà không phải trả tiền. Chỉ cần đến phiên bên kia làm mùa vụ, hay sửa sang nhà cửa, hoặc bất cứ công việc nặng nhọc nào đó, thì bên này sẽ qua phụ giúp lại. Cái đó gọi là vần công. Cách thức này thật hay. Tuy người ta cũng căn cứ trên số buổi hay số ngày làm để quy định mức công bằng, nhưng họ lại không khắt khe phân biệt năng lực làm việc của mỗi người. Thậm chí khi đang làm trả công, nếu ta bất ngờ ngã bệnh hay gia đình có việc khẩn cấp nên ta phải ngưng làm thì họ vẫn châm chước. Họ vẫn tính tròn phần công cho ta. Ngược lại, lỡ mùa màng thất bát nên họ không thể trả công cho ta thì ta vẫn vui vẻ chờ mùa vụ sau, hoặc miễn cho họ luôn cũng được. Người dân quê hiểu rằng sự trao đổi ấy chỉ có tính tương đối, không phải hễ người kia giúp mình và mình giúp lại là trả xong hết. Cái tình cái nghĩa vẫn còn đó, không bao giờ trả hết được.
+
+Thời đại văn minh bây giờ người ta quan niệm về sự công bằng rất lạ lùng. Khi một người nào đó tận tình hướng dẫn ta vào nghề trong những bước đầu nhiều bỡ ngỡ, tạo nhiều điều kiện thuận lợi cho ta trong công việc làm ăn, hay chia sẻ trong những lúc ta gặp nguy khốn, thì ta lập tức tặng cho họ một món quà đắt tiền hoặc ta sẽ mời họ đi ăn trong một nhà hàng sang trọng là coi như đã trả xong. Không ai nợ ai nữa. Nhưng nếu người kia đã từng giúp đỡ ta một cách không vụ lợi, bằng tất cả tấm chân tình, mà ta lại xem nó ngang bằng với những món vật chất vô tri kia thì đừng hỏi tại sao họ lại bị tổn thương. Thà ta không làm như thế còn hơn, vì họ nghĩ ta vẫn luôn gìn giữ ân nghĩa ấy trong lòng. Món quà hay bữa ăn đó sẽ được vui vẻ chấp nhận, nếu họ thấy được ý nghĩa của nó trong suy nghĩ và thái độ của ta. Có người cho rằng như vậy là không sòng phẳng. Nhưng họ vẫn chấp nhận được, dù mãi sau này ta vẫn không có cơ hội để bù đắp. Bởi họ không có chủ trương trao đổi công bằng ngay từ buổi đầu, nói chi là sòng phẳng.
+
+Ý niệm sòng phẳng thường dễ bị nhầm lẫn với công bằng. Anh được một và tôi cũng được một, hay anh cho tôi hai thì tôi cho anh hai, đó là công bằng. Nhưng còn tùy vào mỗi xã hội và thời đại mà quy luật công bằng sẽ được thể hiện khác nhau. Sự công bằng thường được quy định trên mức cảm xúc. Cho nên, có khi người ta tự quy định mức công bằng nếu hai bên tự thỏa thuận trị giá tương xứng giữa vật trao đổi, mà không cần tuân theo quy ước chung của cộng đồng. Thí dụ, một trái bí đao có thể đổi với hai trái mướp đắng; một chuyến đò ngang có thể đổi với sáu câu vọng cổ; một bức tranh có thể đổi lấy mười bầu rượu; một lời hứa chân tình có thể đổi lấy ba trăm sáu mươi lăm ngày chờ đợi. Tuy sự trao đổi ấy được coi là công bằng, nhưng đôi bên đều ngầm hiểu rằng người kia vì cảm tình mới chấp nhận trao đổi như vậy, nên khi nào có cơ hội thì mình sẽ bù đắp thêm. Trong khi sòng phẳng là loại bỏ ý niệm muốn bù đắp, trả như thế là đủ, chấm hết.
+
+Dĩ nhiên trong thương trường rộng lớn, người ta cần phải có sự rành mạch về những trị giá vật chất để trao đổi, nên đã thiết lập ra chế độ tiền tệ để đơn giản hóa và mở rộng thương mại. Vì thế, sự sòng phẳng đã vô tình trở thành quy luật. Nhưng biết bao công lao khổ nhọc mới làm ra được bát cơm trắng tinh mà chỉ đổi ngang với vài đồng bạc thừa thì không thể gọi là công bằng được. Sòng phẳng lại càng phi lý. Nên nhớ, sự trao đổi không bao giờ là tuyệt đối, tất cả chỉ là ước lệ. Cho nên, người ta đã sai lầm khi cho rằng sự thảnh thơi, thật thà hay nhường nhịn là những yếu tố nguy hại đến kinh tế và cần phải loại trừ. Trong nguyên tắc vận hành tự nhiên của vũ trụ, mọi sự mọi vật đều không ngừng nương tựa vào nhau để tồn tại. Do đó, sự biệt lập và sòng phẳng sẽ không bao giờ xảy ra dù con người có cố tình nhồi nặn ra nó để phục vụ cho quyền lợi ích kỷ của mình.
+
+## Làm sao trả hết những ân tình?
+
+Có những người con thấy mình đã làm tròn bổn phận khi mỗi tháng chu cấp đầy đủ thực phẩm và thuốc men, hoặc mua được căn nhà khang trang cho cha mẹ. Nên khi cha mẹ cần họ thường xuyên lui tới, hay giúp đỡ vài việc vặt vãnh thì họ lại than phiền tại sao họ phải làm quá nhiều như thế. _Cha mẹ thương con biển hồ lai láng/ Con nuôi cha mẹ tính tháng tính ngày,_ hai câu ca dao ấy vẫn là thực trạng đau lòng trong bất cứ thời đại nào, nhất là hiện nay. Khi người ta bị cuốn hút vì danh vọng, họ sẽ dễ dàng coi nhẹ hay gạt bỏ những yếu tố khác mà họ cho là bất lợi. Nhưng được thương yêu và chăm sóc cha mẹ chẳng phải là một quyền lợi sao? Chẳng phải có biết bao kẻ mồ côi trong thế gian này rất thèm có cha mẹ để được thương yêu và chăm sóc, dù phải đánh đổi bất cứ thứ gì thì họ cũng sẵn sàng chấp nhận cả. Chắc là phải đợi đến khi ta có con, phải hy sinh vất vả trăm bề, nhất là khi con ta đau yếu hay ngỗ nghịch, thì ta mới thấm thía hết ân tình của cha mẹ dành cho ta. Khi đó mới thấy ý niệm _trả xong nợ nần_ cho đấng sinh thành là quá dại dột.
+
+
+Trong liên hệ hôn nhân cũng vậy, ta cũng muốn có sự sòng phẳng để ta có cảm giác không bị lợi dụng hay hy sinh một cách vô nghĩa. Tôi làm cái này thì anh phải làm cái kia; tôi trả tiền rồi nên bây giờ tới phiên em; tại sao tôi phải lo nhiều thứ còn anh suốt ngày cứ phè phỡn; em chỉ biết lo cho gia đình của em thì đừng trách anh bỏ bê công việc nhà; anh mà làm khổ tôi thì tôi sẽ làm khổ anh… Vì thế khi hôn nhân đổ vỡ, người ta mau chóng xem nhau như hai kẻ xa lạ, không cần biết tới sự khó khăn hiện tại của nhau. Họ từng yêu nhau thắm thiết rồi bỗng trở thành thù ghét nhau, không muốn nhìn nhau dù vô tình gặp mặt. Tệ đến nỗi, họ lên mặt báo để bôi nhọ danh dự hay đơm đặt những điều gây bất lợi cho nhau. Điều đau lòng nhất là khi phân chia tài sản, họ luôn đòi hỏi sự rạch ròi, sòng phẳng. Bao năm tình nghĩa vợ chồng phút chốc bỗng tan thành mây khói khi ai nấy đều muốn tranh giành phần lợi, phần phải, phần thắng về mình.
+
+Tất cả những phản ứng trên đều thể hiện sự ích kỷ hẹp hòi, chứ không phải là sự công bằng hợp lý. Tài sản thì có thể phân chia đồng đều, nhưng ân tình làm sao đong đếm được mà phân chia? Tuy chuyện tình đã đi vào đoạn kết, nhưng dù muốn dù không thì tất cả những gì ta đã cho nhau sẽ theo nhau mãi suốt đời. Nếu ta còn nợ quá nhiều ân tình với người này thì chắc chắn ta sẽ phải trả cho người khác. Bởi tất cả đều nằm trong vòng nhân quả chập chùng và hiển nhiên xưa nay của trời đất mà không ai có thể thoát được.
+
+Chiếc lá không bao giờ nghĩ rằng nó có thể trả hết nợ ân tình của cây, dù nó đã hết lòng hấp thụ ánh nắng mặt trời để khổ công tinh chế nhựa thô thành nhựa luyện nuôi cây. Vì chiếc lá đã quan sát và thấy được sự thật là nó chưa bao giờ ngừng tiếp nhận tình thương yêu của cây. Dù cây có già cỗi, nhưng cây cũng vẫn cố gắng cắm sâu những chiếc rễ xuống lòng đất để hút chất khoáng về nuôi chiếc lá. Giả sử chiếc lá có trả được ân tình của cây thì nó cũng không thể nào trả hết nổi ân tình của mặt trời, gió, nước, khoáng chất, phân hữu cơ, côn trùng và cả vạn vật xung quanh. Tất cả những yếu tố ấy có vẻ như nằm ngoài chiếc lá, nhưng chúng vẫn đang từng giờ từng phút nuôi dưỡng chiếc lá. Chiếc lá chỉ còn cách sống sao cho trọn kiếp sống, sống cho thật dễ thương và làm tốt trách nhiệm của mình. Ta có khác gì chiếc lá đâu. Ta cũng không bao giờ trả nổi những ân tình mà cuộc đời này đã trao tặng cho ta, bằng trực tiếp hay gián tiếp. Vậy tại sao ta cứ mãi than phiền và đòi hỏi cuộc đời, mà có bao giờ ta tự hỏi cuộc đời cần gì nơi ta?
+
+_Như dòng sông trôi mãi,_
+
+_Luôn chở nặng phù sa,_
+
+_Có bao giờ em hỏi,_
+
+_Đời cần gì nơi ta?_
+
+Đọc [Hiểu về trái tim, chương 01](/article/hieu-ve-trai-tim-chuong-01) tại đây.
+
+Đọc [Hiểu về trái tim, chương 02](/article/hieu-ve-trai-tim-chuong-02) tại đây.
+
+Đọc [Hiểu về trái tim, chương 03](/article/hieu-ve-trai-tim-chuong-03) tại đây.
+
+Đọc [Hiểu về trái tim, chương 04](/article/hieu-ve-trai-tim-chuong-04) tại đây.
+
+Đọc [Hiểu về trái tim, chương 05](/article/hieu-ve-trai-tim-chuong-05) tại đây.
+
+Đọc [Hiểu về trái tim, chương 06](/article/hieu-ve-trai-tim-chuong-06) tại đây.
+
+Đọc [Hiểu về trái tim, chương 07](/article/hieu-ve-trai-tim-chuong-07) tại đây.
+
+Đọc [Hiểu về trái tim, chương 08](/article/hieu-ve-trai-tim-chuong-08) tại đây.
+
+Đọc [Hiểu về trái tim, chương 09](/article/hieu-ve-trai-tim-chuong-09) tại đây.
+
+Đọc [Hiểu về trái tim, chương 10](/article/hieu-ve-trai-tim-chuong-10) tại đây.
+
+Đọc [Hiểu về trái tim, chương 11](/article/hieu-ve-trai-tim-chuong-11) tại đây.
+
+Đọc [Hiểu về trái tim, chương 12](/article/hieu-ve-trai-tim-chuong-12) tại đây.
+
+Đọc [Hiểu về trái tim, chương 13](/article/hieu-ve-trai-tim-chuong-13) tại đây.
+
+Đọc [Hiểu về trái tim, chương 14](/article/hieu-ve-trai-tim-chuong-14) tại đây.
+
+Đọc [Hiểu về trái tim, chương 15](/article/hieu-ve-trai-tim-chuong-15) tại đây.
+
+Đọc [Hiểu về trái tim, chương 16](/article/hieu-ve-trai-tim-chuong-16) tại đây.
+
+Đọc [Hiểu về trái tim, chương 17](/article/hieu-ve-trai-tim-chuong-17) tại đây.
+
+Đọc [Hiểu về trái tim, chương 18](/article/hieu-ve-trai-tim-chuong-18) tại đây.
+
+Đọc [Hiểu về trái tim, chương 19](/article/hieu-ve-trai-tim-chuong-19) tại đây.
+
+Đọc [Hiểu về trái tim, chương 20](/article/hieu-ve-trai-tim-chuong-20) tại đây.
+
+Đọc [Hiểu về trái tim, chương 21](/article/hieu-ve-trai-tim-chuong-21) tại đây.
+
+Đọc [Hiểu về trái tim, chương 22](/article/hieu-ve-trai-tim-chuong-22) tại đây.
+
+Đọc [Hiểu về trái tim, chương 23](/article/hieu-ve-trai-tim-chuong-23) tại đây.
+
+Đọc [Hiểu về trái tim, chương 24](/article/hieu-ve-trai-tim-chuong-24) tại đây.
+
+Đọc [Hiểu về trái tim, chương 25](/article/hieu-ve-trai-tim-chuong-25) tại đây.
+
+Đọc [Hiểu về trái tim, chương 26](/article/hieu-ve-trai-tim-chuong-26) tại đây.
+
+Đọc [Hiểu về trái tim, chương 27](/article/hieu-ve-trai-tim-chuong-27) tại đây.
+
+Đọc [Hiểu về trái tim, chương 28](/article/hieu-ve-trai-tim-chuong-28) tại đây.
+
+Đọc [Hiểu về trái tim, chương 29](/article/hieu-ve-trai-tim-chuong-29) tại đây.
+
+Đọc [Hiểu về trái tim, chương 30](/article/hieu-ve-trai-tim-chuong-30) tại đây.
+
+Đọc [Hiểu về trái tim, chương 31](/article/hieu-ve-trai-tim-chuong-31) tại đây.
+
+Đọc [Hiểu về trái tim, chương 32](/article/hieu-ve-trai-tim-chuong-32) tại đây.
+
+Đọc [Hiểu về trái tim, chương 33](/article/hieu-ve-trai-tim-chuong-33) tại đây.
+
+Đọc [Hiểu về trái tim, chương 34](/article/hieu-ve-trai-tim-chuong-34) tại đây.
+
+Đọc [Hiểu về trái tim, chương 35](/article/hieu-ve-trai-tim-chuong-35) tại đây.
+
+Đọc [Hiểu về trái tim, chương 36](/article/hieu-ve-trai-tim-chuong-36) tại đây.
+
+Đọc [Hiểu về trái tim, chương 37](/article/hieu-ve-trai-tim-chuong-37) tại đây.
+
+Đọc [Hiểu về trái tim, chương 38](/article/hieu-ve-trai-tim-chuong-38) tại đây.
+
+Đọc [Hiểu về trái tim, chương 39](/article/hieu-ve-trai-tim-chuong-39) tại đây.
+
+Đọc [Hiểu về trái tim, chương 40](/article/hieu-ve-trai-tim-chuong-40) tại đây.
+
+Đọc [Hiểu về trái tim, chương 41](/article/hieu-ve-trai-tim-chuong-41) tại đây.
+
+Đọc [Hiểu về trái tim, chương 42](/article/hieu-ve-trai-tim-chuong-42) tại đây.
+
+Đọc [Hiểu về trái tim, chương 43](/article/hieu-ve-trai-tim-chuong-43) tại đây.
+
+Đọc [Hiểu về trái tim, chương 44](/article/hieu-ve-trai-tim-chuong-44) tại đây.
+
+Đọc [Hiểu về trái tim, chương 45](/article/hieu-ve-trai-tim-chuong-45) tại đây.
+
+Đọc [Hiểu về trái tim, chương 46](/article/hieu-ve-trai-tim-chuong-46) tại đây.
+
+Đọc [Hiểu về trái tim, chương 47](/article/hieu-ve-trai-tim-chuong-47) tại đây.
+
+Đọc [Hiểu về trái tim, chương 48](/article/hieu-ve-trai-tim-chuong-48) tại đây.
+
+Đọc [Hiểu về trái tim, chương 49](/article/hieu-ve-trai-tim-chuong-49) tại đây.
+
+Đọc [Hiểu về trái tim, chương 50](/article/hieu-ve-trai-tim-chuong-50) tại đây.
+
+Đọc [Hiểu về trái tim, chương 51](/article/hieu-ve-trai-tim-chuong-51) tại đây.
+
+Đọc [Hiểu về trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-ve-trai-tim.pdf) tại đây.
+
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

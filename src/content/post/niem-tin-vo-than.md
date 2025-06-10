@@ -1,0 +1,78 @@
+---
+pubDatetime: 2023-06-23T10:10:00Z
+title: Vô thần, đức tin và sự dẫn lối
+description: Không biết với bạn thì thế nào chứ riêng mình, niềm tin là một điều vô cùng quan trọng, nó định hình những lựa chọn và giúp bản thân đưa ra quyết định đúng đắn hơn.
+image: https://banmaixanh.vercel.app/image/cover/001-601.jpg
+tags:
+  - viet lach
+  - doan van
+  - ton giao
+---
+
+_Không biết với bạn thì thế nào chứ riêng mình, niềm tin là một điều vô cùng quan trọng, nó định hình những lựa chọn và giúp bản thân đưa ra quyết định đúng đắn hơn. Cũng với mình, tôn giáo là một không gian vô cùng thú vị và có nhiều điều để chia sẻ với nhau. Nhân ngày Phật đản sắp đến, mình viết bài này để chia sẻ tại sao chúng ta lại nên cần niềm tin tôn giáo trong đời sống, không chỉ với người tin mà cả kẻ ngoài đạo._
+
+## Mở đầu‍
+
+Cua, cô bạn mình chơi thân vào hồi năm nhất Đại học là một người bạn tương đối đặc biệt. Trong một buổi tối cuối năm, mình nhắn hỏi liệu bạn có rảnh để ra đường cùng hay không, một lát sau bạn nhắn lại đang ở đoạn nhà thờ, _cậu đến đây nhé._ Tầm mười phút sau, mình ngồi bên cạnh bạn ở dãy ghế, mắt hướng về phía hang đá đang lấp lánh đèn. Lúc ấy, ngồi được một lúc thì Cua nói rằng, khi nhìn vào đôi mắt của Chúa ở bên trong nhà thờ, bạn cảm thấy nơi này an toàn với bạn bởi biết chẳng có sự phán xét nào của Ngài như từ gia đình mình cả.
+
+Cua là _lesbian,_ sự cởi mở ấy vào 2013 là một sự can đảm đến vô cùng, gia đình bạn ấy lúc đó – tất nhiên cũng chẳng chấp nhận một khái niệm mơ hồ đầy _bệnh hoạn_ như vậy chút nào. Không giống với nhiều gia đình khác, nhà bạn lựa chọn hững hờ, không khắc nghiệt nhưng sự yêu thương nay đã nhạt nhòa đi rất nhiều. Trong cách chia sẻ câu chuyện của bạn trong những lần trước đó, mình cảm thấy có một chút gì đó rạn nứt đầy bất ổn và chực chờ mà bung trào.
+
+Bạn nói xong thì mình cũng phóng tầm mắt theo hướng bạn nhìn, phía trước hang đá đang có mấy người đứng cầu nguyện, sự chú tâm mà họ có đang hòa quyện cùng sự tĩnh lặng của không gian. Trong khoảnh khắc ấy, mình khó hiểu nhưng không thể nào mở miệng ra để hỏi, điều gì lại khiến bạn trở nên an toàn khi ở trong không gian này?
+
+Mình thì khác Cua, khác ở chuyện cảm giác an toàn mà bạn nói thì mình lại không cảm nhận được, chỉ thấy trống rỗng. Khi đứng trước tượng Phật trong chùa, hay cả tượng Chúa trong nhà thờ, trong khi bạn đi cùng miệng lẩm bẩm cầu khấn thì mình lại đứng im như trời trồng, chẳng biết nói gì bởi đầu óc chẳng có suy nghĩ gì hết. _Nói gì đi, cầu mong điều đẹp đẽ nhất sẽ đến với mày cùng những người xung quanh ấy,_ cầu khấn xong bạn thấy mình đứng yên thì hỏi rồi nói. Đoạn ấy tự nhiên lại thắc mắc, liệu khi suy nghĩ về bản thân, hay gia đình và cả những người mình thương rồi cầu xin thần thánh thì có chút nào hiệu nghiệm không? Mà câu trả lời cho điều ấy mình thấy khó khăn quá, nhất là việc kiểm chứng rằng có một ai đó sẽ ban phát phước lành, chở che từ trên cao đâu.
+
+Với bản thân mình, đó là sự phi logic mà tôn giáo đem lại – niềm tin đóng vai trò quan trọng, nhưng niềm tin ấy không hướng vào một cá thể hay sự kiện hữu hình mà dựa trên những điển tích, những câu chuyện thần thánh. Nếu thời gian có thể dịch chuyển và mình được đặt vào bối cảnh của hàng ngàn năm trước, thì niềm tin ấy có thể chấp nhận bởi bối cảnh đương thời không có một lời giải nào hợp lý hơn. Bên cạnh đó, có một nhận xét đại ý rằng, niềm tin một tôn giáo được củng cố bởi sự yếu ớt trong tâm hồn, nói một cách khác: Tôn giáo là điểm tựa tâm lý của những người tin vào nó.
+
+Nhưng nếu nói như thế, thì phải chăng niềm tin tôn giáo là khái niệm phản ánh sự yếu đuối của bản thân – không đủ sự mạnh mẽ để đương đầu với mọi chuyện trong cuộc sống? Nếu là bản thân, thì điều tin tưởng nhất đó là chính mình. Khi càng lớn và càng phải ra quyết định nhiều, mình lại càng cảm thấy phải có trách nhiệm chấp nhận và không nương nhờ vào ai. Có như thế, khi thất bại hay không được như ý chẳng có lựa chọn nào khác ngoài bản thân để đổ lỗi.
+
+Nhưng nếu giữ suy nghĩ như thế, mình cảm thấy thật sự không công bằng với tôn giáo. Và nếu như đó là một cách giải thích đúng đắn, thì tôn giáo trên thế giới này hẳn đã chết từ lâu lắm rồi. Để tìm câu trả lời cho thỏa đáng, mình thử lên chùa rồi gặp gỡ những sư thầy xong đặt câu hỏi, đọc sách ở đó cho đến trò chuyện cùng các bạn có niềm tin khác nhau. Những lần ấy khiến mình nhận ra rằng, không phải bản chất của tôn giáo là không đúng, mà do cách tiếp cận và diễn giải vấn đề sai.
+
+## Vô thần, đức tin và sự dẫn lối
+
+Một người bạn theo đạo chia sẻ với mình rằng, điều bạn đi theo không phải là tôn giáo, mà đó là niềm tin. Và dường như, khái niệm này dễ tiếp cận, dễ được lựa chọn hơn là tôn giáo.
+
+Tôn giáo được định hình từ khái niệm _religion_ – tôn trọng linh thiêng, tôn kính thần linh. Thần linh trong mỗi một tôn giáo sẽ đóng vai trò thể hiện câu chuyện và truyền đạt giáo lý, theo đó thì khái niệm này ở nghĩa nguyên gốc chính là việc hướng bản thân đến gần với thần linh hơn. Điều đó bạn có thể dễ dàng chứng kiến qua những nghi lễ hằng ngày, hay việc thể hiện tư duy hướng về đạo khi đối mặt trước các vấn đề của những người tin theo.
+
+Nhưng bên cạnh đó, tôn giáo còn thể hiện ở sự trần tục. Chính là cách thực hành tôn giáo theo một chiều hướng khác – hướng bản thân ra bên ngoài, qua những thói quen, hành vi thông thường. Tư tưởng nhà Phật hiện đại có một ý phản ánh điều này, đó là Phật pháp giữa đời thường – sự gần gũi của những giáo lý trong cộng đồng xã hội.
+
+Một đặc trưng dễ nhìn thấy trong cách bài trí không gian thờ tự ở các gia đình người Việt, đó là sự hòa quyện giữa các luồng tư tưởng. Ở cửa chính diện nơi đặt bàn thờ sẽ có một chiếc gương Bát quái (của Đạo giáo), trên bàn thờ sẽ có di ảnh của ông bà (người đã khuất), một số nhà thì sẽ thêm tượng hoặc ảnh của Phật của Chúa (đặt niềm tin vào tôn giáo) hay Bác Hồ (thờ lãnh tụ, hình ảnh này đặc biệt xuất hiện ở các gia đình cách mạng)… ở trên cùng.
+
+Số liệu năm 2019 của Tổng cục Thống kê chỉ ra rằng cứ trung bình tám người Việt Nam thì sẽ có một người theo tôn giáo bất kỳ (tỉ lệ chính xác là 13,7%), trong đó Công giáo chiếm số đông hơn cả. Còn trong thực tế, dường như đây chỉ là một khái niệm mang tính tương đối, bởi có rất nhiều người không theo nhưng vẫn đặt niềm tin và thực hành nghi lễ.
+
+Ở Phật giáo, việc thắp hương viếng chùa đầu năm đã trở thành một thói quen quan trọng của tất cả mọi người, và cứ không phải Phật tử (ví dụ như mình) thì cứ đến ngày rằm hoặc đầu tháng Âm lịch vẫn có thói quen ăn chay. Ở Công giáo, đêm Giáng sinh từ rất lâu đã trở thành một sự kiện đời thường quan trọng trong năm, bên cạnh Tết dương lịch hay Trung thu (Thú vị là, tương đồng về mặt ý nghĩa nhưng ngày Phật đản lại không trở nên đại chúng bằng), ngày chủ nhật đôi khi vẫn được gọi là ngày Chúa nhật – như thể hiện đúng ý nghĩa mà tên gọi này đem lại.
+
+Những điều này cho thấy rằng, các tư tưởng tôn giáo đã đi vào, gắn liền với đời sống xã hội một cách chân thực, gần gũi và ít có khoảng cách, xung đột. Nhưng, quay trở lại vấn đề ban đầu – nếu tôn giáo là một khái niệm phi logic, thì điều gì đã tạo nên sự gần gũi ấy? Câu trả lời chính là sự tin theo những giáo lý, câu chuyện ở mỗi một tôn giáo của những người hướng đạo, và cả những người ngoại đạo. Hay có thể dùng một từ gọn gàng hơn, đó là Đức tin.
+
+Tôn giáo có ba thành tố quan trọng tạo nên ảnh hưởng lan tỏa, đó là: tính trừu tượng (câu chuyện thần thánh, gốc tích), giáo lý (quy tắc thực hành, ứng xử) và lễ nghi (sự thành kính, thói quen, kết nối). Ba thành tố này từ mỗi một tôn giáo mà thành chứ không phải ở bản thân mỗi người quyết định. Đức tin thì lại khác, đó là lựa chọn và được phản ánh ra bên ngoài một cách chủ động.
+
+Nói về đức tin, bạn dẫn một một ví dụ để minh họa với mình. Đó là hồi nhỏ khi vắng ba mẹ thì tâm trạng chúng ta sẽ thế nào, chẳng hạn như lúc phải đi học mẫu giáo, hoặc ba mẹ đi công chuyện để mình ở nhà với anh chị? Chắc chắn là không vui, cảm thấy sợ hãi và thiếu an toàn rồi òa khóc đúng không. Nhưng nếu lúc ấy cô giáo dạy trẻ, hay anh chị bảo rằng ơ ba mẹ kia kìa thì tâm trạng của chúng ta có được cải thiện hay không? Có đúng không, dù rằng ta không biết chắc ba mẹ ở ngoài kia đã về hay chưa, có đang đứng đợi mình hay không. Nhưng cái thông điệp ba mẹ đang ở đâu đó, ở nơi rất gần và quan sát chúng ta là một thông điệp đầy tính an toàn, tạo nên cảm giác thoải mái, được chở che.
+
+Đức tin, hay nương tựa vào Chúa vào Phật cũng tương tự như vậy – đó là tìm đến khi chúng ta cần làm nhòa đi những lo lắng trong lòng. Khi nào thì cảm giác thiếu an toàn, bất ổn về mặt cảm xúc và có những hành động sai trái (như òa khóc ở cấp độ đơn giản nhất) ở con người sẽ xuất hiện? Đó là khi ta gặp vấn đề về sự tin tưởng, ở cả bản thân, và lẫn ở người khác. Lúc này, đức tin như ngọn đèn soi đường chỉ lối tư tưởng, để dẫn dắt, củng cố hành động, đưa người đang mê muội đi và biết đi như thế nào cho đúng đắn.
+
+Bởi vì thế, tôn giáo làm tốt vai trò nền tảng để xây dựng lên những câu chuyện thần thánh, những quy tắc giáo lý thông thường. Nhưng nói về sự gần gũi thì khái niệm này không làm tốt bằng đức tin. Bởi chính xác, đó là sự hướng thiện – khuyến khích con người trở nên tử tế và tốt đẹp với nhau hơn.
+
+## Niềm tin – Vẻ đẹp của tôn giáo
+
+Như đã viết ở phần trên trong một cái đóng mở ngoặc, mình không phải Phật tử, cũng không đi nhà thờ. Mình là một người vô thần, không tin vào thần thánh hay sự tồn tại của ma quỷ. Niềm tin lớn lao nhất của mình đó chính là khoa học, đó không phải là niềm tin duy nhất, vì mình còn tin vào sự tốt đẹp mà tôn giáo đem lại. Và có thể các bạn thấy mâu thuẫn, nhưng mình nghĩ rằng đức tin là một điều cần thiết cho tất cả mọi người, kể cả khi bạn không tin vào đạo.
+
+Kết luận này dựa trên hai luận điểm thể hiện vai trò của đức tin với mỗi người, thứ nhất là nền tảng để chúng ta thực hành những điều tốt, và thứ hai là lựa chọn để ta thoát khỏi sự bất ổn do không chấp nhận được chính mình.
+
+Đầu tiên là về nền tảng, nếu giáo lý mang tính khuôn mẫu khi truyền tải, thì đức tin lại linh hoạt trong cách thể hiện. Có thể xem rằng đức tin chính là cái thước kẻ để phân định lựa chọn đúng sai, nên hay không khi thực hành những giáo lý của một người tin vào nó. Đức tin như điều kiện cần để nhìn thấy sự lan tỏa của một tôn giáo, bởi có thể bạn không xuất hiện ở nhà thờ, không ăn chay vào ngày rằm thì có thể rằng nó không phải vấn đề quá lớn, vì rằng cứ không phải thường xuyên cầu nguyện rồi đi lễ là tâm tốt, cuộc sống gặp nhiều phước lành.
+
+Nhưng nếu bạn không tin vào sự tốt đẹp khi làm việc tốt, không thấy an lạc khi từ chối một điều sai trái thì khó để xem rằng bạn thuộc về tôn giáo ấy được, bởi đơn giản đó là ý thức, là kết nối và cảm giác được lắng nghe, được chia sẻ để tin vào điều mình đang thực hành là đúng đắn.
+
+Với một người vô thần, cây thước kẻ chính là những tiêu chuẩn đạo đức, nhưng nó không phải toàn diện. Đạo đức mang trong mình sự đơn điệu của lựa chọn, một đúng hai sai, không có nhưng và càng không thêm bên cạnh đó. Đồng thời, trong một số trường hợp nhất định thì sự đánh đổi khi lựa chọn (ví dụ lựa chọn giữa lợi ích cá nhân và lợi ích tập thể) hay giá trị nhận lại không tương xứng khiến những tiêu chuẩn đạo đức trở nên cồng kềnh, dễ lung lay hơn. Lúc này đây, sự xuất hiện của đức tin sẽ làm mềm lựa chọn của mỗi người bằng việc thêm vào đó là những thông điệp về nhân quả, tha thứ hay đối nhân xử thế.
+
+Thứ hai là sự bất ổn, ở khía cạnh này thì đức tin thể hiện tốt hơn so với những giải pháp khác, hoặc diễn giải chính xác hơn – đây là lựa chọn duy nhất. Người vô thần nghi ngờ sự tồn tại các những yếu tố tâm linh, đặt niềm tin phần nhiều vào khoa học. Trong xã hội, khoa học xét theo nghĩa hẹp đóng một vai trò vô cùng quan trọng, nó là bàn đạp để thúc đẩy xã hội phát triển. Những thành tựu sáng tạo nó đem lại đang giải quyết, kết nối và chữa lành những vấn đề mà con người đang đối mặt một cách mạnh mẽ. Nhờ có khoa học mà chúng ta đã đẩy lùi được rất nhiều chứng bệnh, phát hiện sớm nhiều bệnh tật nguy hiểm khác. Sự phát triển ấy cũng đem đến những cuộc cách mạng công nghiệp, làm giảm sức người sức của trong lao động sản xuất, tái tạo của cải. Bên cạnh đó, con người còn khám phá, giải quyết được nhiều hơn những vấn đề mà trước đấy phải cần đến ý kiến của tôn giáo.
+
+Nhưng, không một gì là hoàn hảo, và khoa học cũng không loại lệ. Sự phát triển của khoa học tri thức, thành tựu xã hội xuất hiện là một điều tất yếu. Nó tạo nên một nhịp đà để ngay từ cấp độ giáo dục nhỏ nhất là gia đình, cũng đã phải trang bị cho mỗi cá nhân những hành trang cần thiết trước khi bước vào đời. Trạng thái sẵn sàng khi một người trưởng thành đó là phải làm được một chút gì đó, nhằm tạo ra của cải vật chất và định hình sự phát triển của bản thân. Hệ quả là gì? Là chúng ta bị cuốn theo nó – cuốn theo sự phát triển, cố gắng phát triển theo mẫu số chung của xã hội, trong khi bản sắc và những vấn đề cá nhân lại ít được đối diện, xem trọng. Dẫn chứng là, nhiều lúc thành tựu mà chúng ta mong muốn rồi khi đạt được, lại chợt nhận ra đó là điều người khác muốn chứ không phải điều bản thân cần.
+
+Vậy đức tin đóng vai trò gì để cải thiện sự bất ổn này? Sự bất ổn đến khi chúng ta không ý thức được giá trị và năng lượng của chính mình, đức tin xuất hiện để định vị tâm hồn và chỉ lối phù hợp cho mỗi người. Bởi rằng, đức tin không khuyến khích và dẫn dắt con người ta đến với thành công, mà nó dẫn lối ta đến với hạnh phúc cùng sự tử tế. Hạnh phúc là sự thể hiện trân trọng, cảm nhận trọn vẹn từng hành động trong từng phút giây mà chúng ta có, đó là thưởng thức một chén trà thơm, đứng yên giữa bao hàng người để ngước lên nhìn Chúa, là thỏa mãn với những quyết định trong cuộc sống. Tử tế là biết thương người để thương lấy mình, chấp nhận làm trọn vẹn bản thân bằng niềm yêu thích và tha thứ với lỗi lầm sai trái của người khác.
+
+Nhưng vào lúc này đây, sẽ có một câu hỏi nho nhỏ được đặt ra, điểm khác biệt của một tín đồ tôn giáo và một kẻ vô thần trong khía cạnh đức tin là gì? Bởi nếu đức tin quan trọng như thế, thì việc gia nhập một tôn giáo nào đó không phải lựa chọn đúng đắn hơn hay sao. Câu trả lời, thú vị thay lại đến từ đặc quyền riêng biệt của một kẻ vô thần: có thể lựa chọn và thực hành theo bất kỳ đức tin nào mà họ muốn. Dẫu rằng tự do tôn giáo là một khái niệm có thật, việc từ bỏ tôn giáo này để sang một tôn giáo khác là một điều được phép, nhưng dường như nó không được khuyến khích và không được xem là lựa chọn đúng đắn.
+
+Là một người vô thần, mình được quyền lựa chọn để thực hành niềm tin vào những điều bản thân tin, và từ chối cho những điều mình cảm thấy vô lý. Buổi sáng mình có thể lên chùa để thắp hương niệm Phật, hành thiền chân đất cùng các sư thầy và buổi tối đứng cùng bạn để cùng cầu nguyện. Những điều này có thể khó xảy ra, hoặc là chấp nhận ở các tín đồ tôn giáo. Nhưng một điều giản dị mình nghĩ rằng, dẫu là Phật hay là Chúa thì các ngài ấy cũng sẽ không hề để bụng trách móc, hoặc cũng sẽ tha thứ cho mình.
+
+Kết luận lại, đức tin thật sự cần với tất cả mọi người, không chỉ xếp riêng cho những người tin vào đạo, mà ngay ở những người ngoại đạo hay vô thần. Bởi rằng, đức tin không phân biệt kẻ sang hay người hèn, chấp nhận hay phớt lờ sự tồn tại của thần linh, thánh thiện hay tràn đầy u mê lạc lối, hoặc bất kỳ một phân định rạch ròi nào khác. Nó vẫn ở đó, bao dung chở che mọi người trước mọi khổ đau, dẫn lối vượt qua thử thách và xóa nhòa đi những hiềm khích. Đức tin, là một khái niệm phi tôn giáo.
+
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

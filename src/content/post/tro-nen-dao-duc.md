@@ -1,0 +1,51 @@
+---
+pubDatetime: 2022-06-16T10:10:00Z
+title: Chúng ta có cần tôn giáo để trở thành người có đạo đức hay không?
+description: Liệu những ý tưởng trực giác của chúng ta về thế giới bên kia, sự lây nhiễm, hay thiết kế thông minh có thay đổi cơ bản hành vi đạo đức.
+image: https://banmaixanh.vercel.app/image/cover/001-147.jpg
+tags:
+  - viet lach
+  - tam ly hoc
+  - ton giao
+  - phat giao
+  - triet hoc
+  - khoa hoc
+  - dao duc hoc
+  - dao duc
+---
+
+_Trích từ cuốn Inheritance: The evolutionary origins of the modern world của Harvey Whitehouse, được xuất bản bởi The Belknap Press của Harvard University Press._
+
+Nếu được hỏi về hậu quả xã hội quan trọng nhất của tôn giáo, nhiều người sẽ nói rằng niềm tin tôn giáo khiến chúng ta hành động có đạo đức hơn. Một cuộc khảo sát do Pew Research Center thực hiện vào năm 2007 cho thấy, khi trả lời câu hỏi _Bạn có cần tin vào Chúa để có đạo đức không?_ phần lớn người dân ở các nước ngoài châu Âu đã trả lời là có.
+
+Tuy nhiên, điều đáng ngạc nhiên là các nhà khoa học vẫn còn chia rẽ về câu hỏi này. Một phần lý do là vì có rất nhiều vị thần và nhiều hệ thống đạo đức khác nhau, và không phải lúc nào cũng rõ ràng khi chúng ta đề cập đến tôn giáo hay đạo đức. Tuy nhiên, chúng ta vẫn có thể hỏi liệu đạo đức có gắn liền với tôn giáo hay không. Liệu những ý tưởng trực giác của chúng ta về thế giới bên kia, sự lây nhiễm, hay thiết kế thông minh có thay đổi cơ bản hành vi đạo đức của chúng ta không? Socrates đã đặt ra một câu hỏi tương tự khi ông hỏi liệu cái tốt có được các vị thần yêu thích vì nó tốt, hay liệu cái tốt có tốt vì được các vị thần yêu thích?
+
+## Khoa học về đạo đức
+
+Ngày nay, một số câu trả lời hay nhất cho câu hỏi này không đến từ triết học Hy Lạp mà từ nghiên cứu khoa học. Các nghiên cứu do đồng nghiệp của tôi, Oliver Scott Curry, dẫn đầu đã chỉ ra rằng phần lớn đạo đức của con người bắt nguồn từ một mối quan tâm chính: hợp tác. Cụ thể hơn, bảy nguyên tắc hợp tác được đánh giá là đạo đức tốt ở mọi nơi và hình thành nên nền tảng của một la bàn đạo đức toàn cầu. Bảy nguyên tắc đó là: giúp đỡ người thân, trung thành với nhóm của mình, đáp trả ân huệ, can đảm, tôn trọng cấp trên, chia sẻ công bằng, và tôn trọng tài sản của người khác.
+
+Ý tưởng mới này rất quan trọng vì trước đó, có vẻ hợp lý khi khẳng định – như các nhà tương đối văn hóa luôn làm – rằng không có các quy tắc đạo đức chung, và mỗi xã hội đã phải tự tạo ra la bàn đạo đức riêng của mình. Như tôi sẽ giải thích, điều này không đúng. Hơn nữa, cùng bảy nguyên tắc hợp tác làm nền tảng cho các ý tưởng đạo đức này cũng được tìm thấy ở nhiều loài có tính xã hội và không chỉ giới hạn ở con người. Những trực giác đạo đức này đã tiến hóa vì lợi ích cho sự tồn tại và sinh sản. Những đột biến gen ủng hộ các hành vi hợp tác ở tổ tiên của các loài xã hội, chẳng hạn như con người, mang lại lợi thế sinh sản cho các sinh vật áp dụng chúng, khiến cho nhiều bản sao của các gen đó tồn tại và lan rộng qua các thế hệ sau. Hãy lấy nguyên tắc rằng chúng ta nên chăm sóc (và tránh gây hại) cho các thành viên trong gia đình. Quy tắc đạo đức này có thể đã tiến hóa thông qua cơ chế _chọn lọc thân tộc,_ đảm bảo rằng chúng ta hành xử theo cách làm tăng khả năng các gen của chúng ta được truyền lại bằng cách giúp đỡ những người thân cận về mặt di truyền của chúng ta sống sót và sinh sản. Lòng trung thành với nhóm, mặt khác, tiến hóa ở các loài xã hội mà việc hành động phối hợp tốt hơn so với hành động độc lập. Tính có qua có lại (ý tưởng rằng tôi giúp bạn, bạn giúp tôi) mang lại lợi ích mà hành động ích kỷ đơn lẻ không thể đạt được. Và sự tôn trọng cấp trên là một cách khác để sống sót, trong trường hợp này là bằng cách phân chia vị trí thống trị hoặc phục tùng một cách phối hợp thay vì cả hai bên phải chiến đấu đến chết.
+
+## Nguồn gốc của đúng và sai
+
+Lý thuyết về _đạo đức là hợp tác_ đề xuất rằng bảy nguyên tắc hợp tác này cùng tạo nên bản chất của tư duy đạo đức ở khắp mọi nơi. Cuối cùng, mọi hành động của con người mà gây ra một phán xét đạo đức đều có thể được truy ngược trực tiếp đến một vi phạm đối với một hoặc nhiều nguyên tắc hợp tác này. Ít nhất, đó là lý thuyết. Nhưng làm sao chúng ta có thể chứng minh rằng bảy nguyên tắc này thực sự là phổ quát?
+
+Câu trả lời nằm ở một nghiên cứu chưa từng có về lý luận đạo đức của con người trên toàn thế giới. Các đồng nghiệp của tôi và tôi đã tập hợp một mẫu gồm sáu mươi xã hội đã được các nhà nhân chủng học nghiên cứu kỹ lưỡng và do đó cung cấp dữ liệu phong phú về các quy tắc đạo đức hiện hành trong các nhóm văn hóa đó. Để đủ điều kiện tham gia, mỗi xã hội phải là đối tượng của ít nhất 1.200 trang dữ liệu mô tả liên quan đến hệ thống văn hóa của mình. Xã hội đó cũng phải được ít nhất một nhà nhân chủng học chuyên nghiệp nghiên cứu dựa trên ít nhất một năm làm việc thực địa với sự hiểu biết về ngôn ngữ địa phương. Mẫu các xã hội được chọn để tối đa hóa sự đa dạng và giảm thiểu khả năng các nhóm văn hóa đã tiếp nhận niềm tin đạo đức của nhau. Chúng được lấy từ sáu khu vực chính trên thế giới: Châu Phi cận Sahara, Địa Trung Hải, Đông Âu-Á, Thái Bình Dương, Bắc Mỹ, và Nam Mỹ.
+
+Mục đích là khai thác 400 tài liệu mô tả các nền văn hóa của sáu mươi xã hội này để xác định liệu bảy nguyên tắc hợp tác có được coi là đạo đức tốt hay không, bất cứ khi nào chúng được đề cập. Chúng tôi đã tìm thấy 3.460 đoạn văn bản liên quan đến các nguyên tắc hợp tác này. Trong mỗi trường hợp, chúng tôi muốn biết liệu loại hợp tác được mô tả có được đặc trưng bằng các từ như tốt, đạo đức, chuẩn mực, đúng, đức hạnh, bắt buộc, nghĩa vụ, hay ngôn ngữ mang tính đạo đức nào khác không. Điều này tạo ra 962 quan sát về các phán xét đạo đức đối với bảy loại hành vi hợp tác. Trong 961 trường hợp (99,9% trong tất cả các trường hợp), hành vi hợp tác được coi là đạo đức tốt. Ngoại lệ duy nhất là ở một hòn đảo xa xôi ở Micronesia, nơi việc ăn cắp công khai (thay vì bí mật) từ người khác được ủng hộ về mặt đạo đức. Trong trường hợp kỳ lạ này, có vẻ như đó là vì việc ăn cắp này liên quan đến việc khẳng định quyền thống trị xã hội (can đảm). Vì vậy, mặc dù trường hợp này có vẻ mâu thuẫn với quy tắc tôn trọng tài sản của người khác, nhưng nó lại ưu tiên nguyên tắc hợp tác về lòng can đảm. Điều đáng chú ý ở đây là bảy nguyên tắc hợp tác dường như được coi là đạo đức tốt ở mọi nơi.
+
+## Tôn giáo có liên quan gì đến vấn đề này?
+
+Liệu điều này có nhất thiết liên quan đến tôn giáo không? Rốt cuộc, không có lý do rõ ràng nào để nghĩ rằng chúng ta phải có các vị thần để tin vào bảy nguyên tắc đạo đức. Tuy nhiên, vì có rất nhiều người trên thế giới dường như nghĩ rằng có mối liên hệ giữa việc tôn giáo và việc sống đạo đức, câu hỏi này rõ ràng đáng được xem xét kỹ lưỡng.
+
+Câu trả lời hóa ra hơi phức tạp. Một yếu tố trong kho tàng đạo đức toàn cầu dường như có sự liên kết trực giác với bản năng tôn giáo của chúng ta: một yếu tố liên quan đến kỳ vọng phát triển sớm rằng các tác nhân siêu nhiên sẽ thống trị xã hội. Trong phần trước, tôi đã mô tả nghiên cứu của chúng tôi với trẻ sơ sinh, cho thấy rằng ngay cả trước khi chúng có thể nói, chúng đã mong đợi các tác nhân có sức mạnh siêu nhiên sẽ chiến thắng trong cuộc đấu tranh quyền lực với một tác nhân không có sức mạnh như vậy. Điều này cho thấy mối quan hệ của chúng ta với thế giới linh hồn được bảo trợ bởi mối quan tâm đạo đức với việc tôn trọng quyền uy. Các vị thần và tổ tiên của chúng ta sẽ có xu hướng trở thành bậc thầy của chúng ta và chúng ta sẽ có xu hướng trở thành người hầu của họ: chúng ta sẽ cúi đầu trước họ chứ không phải họ cúi đầu trước chúng ta.
+
+## Những lĩnh vực đạo đức khác thì sao?
+
+Vậy còn những lĩnh vực đạo đức khác – chúng có liên quan đến niềm tin và hành vi tôn giáo của chúng ta không? Liệu những trực giác tôn giáo của chúng ta – chẳng hạn như liên quan đến các sinh vật và sức mạnh siêu nhiên, sự sống sau cái chết, hay thiết kế thông minh trong tự nhiên – có liên kết với bảy quy tắc đạo đức mà chúng ta cũng thấy là phổ quát không?
+
+Câu trả lời là có – nhưng theo cách ít tự nhiên và trực giác hơn nhiều. Điều đó có nghĩa là mối liên hệ giữa hầu hết các đặc điểm của tôn giáo trực giác và kho tàng đạo đức toàn cầu không phải là tự nhiên mà là sản phẩm của cách các tôn giáo như các hệ thống văn hóa đã tiến hóa như một phần của lịch sử văn minh không tự nhiên của chúng ta. Vì vậy, mối liên hệ giữa đạo đức trực giác và tôn giáo trực giác đã thay đổi đáng kể qua lịch sử loài người. Ví dụ, như chúng ta sẽ khám phá trong các chương sau của cuốn sách này, mệnh lệnh đạo đức tự nhiên của chúng ta để chăm sóc người thân đã được phát triển trong nhiều tôn giáo trên thế giới thành một nghĩa vụ chăm sóc tổ tiên của chúng ta, bằng cách thực hiện các hành vi thể hiện lòng hiếu thảo. Quy tắc đạo đức rằng chúng ta nên đáp trả ân huệ cũng nổi bật trong logic của các tương tác của chúng ta với thế giới linh hồn – và đã có một bước ngoặt tối tăm trong giai đoạn lịch sử tôn giáo khi hy sinh con người trở nên phổ biến. Còn rất nhiều thời gian sau trong lịch sử tôn giáo, chúng ta quan sát thấy sự xuất hiện của những niềm tin vào các vị thần yêu cầu con người ở khắp nơi tuân theo các điều luật như mệnh lệnh. Mặc dù cả tôn giáo và đạo đức đều gốc rễ trong bản chất con người, những trực giác của chúng ta về hai vấn đề này không nhất thiết liên kết với nhau. Đôi khi, lý luận đạo đức của chúng ta ngấm vào niềm tin tôn giáo; những lúc khác, điều đó không xảy ra. Nó phụ thuộc vào truyền thống văn hóa mà bạn đang sống.
+
+Và vì vậy, chúng ta có ít nhất một câu trả lời tạm thời cho câu hỏi: liệu chúng ta có cần tôn giáo để có đạo đức không? Câu trả lời là không. Những niềm tin tôn giáo trực giác của chúng ta dường như không có mối liên hệ cần thiết với những trực giác đạo đức của chúng ta – ngoại trừ có lẽ trường hợp đặc biệt về sự tôn trọng các sinh vật siêu nhiên. Có vẻ như chúng ta có thể trả lời Socrates cuối cùng. Cái tốt không phải vì được các vị thần yêu thích mà trở nên tốt – mà nó là tốt bất kể các vị thần biết hay quan tâm. Đáng tiếc, điều này cũng gợi ý rằng hầu hết những người được Pew khảo sát về chủ đề này đã bị lừa dối, dù không cố ý, bởi các nhà lãnh đạo tôn giáo trên thế giới.
+
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

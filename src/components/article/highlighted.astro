@@ -21,7 +21,6 @@ const {
 	information = await Astro.slots.render("information"),
 	postIds = [],
 	id,
-	isDark = false,
 	classes = {},
 	bg = await Astro.slots.render("bg"),
 } = Astro.props;
@@ -46,7 +45,7 @@ const isEnabled = (APP_BLOG && APP_BLOG.isEnabled) ? APP_BLOG.isEnabled : false;
 
 					{APP_BLOG.list.isEnabled && linkText && linkUrl && (
 						<a
-							class="text-muted hover:text-primary transition ease-in duration-200 block mb-6 lg:mb-0"
+							class="text-muted hover:text-primary block mb-6 lg:mb-0"
 							href={linkUrl}
 							target="_blank"
 						>
