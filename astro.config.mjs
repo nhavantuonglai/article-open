@@ -22,16 +22,16 @@ const whenExternalScripts = (items = []) =>
 		: [];
 
 export default defineConfig({
-	output: 'hybrid',
+	output: 'static',
+	transitions: {
+		enabled: true,
+	},
 	adapter: vercel({
 		isr: {
 			expiration: 3600,
 			include: ['/tags/**', '/article/**'],
 		},
 	}),
-	experimental: {
-		viewTransitions: true,
-	},
 	integrations: [
 		react(),
 		tailwind({
@@ -41,6 +41,7 @@ export default defineConfig({
 			changefreq: 'weekly',
 			priority: 0.7,
 			entryBase: '/sitemaps.xml',
+			filter: (page) => !page.match(/\/tags\/.*\/[0-9]+$/),
 		}),
 		mdx(),
 		icon({
