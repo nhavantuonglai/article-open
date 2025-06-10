@@ -1,0 +1,86 @@
+---
+pubDatetime: 2023-09-11T10:10:00Z
+title: Sức mạnh tiềm ẩn của nghi thức hằng ngày
+description: Cuộc sống của chúng ta bị chi phối bởi rất nhiều lực kinh tế, chính trị, sinh lý học, sinh thái học mà chúng ta ít có quyền kiểm soát.
+image: https://banmaixanh.vercel.app/image/cover/001-192.jpg
+tags:
+  - viet lach
+  - ton giao
+  - tam ly hoc
+  - nghi thuc
+  - thuc hanh nghi thuc
+---
+
+_Cuộc sống của chúng ta bị chi phối bởi rất nhiều lực – kinh tế, chính trị, sinh lý học, sinh thái học – mà chúng ta ít có quyền kiểm soát. Nghi thức, mặt khác, mang đến cho chúng ta một công cụ mạnh mẽ để giúp định hình và tái định hình cuộc sống của mình, theo lời Bradd Shore, một nhà nhân học tâm lý học đã dành cả sự nghiệp để nghiên cứu hiện tượng này._
+
+## Mở đầu
+
+_Điều kết luận đáng ngạc nhiên của tôi là nghi thức có thể là công cụ mạnh nhất trong bộ công cụ của con người mà chủ yếu nằm dưới sự kiểm soát của địa phương,_ Shore nói. Đây là một trong những bài học ông học được trong thập kỷ mà ông đã đứng đầu Trung tâm về Thần thoại và Nghi thức trong Đời sống Người Mỹ tại Đại học Emory, một trung tâm hiện nay đã bị đóng cửa, được Quỹ Alfred P. Sloan giao nhiệm vụ nghiên cứu vai trò của nghi thức và kể chuyện trong đời sống của các gia đình trung lưu ở miền Nam Hoa Kỳ.
+
+Bradd Shore là tác giả của cuốn sách _The hidden powers of ritual: A journey of a lifetime._
+
+Sau nhiều năm nghiên cứu trên các hòn đảo xa xôi ở Nam Thái Bình Dương, Shore đã theo dõi các gia đình qua các chu kỳ nghi thức hằng ngày, hằng tuần, hằng mùa, và hằng năm của họ. Ông không chỉ ấn tượng bởi sự kiên cường của những gia đình này mà còn bị thuyết phục rằng các nghi thức của họ là những cách trọng yếu để họ định hình nền văn hóa gia đình và nền văn hóa của cộng đồng.
+
+Nhưng phải đến nhiều năm sau, khi Shore dạy các buổi hội thảo về nghi thức cho các sinh viên cao học, tất cả những mảnh ghép hiểu biết mà ông thu thập được qua nhiều năm – từ Tây Phi đến Bali và miền Nam Hoa Kỳ – mới bắt đầu hội tụ lại thành một bức tranh về nghi thức mà ông miêu tả trong cuốn sách mới của mình, _The Hidden Powers of Ritual,_ một bức tranh kết hợp những hiểu biết từ sinh học, nghiên cứu động vật, tâm lý học, xã hội học, nhân học, và những trải nghiệm cá nhân của ông trong hơn 50 năm.
+
+Khả năng nghi thức hóa hành vi của chúng ta là một phần đáng kinh ngạc trong câu chuyện của loài người, Shore nhấn mạnh trong cuộc trò chuyện của chúng tôi, một câu chuyện với nhiều hệ quả thú vị mà thường không được chú ý, một phần vì những nghi thức phức tạp và rõ ràng hơn – ông gọi chúng là những _nghi thức lớn – R_ – thường làm lu mờ những khoảnh khắc nghi thức khiêm tốn trong cuộc sống.
+
+## Sẽ hữu ích nếu bắt đầu bằng một định nghĩa về nghi thức? Nghi thức khác với thói quen như thế nào?
+
+Một _nghi thức_ xuất hiện khi hành vi thông thường được lặp đi lặp lại đến khi nó bắt đầu cứng lại thành những mẫu hành động dễ nhận diện mà chúng ta gọi là _thói quen._ Thói quen là những cách hiệu quả để hoàn thành công việc bằng cách tạo ra các chuỗi hành động tự động và có thể lặp lại. Thói quen đơn giản hóa cuộc sống của chúng ta bằng cách giảm bớt những hành động phức tạp khỏi bộ nhớ hoạt động, do đó chúng ta có thể thực hiện chúng mà không cần nhiều nỗ lực nhận thức. Thói quen chăm sóc bản thân vào buổi sáng giúp chúng ta sẵn sàng cho ngày mới. Các thói quen dọn dẹp nhà cửa giúp giữ cho không gian sống của chúng ta gọn gàng bằng cách biến một loạt các hành động thành một chuỗi hành động bán tự động. Thói quen là hành vi trên chế độ lái tự động.
+
+Nhưng một khi hành động của chúng ta đã kết tinh thành một thói quen cố định, chúng có thể tiếp tục phát triển, mang thêm ý nghĩa tượng trưng và tạo thêm các lớp nghĩa cho hành động của chúng ta – điều này được gọi là _nghi thức hóa._ Chúng ta có thể xem nghi thức là thói quen với một khối lượng tượng trưng quan trọng.
+
+## Ông đã dành sự nghiệp của mình để nghiên cứu nghi thức. Điều gì ban đầu khiến ông quan tâm đến chúng, và điều gì đã duy trì sự quan tâm đó?
+
+Giống như hầu hết người Mỹ, tôi không chú ý nhiều đến các nghi thức khi tôi còn nhỏ. Chúng tôi không có một đời sống gia đình bị chi phối bởi nghi thức. Khi còn nhỏ, tôi sẽ đảo mắt khi nghĩ đến việc tham gia vào các nghi thức. Khi tôi 13 tuổi, tôi nhớ đã hỏi bà của mình lý do tại sao phải thực hiện việc đọc Kinh Torah trong buổi lễ Bar Mitzvah bằng một ngôn ngữ mà tôi không hiểu. _Cứ đọc tiếng Hebrew,_ bà nói. _Con không cần phải hiểu. Chúa sẽ hiểu._ Tôi thực sự không hiểu.
+
+Nghi thức bắt gặp tôi nhiều năm sau đó khi tôi vừa tốt nghiệp đại học và thấy mình đang ở Tây Samoa, sống trong một ngôi làng nhỏ trên một hòn đảo xa xôi của Polynesia với vai trò là một giáo viên Peace Corps. Ở đây, trong một ngôi làng của Samoa, các nghi thức dường như thấm nhuần vào cuộc sống. Có những nghi thức lớn như lễ phong tước, lễ tang, hay lễ kava. Nhưng thậm chí những cuộc gặp gỡ hằng ngày của dân làng cũng bao gồm các nghi thức chào hỏi, nghi thức chia tay, và thậm chí là nghi thức đi qua nhà ai đó và ngôn ngữ nghi thức đặc biệt. Tôi nhớ cảm giác ban đầu rằng cuộc sống của người Samoa rất giả tạo, sống từ bên ngoài vào trong. Tôi không hiểu. Nhưng dần dần, tôi bắt đầu hiểu được sự khôn ngoan tiềm ẩn của tất cả sự trang trọng này. Những nghi thức này là cách mạnh mẽ để _điều chỉnh_ các mối quan hệ xã hội và giữ cho chúng ở trạng thái tốt. Nghi thức bắt đầu có ý nghĩa đối với tôi.
+
+## Nhưng còn các nghi lễ trong thế giới văn hóa của chúng ta thì sao?
+
+Nghiên cứu về các nghi lễ của người Mỹ tương đối hiếm, nhưng một vài nghiên cứu đã thu hút sự chú ý của tôi. Nhìn chung, chúng tôi không có gì tương đương với những nghi lễ tinh vi ở New Guinea hay Tây Phi. Nghiên cứu về _nghi lễ hàng ngày_ không phải là một chủ đề chính trong nhân học, mà được để lại cho các nhà xã hội học như Erving Goffman, người có nhiều cuốn sách về _nghi lễ tương tác_ hàng ngày trong thế giới của chúng ta rất phổ biến, nhưng không có ảnh hưởng lớn đối với nhân học. Ông phải chọn giữa những nghi lễ lớn và kỳ lạ trong nhân học (_họ_) hoặc những nghi lễ giản dị trong cuộc sống hàng ngày (_chúng tôi_) trong xã hội học.
+
+Tôi đã không có cơ hội để kết hợp hai truyền thống này cho đến năm 2000, khi tôi nhận được đề nghị từ Quỹ Sloan về việc xin một khoản tài trợ lớn để thành lập một trung tâm nghiên cứu tại Đại học Emory nhằm nghiên cứu nghi lễ và kể chuyện trong các gia đình trung lưu miền Nam.
+
+## Đó là Trung tâm Huyền thoại và Nghi lễ trong Cuộc sống Mỹ (MARIAL), nơi Ông đã lãnh đạo trong một thập kỷ. Ông đã thu được những hiểu biết gì từ các nghiên cứu phát sinh từ chương trình đó?
+
+Chúng tôi đã học được nhiều điều từ nghiên cứu tập thể của nhiều thành viên trong trung tâm nghiên cứu của chúng tôi. Dự án nghiên cứu của riêng tôi tập trung vào cách các gia đình ở một thị trấn nhỏ ở Georgia đánh dấu các chu kỳ ngày, tuần, tháng, mùa và năm thông qua nghi lễ và câu chuyện. Tôi đã trò chuyện với họ mỗi vài tuần về những câu chuyện về thời gian họ ở bên nhau như một gia đình. Tôi đã chia sẻ một số ngày lễ của họ, tham gia vào các hoạt động ở trường với con cái họ, và thực hiện các chuyến tham quan có hướng dẫn trong nhà và album ảnh của họ.
+
+Trong một xã hội di động, nơi mà việc chuyển đi, thăng tiến và ra ngoài là những lý tưởng, những gì còn lại của _gia đình_ thường là sản phẩm của các nghi lễ và câu chuyện của chúng ta.
+
+Sau nhiều năm nghiên cứu ở những hòn đảo xa xôi ở Nam Thái Bình Dương, tôi nghĩ rằng nghiên cứu trong sân nhà của mình sẽ nhàm chán. Nhưng thực tế thì không hề nhàm chán. Tôi đã học được sức mạnh của các nghi lễ và câu chuyện trong việc tạo ra một đời sống gia đình đặc sắc, một cuộc sống chia sẻ đủ với những gia đình tương tự để gợi ý về một mối liên kết cộng đồng mạnh mẽ, nhưng cũng được phối hợp khác nhau trong mỗi gia đình. Các chuyến tham quan nhà đặc biệt thú vị vì ngôi nhà rõ ràng được chia sẻ theo quyền sở hữu biểu tượng của không gian. Bếp là không gian của mẹ, xưởng và gara là không gian của cha, và trẻ em phải tìm không gian riêng của chúng. Đây không phải là một không gian tập thể. Khi trẻ em còn đủ nhỏ để cha mẹ có thể vào phòng ngủ của chúng theo ý muốn, tất cả đều tạo ra những nơi ẩn náu ở gác mái hoặc sân sau mà chúng coi là nơi riêng tư của mình. Những nơi này chỉ nhường chỗ khi trẻ lớn đủ để đóng cửa phòng ngủ và tuyên bố rằng phòng của chúng là không gian của chúng. Cảm giác sở hữu cá nhân chi phối hộ gia đình trung lưu Mỹ.
+
+Vấn đề về mức độ mà gia đình có tính tập thể hóa lại trở thành một vấn đề nghiêm trọng. Nhìn chung, tôi phát hiện rằng mặc dù ngôi nhà là một không gian tập thể đầy hoài niệm đối với người Mỹ trung lưu, nhưng thực tế nó chỉ là một ngôi nhà tạm thời cho những đứa trẻ, những người đang được chuẩn bị cho ngày chúng rời nhà. Nỗi hoài niệm của người Mỹ về nhà và gia đình gắn liền với chu trình gia đình và mô hình lao động của Mỹ, trong đó một đơn vị gia đình được tạo ra trong một khoảng thời gian giới hạn chỉ để tan rã khi những đứa trẻ ra ngoài học tập hoặc làm việc, hoặc để tạo ra các đơn vị gia đình riêng của chúng.
+
+Ý tưởng về việc mất đi và sau đó trở về nhà là một huyền thoại văn hóa mạnh mẽ và thường không được công nhận trong tầng lớp trung lưu Mỹ, và nó gợi ý lý do tại sao các nghi lễ mạnh mẽ nhất của chúng ta là những _cuộc trở về nhà_ như Ngày Tạ ơn hay Giáng sinh, nơi một gia đình phân tán lại được kỳ diệu hội tụ quanh bàn ăn của gia đình. Thông qua nghiên cứu của chúng tôi, chúng tôi đã học được rằng trong khi các gia đình tạo ra các nghi lễ, thì cũng đúng rằng các nghi lễ của chúng ta lại tạo ra các gia đình của chúng ta. Trong một xã hội di động, nơi mà việc chuyển đi, thăng tiến và ra ngoài là những lý tưởng, những gì còn lại của _gia đình_ thường là sản phẩm của các nghi lễ và câu chuyện của chúng ta.
+
+## Tuy nhiên, Ông viết rằng khi MARIAL hoàn thành công việc của mình, Ông _vẫn không chắc tại sao loại hành vi mà chúng tôi gọi là nghi lễ lại quan trọng đến vậy trong cuộc sống con người._ Ông có cảm thấy gần gũi hơn trong việc giải quyết bí ẩn đó bây giờ không?
+
+Tôi nghĩ là có. Chương về 10 sức mạnh của nghi lễ gợi ý những kết luận chung hơn mà tôi đã đạt được vào thời điểm tôi viết cuốn sách này. Chương cuối cùng gợi ý những suy ngẫm cá nhân hơn của tôi về cách hiểu biết của tôi về nghi lễ đã ảnh hưởng đến cuộc sống cá nhân của tôi. Những hiểu biết trừu tượng, lý thuyết hơn trong chương sáu được bổ sung bởi những hiểu biết cụ thể và gần gũi hơn trong chương 13. Không chương nào có thể được viết khi chúng tôi đóng cửa Trung tâm MARIAL vào năm 2010.
+
+## Một vài sức mạnh mà Ông bàn luận trong cuốn sách, chẳng hạn như giảm lo âu và thể hiện ý nghĩa, có lẽ đã quen thuộc với hầu hết độc giả, nhưng có những sức mạnh khác mà tôi chưa nghĩ đến. Ông có thể giải thích về một số sức mạnh ít rõ ràng hơn đó không?
+
+Điều đó là đúng, một số sức mạnh của nghi lễ mà tôi bàn luận khá rõ ràng, nhưng ngay cả những điều rõ ràng cũng có một số hệ quả bất ngờ. Trong số những sức mạnh ít rõ ràng hơn của nghi lễ mà tôi bàn luận, hai sức mạnh đặc biệt thú vị nổi bật lên trong tâm trí tôi. Thứ nhất liên quan đến việc tạo ra nhịp điệu và cấu trúc thời gian trong cuộc sống của chúng ta. Trong phần đó của chương, tôi nhấn mạnh rằng con người hoạt động đồng thời theo nhiều nhịp điệu khác nhau. Những nhịp điệu này bao gồm đồng hồ sinh học điều khiển giấc ngủ và thức dậy, các nhịp điệu đặc trưng cho mỗi cơ quan, các chu kỳ hô hấp, cho đến rung động của các tế bào cơ thể chúng ta và, vượt xa hơn thế, tiếng rì rào của các nguyên tử.
+
+Chúng ta không ý thức về hầu hết các nhịp điệu này, ngoại trừ nhịp thở hoặc nhịp đập của tim. Ở một quy mô nhịp điệu khác, có những đơn vị thời gian mà chúng ta sắp xếp cho cuộc sống của mình, từ ngày này sang tháng khác, từ năm này sang năm khác. Ở đây, chúng ta tìm thấy nghi lễ như một trong những cách quan trọng nhất mà chúng ta đánh dấu thời gian và mang lại hình dạng và nhịp điệu dự đoán cho cuộc sống của mình. Trong khi các nghi lễ, đặc biệt, cung cấp cho chúng ta những dấu mốc nhịp điệu quan trọng, khả năng nghi lễ hóa mang lại cho chúng ta một công cụ rất mạnh để tạo ra và điều chỉnh nhịp điệu của cuộc sống. Các nghi lễ mang lại sự an ủi từ sự đều đặn nhịp điệu và sự linh hoạt để thích ứng với hoàn cảnh thay đổi, cho phép chúng ta giữ nhịp thời gian và hòa hợp với nhịp sống. Với nghi lễ, chúng ta có thể vừa giữ thời gian vừa theo kịp thời gian.
+
+## Với nghi lễ, chúng ta có thể vừa giữ thời gian vừa theo kịp thời gian.
+
+Sức mạnh bất ngờ khác của nghi lễ mà tôi muốn nhấn mạnh là cái mà tôi gọi là _sự đảo ngược quyền lực._ Đây không phải là một thuật ngữ tôi đã gặp trong tài liệu rộng lớn về nghi lễ, nhưng đó là một trong những sức mạnh quan trọng nhất của nghi lễ. Hãy xem bất kỳ video nào về người đang khiêu vũ một cách cuồng nhiệt hoặc một đám đông đang đồng thanh hô hào theo nhịp. Ông đang chứng kiến sự đảo ngược quyền lực trong hành động.
+
+Trong một buổi biểu diễn nghi lễ cuồng nhiệt, sức mạnh của hành động nhịp điệu đảo ngược trải nghiệm về ai là người đang thực hiện hành động. Những người khiêu vũ có thể bắt đầu bằng việc cảm thấy họ đang khiêu vũ, nhưng khi nhịp độ của hành động tăng lên, sẽ có một điểm đảo ngược, khi điệu nhảy bắt đầu thực hiện người khiêu vũ. Nghi lễ sẽ chiếm ưu thế. Trong các môn thể thao căng thẳng, sự đảo ngược này được biết đến như là một trải nghiệm _dòng chảy._ Mặc dù chỉ một nghi lễ đặc biệt mãnh liệt mới tạo ra sự đảo ngược hoàn toàn mà chúng ta biết đến như trạng thái xuất thần, nơi người biểu diễn bị cuốn đi, tất cả các nghi lễ đều truyền tải một mức độ nào đó về sự đảo ngược quyền lực.
+
+Như một cơ chế xã hội hóa, sự đảo ngược quyền lực có thể tạo ra một trải nghiệm gắn kết mạnh mẽ giữa những người biểu diễn. Nghi lễ quân sự hiện lên trong tâm trí. Trong các nghi lễ tôn giáo, sự đảo ngược quyền lực gần như là cách mà con người cảm nhận được sự tiếp xúc với một thực thể siêu việt.
+
+## Một vài cách chúng ta có thể khai thác sức mạnh của nghi lễ là gì?
+
+Chương cuối cùng đầy ắp những gợi ý tương đối đơn giản và thực tế. Rất nhiều lực lượng tác động đến cuộc sống của chúng ta vượt quá khả năng kiểm soát của chúng ta. Chúng ta đóng góp cho các tổ chức từ thiện để giúp đỡ những người kém may mắn, nhưng chúng ta thực sự không thể chữa khỏi bệnh ung thư, ngăn chặn tình trạng vô gia cư hoặc chấm dứt chiến tranh ở Ukraine. Đối mặt với lạm phát, chúng ta thực hiện những điều chỉnh nhỏ đối với chi tiêu, cắt giảm ngân sách hoặc nhận một công việc thêm. Nhưng thực sự chúng ta không thể làm gì nhiều về nền kinh tế. Để giúp môi trường hoặc làm chậm biến đổi khí hậu, chúng ta có thể tái chế rác thải hoặc đầu tư vào một chiếc xe điện. Nhưng chúng ta biết rằng mình không tạo ra nhiều ảnh hưởng đến khí hậu hoặc môi trường.
+
+Nhưng có một điều mà chúng ta có quyền kiểm soát đáng kể: cách mà chúng ta định hình thời gian của mình. Kết luận bất ngờ của tôi là nghi lễ có thể là công cụ mạnh mẽ nhất trong bộ công cụ của con người mà phần lớn nằm trong quyền kiểm soát địa phương. Tổ chức các nghi lễ của chúng ta là một quyền lực của con người. Đối với hầu hết chúng ta, đó cũng là một nghĩa vụ. Khởi đầu một gia đình mới, chẳng hạn, liên quan đến việc thương lượng một mô hình nghi lễ gia đình đặc biệt, định hình tuần, tháng, mùa và năm. Mỗi gia đình mới phải tạo ra một trật tự nghi lễ mới, được hình thành từ những lịch sử về cuộc sống nghi lễ của các bậc cha mẹ mới và từ những mong muốn và hiểu biết mà họ mang đến công việc xây dựng một mái ấm và gia đình. Tôi khuyên Ông nên chú ý đến nghĩa vụ này, vì các mẫu được thiết lập từ những câu chuyện và nghi lễ của chúng ta sẽ mạnh mẽ hình thành cảm giác về bản thân của con cái chúng ta và, cuối cùng, là những kỷ niệm của chúng về hành trình cuộc sống của chúng.
+
+Một điều được thực hiện một lần chỉ là một hành động. Làm lại lần thứ hai, đó là một sự lặp lại. Nhưng hơn thế nữa là một không gian vô tận của nghi lễ. _Đây là những gì chúng tôi làm cùng nhau._ _Chúng tôi luôn làm điều đó._ _Chúng tôi đã từng ăn ở đây._ _Đây là những gì chúng tôi là._ Trong thời đại internet, những cuộc tụ họp nghi lễ có thể được thực hiện thông qua các cuộc gọi video, vì vậy khoảng cách vật lý không còn là một trở ngại cho các cuộc tụ họp nghi lễ. Và không chỉ dành cho gia đình. Trong chương kết thúc đó, tôi mô tả những nghi lễ kết nối các nhóm Ông bè hoặc thậm chí toàn bộ cộng đồng. Những nghi lễ như vậy có thể khó khăn để bắt đầu, nhưng sau vài cuộc tụ họp thành công, các nghi lễ xã hội có xu hướng tự phát triển. Đây là món quà của sự đảo ngược quyền lực.
+
+Và cuối cùng, có những sức mạnh kỳ diệu của các nghi lễ cá nhân, có thể mang lại cảm giác bình yên và an ủi đáng ngạc nhiên trước nỗi buồn, sự cô đơn hoặc căng thẳng. Hãy xem sức mạnh của một tách trà vào buổi tối được thưởng thức trong một chiếc tách yêu thích. Nhanh chóng, _một tách trà_ trở thành _tách trà của tôi_ khi Ông dành thời gian với một hành động đơn giản. Sự nghi lễ hóa là một tác nhân ổn định mạnh mẽ, một loại thuốc đơn giản cho những lúc căng thẳng, nếu chúng ta chỉ chú ý đến cách chúng ta sử dụng sức mạnh của nó.
+
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
