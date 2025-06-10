@@ -13,49 +13,6 @@ const html = `
 			--aw-color-bg-page: ${UI.tokens.default.colors.page};
 		}
 
-		@keyframes pulse {
-			0%, 100% { transform: scale(1); opacity: 0.08; }
-			50% { transform: scale(1.05); opacity: 0.1; }
-		}
-
-		.gradient-shape {
-			position: fixed;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-			width: 70%;
-			height: 70%;
-			border-radius: 50%;
-			background: radial-gradient(
-				circle,
-				var(--aw-color-primary) 40%,
-				transparent 70%
-			);
-			filter: blur(120px);
-			opacity: 0.08;
-			z-index: -1;
-			animation: pulse 15s ease-in-out infinite;
-		}
-
-		.galaxy-arm {
-			position: fixed;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%) rotate(45deg);
-			width: 90%;
-			height: 30%;
-			background: radial-gradient(
-				ellipse at center,
-				var(--aw-color-primary) 0%,
-				var(--aw-color-accent) 50%,
-				transparent 90%
-			);
-			filter: blur(100px);
-			opacity: 0.05;
-			z-index: -1;
-			border-radius: 100% / 50%;
-		}
-
 	</style>
 
 `;
