@@ -46,8 +46,7 @@ export default defineConfig({
 		mdx(),
 		icon({
 			include: {
-				tabler: ['home', 'user', 'search', 'calendar', 'clock'],
-				'flat-color-icons': ['template', 'gallery', 'approval', 'document', 'advertising'],
+				tabler: ['chevron-right']
 			},
 		}),
 		...whenExternalScripts(() =>
