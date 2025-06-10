@@ -91,10 +91,4 @@ export default defineConfig({
 			noExternal: ['react', 'react-dom'],
 		},
 	},
-	hooks: {
-			'astro:build:done': async ({ dir }) => {
-				const sitemapPath = path.join(dir, 'sitemap-index.xml');
-				const newSitemapPath = path.join(dir, 'sitemap.xml');
-			},
-		},
 });
