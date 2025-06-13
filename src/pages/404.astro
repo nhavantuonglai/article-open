@@ -1,16 +1,18 @@
 ---
-import Terminal from '~/layouts/terminal.astro';
+import Layout from '~/layouts/page.astro';
 
 import Broken from '~/components/widgets/broken.astro';
 
+import { getHomePermalink} from '~/utils/permalinks';
+
 const metadata = {
-	title: 'Nội dung gián đoạn do lỗi không xác định',
-	description: "Nội dung gián đoạn do lỗi không xác định, vui lòng tham khảo thông tin từ công cụ Đọc báo trực tuyến mới nhất bằng RSS để biết thêm thông tin.",
+	title: '404',
+	description: "Nội dung này đang không khả dụng, vui lòng thử lại liên kết hoặc truy cập từ trang chủ.",
 };
 ---
 
-<Terminal metadata={metadata}>
+<Layout metadata={metadata}>
 
 	<Broken/>
 
-</Terminal>
+</Layout>

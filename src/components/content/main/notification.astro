@@ -9,8 +9,8 @@
 
 	const Notifications = {
 		loaded: 'Đã tải trang thành công.',
-		selection: (length) => `Đã bôi đen thành công <strong class="text-primary">${length}</strong> ký tự.`,
-		copy: (length) => `Đã sao chép thành công <strong class="text-primary">${length}</strong> ký tự.`,
+		selection: (length) => `Đã bôi đen <strong class="text-primary">${length}</strong> ký tự.`,
+		copy: (length) => `Đã sao chép <strong class="text-primary">${length}</strong> ký tự.`,
 		time: (value, unit) => `Đã ở trên trang <strong class="text-primary">${value}</strong> ${unit}.`
 	};
 
@@ -88,8 +88,8 @@
 		position: fixed;
 		bottom: 10px;
 		left: 16px;
-		background: white;
-		border-radius: 1rem;
+		background: rgba(255, 255, 255, 0.7);
+		border-radius: 0.5rem;
 		padding: 16px;
 		width: 250px;
 		max-width: calc(100vw - 32px);

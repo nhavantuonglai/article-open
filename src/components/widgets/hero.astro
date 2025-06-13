@@ -10,6 +10,11 @@ export interface Props {
 	content?: string;
 	actions?: string | CallToAction[];
 	image?: string | any;
+	id?: string;
+	inputType?: 'text' | 'button' | 'hidden';
+	outputType?: 'text' | 'audio';
+	placeholder?: string;
+	channels?: Array<{name: string, url: string}>;
 }
 
 const {
@@ -19,37 +24,51 @@ const {
 	content = await Astro.slots.render('content'),
 	actions = await Astro.slots.render('actions'),
 	image = await Astro.slots.render('image'),
+	id = 'default',
+	inputType = 'hidden',
+	outputType = 'text',
+	placeholder = '',
+	channels = []
 } = Astro.props;
+
+const safe = id.replace(/[^a-zA-Z0-9_-]/g, '');
+const input = "w-full text-justify text-lg border border-gray-300 p-4 rounded-lg bg-white resize-none h-[150px]";
+const button = "btn mb-6 text-lg font-medium leading-6 text-center";
+const container = "rounded-lg w-full mb-6";
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
+
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 	<div class="relative max-w-7xl mx-auto px-4 sm:px-6">
-		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 
-		<div class="py-12 md:py-20 lg:py-0 lg:flex lg:items-center lg:h-screen lg:gap-8">
-			<div class="basis-1/2 text-center pb-10 md:pb-16 mx-auto">
+		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
+		<div class="py-12 md:py-20 lg:flex lg:items-start lg:gap-8">
+
+			<div class="basis-1/2 pb-10 md:pb-16 mx-auto lg:mx-0">
+
 				{tagline && (
 					<p
-						class="text-base text-secondary font-bold tracking-wide uppercase"
+						class="text-base text-secondary font-bold tracking-wide uppercase text-left"
 						set:html={tagline}
 					/>
 				)}
 
 				{title && (
 					<h1
-						class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading"
+						class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
 						set:html={title}
 					/>
 				)}
 
 				<div class="max-w-3xl mx-auto lg:max-w-none">
+
 					{subtitle && (
-						<p class="text-xl text-justify text-muted mb-6" set:html={subtitle} />
+						<p class="text-xl text-justify text-muted mb-6 text-left" set:html={subtitle} />
 					)}
 
 					{actions && (
-						<div class="max-w-xs sm:max-w-md m-auto flex flex-nowrap flex-col sm:flex-row sm:justify-center gap-4 lg:justify-start lg:m-0 lg:max-w-7xl">
+						<div class="max-w-xs sm:max-w-md flex flex-nowrap flex-col sm:flex-row gap-4 lg:justify-start">
 							{Array.isArray(actions) ? (
 								actions.map((action, index) => (
 									<div key={index} class="flex w-full sm:w-auto">
@@ -61,30 +80,98 @@ const {
 							)}
 						</div>
 					)}
+
+					<div class={container}>
+						{inputType === 'text' && (
+							<textarea id={`${safe}-input`} placeholder={placeholder} class={input}></textarea>
+						)}
+						{inputType === 'button' && (
+							<div id={`${safe}-buttons`} class="flex flex-wrap gap-2">
+								{channels.map((channel) => (
+									<button class={button} data-url={channel.url}>{channel.name}</button>
+								))}
+							</div>
+						)}
+					</div>
+
+					<div class={container}>
+
+						{outputType === 'text' && (
+							<h1 id={`${safe}-text-output`} class="text-3xl font-bold mb-4 text-left"></h1>
+						)}
+
+						{outputType === 'audio' && (
+							<div id={`${safe}-audio-output`} class="text-justify text-lg">
+								<audio id={`${safe}-audio-player`} class="w-full mb-6" controls>
+									<source id={`${safe}-audio-source`} src="" type="audio/mpeg" />
+								</audio>
+								<div id={`${safe}-status`} class="text-justify text-lg"></div>
+							</div>
+						)}
+
+					</div>
+
 				</div>
 
 				{content && <Fragment set:html={content} />}
+
 			</div>
 
-			<div class="basis-1/2 text-center pb-10 md:pb-16 mx-auto">
-				{image && (
+			{image && (
+				<div class="basis-1/2 pb-10 md:pb-16 mx-auto lg:mx-0">
 					<div title="nhavantuonglai" class="relative m-auto max-w-5xl">
 						{typeof image === 'string' ? (
-							<Fragment set:html={image} />
+							<img
+								src={image}
+								alt="Hero image"
+								class="mx-auto rounded-md w-full object-cover"
+								style="aspect-ratio: 4/3;"
+							/>
 						) : (
 							<Image
-								class="mx-auto rounded-md w-full"
-								widths={[400, 768, 1024, 2040]}
-								sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+								class="mx-auto rounded-md w-full object-cover"
+								style="aspect-ratio: 4/3;"
+								widths={[400, 768, 1024]}
+								sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, 1024px"
 								loading="eager"
-								width={600}
-								height={407}
+								alt={image.alt}
 								{...image}
 							/>
 						)}
 					</div>
-				)}
-			</div>
+				</div>
+			)}
+
 		</div>
+
 	</div>
+
+	<script define:vars={{ safe, inputType }}>
+		document.addEventListener('DOMContentLoaded', () => {
+			if (inputType === 'button') {
+				document.querySelectorAll(`#${safe}-buttons button`).forEach(button => {
+					button.addEventListener('click', () => {
+						if (button.dataset.url) {
+						}
+					});
+				});
+			}
+		});
+	</script>
+
+	<style>
+		@media (max-width: 1023px) {
+			.lg\:flex {
+				flex-direction: column;
+			}
+			.basis-1\/2 {
+				width: 100%;
+			}
+			.lg\:mx-0 {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	</style>
+
 </section>

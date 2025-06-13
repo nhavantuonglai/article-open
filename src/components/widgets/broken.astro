@@ -1,94 +1,31 @@
 ---
-import Terminal from '~/layouts/terminal.astro';
-
-const metadata = {
-	title: 'Đọc báo trực tuyến mới nhất bằng RSS',
-	description: 'Được thiết kế với giao diện trực quan, dễ sử dụng, công cụ Đọc báo trực tuyến mới nhất bằng RSS cho phép người dùng theo dõi nhiều nguồn tin tức yêu thích chỉ trong một nơi duy nhất.',
-};
-
-const terminalConfig = {
-	ipText: 'Đang lấy địa chỉ',
-};
-
-const { displayInterval = 10000 } = Astro.props;
+import Hero from '~/components/widgets/hero.astro';
 ---
 
-<Terminal metadata={metadata} terminalConfig={terminalConfig}>
 
-	<script define:vars={{ displayInterval }}>
+<Hero
 
-		class RSSFeedReader {
-			constructor(outputElementId) {
-				this.output = document.getElementById(outputElementId);
-				this.commandHistory = '';
-				this.descriptions = [];
-			}
+	title="Lỗi 404 đã xuất hiện."
+	subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+	image="https://banmaixanh.vercel.app/image/cover/001-699.jpg"
+/>
 
-			formatTime(date) {
-				const pad = num => num.toString().padStart(2, '0');
-				const hours = pad(date.getHours());
-				const minutes = pad(date.getMinutes());
-				const seconds = pad(date.getSeconds());
-				return `${hours} giờ ${minutes} phút ${seconds} giây`;
-			}
+<script>
 
-			startErrorSequence() {
-				let seconds = 1;
-				const errorMessages = [
-					'Nội dung gián đoạn do lỗi không xác định, đang thử kết nối lần 1.',
-					'Nội dung gián đoạn do lỗi không xác định, đang thử kết nối lần 2.',
-					'Nội dung gián đoạn do lỗi không xác định, đang thử kết nối lần 3.',
-					'Nội dung gián đoạn do lỗi không xác định, đang thử kết nối lần 4.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 5 giây.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 4 giây.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 3 giây.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 2 giây.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 1 giây.',
-					'Nội dung gián đoạn do lỗi không xác định, đang trở về trang chủ sau 0 giây.'
-				];
-
-				this.descriptions = [errorMessages[0]];
-				this.addCommand();
-
-				const interval = setInterval(() => {
-					seconds++;
-					if (seconds <= errorMessages.length) {
-						this.descriptions = [errorMessages[seconds - 1]];
-						this.addCommand();
-					}
-					if (seconds === errorMessages.length) {
-						setTimeout(() => {
-							window.location.href = 'https://nhavantuonglai.com';
-						}, 1000);
-						clearInterval(interval);
-					}
-				}, 1000);
-			}
-
-			addCommand() {
-				if (this.descriptions.length === 0) return;
-
-				const timestamp = this.formatTime(new Date());
-				const description = this.descriptions[0];
-				this.commandHistory += `${timestamp}: ${description}\n\n`;
-
-				if (this.output) {
-					this.output.textContent = this.commandHistory;
-					this.output.scrollTop = this.output.scrollHeight;
-				}
-			}
-
-			init() {
-				this.startErrorSequence();
-			}
+	let timeLeft = 5;
+	const countdownElement = document.getElementById('countdown');
+	
+	const countdownInterval = setInterval(() => {
+		timeLeft -= 1;
+		
+		if (countdownElement) {
+			countdownElement.textContent = timeLeft;
 		}
+		
+		if (timeLeft <= 0) {
+			clearInterval(countdownInterval);
+			window.location.href = 'https://nhavantuonglai.com';
+		}
+	}, 1000);
 
-		document.addEventListener('DOMContentLoaded', () => {
-			const rssReader = new RSSFeedReader('output');
-			rssReader.init();
-		});
-
-	</script>
-
-</Terminal>
+</script>

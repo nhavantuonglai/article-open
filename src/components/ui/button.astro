@@ -1,11 +1,18 @@
 ---
-import { Icon } from 'astro-icon/components';
 import { twMerge } from 'tailwind-merge';
 import type { CallToAction as Props } from '~/types';
 
+export interface Props {
+	text?: string;
+	class?: string;
+	type?: string;
+	href?: string;
+	target?: string;
+	[key: string]: any;
+}
+
 const {
 	text = Astro.slots.render('default'),
-	icon = '',
 	class: className = '',
 	type,
 	href,
@@ -16,36 +23,28 @@ const {
 const baseClass = twMerge('btn', className);
 ---
 
-{
+{type === 'submit' ? (
+	<button type="submit" class={baseClass} {...rest}>
+		<Fragment set:html={text} />
+	</button>
+) : href ? (
 
-	type === 'submit' ? (
+	<a
+		href={href}
+		class={baseClass}
+		target={target}
+		rel={target === '_blank' ? 'noopener noreferrer' : undefined}
+		{...rest}
+	>
 
-		<button type="submit" class={baseClass} {...rest}>
-			<Fragment set:html={text} />
-			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
-		</button>
-	) : href ? (
+		<Fragment set:html={text} />
 
-		<a
-			href={href}
-			class={baseClass}
-			target={target}
-			rel={target === '_blank' ? 'noopener noreferrer' : undefined}
-			{...rest}
-		>
+	</a>
 
-			<Fragment set:html={text} />
-			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+) : (
 
-		</a>
+	<button type="button" class={baseClass} {...rest}>
+		<Fragment set:html={text} />
+	</button>
 
-	) : (
-
-		<button type="button" class={baseClass} {...rest}>
-			<Fragment set:html={text} />
-			{icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
-		</button>
-
-	)
-
-}
+)}

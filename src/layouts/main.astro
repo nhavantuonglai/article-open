@@ -4,11 +4,10 @@ import { I18N } from 'nhavantuonglai:config';
 import '~/assets/tailwind.css';
 
 import Meta from '~/components/common/meta.astro';
-import Custom from '~/assets/custom.astro';
 import Metadata from '~/components/common/metadata.astro';
 import Schema from '~/components/javascript/schema.astro';
 import Analytics from '~/components/javascript/analytics.astro';
-import Opentab from '~/components/javascript/open-tab.astro';
+import Opentab from '~/components/javascript/opentab.astro';
 
 import Anticopy from '~/components/article/anticopy.astro';
 
@@ -36,8 +35,6 @@ const { language, textDirection } = I18N;
 
 		<Meta/>
 
-		<Custom/>
-
 		<Metadata {...metadata}/>
 
 		<Schema/>
@@ -53,36 +50,17 @@ const { language, textDirection } = I18N;
 
 		</script>
 
-		<script is:inline>
-
-			document.addEventListener('readystatechange', function() {
-			if (document.readyState === 'interactive') {
-				document.body.style.opacity = "1";
-			}
-			});
-
-		</script>
-
-		<style is:inline>
-
-			body {
-			opacity: 0;
-			}
-			body:has(#loading-overlay) {
-			overflow: hidden;
-			}
-
-		</style>
-
 	</head>
 
 	<body class="antialiased text-default bg-page tracking-tight">
 
 		<slot/>
 
+		<Notification/>
+
 		<Opentab/>
 
-		<Notification/>
+		<Anticopy/>
 
 		<BasicScripts/>
 

@@ -1,0 +1,130 @@
+---
+import Image from '~/components/common/image.astro';
+import PostTags from '~/components/article/tags.astro';
+import { APP_BLOG } from 'nhavantuonglai:config';
+import type { Post, ImageMetadata } from '~/types';
+import { getPermalink } from '~/utils/permalinks';
+import { findImage } from '~/utils/images';
+import { getFormattedDate } from '~/utils/utils';
+
+export interface Props {
+	posts: Array<Post>;
+	layout?: 'grid' | 'list';
+	variant?: 'compact' | 'detailed';
+}
+
+const { posts, layout = 'grid', variant = 'compact' } = Astro.props;
+
+const truncateText = (text: string, maxWords: number, isTitle: boolean = false) => {
+	const words = text.match(/[^\s,]+/g) || [];
+	const truncated = words.slice(0, maxWords).join(' ');
+	return isTitle && text.length > maxWords ? truncated + '…' : truncated + (words.length > maxWords ? '…' : '');
+};
+---
+
+{
+
+	posts && posts.length > 0 && (
+
+		<div class={layout === 'grid' ? 'grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-2' : 'list-none'}>
+
+			{posts.map(async (post) => {
+				const image = await findImage(post.image) as ImageMetadata | undefined;
+				const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 'javascript:void(0)';
+				
+				return (
+
+					<article
+						class={`mb-6 p-6 rounded-lg w-full bg-white ${
+							layout === 'grid' ? '' : 'text-justify md:mb-62'
+						} ${variant === 'detailed' && image ? 'md:grid md:grid-cols-2 md:gap-8' : ''}`}
+					>
+
+						{image && (
+							<a class="relative block group" href={link} target="_blank">
+
+								<div
+									class={`relative overflow-hidden ${
+										variant === 'compact'
+											? 'md:h-64 h-48 bg-gray-400 rounded shadow-lg mb-6'  // thêm h-48 cho mobile
+											: 'h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%]'
+									}`}
+								>
+
+									<Image
+										src={image}
+										class={`absolute inset-0 object-cover w-full h-full rounded shadow-lg bg-gray-400 block`}
+										width={variant === 'compact' ? 600 : 900}
+										height={variant === 'compact' ? 407 : undefined}
+										widths={variant === 'compact' ? [600, 407] : [400, 900]}
+										sizes={variant === 'compact' ? undefined : '(max-width: 900px) 400px, 900px'}
+										alt={post.title}
+										layout={variant === 'compact' ? 'cover' : undefined}
+										aspectRatio={variant === 'detailed' ? '16:9' : undefined}
+										loading="lazy"
+										decoding="async"
+									/>
+
+								</div>
+
+							</a>
+						)}
+
+						<div>
+
+							{variant === 'detailed' && (
+
+								<header>
+
+									<p class="text-xl">
+
+										<time datetime={post.pubDatetime}>
+											{`${new Date(post.pubDatetime)
+												.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
+												.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
+										</time>
+
+										{post.readingTime && (
+											<>
+												&nbsp;· <span>{post.readingTime}</span> phút đọc.
+											</>
+										)}
+
+									</p>
+
+								</header>
+
+							)}
+
+							<h3 class={variant === 'detailed' ? 'max-w-3xl mx-auto' : ''}>
+								{APP_BLOG?.post?.isEnabled ? (
+									<a href={link} class="hover:text-primary" target="_blank">
+										{truncateText(post.title, 60, true)}
+									</a>
+								) : (
+									truncateText(post.title, 60, true)
+								)}
+							</h3>
+
+							{post.description && (
+								<p class="text-xl">{truncateText(post.description, variant === 'compact' ? 30 : 30)}</p>
+							)}
+
+							{variant === 'detailed' && (
+								<footer class="text-xl">
+									<PostTags tags={post.tags.slice(0, 6)} />
+								</footer>
+							)}
+
+						</div>
+					</article>
+
+				);
+
+			})}
+
+		</div>
+
+	)
+
+}

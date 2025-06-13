@@ -1,72 +1,38 @@
 ---
-import type { CallToAction } from '~/types';
-import Button from '~/components/ui/button.astro';
+import Hero from '~/components/widgets/hero.astro';
 
-export interface Props {
-	subtitle?: string;
-	tagline?: string;
-	content?: string;
-}
-
-const {
-	subtitle = await Astro.slots.render('subtitle'),
-	tagline,
-	content = await Astro.slots.render('content'),
-} = Astro.props;
+const title = "Bây giờ là mấy giờ mấy phút mấy giây?";
+const subtitle = "Hướng dẫn: Bạn cần biết thông tin bây giờ là mấy giờ mấy phút mấy giây? Dưới đây là câu trả lời dành cho bạn.";
 ---
 
-<div class="absolute inset-0 z-20 flex items-center">
-
-	<div class="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
-
-		<div class="lg:flex lg:items-center lg:gap-8">
-
-			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto">
-
-				{tagline && (
-					<p class="text-base text-secondary font-bold tracking-wide uppercase" set:html={tagline} />
-				)}
-
-				<h1 id="time-text-output" class="text-white">Bây giờ là mấy giờ mấy phút mấy giây?</h1>
-
-				<div class="max-w-3xl mx-auto lg:max-w-none">
-
-					{subtitle && (
-						<p class="text-xl text-white text-justify mb-6" set:html={subtitle} />
-					)}
-
-				</div>
-
-				{content && <Fragment set:html={content} />}
-
-			</div>
-
-			<div class="basis-1/2 text-center lg:text-left pb-10 md:pb-16 mx-auto"></div>
-		</div>
-
-	</div>
-
-</div>
+<Hero
+	title={title}
+	subtitle={subtitle}
+	id="time"
+	inputType="hidden"
+	outputType="text"
+	image="https://banmaixanh.vercel.app/image/cover/001-744.jpg"
+/>
 
 <script client:load>
 
-	document.addEventListener('DOMContentLoaded', () => {
+	function padNumber(num) {
+		return num < 10 ? `0${num}` : num;
+	}
+
+	function updateTime() {
 		const resultOutput = document.getElementById('time-text-output');
-		
-		function padNumber(num) {
-			return num < 10 ? `0${num}` : num;
-		}
-		function updateTime() {
-			const now = new Date();
-			const hours = padNumber(now.getHours());
-			const minutes = padNumber(now.getMinutes());
-			const seconds = padNumber(now.getSeconds());
-			
-			resultOutput.textContent = `Bây giờ là: ${hours} giờ ${minutes} phút ${seconds} giây.`;
-		}
-		updateTime();
-		
-		setInterval(updateTime, 1000);
-	});
+		if (!resultOutput) return;
+
+		const now = new Date();
+		const hours = padNumber(now.getHours());
+		const minutes = padNumber(now.getMinutes());
+		const seconds = padNumber(now.getSeconds());
+		resultOutput.textContent = `Bây giờ là: ${hours} giờ ${minutes} phút ${seconds} giây.`;
+
+		requestAnimationFrame(updateTime);
+	}
+
+	requestAnimationFrame(updateTime);
 
 </script>

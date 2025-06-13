@@ -1,7 +1,7 @@
 ---
 import type { Content as Props } from '~/types';
 import Headline from '~/components/ui/headline.astro';
-import Wrapper from '~/components/ui/wrapper.astro';
+import Container from '~/components/ui/container.astro';
 import Button from '~/components/ui/button.astro';
 import Image from '~/components/common/image.astro';
 
@@ -29,7 +29,7 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 
 		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
 
-		<Wrapper
+		<Container
 			id={id}
 			containerClass={`max-w-7xl mx-auto ${classes?.container ?? ''}`}
 			bg={bg}
@@ -60,35 +60,29 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 								
 								{items.map((item, index) => (
 
-										<div class="flex mb-8 items-start">
+									<div class="flex mb-8 items-start">
 
-											<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
-
-												{item.icon ? (
-													<span class={`${item.icon}`}></span>
-												) : (
-													<span class="text-sm font-bold">{index + 1}</span>
-												)}
-
-											</div>
-
-											<div>
-
-												<h4 class="font-medium leading-6 mb-2">{item.title}</h4>
-
-												{item.description && <p class="text-muted">{item.description}</p>}
-
-												{item.callToAction && (
-													<div class="mt-3">
-														<a href={item.callToAction?.href} class="text-primary font-medium" target="_blank">
-															{item.callToAction?.text}
-														</a>
-													</div>
-												)}
-
-											</div>
+										<div class="flex-shrink-0 bg-primary text-white rounded-full h-8 w-8 flex items-center justify-center mr-4 z-10">
 
 										</div>
+
+										<div class="w-full">
+
+											<h4 class="font-medium leading-6 mb-2">{item.title}</h4>
+
+											{item.description && <p class="text-muted">{item.description}</p>}
+
+											{item.callToAction && (
+												<div class="mt-3">
+													<a href={item.callToAction?.href} class="text-primary font-medium" target="_blank">
+														{item.callToAction?.text}
+													</a>
+												</div>
+											)}
+
+										</div>
+
+									</div>
 
 								))}
 
@@ -100,23 +94,23 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 					<div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
 
 						{image && (
-								<div class="relative m-auto max-w-4xl">
+							<div class="relative m-auto max-w-4xl">
 
-									{typeof image === 'string' ? (
-										<Fragment set:html={image} />
-									) : (
-										<Image
-											class="mx-auto w-full rounded-lg shadow-lg"
-											width={600}
-											height={407}
-											widths={[400, 768]}
-											sizes="(max-width: 768px), 432px"
-											layout="responsive"
-											{...(image as any)}
-										/>
-									)}
+								{typeof image === 'string' ? (
+									<Fragment set:html={image} />
+								) : (
+									<Image
+										class="mx-auto w-full rounded-lg"
+										width={600}
+										height={407}
+										widths={[400, 768]}
+										sizes="(max-width: 768px), 432px"
+										layout="responsive"
+										{...(image as any)}
+									/>
+								)}
 
-								</div>
+							</div>
 						)}
 
 					</div>
@@ -124,7 +118,7 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 				</div>
 			</div>
 
-		</Wrapper>
+		</Container>
 
 	</div>
 

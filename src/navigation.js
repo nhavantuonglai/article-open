@@ -161,106 +161,10 @@ export const headerData = {
 		{
 			text: "Công cụ",
 			links: [
-				{ text: "Tổng quát", href: "https://nhavantuonglai.com/analytics" },
-				{
-					text: "Văn bản",
-					href: "https://nhavantuonglai.com/analytics",
-					links: [
-						{ text: "Đếm chữ văn bản", href: "https://nhavantuonglai.com/analytics/count" },
-						{ text: "In hoa văn bản", href: "https://nhavantuonglai.com/analytics/lower" },
-						{ text: "In đậm văn bản", href: "https://nhavantuonglai.com/analytics/unicode" },
-						{ text: "Bộ biểu tượng Emoji", href: "https://nhavantuonglai.com/analytics/emoji" },
-					],
-				},
-				{
-					text: "Trực tuyến",
-					href: "https://nhavantuonglai.com/analytics",
-					links: [
-						{ text: "Nghe FM trực tuyến", href: "https://nhavantuonglai.com/analytics/radio" },
-						{ text: "Đọc báo trực tuyến", href: "https://nhavantuonglai.com/analytics/newspaper" },
-						{ text: "Bây giờ là mấy giờ", href: "https://nhavantuonglai.com/analytics/time" },
-						{ text: "Đếm ngược Giao thừa", href: "https://nhavantuonglai.com/analytics/countdown" },
-					],
-				},
-				{
-					text: "AI",
-					href: "https://nhavantuonglai.com/analytics",
-					links: [
-						{ text: "Trò chuyện AI", href: "https://nhavantuonglai.com/analytics/integrate" },
-						{ text: "Dịch phụ đề", href: "https://nhavantuonglai.com/analytics/subtitle" },
-						{ text: "Đọc hình OCR", href: "https://nhavantuonglai.com/analytics/ocr" },
-						{ text: "Đọc chữ", href: "https://nhavantuonglai.com/analytics/voicemaker" },
-					],
-				},
-				{
-					text: "Dữ liệu",
-					href: "https://nhavantuonglai.com/analytics",
-					links: [
-						{ text: "Phạt nguội AI", href: "https://nhavantuonglai.com/analytics/phat-nguoi" },
-						{ text: "Kiểm tra số tài khoản", href: "https://nhavantuonglai.com/analytics/so-tai-khoan" },
-						{ text: "Kiểm tra mã số thuế", href: "https://nhavantuonglai.com/analytics/ma-so-thue" },
-						{ text: "Từ điển trực tuyến", href: "https://nhavantuonglai.com/analytics/dictionary" },
-					],
-				},
-				{
-					text: "Trò chơi",
-					href: "https://nhavantuonglai.com/analytics",
-					links: [
-						{ text: "Rắn săn mồi", href: "https://nhavantuonglai.com/analytics/snake" },
-						{ text: "Xếp hình", href: "https://nhavantuonglai.com" },
-						{ text: "Giải đố", href: "https://nhavantuonglai.com" },
-						{ text: "Mê cung", href: "https://nhavantuonglai.com" },
-
-					],
-				},
-			],
-		},
-
-		{
-			text: "Tệp lệnh",
-			links: [
-				{ text: "Tổng quát", href: "https://nhavantuonglai.com" },
-				{
-					text: "Dữ liệu",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Đổi tên tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-attribute" },
-						{ text: "Di chuyển tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-execute" },
-					],
-				},
-				{
-					text: "Liên kết",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Tổng hợp sitemap", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
-						{ text: "Tìm liên kết bên ngoài", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
-					],
-				},
-				{
-					text: "Giao diện",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Hiệu ứng nền trường sao", href: "https://nhavantuonglai.com/package/javascript-starfield" },
-						{ text: "Hiệu ứng tải supernova", href: "https://nhavantuonglai.com/package/javascript-supernova" },
-						{ text: "Mục lục bài viết", href: "https://nhavantuonglai.com/package/table-of-content" },
-						{ text: "Biên tập tệp markdown", href: "https://nhavantuonglai.com/package/markdown-attribute" },
-					],
-				},
-				{
-					text: "Công cụ AI",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Trò chuyện với Gemini", href: "https://nhavantuonglai.com/package/gemini-chat" },
-					],
-				},
-				{
-					text: "Phân tích",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "NPMJS Analytics", href: "https://nhavantuonglai.com/package/npmjs-analytics" },
-
-					],
-				},
+				{ text: "Nghe FM trực tuyến", href: "https://nhavantuonglai.com/analytics/radio" },
+				{ text: "Bây giờ là mấy giờ", href: "https://nhavantuonglai.com/analytics/time" },
+				{ text: "Đếm ngược Giao thừa", href: "https://nhavantuonglai.com/analytics/countdown" },
+				{ text: "Từ điển trực tuyến", href: "https://nhavantuonglai.com/analytics/dictionary" },
 			],
 		},
 
@@ -273,148 +177,10 @@ export const headerData = {
 			],
 		},
 
-		{
-			text: "Hỗ trợ",
-			links: [
-				{
-					text: "Liên lạc",
-					href: "https://nhavantuonglai.com/contact",
-					links: [
-						{ text: "Gửi thư", href: "mailto:info@nhavantuonglai.com" },
-						{ text: "Nhắn tin", href: "https://instagram.com/nhavantuonglai" },
-						{ text: "Điện thoại", href: "https://nhavantuonglai.com" },
-					],
-				},
-				{
-					text: "Thư viện ảnh",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "500px", href: "https://500px.com/p/nhavantuonglai" },
-						{ text: "Flickr", href: "https://flickr.com/photos/nhavantuonglai" },
-						{ text: "Adobe", href: "https://nhavantuonglai.com" },
-						{ text: "Freepik", href: "https://nhavantuonglai.com" },
-
-					],
-				},
-				{
-					text: "Mạng xã hội",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Facebook", href: "https://nhavantuonglai.com" },
-						{ text: "Linkedin", href: "https://linkedin.com/in/nguyenchanhdanh" },
-						{ text: "X", href: "https://x.com/nhavantuonglai" },
-
-					],
-				},
-				{
-					text: "Mã nguồn mở",
-					href: "https://nhavantuonglai.com",
-					links: [
-						{ text: "Github", href: "https://github.com/nhavantuonglai" },
-						{ text: "Open", href: "https://github.com/nhavantuonglai/article-open" },
-						{ text: "Terminal", href: "https://github.com/nhavantuonglai/terminal-open" },
-					],
-				},
-			],
-		},
-
 	],
 };
 
 export const footerData = {
-
-	links: [
-
-		{
-
-			title: 'Công cụ văn bản',
-			links: [
-				{
-					text: 'Đếm số chữ',
-					href: 'https://nhavantuonglai.com/analytics/count',
-				},
-				{
-					text: 'Chuyển chữ hoa',
-					href: 'https://nhavantuonglai.com/analytics/lower',
-				},
-				{
-					text: 'Chuyển chữ đậm',
-					href: 'https://nhavantuonglai.com/analytics/unicode',
-				},
-				{
-					text: 'Biểu tượng Emoji',
-					href: 'https://nhavantuonglai.com/analytics/emoji',
-				},
-			],
-		},
-
-		{
-			title: 'Công cụ giải trí',
-			links: [
-				{
-					text: 'Nghe Radio trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/radio'
-				},
-				{
-					text: 'Xem video trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/streaming'
-				},
-				{
-					text: 'Thời gian lúc này',
-					href: 'https://nhavantuonglai.com/analytics/time'
-				},
-				{
-					text: 'Đếm ngược giao thừa',
-					href: 'https://nhavantuonglai.com/analytics/countdown'
-				},
-			],
-		},
-
-		{
-			title: 'Công cụ AI',
-			links: [
-				{
-					text: 'Trò chuyện AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate'
-				},
-				{
-					text: 'Dịch phụ đề',
-					href: 'https://nhavantuonglai.com/analytics/subtitle'
-				},
-				{
-					text: 'Đọc văn bản',
-					href: 'https://nhavantuonglai.com/analytics/ocr'
-				},
-				{
-					text: 'Chuyển giọng nói',
-					href: 'https://nhavantuonglai.com/analytics/voicemaker'
-				},
-			],
-		},
-
-		{
-			title: 'Công cụ dữ liệu',
-			links: [
-				{
-					text: 'Kiểm tra phạt nguội',
-					href: 'https://nhavantuonglai.com/analytics/phat-nguoi'
-				},
-				{
-					text: 'Tìm số tài khoản',
-					href: 'https://nhavantuonglai.com/analytics/so-tai-khoan'
-				},
-				{
-					text: 'Tìm mã số thuế',
-					href: 'https://nhavantuonglai.com/analytics/ma-so-thue'
-				},
-				{
-					text: 'Từ điển trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/dictionary'
-				},
-			],
-		},
-
-	],
 
 	secondaryLinks: [
 
@@ -429,36 +195,8 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.04.14',
+			text: 'v25.06.13',
 			href: 'https://nhavantuonglai.com/version'
-		},
-
-	],
-
-	socialLinks: [
-
-		{
-			ariaLabel: 'X',
-			icon: 'tabler:brand-x',
-			href: 'https://x.com/nhavantuonglai'
-		},
-
-		{
-			ariaLabel: 'Instagram',
-			icon: 'tabler:brand-instagram',
-			href: 'https://instagram.com/nhavantuonglai'
-		},
-
-		{
-			ariaLabel: 'Linkedin',
-			icon: 'tabler:brand-linkedin',
-			href: 'https://linkedin.com/in/nguyenchanhdanh'
-		},
-
-		{
-			ariaLabel: 'RSS',
-			icon: 'tabler:rss',
-			href: 'https://nhavantuonglai.com/rss.xml'
 		},
 
 	],

@@ -7,9 +7,7 @@ _Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai th�
 
 ## Giới thiệu dự án
 
-_article_ là mã nguồn chính thức của website [nhavantuonglai.com](https://nhavantuonglai.com/), sử dụng nền tảng website hiện đại, được xây dựng trên công nghệ Astro 5.0 và Tailwind CSS.
-
-[article-open](https://info.nhavantuonglai.com/article-open) là phiên bản mã nguồn mở, quyền truy cập miễn phí và giới hạn tính năng.
+Website [nhavantuonglai.com](https://nhavantuonglai.com/) đang sử dụng mã nguồn tự phát triển [article-open](https://info.nhavantuonglai.com/article-open) để vận hành. Giao diện đang sử dụng là phiên bản mới nhất, được tối ưu và cập nhật sửa lỗi thường xuyên.
 
 ## Đặc điểm nổi bật
 
@@ -67,6 +65,14 @@ Phiên bản 25.01 kế thừa và phát triển toàn diện từ v24.09, tập
 
 #### Cải tiến kỹ thuật
 
+– 13/06/2025: Tối ưu cấu trúc code và logic trang.
+
+– 12/06/2025: Tắt hiệu ứng, icon, thành phần phụ.
+
+– 11/06/2025: Tối ưu kỹ thuật deployments và tải trang.
+
+– 10/06/2025: Cắt giảm, loại bỏ các tính năng không cần thiết.
+
 – 25/05/2025: Đồng bộ thuộc tính Config và Tailwind.
 
 – 17/02/2025: Cập nhật cấu trúc và tinh giản nội dung hiển thị.
@@ -83,35 +89,13 @@ Phiên bản 25.01 kế thừa và phát triển toàn diện từ v24.09, tập
 
 #### Tính năng mới
 
-– 02/06/2025: Bình luận bài viết.
-
 – 25/05/2025: [Cửa sổ thông báo](http://nhavantuonglai.com/article/cua-so-thong-bao).
 
-– 02/02/2025: [Truy vấn dữ liệu](https://nhavantuonglai.com/analytics/datasheet).
-
-– 01/02/2025: [Truy vấn mã số thuế](https://nhavantuonglai.com/analytics/ma-so-thue).
-
-– 30/01/2025: [Truy vấn số tài khoản](https://nhavantuonglai.com/analytics/so-tai-khoan).
-
 – 29/01/2025: [Đếm ngược giao thừa](https://nhavantuonglai.com/analytics/countdown).
-
-– 28/01/2025: [Đồng hồ thời gian](https://nhavantuonglai.com/analytics/time).
-
-– 27/01/2025: [Kiểm tra phạt nguội](https://nhavantuonglai.com/analytics/phat-nguoi).
 
 – 26/01/2025: [Từ điển trực tuyến](https://nhavantuonglai.com/analytics/dictionary).
 
 – 25/01/2025: [Radio trực tuyến](https://nhavantuonglai.com/analytics/radio).
-
-– 24/01/2025: [Streaming video](https://nhavantuonglai.com/analytics/streaming).
-
-– 23/01/2025: [Dịch phụ đề AI](https://nhavantuonglai.com/analytics/subtitle).
-
-– 22/01/2025: [Text to Speech AI](https://nhavantuonglai.com/analytics/voicemaker).
-
-– 21/01/2025: [OCR AI](https://nhavantuonglai.com/analytics/ocr).
-
-– 20/01/2025: [Trích xuất tiêu đề](https://nhavantuonglai.com/analytics/title).
 
 ## Version 24.09
 
@@ -131,27 +115,13 @@ Phiên bản 24.09 tập trung phát triển các tính năng tương tác và �
 
 – 28/12/2024: Giảm phụ thuộc vào Astro framework.
 
-– 20/12/2024: Tối ưu khả năng đọc code và cấu trúc Navigation.
+– 20/12/2024: Tối ưu cấu trúc code và cấu trúc Navigation.
 
 #### Cải tiến kỹ thuật
 
-– 10/12/2024: [Integrate AI](https://nhavantuonglai.com/analytics/integrate).
-
 – 30/11/2024: [Mục lục bài viết](https://nhavantuonglai.com/article/muc-luc-bai-viet).
 
-– 11/11/2024: [Bộ biểu tượng Emoji](https://nhavantuonglai.com/analytics/emoji).
-
 – 26/10/2024: [Tự động mở trang mới](https://nhavantuonglai.com/article/tu-dong-mo-trang).
-
-#### Tính năng mới
-
-– 12/09/2024: [Chuẩn hóa Unicode](https://nhavantuonglai.com/analytics/unicode)
-
-– 11/09/2024: [Chuyển chữ hoa thành thường](https://nhavantuonglai.com/analytics/lower)
-
-– 10/09/2024: [Chuẩn hóa dữ liệu thô](https://nhavantuonglai.com/analytics/normalize)
-
-– 09/09/2024: [Thống kê tần suất văn bản](https://nhavantuonglai.com/analytics/count)
 
 Lý do nâng cấp lên v25.01: Cần cải tiến toàn diện cấu trúc và bổ sung nhiều tính năng mới.
 

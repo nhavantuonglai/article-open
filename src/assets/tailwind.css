@@ -15,8 +15,6 @@
 @layer base {
 
 	html {
-		scrollbar-width: none;
-		-ms-overflow-style: none;
 		font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
 		font-optical-sizing: auto;
 		font-weight: 400;
@@ -24,16 +22,8 @@
 		font-variation-settings: "wdth" 100;
 	}
 
-	html::-webkit-scrollbar {
-		display: none;
-	}
-
-	html, body {
-		@apply overflow-x-hidden w-full;
-	}
-
 	h1, h2, h3, h4 {
-		@apply font-bold tracking-tighter hover:text-primary leading-[1.5] mb-6;
+		@apply font-bold tracking-tighter text-primary leading-[1.5] mb-6;
 	}
 
 	h1 { @apply text-4xl md:text-5xl; }
@@ -90,23 +80,5 @@
 	.bg-page { background-color: var(--aw-color-page); }
 	.text-page { color: var(--aw-color-page); }
 	.text-muted { color: var(--aw-color-muted); }
-
-	[astro-icon].icon-light > * { stroke-width: 1.2; }
-	[astro-icon].icon-bold > * { stroke-width: 2.4; }
-
-	[data-aw-toggle-menu] path { transition: all 0.3s; }
-	[data-aw-toggle-menu].expanded g > path:first-child { transform: rotate(-45deg) translate(-15px, 3px); }
-	[data-aw-toggle-menu].expanded g > path:last-child { transform: rotate(45deg) translate(-8px, -14px); }
-
-	.dd *:first-child { margin-top: 0; }
-
-	.framer-motion { will-change: transform; }
-
-	[data-motion] {
-		view-timeline-name: --motion;
-		view-timeline-axis: block;
-		animation-timeline: --motion;
-		animation-range: entry 25% cover 50%;
-	}
 
 }

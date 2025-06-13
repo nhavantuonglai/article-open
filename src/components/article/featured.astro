@@ -1,0 +1,80 @@
+---
+import { APP_BLOG } from 'nhavantuonglai:config';
+import PostList from '~/components/article/article.astro';
+import Container from '~/components/ui/container.astro';
+import { getBlogPermalink } from '~/utils/permalinks';
+import { findLatestPosts, findPostsByIds, fetchPosts, getRelatedPosts } from '~/utils/blog';
+import type { Widget, Post } from '~/types';
+
+export interface Props extends Widget {
+	title?: string;
+	linkText?: string;
+	linkUrl?: string | URL;
+	information?: string;
+	mode?: 'latest' | 'related' | 'highlighted';
+	postIds?: string[];
+	tags?: string[];
+	slug?: string;
+	count?: number;
+}
+
+const {
+	title = await Astro.slots.render('title'),
+	linkText = 'Xem tất cả',
+	linkUrl = getBlogPermalink(),
+	information = await Astro.slots.render('information'),
+	mode = 'latest',
+	postIds = [],
+	tags = [],
+	slug,
+	count = 6,
+	id,
+	classes = {},
+	bg = await Astro.slots.render('bg'),
+} = Astro.props;
+
+let posts: Post[] = [];
+if (APP_BLOG.isEnabled) {
+	if (mode === 'latest') {
+		posts = await findLatestPosts({ count });
+	} else if (mode === 'highlighted') {
+		posts = await findPostsByIds(postIds);
+	} else if (mode === 'related' && tags.length > 0 && slug) {
+		const fetchedPosts = await fetchPosts();
+		posts = getRelatedPosts(fetchedPosts, slug, tags).sort(() => Math.random() - 0.5).slice(0, count);
+	}
+}
+---
+
+{APP_BLOG.isEnabled && posts.length > 0 && (
+
+	<Container id={id} containerClass={classes?.container as string} bg={bg} class="mb-6 md:mb-62 relative mx-auto max-w-7xl px-4 md:px-6 text-default">
+
+		<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
+
+			{title && (
+				<div class="md:max-w-sm">
+					<h2 class="max-w-3xl mx-auto" set:html={title} />
+					{APP_BLOG.list.isEnabled && linkText && linkUrl && (
+						<a
+							class="text-muted hover:text-primary block mb-6 lg:mb-0"
+							href={linkUrl}
+							target="_blank"
+						>
+							{linkText} »
+						</a>
+					)}
+				</div>
+			)}
+
+			{information && <p class="text-muted lg:text-sm lg:max-w-md" set:html={information} />}
+
+		</div>
+
+		<h2>Danh sách bài viết</h2>
+
+		<PostList posts={posts} layout="grid" variant="compact" />
+
+	</Container>
+
+)}

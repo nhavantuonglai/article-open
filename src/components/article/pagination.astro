@@ -1,5 +1,4 @@
 ---
-import { Icon } from 'astro-icon/components';
 import { getPermalink } from '~/utils/permalinks';
 import Button from '~/components/ui/button.astro';
 
@@ -17,7 +16,7 @@ const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Ast
 
 	(prevUrl || nextUrl) && (
 
-		<div class="container flex">
+		<div class="w-full mb-6">
 
 			<div class="flex flex-row mx-auto justify-between">
 
@@ -29,7 +28,6 @@ const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Ast
 					variant="link"
 				>
 
-					<Icon name="tabler:chevron-left" class="w-6 h-6" />
 					<span class="ml-2">{prevText}</span>
 
 				</a>
@@ -45,7 +43,6 @@ const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Ast
 				>
 
 					<span class="mr-2">{nextText}</span>
-					<Icon name="tabler:chevron-right" class="w-6 h-6" />
 
 				</a>
 

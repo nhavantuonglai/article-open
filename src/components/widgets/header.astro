@@ -1,5 +1,4 @@
 ---
-import { Icon } from "astro-icon/components";
 import Logo from "~/assets/logo.astro";
 import { getHomePermalink, trimSlash } from "~/utils/permalinks";
 
@@ -7,7 +6,6 @@ interface Link {
 	text?: string;
 	href?: string;
 	ariaLabel?: string;
-	icon?: string;
 	links?: Array<menulink>;
 }
 

@@ -5,7 +5,7 @@ import { blogTagRobots, getStaticPathsBlogTag } from '~/utils/blog';
 import Layout from '~/layouts/page.astro';
 import Tag from '~/components/content/blog/tag.astro';
 
-import BlogList from '~/components/article/list.astro';
+import BlogList from '~/components/article/article.astro';
 import Pagination from '~/components/article/pagination.astro';
 
 export const prerender = true;
@@ -34,7 +34,7 @@ const metadata = {
 
 	<Tag/>
 
-	<section class="mx-auto max-w-7xl md:px-6 px-6 sm:px-6 py-20">
+	<section class="relative max-w-7xl mx-auto px-4 sm:px-6">
 
 		<BlogList posts={page.data}/>
 

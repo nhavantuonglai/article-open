@@ -1,14 +1,12 @@
 ---
 import Layout from '~/layouts/page.astro';
-
-import Scrollon from '~/components/article/scrollon.astro';
-
 import type { MetaData } from '~/types';
 
 export interface Props {
 	frontmatter: {
-		title?: string
-	}
+		title?: string;
+		description?: string;
+	};
 }
 
 const { frontmatter } = Astro.props;
@@ -16,54 +14,36 @@ const { frontmatter } = Astro.props;
 const metadata: MetaData = {
 	title: frontmatter?.title,
 };
+
+const base = "max-w-3xl mx-auto";
+const text = "text-justify";
 ---
 
 <Layout metadata={metadata}>
 
-	<section class="py-20 max-w-7xl mx-auto pb-10">
+	<section class="max-w-8xl mx-auto py-20 px-4 sm:px-6 pb-10">
 
 		<article>
 
-			<header class="mx-auto px-4 sm:px-6">
+			<header>
 
-					<div class="relative z-10 mx-auto px-4 sm:px-6 grid grid-cols-1 md:grid-cols-2 gap-8 py-12">
+				<h1 class={`${base} ${text} text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading mt-4 mb-6`}>
+					{frontmatter.title}
+				</h1>
 
-						<div>
-							<h1>{frontmatter.title}</h1>
-						<div>
-					<div>
+				<p class={`${base} ${text} text-xl md:text-2xl mt-4 mb-6`}>
+					{frontmatter.description}
+				</p>
 
 			</header>
 
-			<div class="max-w-8xl mx-auto px-4 sm:px-6">
 
-				<div class="grid grid-cols-1 lg:grid-cols-[1fr,3fr] gap-8">
 
-					<div class="relative">
+			<div>
 
-						<div id="table-wrapper">
+				<div class={`${base} ${text} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
 
-							<div class="relative mt-6">
-
-								<Scrollon/>
-
-							</div>
-
-						</div>
-
-					</div>
-
-					<div>
-
-						<div class="text-2xl prose max-w-4xl prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-6">
-
-							<slot/> 
-
-						</div>
-
-					</div>
-
-				</div>
+					<slot/> 
 
 			</div>
 

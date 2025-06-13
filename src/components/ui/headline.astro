@@ -1,57 +1,37 @@
 ---
-import type { Headline as Props } from "~/types";
-import { twMerge } from "tailwind-merge";
+import type { Headline as Props } from '~/types';
+import { twMerge } from 'tailwind-merge';
+
+export interface Props {
+	title?: string;
+	subtitle?: string;
+	tagline?: string;
+	classes?: Record<string, string>;
+}
 
 const {
-	title = await Astro.slots.render("title"),
-	subtitle = await Astro.slots.render("subtitle"),
+	title = await Astro.slots.render('title'),
+	subtitle = await Astro.slots.render('subtitle'),
 	tagline,
 	classes = {},
 } = Astro.props;
 
 const {
-	container: containerClass = "max-w-3xl",
-	title: titleClass = "text-3xl md:text-4xl",
-	subtitle: subtitleClass = "text-xl text-justify",
+	title: titleClass = 'text-3xl md:text-4xl',
+	subtitle: subtitleClass = 'text-xl text-justify',
 } = classes;
 ---
 
-{
+{(title || subtitle || tagline) && (
 
-	(title || subtitle || tagline) && (
+	<div class="max-w-3xl mx-auto text-center">
 
-		<div
-			class="max-w-3xl mx-auto"}
-		>
+		{tagline && <p set:html={tagline} />}
 
-			{tagline && (
+		{title && <h2 set:html={title} />}
 
-				<p
-					set:html={tagline}
-				/>
+		{subtitle && <p set:html={subtitle} />}
 
-			)}
+	</div>
 
-			{title && (
-
-				<h2
-					titleClass
-
-					set:html={title}
-				/>
-
-			)}
-
-			{subtitle && (
-
-				<p
-					set:html={subtitle}
-				/>
-
-			)}
-
-		</div>
-
-	)
-
-}
+)}

@@ -11,22 +11,6 @@
 		elements.forEach((elem) => elem.addEventListener(event, (e) => fn(e, elem), false));
 	};
 
-	const closeMenu = () => {
-		document.querySelector('[data-aw-toggle-menu]')?.classList.remove('expanded');
-		document.body.classList.remove('overflow-hidden');
-		document.getElementById('header')?.classList.remove('h-screen', 'expanded', 'bg-page');
-		document.querySelector('#header nav')?.classList.add('hidden');
-		document.querySelector('#header >div >div:last-child')?.classList.add('hidden');
-	};
-
-	const toggleMenu = (elem) => {
-		elem.classList.toggle('expanded');
-		document.body.classList.toggle('overflow-hidden');
-		document.getElementById('header')?.classList.toggle('h-screen', 'expanded', 'bg-page');
-		document.querySelector('#header nav')?.classList.toggle('hidden');
-		document.querySelector('#header >div >div:last-child')?.classList.toggle('hidden');
-	};
-
 	const handleSocialShare = (elem) => {
 		const network = elem.getAttribute('data-aw-social-share');
 		const url = encodeURIComponent(elem.getAttribute('data-aw-url'));
@@ -49,20 +33,8 @@
 		}
 	};
 
-	const screenSize = window.matchMedia('(max-width: 767px)');
-	screenSize.addEventListener('change', closeMenu);
-
-	const applyHeaderStylesOnScroll = () => {
-		const header = document.querySelector('#header[data-aw-sticky-header]');
-		if (!header) return;
-
-		const scrollY = window.scrollY;
-		header.classList.toggle('scroll', scrollY > 60);
-	};
-
 	const onLoad = () => {
 		attachEvent('#header nav', 'click', closeMenu);
-		attachEvent('[data-aw-toggle-menu]', 'click', (e, elem) => toggleMenu(elem));
 		attachEvent('[data-aw-social-share]', 'click', (e, elem) => handleSocialShare(elem));
 
 		let ticking = false;

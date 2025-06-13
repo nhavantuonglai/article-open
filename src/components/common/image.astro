@@ -16,11 +16,7 @@ type ImageType = {
 
 const props = Astro.props;
 
-// Cung cấp alt mặc định nếu không có, hoặc ném lỗi chi tiết
-props.alt = props.alt || 'Mô tả hình ảnh mặc định'; // Dự phòng
-// Hoặc, giữ lỗi với thông báo chi tiết:
-// if (!props.alt) throw new Error('Thành phần Image yêu cầu thuộc tính "alt" để đảm bảo tính truy cập.');
-
+if (!props.alt) throw new Error();
 props.width = typeof props.width === 'string' ? parseInt(props.width) : props.width;
 props.height = typeof props.height === 'string' ? parseInt(props.height) : props.height;
 props.loading = props.loading || 'lazy';
@@ -41,4 +37,4 @@ if (_image) {
 }
 ---
 
-{image ? <img title='nhavantuonglai' src={image.src} {...image.attributes} alt={props.alt} /> : <Fragment/>}
+{image ? <img title='nhavantuonglai' src={image.src} {...image.attributes}/> : <Fragment/>}
