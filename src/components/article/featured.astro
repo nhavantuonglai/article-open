@@ -13,7 +13,6 @@ export interface Props extends Widget {
 	information?: string;
 	mode?: 'latest' | 'related' | 'highlighted';
 	postIds?: string[];
-	tags?: string[];
 	slug?: string;
 	count?: number;
 }
@@ -25,7 +24,6 @@ const {
 	information = await Astro.slots.render('information'),
 	mode = 'latest',
 	postIds = [],
-	tags = [],
 	slug,
 	count = 6,
 	id,
@@ -39,9 +37,9 @@ if (APP_BLOG.isEnabled) {
 		posts = await findLatestPosts({ count });
 	} else if (mode === 'highlighted') {
 		posts = await findPostsByIds(postIds);
-	} else if (mode === 'related' && tags.length > 0 && slug) {
+	} else if (mode === 'related' > 0 && slug) {
 		const fetchedPosts = await fetchPosts();
-		posts = getRelatedPosts(fetchedPosts, slug, tags).sort(() => Math.random() - 0.5).slice(0, count);
+		posts = getRelatedPosts(fetchedPosts, slug).sort(() => Math.random() - 0.5).slice(0, count);
 	}
 }
 ---
@@ -71,7 +69,7 @@ if (APP_BLOG.isEnabled) {
 
 		</div>
 
-		<h2>Danh sách bài viết</h2>
+		<h2>Bài viết gần đây</h2>
 
 		<PostList posts={posts} layout="grid" variant="compact" />
 

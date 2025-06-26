@@ -12,9 +12,10 @@ export interface Props {
 	image?: string | any;
 	id?: string;
 	inputType?: 'text' | 'button' | 'hidden';
-	outputType?: 'text' | 'audio';
+	outputType?: 'text' | 'audio' | 'h1';
 	placeholder?: string;
-	channels?: Array<{name: string, url: string}>;
+	channels?: Array<{ name: string; url: string }>;
+	headingLevel?: 'h1' | 'h2';
 }
 
 const {
@@ -28,7 +29,8 @@ const {
 	inputType = 'hidden',
 	outputType = 'text',
 	placeholder = '',
-	channels = []
+	channels = [],
+	headingLevel = 'h1',
 } = Astro.props;
 
 const safe = id.replace(/[^a-zA-Z0-9_-]/g, '');
@@ -38,7 +40,6 @@ const container = "rounded-lg w-full mb-6";
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
-
 	<div class="absolute inset-0 pointer-events-none" aria-hidden="true"></div>
 	<div class="relative max-w-7xl mx-auto px-4 sm:px-6">
 
@@ -54,11 +55,22 @@ const container = "rounded-lg w-full mb-6";
 					/>
 				)}
 
-				{title && (
-					<h1
-						class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
-						set:html={title}
-					/>
+				{outputType !== 'h1' && title && (
+					<Fragment>
+
+						{headingLevel === 'h1' ? (
+							<h1
+								class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
+								set:html={title}
+							/>
+						) : (
+							<h2
+								class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
+								set:html={title}
+							/>
+						)}
+
+					</Fragment>
 				)}
 
 				<div class="max-w-3xl mx-auto lg:max-w-none">
@@ -69,6 +81,7 @@ const container = "rounded-lg w-full mb-6";
 
 					{actions && (
 						<div class="max-w-xs sm:max-w-md flex flex-nowrap flex-col sm:flex-row gap-4 lg:justify-start">
+
 							{Array.isArray(actions) ? (
 								actions.map((action, index) => (
 									<div key={index} class="flex w-full sm:w-auto">
@@ -78,13 +91,16 @@ const container = "rounded-lg w-full mb-6";
 							) : (
 								<Fragment set:html={actions} />
 							)}
+
 						</div>
 					)}
 
 					<div class={container}>
+
 						{inputType === 'text' && (
 							<textarea id={`${safe}-input`} placeholder={placeholder} class={input}></textarea>
 						)}
+
 						{inputType === 'button' && (
 							<div id={`${safe}-buttons`} class="flex flex-wrap gap-2">
 								{channels.map((channel) => (
@@ -92,12 +108,17 @@ const container = "rounded-lg w-full mb-6";
 								))}
 							</div>
 						)}
+
 					</div>
 
 					<div class={container}>
 
 						{outputType === 'text' && (
-							<h1 id={`${safe}-text-output`} class="text-3xl font-bold mb-4 text-left"></h1>
+							<p id={`${safe}-text-output`} class="text-3xl font-bold mb-4 text-left"></p>
+						)}
+
+						{outputType === 'h1' && (
+							<h1 id={`${safe}-text-output`} class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"></h1>
 						)}
 
 						{outputType === 'audio' && (
@@ -110,7 +131,6 @@ const container = "rounded-lg w-full mb-6";
 						)}
 
 					</div>
-
 				</div>
 
 				{content && <Fragment set:html={content} />}
@@ -120,6 +140,7 @@ const container = "rounded-lg w-full mb-6";
 			{image && (
 				<div class="basis-1/2 pb-10 md:pb-16 mx-auto lg:mx-0">
 					<div title="nhavantuonglai" class="relative m-auto max-w-5xl">
+
 						{typeof image === 'string' ? (
 							<img
 								src={image}
@@ -138,12 +159,12 @@ const container = "rounded-lg w-full mb-6";
 								{...image}
 							/>
 						)}
+
 					</div>
 				</div>
 			)}
 
 		</div>
-
 	</div>
 
 	<script define:vars={{ safe, inputType }}>
@@ -173,5 +194,4 @@ const container = "rounded-lg w-full mb-6";
 			}
 		}
 	</style>
-
 </section>

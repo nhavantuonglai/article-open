@@ -1,11 +1,9 @@
 ---
 import Image from '~/components/common/image.astro';
-import PostTags from '~/components/article/tags.astro';
 import { APP_BLOG } from 'nhavantuonglai:config';
 import type { Post, ImageMetadata } from '~/types';
 import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';
-import { getFormattedDate } from '~/utils/utils';
 
 export interface Props {
 	posts: Array<Post>;
@@ -46,7 +44,7 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 								<div
 									class={`relative overflow-hidden ${
 										variant === 'compact'
-											? 'md:h-64 h-48 bg-gray-400 rounded shadow-lg mb-6'  // thêm h-48 cho mobile
+											? 'md:h-64 h-48 bg-gray-400 rounded shadow-lg mb-6'
 											: 'h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%]'
 									}`}
 								>
@@ -72,30 +70,6 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 
 						<div>
 
-							{variant === 'detailed' && (
-
-								<header>
-
-									<p class="text-xl">
-
-										<time datetime={post.pubDatetime}>
-											{`${new Date(post.pubDatetime)
-												.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
-												.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
-										</time>
-
-										{post.readingTime && (
-											<>
-												&nbsp;· <span>{post.readingTime}</span> phút đọc.
-											</>
-										)}
-
-									</p>
-
-								</header>
-
-							)}
-
 							<h3 class={variant === 'detailed' ? 'max-w-3xl mx-auto' : ''}>
 								{APP_BLOG?.post?.isEnabled ? (
 									<a href={link} class="hover:text-primary" target="_blank">
@@ -108,12 +82,6 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 
 							{post.description && (
 								<p class="text-xl">{truncateText(post.description, variant === 'compact' ? 30 : 30)}</p>
-							)}
-
-							{variant === 'detailed' && (
-								<footer class="text-xl">
-									<PostTags tags={post.tags.slice(0, 6)} />
-								</footer>
 							)}
 
 						</div>

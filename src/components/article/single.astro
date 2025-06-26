@@ -1,6 +1,4 @@
 ---
-import Image from '~/components/common/image.astro';
-import Table from '~/components/article/table.astro';
 import PostTags from '~/components/article/tags.astro';
 import { getFormattedDate } from '~/utils/utils';
 import type { Post } from '~/types';
@@ -63,24 +61,8 @@ const text = "text-justify";
 		</header>
 
 		<div class={`${base} ${text} mt-4 mb-6`}>
-			<Table />
+			<div id="index"></div>
 		</div>
-
-		{post.image ? (
-			<Image
-				src={post.image}
-				class={`${base} ${text} mt-4 mb-6`}
-				widths={[400, 900]}
-				sizes="(max-width: 900px) 400px, 900px"
-				alt={post?.description || ''}
-				width="auto"
-				height="auto"
-				loading="eager"
-				decoding="async"
-			/>
-		) : (
-			<div class="border-t" />
-		)}
 
 		<div class={`${base} ${text} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
 			{Content ? <Content /> : <Fragment set:html={post.content || ''} />}
@@ -93,3 +75,61 @@ const text = "text-justify";
 	</article>
 
 </section>
+
+<script type="module">
+
+	function generateTOC() {
+		const index = document.getElementById('index');
+		const headings = document.querySelectorAll('h2, h3, h4');
+
+		const tocList = document.createElement('ul');
+		let currentParent = null;
+
+		headings.forEach(heading => {
+			const listItem = document.createElement('li');
+			const anchor = document.createElement('a');
+			anchor.href = `#${heading.id}`;
+			anchor.textContent = heading.textContent;
+			listItem.appendChild(anchor);
+
+			switch (heading.tagName.toLowerCase()) {
+				case 'h2':
+					break;
+				case 'h3':
+					listItem.style.fontStyle = 'italic';
+					break;
+				case 'h4':
+					break;
+			}
+
+			if (heading.tagName.toLowerCase() === 'h3' || heading.tagName.toLowerCase() === 'h4') {
+				if (currentParent) {
+					const subList = currentParent.querySelector('ul') || document.createElement('ul');
+					subList.appendChild(listItem);
+					currentParent.appendChild(subList);
+				}
+			} else {
+				tocList.appendChild(listItem);
+				currentParent = listItem;
+			}
+		});
+
+		index.appendChild(tocList);
+
+		hideLastTOCItems(tocList, 7);
+	}
+
+	function hideLastTOCItems(tocList, count) {
+		const items = tocList.querySelectorAll('li');
+		const totalItems = items.length;
+
+		const itemsToHide = Math.min(count, totalItems);
+
+		for (let i = totalItems - itemsToHide; i < totalItems; i++) {
+			items[i].style.display = 'none';
+		}
+	}
+
+	window.onload = generateTOC;
+
+</script>

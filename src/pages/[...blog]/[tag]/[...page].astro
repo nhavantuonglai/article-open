@@ -36,6 +36,8 @@ const metadata = {
 
 	<section class="relative max-w-7xl mx-auto px-4 sm:px-6">
 
+		<h2>Thẻ bài viết {tag}, trang số {currentPage}:<h2/>
+
 		<BlogList posts={page.data}/>
 
 		<Pagination prevUrl={page.url.prev} nextUrl={page.url.next}/>
