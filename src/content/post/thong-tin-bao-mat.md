@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-12-15T10:10:00Z
+pubDatetime: 2014-09-07T10:10:00Z
 title: Điều khoản khai thác, sử dụng dữ liệu
 description: Điều khoản khai thác và sử dụng dữ liệu này được thiết lập nhằm xác định rõ ràng các quyền và nghĩa vụ của người đọc khi truy cập và sử dụng website nhavantuonglai.com.
-image: https://banmaixanh.vercel.app/image/cover/001-558.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-026.jpg
 tags:
   - nhavantuonglai
   - thong tin he thong

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-11-10T10:10:00Z
+pubDatetime: 2014-09-01T10:10:00Z
 title: Lịch sử phiên bản, cấu hình hệ thống
 description: Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai thể hiện kỹ năng viết, vốn hiểu biết và sự chiêm nghiệm với những điều đã trải qua.
-image: https://banmaixanh.vercel.app/image/cover/001-589.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-027.jpg
 tags:
   - nhavantuonglai
   - thong tin he thong
