@@ -1,0 +1,39 @@
+---
+import Hero from '~/components/widgets/hero.astro';
+
+const subtitle = "Bạn cần biết thông tin bây giờ là mấy giờ mấy phút mấy giây? Dưới đây là câu trả lời dành cho bạn.";
+---
+
+<Hero
+
+	subtitle={subtitle}
+	id="time"
+	inputType="hidden"
+	outputType="h1"
+	image="https://banmaixanh.vercel.app/image/cover/001-744.jpg"
+	headingLevel="h1"
+
+/>
+
+<script client:load>
+
+	function padNumber(num) {
+		return num < 10 ? `0${num}` : num;
+	}
+
+	function updateTime() {
+		const resultOutput = document.getElementById('time-text-output');
+		if (!resultOutput) return;
+
+		const now = new Date();
+		const hours = padNumber(now.getHours());
+		const minutes = padNumber(now.getMinutes());
+		const seconds = padNumber(now.getSeconds());
+		resultOutput.textContent = `Bây giờ là: ${hours} giờ ${minutes} phút ${seconds} giây.`;
+
+		requestAnimationFrame(updateTime);
+	}
+
+	requestAnimationFrame(updateTime);
+
+</script>

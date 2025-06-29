@@ -41,16 +41,16 @@ const getDelay = (index) => (index * 0.15).toFixed(2);
 				tagline={tagline}
 				classes={{
 					container: 'max-w-xl sm:mx-auto lg:max-w-2xl',
-					title: 'text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6 font-heading',
+					title: 'max-w-3xl mx-auto',
 					subtitle: 'max-w-3xl mx-auto sm:text-center text-xl text-muted ',
 				}}
 			/>
 
 			<div class="md:mx-auto">
-				<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
-					<div class="md:basis-1/2 self-center">
+				<div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} grid gap-6 md:grid-cols-2 lg:grid-cols-2`}>
+					<div class="md:basis-1/2">
 
-						{content && <p class="text-xl" set:html={content} />}
+						{content && <Fragment set:html={content.trim()} />}
 						
 						{callToAction && <Button class="btn" variant="link" {...callToAction} />}
 
