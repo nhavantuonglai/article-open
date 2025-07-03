@@ -236,4 +236,4 @@ Qua 06 phiên bản phát triển, _article_ đã tiến hóa từ một website
 
 Version 25.01 hiện tại đại diện cho đỉnh cao của sự phát triển, kết hợp giữa công nghệ tiên tiến, giao diện hiện đại và hệ sinh thái tính năng phong phú.
 
-<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="Lịch sử phiên bản, cấu hình hệ thống. 492 – nhavantuonglai, thong tin he thong, phien ban, cap nhat." title="Lịch sử phiên bản, cấu hình hệ thống." height="100%" width="100%" loading="lazy"><figcaption>Lịch sử phiên bản, cấu hình hệ thống.</figcaption></figure>

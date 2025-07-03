@@ -23,11 +23,10 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 {
 
 	posts && posts.length > 0 && (
-
 		<div class={layout === 'grid' ? 'grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-2' : 'list-none'}>
 
 			{posts.map(async (post) => {
-				const image = await findImage(post.image) as ImageMetadata | undefined;
+				const image = await findImage(post.image) as ImageMetadata | string | undefined;
 				const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 'javascript:void(0)';
 				
 				return (
@@ -40,31 +39,26 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 
 						{image && (
 							<a class="relative block group" href={link} target="_blank">
-
-								<div
-									class={`relative overflow-hidden ${
-										variant === 'compact'
-											? 'md:h-64 h-48 bg-gray-400 rounded shadow-lg mb-6'
-											: 'h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%]'
-									}`}
-								>
-
-									<Image
-										src={image}
-										class={`absolute inset-0 object-cover w-full h-full rounded shadow-lg bg-gray-400 block`}
-										width={variant === 'compact' ? 600 : 900}
-										height={variant === 'compact' ? 407 : undefined}
-										widths={variant === 'compact' ? [600, 407] : [400, 900]}
-										sizes={variant === 'compact' ? undefined : '(max-width: 900px) 400px, 900px'}
-										alt={post.title}
-										layout={variant === 'compact' ? 'cover' : undefined}
-										aspectRatio={variant === 'detailed' ? '16:9' : undefined}
-										loading="lazy"
-										decoding="async"
-									/>
-
+								<div class="relative m-auto max-w-5xl">
+									{typeof image === 'string' ? (
+										<img
+											src={image}
+											alt={post.title}
+											class="mx-auto rounded-md w-full object-cover"
+											style="aspect-ratio: 4/3;"
+										/>
+									) : (
+										<Image
+											src={image}
+											class="mx-auto rounded-md w-full object-cover"
+											style="aspect-ratio: 4/3;"
+											widths={[400, 768, 1024]}
+											sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, 1024px"
+											loading="lazy"
+											alt={post.title}
+										/>
+									)}
 								</div>
-
 							</a>
 						)}
 
@@ -88,11 +82,9 @@ const truncateText = (text: string, maxWords: number, isTitle: boolean = false) 
 					</article>
 
 				);
-
 			})}
 
 		</div>
-
 	)
 
 }

@@ -20,6 +20,8 @@ Mình là một người không muốn người khác nhớ tên, chỉ muốn �
 
 Mình muốn xuất bản sách, nhưng không muốn tổng hợp những bài đã, và đang được đăng trên website này, cũng như Instagram cá nhân, bởi vì ai cũng có thể tiếp cận, và cuốn sách khi đến tay độc giả khi ấy – phần nào là sự ủng hộ chứ chẳng xuất phát từ động lực muốn đọc những điều mình viết. Thế nên là, khi xuất bản sách, dù là cuốn đầu tiên, đó phải là những ngôn từ (của mình) mà chưa ai được đọc, và chúng phải thật xứng đáng với số tiền mà mọi người bỏ ra.
 
+<figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-hue-363.jpg" alt="Điều khoản khai thác, sử dụng dữ liệu. 626 – nhavantuonglai, thong tin he thong, phien ban, cap nhat." title="Điều khoản khai thác, sử dụng dữ liệu." height="100%" width="100%" loading="lazy"><figcaption>Điều khoản khai thác, sử dụng dữ liệu.</figcaption></figure>
+
 Mình cũng chỉ muốn được biết đến với vai trò là người viết, được công nhận tài năng thông qua con chữ chứ không phải điều gì khác. Nên dù có chụp ảnh lâu năm, kinh nghiệm làm Marketing dày dạn, thì đó cũng chỉ là những điều thứ yếu bên cạnh giá trị mình theo đuổi. Nên nếu một khi mình chưa được sống, được công nhận tài năng với điều ấy, thì chứng tỏ ra mình vẫn chưa thật sự thành công – theo cách mình muốn.
 
 ## Động viên tinh thần
@@ -32,4 +34,4 @@ Nếu bạn muốn xem ảnh mình chụp, hãy đến với [500px](https://inf
 
 Website được vận hành bởi Vercel, lưu trữ database thông qua [Github](https://info.nhavantuonglai.com/github), không tốn phí băng thông và duy trì hàng tháng, chỉ tốn phí domain mỗi năm. Bạn có thể đọc thêm để tạo ra riêng một website cho riêng mình, mã nguồn mở của website này được chia sẻ công khai.
 
-<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="Điều khoản khai thác, sử dụng dữ liệu. 393 – nhavantuonglai, thong tin he thong, phien ban, cap nhat." title="Điều khoản khai thác, sử dụng dữ liệu." height="100%" width="100%" loading="lazy"><figcaption>Điều khoản khai thác, sử dụng dữ liệu.</figcaption></figure>

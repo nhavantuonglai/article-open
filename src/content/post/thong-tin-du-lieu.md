@@ -106,4 +106,4 @@ Khi có cập nhật chính sách, chúng tôi cam kết thông báo cho tất c
 
 Người đọc nên thường xuyên kiểm tra trang này để cập nhật các thay đổi mới nhất. Nếu người đọc có bất kỳ câu hỏi nào về điều khoản này hoặc cần làm rõ về quyền và nghĩa vụ của mình, vui lòng liên hệ với chúng tôi thông qua email: info@nhavantuonglai.com.
 
-<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-596.jpg" alt="Điều khoản khai thác, sử dụng dữ liệu. 879 – nhavantuonglai, thong tin he thong, phien ban, cap nhat." title="Điều khoản khai thác, sử dụng dữ liệu." height="100%" width="100%" loading="lazy"><figcaption>Điều khoản khai thác, sử dụng dữ liệu.</figcaption></figure>
