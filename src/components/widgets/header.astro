@@ -3,36 +3,34 @@ import { getHomePermalink, trim } from "~/utils/permalinks";
 import { UI } from 'nhavantuonglai:config';
 
 interface Link {
-  text?: string;
-  href?: string;
-  ariaLabel?: string;
-  links?: Array<menulink>;
+	text?: string;
+	href?: string;
+	ariaLabel?: string;
+	links?: Array<menulink>;
 }
 
 interface menulink extends Link {
-  links?: Array<menulink>;
+	links?: Array<menulink>;
 }
 
 export interface Props {
-  id?: string;
-  links?: Array<menulink>;
+	id?: string;
+	links?: Array<menulink>;
 }
 
 const {
-  id = "header",
-  links = headerData?.links || [
-    { text: 'Home', href: '/' },
-    { text: 'Blog', href: '/article' },
-  ],
+	id = "header",
+	links = headerData?.links || [
+		{ text: 'Home', href: '/' },
+		{ text: 'Blog', href: '/article' },
+	],
 } = Astro.props;
 
-// Bảo vệ khi Astro.url.pathname là undefined
-const pathname = Astro.url?.pathname || '/';
-const pathcurrent = `/${trim(pathname, '/')}`;
+const pathcurrent = `/${trim(new URL(Astro.url).pathname, '/')}`;
 const pathsegment = pathcurrent.split('/').filter(Boolean);
 const pathlink = pathsegment.map((segment, i) => ({
-  text: segment,
-  path: `/${pathsegment.slice(0, i + 1).join('/')}`
+	text: segment,
+	path: `/${pathsegment.slice(0, i + 1).join('/')}`
 }));
 
 const baselink = UI?.header?.classes?.baselink ?? "text-sm hover:text-primary px-3 flex items-center";
@@ -41,194 +39,231 @@ const dropitem = UI?.header?.classes?.dropitem ?? `${baselink} py-1.5 mb-1 w-[20
 ---
 
 <div class="h-16 w-full">
-  <header
-    class="fixed top-0 left-0 right-0 w-full z-50 bg-white/80 backdrop-blur-sm border-b border-gray-200/50"
-    {...id ? { id } : {}}
-  >
-    <div class="relative text-default py-2 px-4 mx-auto max-w-7xl flex items-center justify-start">
-      <nav class="items-center flex text-default" aria-label="Main navigation">
-        <ul class="flex flex-row text-sm tracking-tight font-medium">
-          {links.map(({ text, href, links: linkchild, ariaLabel }, index) => (
-            <li key={index} class={linkchild?.length ? "dropdown relative group" : ""}>
-              {linkchild?.length ? (
-                <>
-                  <button
-                    class={`${menuitem} text-gray-800 cursor-default`}
-                    aria-label={ariaLabel || text || 'Menu item'}
-                    aria-expanded="false"
-                    data-dropdown-toggle={`dropdown-${index}`}
-                  >
-                    {text || 'Untitled'}
-                  </button>
-                  <ul
-                    id={`dropdown-${index}`}
-                    class="dropdown-menu absolute left-0 top-full mt-0.5 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
-                  >
-                    {linkchild.map(({ text: textchild, href: hrefchild, links: linkgrand, ariaLabel: ariaLabelChild }, subchild) => (
-                      <li key={subchild} class={linkgrand?.length ? "child-dropdown relative" : ""}>
-                        <a
-                          class:list={[
-                            dropitem,
-                            { "aw-link-active": hrefchild === pathcurrent },
-                          ]}
-                          href={hrefchild || '#'}
-                          aria-label={ariaLabelChild || textchild || 'Submenu item'}
-                          target={/^https?:\/\//.test(hrefchild || '') ? "_blank" : undefined}
-                          rel={/^https?:\/\//.test(hrefchild || '') ? "noopener" : undefined}
-                        >
-                          <span class="block text-ellipsis whitespace-nowrap overflow-hidden">
-                            {textchild || 'Untitled'}
-                          </span>
-                        </a>
-                        {linkgrand?.length && (
-                          <ul
-                            id={`grand-dropdown-${index}-${subchild}`}
-                            class="grand-dropdown absolute left-full top-0 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
-                          >
-                            {linkgrand.map(({ text: textgrand, href: hrefgrand, ariaLabel: ariaLabelGrand }, subgrand) => (
-                              <li key={subgrand}>
-                                <a
-                                  class:list={[
-                                    dropitem,
-                                    { "aw-link-active": hrefgrand === pathcurrent },
-                                  ]}
-                                  href={hrefgrand || '#'}
-                                  aria-label={ariaLabelGrand || textgrand || 'Grandmenu item'}
-                                  target={/^https?:\/\//.test(hrefgrand || '') ? "_blank" : undefined}
-                                  rel={/^https?:\/\//.test(hrefgrand || '') ? "noopener" : undefined}
-                                >
-                                  <span class="block text-ellipsis whitespace-nowrap overflow-hidden">
-                                    {textgrand || 'Untitled'}
-                                  </span>
-                                </a>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
-                      </li>
-                    ))}
-                  </ul>
-                </>
-              ) : (
-                <a
-                  class:list={[
-                    menuitem,
-                    { "aw-link-active": href === pathcurrent },
-                  ]}
-                  href={href || '#'}
-                  aria-label={ariaLabel || text || 'Menu item'}
-                  target={/^https?:\/\//.test(href || '') ? "_blank" : undefined}
-                  rel={/^https?:\/\//.test(href || '') ? "noopener" : undefined}
-                >
-                  {text || 'Untitled'}
-                </a>
-              )}
-            </li>
-          ))}
-          {pathsegment.length > 0 ? (
-            pathlink.slice(-2).map((segment, idx) => (
-              <li key={`path-${idx}`}>
-                <a
-                  class:list={[
-                    menuitem,
-                    { "aw-link-active": idx === pathlink.slice(-2).length - 1 },
-                  ]}
-                  href={segment.path}
-                  aria-label={`Breadcrumb: ${segment.text}`}
-                  target={/^https?:\/\//.test(segment.path) ? "_blank" : undefined}
-                  rel={/^https?:\/\//.test(segment.path) ? "noopener" : undefined}
-                >
-                  {`/${segment.text}`}
-                </a>
-              </li>
-            ))
-          ) : (
-            <li>
-              <a class:list={[menuitem, "aw-link-active"]} href="/" aria-label="Home">/</a>
-            </li>
-          )}
-        </ul>
-      </nav>
-    </div>
-  </header>
+
+	<header
+		class="fixed top-0 left-0 right-0 w-full z-50 bg-white/80 backdrop-blur-sm border-b border-gray-200/50"
+		{...id ? { id } : {}}
+	>
+
+		<div class="relative text-default py-2 px-4 mx-auto max-w-7xl flex items-center justify-start">
+			<nav class="items-center flex text-default" aria-label="Main navigation">
+				<ul class="flex flex-row text-sm tracking-tight font-medium">
+
+					{links.map(({ text, href, links: linkchild, ariaLabel }, index) => (
+						<li key={index} class={linkchild?.length ? "dropdown relative group" : ""}>
+
+							{linkchild?.length ? (
+								<>
+
+									<button
+										class={`${menuitem} text-gray-800 cursor-default`}
+										aria-label={ariaLabel || text}
+										aria-expanded="false"
+										data-dropdown-toggle={`dropdown-${index}`}
+									>
+
+										{text}
+
+									</button>
+
+									<ul
+										id={`dropdown-${index}`}
+										class="dropdown-menu absolute left-0 top-full mt-0.5 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
+									>
+
+										{linkchild.map(({ text: textchild, href: hrefchild, links: linkgrand, ariaLabel: ariaLabelChild }, subchild) => (
+											<li key={subchild} class={linkgrand?.length ? "child-dropdown relative" : ""}>
+
+												<a
+													class:list={[
+														dropitem,
+														{ "aw-link-active": hrefchild === pathcurrent },
+													]}
+													href={hrefchild}
+													aria-label={ariaLabelChild || textchild}
+													target={/^https?:\/\//.test(hrefchild) ? "_blank" : undefined}
+													rel={/^https?:\/\//.test(hrefchild) ? "noopener" : undefined}
+												>
+													<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
+														{textchild}
+													</span>
+												</a>
+
+												{linkgrand?.length && (
+													<ul
+														id={`grand-dropdown-${index}-${subchild}`}
+														class="grand-dropdown absolute left-full top-0 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
+													>
+
+														{linkgrand.map(({ text: textgrand, href: hrefgrand, ariaLabel: ariaLabelGrand }, subgrand) => (
+															<li key={subgrand}>
+
+																<a
+																	class:list={[
+																		dropitem,
+																		{ "aw-link-active": hrefgrand === pathcurrent },
+																	]}
+																	href={hrefgrand}
+																	aria-label={ariaLabelGrand || textgrand}
+																	target={/^https?:\/\//.test(hrefgrand) ? "_blank" : undefined}
+																	rel={/^https?:\/\//.test(hrefgrand) ? "noopener" : undefined}
+																>
+
+																	<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
+
+																		{textgrand}
+
+																	</span>
+
+																</a>
+
+															</li>
+														))}
+
+													</ul>
+												)}
+
+											</li>
+										))}
+
+									</ul>
+								</>
+							) : (
+
+								<a
+									class:list={[
+										menuitem,
+										{ "aw-link-active": href === pathcurrent },
+									]}
+									href={href}
+									aria-label={ariaLabel || text}
+									target={/^https?:\/\//.test(href) ? "_blank" : undefined}
+									rel={/^https?:\/\//.test(href) ? "noopener" : undefined}
+								>
+									{text}
+								</a>
+
+							)}
+
+						</li>
+					))}
+
+					{pathsegment.length > 0 ? (
+						pathlink.slice(-2).map((segment, idx) => (
+							<li key={`path-${idx}`}>
+
+								<a
+									class:list={[
+										menuitem,
+										{ "aw-link-active": idx === pathlink.slice(-2).length - 1 },
+									]}
+									href={segment.path}
+									aria-label={`Breadcrumb: ${segment.text}`}
+									target={/^https?:\/\//.test(segment.path) ? "_blank" : undefined}
+									rel={/^https?:\/\//.test(segment.path) ? "noopener" : undefined}
+								>
+
+									{`/${segment.text}`}
+
+								</a>
+
+							</li>
+						))
+					) : (
+
+						<li>
+							<a class:list={[menuitem, "aw-link-active"]} href="/" aria-label="Home">/</a>
+						</li>
+
+					)}
+
+				</ul>
+			</nav>
+		</div>
+
+	</header>
 </div>
 
 <script>
-  const header = document.querySelector("header");
-  let lastScrollTop = 0;
-  let ticking = false;
 
-  if (header) {
-    window.addEventListener("scroll", () => {
-      if (!ticking) {
-        window.requestAnimationFrame(() => {
-          let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-          header.style.transform = scrollTop > lastScrollTop ? "translateY(-100%)" : "translateY(0)";
-          header.style.transition = "transform 0.3s ease";
-          lastScrollTop = Math.max(scrollTop, 0);
-          ticking = false;
-        });
-        ticking = true;
-      }
-    });
+	const header = document.querySelector("header");
+	let lastScrollTop = 0;
+	let ticking = false;
 
-    document.addEventListener("mousemove", (e) => {
-      if (e.clientY < 50) {
-        header.style.transform = "translateY(0)";
-        header.style.transition = "transform 0.3s ease";
-      }
-    });
+	if (header) {
+		window.addEventListener("scroll", () => {
+			if (!ticking) {
+				window.requestAnimationFrame(() => {
+					let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+					header.style.transform = scrollTop > lastScrollTop ? "translateY(-100%)" : "translateY(0)";
+					header.style.transition = "transform 0.3s ease";
+					lastScrollTop = Math.max(scrollTop, 0);
+					ticking = false;
+				});
+				ticking = true;
+			}
+		});
 
-    document.querySelectorAll(".dropdown > button").forEach((button) => {
-      button.addEventListener("click", () => {
-        const dropdown = button.nextElementSibling;
-        const isOpen = !dropdown.classList.contains("hidden");
-        document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
-        dropdown.classList.toggle("hidden", isOpen);
-        button.setAttribute("aria-expanded", (!isOpen).toString());
-      });
-    });
+		document.addEventListener("mousemove", (e) => {
+			if (e.clientY < 50) {
+				header.style.transform = "translateY(0)";
+				header.style.transition = "transform 0.3s ease";
+			}
+		});
 
-    document.querySelectorAll(".child-dropdown > a").forEach((link) => {
-      link.addEventListener("click", (e) => {
-        const grandDropdown = link.nextElementSibling;
-        if (grandDropdown) {
-          e.preventDefault();
-          const isOpen = !grandDropdown.classList.contains("hidden");
-          document.querySelectorAll(".grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
-          grandDropdown.classList.toggle("hidden", isOpen);
-        }
-      });
-    });
+		document.querySelectorAll(".dropdown > button").forEach((button) => {
+			button.addEventListener("click", () => {
+				const dropdown = button.nextElementSibling;
+				const isOpen = !dropdown.classList.contains("hidden");
+				document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+				dropdown.classList.toggle("hidden", isOpen);
+				button.setAttribute("aria-expanded", (!isOpen).toString());
+			});
+		});
 
-    document.addEventListener("click", (e) => {
-      if (!e.target.closest(".dropdown")) {
-        document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
-        document.querySelectorAll(".dropdown > button").forEach((btn) => btn.setAttribute("aria-expanded", "false"));
-      }
-    });
-  }
+		document.querySelectorAll(".child-dropdown > a").forEach((link) => {
+			link.addEventListener("click", (e) => {
+				const grandDropdown = link.nextElementSibling;
+				if (grandDropdown) {
+					e.preventDefault();
+					const isOpen = !grandDropdown.classList.contains("hidden");
+					document.querySelectorAll(".grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+					grandDropdown.classList.toggle("hidden", isOpen);
+				}
+			});
+		});
+
+		document.addEventListener("click", (e) => {
+			if (!e.target.closest(".dropdown")) {
+				document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+				document.querySelectorAll(".dropdown > button").forEach((btn) => btn.setAttribute("aria-expanded", "false"));
+			}
+		});
+	}
+
 </script>
 
 <style>
-  .dropdown-menu,
-  .grand-dropdown {
-    @apply hidden;
-  }
 
-  .group:hover > .dropdown-menu,
-  .child-dropdown:hover > .grand-dropdown {
-    @apply block;
-  }
+	.dropdown-menu,
+	.grand-dropdown {
+		@apply hidden;
+	}
 
-  .aw-link-active {
-    @apply text-primary font-bold;
-  }
+	.group:hover > .dropdown-menu,
+	.child-dropdown:hover > .grand-dropdown {
+		@apply block;
+	}
 
-  @media (max-width: 768px) {
-    .dropdown-menu,
-    .grand-dropdown {
-      @apply relative left-0 top-0 mt-1;
-    }
-  }
+	.aw-link-active {
+		@apply text-primary font-bold;
+	}
+
+	@media (max-width: 768px) {
+		.dropdown-menu,
+		.grand-dropdown {
+			@apply relative left-0 top-0 mt-1;
+		}
+	}
+
 </style>
