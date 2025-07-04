@@ -4,10 +4,10 @@ title: Lịch sử phiên bản, cấu hình hệ thống
 description: Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai thể hiện kỹ năng viết, vốn hiểu biết và sự chiêm nghiệm với những điều đã trải qua.
 image: https://banmaixanh.vercel.app/image/cover/001-027.jpg
 tags:
-	- nhavantuonglai
-	- thong tin he thong
-	- phien ban
-	- cap nhat
+  - nhavantuonglai
+  - thong tin he thong
+  - phien ban
+  - cap nhat
 ---
 
 _Thông qua nhiều hình thức và nội dung trình bày, nhavantuonglai thể hiện kỹ năng viết, vốn hiểu biết và sự chiêm nghiệm với những điều đã trải qua. Chúng là những dòng văn vừa mang nặng tính cá nhân, lại rất phổ quát và sâu sắc._

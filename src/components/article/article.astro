@@ -6,70 +6,60 @@ import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';
 
 export interface Props {
-	posts: Array<Post>;
-	layout?: 'grid' | 'list';
-	variant?: 'compact' | 'detailed';
+  posts: Array<Post>;
+  layout?: 'grid' | 'list';
+  variant?: 'compact' | 'detailed';
 }
 
 const { posts, layout = 'grid', variant = 'compact' } = Astro.props;
 const commonClasses = "max-w-3xl mx-auto";
 
 const truncateText = (text: string, maxWords: number, isTitle: boolean = false) => {
-	const words = text.match(/[^\s,]+/g) || [];
-	const truncated = words.slice(0, maxWords).join(' ');
-	return isTitle && text.length > maxWords ? truncated + '…' : truncated + (words.length > maxWords ? '…' : '');
+  const words = text.match(/[^\s,]+/g) || [];
+  const truncated = words.slice(0, maxWords).join(' ');
+  return isTitle && text.length > maxWords ? truncated + '…' : truncated + (words.length > maxWords ? '…' : '');
 };
 ---
 
 {posts && posts.length > 0 && (
-
-	<div class={layout === 'grid' ? 'grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-2' : 'list-none'}>
-
-		{posts.map(async (post) => {
-			const image = await findImage(post.image) as ImageMetadata | string | undefined;
-			const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 'javascript:void(0)';
-
-			return (
-
-				<article
-					class={`mb-6 p-6 rounded-lg w-full bg-white ${
-						layout === 'grid' ? '' : 'text-justify md:mb-62'
-					} ${variant === 'detailed' && image ? 'md:grid md:grid-cols-2 md:gap-8' : ''}`}
-				>
-
-					{image && (
-						<a class="relative block group mb-6" href={link} target="_blank">
-							<div class="relative m-auto max-w-5xl">
-								<Image
-									src={image}
-									alt={post.title}
-									title={post.title}
-								/>
-							</div>
-						</a>
-					)}
-
-					<div>
-
-						<h3 class={variant === 'detailed' ? commonClasses : ''}>
-							{APP_BLOG?.post?.isEnabled ? (
-								<a href={link} class="hover:text-primary" target="_blank">
-									{truncateText(post.title, 60, true)}
-								</a>
-							) : (
-								truncateText(post.title, 60, true)
-							)}
-						</h3>
-
-						{post.description && (
-							<p class="text-xl">{truncateText(post.description, variant === 'compact' ? 30 : 30)}</p>
-						)}
-
-					</div>
-
-				</article>
-			);
-		})}
-
-	</div>
+  <div class={layout === 'grid' ? 'grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-2' : 'list-none'}>
+    {posts.map(async (post) => {
+      const image = await findImage(post.image) as ImageMetadata | string | undefined;
+      const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 'javascript:void(0)';
+      
+      return (
+        <article
+          class={`mb-6 p-6 rounded-lg w-full bg-white ${
+            layout === 'grid' ? '' : 'text-justify md:mb-62'
+          } ${variant === 'detailed' && image ? 'md:grid md:grid-cols-2 md:gap-8' : ''}`}
+        >
+          {image && (
+            <a class="relative block group" href={link} target="_blank">
+              <div class="relative m-auto max-w-5xl">
+                <Image
+                  src={image}
+                  alt={post.title}
+                  title={post.title}
+                />
+              </div>
+            </a>
+          )}
+          <div>
+            <h3 class={variant === 'detailed' ? commonClasses : ''}>
+              {APP_BLOG?.post?.isEnabled ? (
+                <a href={link} class="hover:text-primary" target="_blank">
+                  {truncateText(post.title, 60, true)}
+                </a>
+              ) : (
+                truncateText(post.title, 60, true)
+              )}
+            </h3>
+            {post.description && (
+              <p class="text-xl">{truncateText(post.description, variant === 'compact' ? 30 : 30)}</p>
+            )}
+          </div>
+        </article>
+      );
+    })}
+  </div>
 )}

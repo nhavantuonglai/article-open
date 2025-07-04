@@ -6,7 +6,6 @@ export interface Props {
 	frontmatter: {
 		title?: string;
 		description?: string;
-		image?: string;
 	};
 }
 
@@ -14,13 +13,10 @@ const { frontmatter } = Astro.props;
 
 const metadata: MetaData = {
 	title: frontmatter?.title,
-	description: frontmatter?.description,
-	openGraph: frontmatter?.image ? { image: { url: frontmatter.image } } : undefined,
 };
 
 const base = "max-w-3xl mx-auto";
 const text = "text-justify";
-const proseClasses = "prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]";
 ---
 
 <Layout metadata={metadata}>
@@ -35,19 +31,19 @@ const proseClasses = "prose prose-xl md:text-2xl prose-headings:font-heading pro
 					{frontmatter.title}
 				</h1>
 
-				{frontmatter.description && (
-					<p class={`${base} ${text} text-xl md:text-2xl mt-4 mb-6`}>
-						{frontmatter.description}
-					</p>
-				)}
+				<p class={`${base} ${text} text-xl md:text-2xl mt-4 mb-6`}>
+					{frontmatter.description}
+				</p>
 
 			</header>
 
+
+
 			<div>
 
-				<div class={`${base} ${text} ${proseClasses}`}>
-					<slot/>
-				</div>
+				<div class={`${base} ${text} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
+
+					<slot/> 
 
 			</div>
 

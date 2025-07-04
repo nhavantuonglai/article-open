@@ -3,10 +3,10 @@ import { getPermalink } from '~/utils/permalinks';
 import Button from '~/components/ui/button.astro';
 
 export interface Props {
-	prevUrl?: string;
-	nextUrl?: string;
-	prevText?: string;
-	nextText?: string;
+  prevUrl?: string;
+  nextUrl?: string;
+  prevText?: string;
+  nextText?: string;
 }
 
 const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Astro.props;
@@ -14,23 +14,18 @@ const commonClasses = "btn";
 ---
 
 {(prevUrl || nextUrl) && (
-
-	<div class="w-full mb-6">
-		<div class="flex flex-row mx-auto justify-between">
-
-			{prevUrl && (
-				<Button href={getPermalink(prevUrl)} class={commonClasses} variant="link">
-					<span class="ml-2">{prevText}</span>
-				</Button>
-			)}
-
-			{nextUrl && (
-				<Button href={getPermalink(nextUrl)} class={commonClasses} variant="link">
-					<span class="mr-2">{nextText}</span>
-				</Button>
-			)}
-
-		</div>
-	</div>
-
+  <div class="w-full mb-6">
+    <div class="flex flex-row mx-auto justify-between">
+      {prevUrl && (
+        <Button href={getPermalink(prevUrl)} class={commonClasses} variant="link">
+          <span class="ml-2">{prevText}</span>
+        </Button>
+      )}
+      {nextUrl && (
+        <Button href={getPermalink(nextUrl)} class={commonClasses} variant="link">
+          <span class="mr-2">{nextText}</span>
+        </Button>
+      )}
+    </div>
+  </div>
 )}

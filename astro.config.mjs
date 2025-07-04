@@ -11,7 +11,7 @@ import astrowind from './src/integration';
 import { 
 	readingTimeRemarkPlugin, 
 	responsiveTablesRehypePlugin, 
-	lazyLoadPlugin
+	lazyImagesRehypePlugin 
 } from './src/utils/frontmatter.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -25,32 +25,43 @@ const whenExternalScripts = (items = []) =>
 		: [];
 
 export default defineConfig({
+
 	output: 'static',
+
 	integrations: [
+
 		react(),
 		tailwind({
 			applyBaseStyles: false,
 		}),
+
 		sitemap(),
+
 		mdx(),
+
 		...whenExternalScripts(() =>
 			partytown({
 				config: { forward: ['dataLayer.push'] },
 			})
 		),
+
 		astrowind(),
 	],
+
 	markdown: {
 		remarkPlugins: [readingTimeRemarkPlugin],
-		rehypePlugins: [responsiveTablesRehypePlugin, lazyLoadPlugin],
+		rehypePlugins: [responsiveTablesRehypePlugin, lazyImagesRehypePlugin],
 	},
+
 	vite: {
+
 		resolve: {
 			alias: {
 				'~': path.resolve(__dirname, './src'),
-				'nhavantuonglai:config': path.resolve(__dirname, './src/integration/utils/config-builder.ts'), // Thêm alias
 			},
-			extensions: ['.js', '.ts'],
+			extensions: ['.js', '.ts']
 		},
+
 	},
+
 });

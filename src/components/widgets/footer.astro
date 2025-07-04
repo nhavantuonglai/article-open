@@ -7,21 +7,21 @@ import DCMA from '~/components/javascript/dcma.astro';
 import Address from '~/components/javascript/address.astro';
 
 interface Link {
-	text?: string;
-	href?: string;
-	ariaLabel?: string;
+  text?: string;
+  href?: string;
+  ariaLabel?: string;
 }
 
 interface Links {
-	title?: string;
-	links: Array<Link>;
+  title?: string;
+  links: Array<Link>;
 }
 
 export interface Props {
-	links: Array<Links>;
-	secondaryLinks: Array<Link>;
-	socialLinks: Array<Link>;
-	footNote?: string;
+  links: Array<Links>;
+  secondaryLinks: Array<Link>;
+  socialLinks: Array<Link>;
+  footNote?: string;
 }
 
 const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Astro.props;
@@ -29,41 +29,28 @@ const commonClasses = "max-w-7xl mx-auto px-4 sm:px-6";
 ---
 
 <footer class="relative not-prose bg-white border-t border-gray-200">
-
-	<div class={`${commonClasses} py-12`}>
-
-		<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
-
-			<div class="w-full">
-				<div class="grid grid-cols-1 gap-6">
-
-					<DCMA/>
-
-					<Since/>
-
-				</div>
-			</div>
-
-			<div class="w-full">
-				<div class="space-y-6">
-
-					<div>
-						<Address/>
-					</div>
-
-					{secondaryLinks.length > 0 && (
-						<div class="flex flex-wrap gap-4">
-							{secondaryLinks.map(({ text, href }) => (
-								text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} target="_blank" set:html={text}/>
-							))}
-						</div>
-					)}
-
-				</div>
-			</div>
-
-		</div>
-
-	</div>
-
+  <div class={`${commonClasses} py-12`}>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+      <div class="w-full">
+        <div class="grid grid-cols-1 gap-6">
+          <DCMA/>
+          <Since/>
+        </div>
+      </div>
+      <div class="w-full">
+        <div class="space-y-6">
+          <div>
+            <Address/>
+          </div>
+          {secondaryLinks.length > 0 && (
+            <div class="flex flex-wrap gap-4">
+              {secondaryLinks.map(({ text, href }) => (
+                text && href && <a class="text-sm text-gray-500 hover:text-primary" href={href} target="_blank" set:html={text}/>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>

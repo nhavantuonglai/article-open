@@ -3,50 +3,44 @@ import { twMerge } from 'tailwind-merge';
 import type { CallToAction as Props } from '~/types';
 
 export interface Props {
-	text?: string;
-	class?: string;
-	type?: string;
-	href?: string;
-	target?: string;
-	[key: string]: any;
+  text?: string;
+  class?: string;
+  type?: string;
+  href?: string;
+  target?: string;
+  [key: string]: any;
 }
 
 const {
-	text = Astro.slots.render('default'),
-	class: className = '',
-	type,
-	href,
-	target,
-	...rest
+  text = Astro.slots.render('default'),
+  class: className = '',
+  type,
+  href,
+  target,
+  ...rest
 } = Astro.props;
 
 const baseClass = twMerge('btn', className);
 ---
 
 {text && (
-
-	type === 'submit' ? (
-		<button type="submit" class={baseClass} {...rest}>
-			{text}
-		</button>
-	) : href ? (
-
-		<a
-			href={href}
-			class={baseClass}
-			target={target}
-			rel={target === '_blank' ? 'noopener noreferrer' : undefined}
-			{...rest}
-		>
-
-			{text}
-
-		</a>
-
-	) : (
-		<button type="button" class={baseClass} {...rest}>
-			{text}
-		</button>
-	)
-
+  type === 'submit' ? (
+    <button type="submit" class={baseClass} {...rest}>
+      {text}
+    </button>
+  ) : href ? (
+    <a
+      href={href}
+      class={baseClass}
+      target={target}
+      rel={target === '_blank' ? 'noopener noreferrer' : undefined}
+      {...rest}
+    >
+      {text}
+    </a>
+  ) : (
+    <button type="button" class={baseClass} {...rest}>
+      {text}
+    </button>
+  )
 )}

@@ -7,67 +7,58 @@ import { findLatestPosts, findPostsByIds, fetchPosts, getRelatedPosts } from '~/
 import type { Widget, Post } from '~/types';
 
 export interface Props extends Widget {
-	title?: string;
-	linkText?: string;
-	linkUrl?: string | URL;
-	information?: string;
-	mode?: 'latest' | 'related' | 'highlighted';
-	postIds?: string[];
-	slug?: string;
-	count?: number;
+  title?: string;
+  linkText?: string;
+  linkUrl?: string | URL;
+  information?: string;
+  mode?: 'latest' | 'related' | 'highlighted';
+  postIds?: string[];
+  slug?: string;
+  count?: number;
 }
 
 const {
-	title = await Astro.slots.render('title') || 'Bài viết gần đây',
-	linkText = 'Xem tất cả',
-	linkUrl = getBlogPermalink(),
-	information = await Astro.slots.render('information'),
-	mode = 'latest',
-	postIds = [],
-	slug,
-	count = 6,
-	id,
-	classes = {},
-	bg = await Astro.slots.render('bg'),
+  title = await Astro.slots.render('title') || 'Bài viết gần đây',
+  linkText = 'Xem tất cả',
+  linkUrl = getBlogPermalink(),
+  information = await Astro.slots.render('information'),
+  mode = 'latest',
+  postIds = [],
+  slug,
+  count = 6,
+  id,
+  classes = {},
+  bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
 const containerClasses = "relative mx-auto max-w-7xl px-4 md:px-6 text-default";
 
 let posts: Post[] = [];
 if (APP_BLOG.isEnabled) {
-	if (mode === 'latest') {
-		posts = await findLatestPosts({ count });
-	} else if (mode === 'highlighted') {
-		posts = await findPostsByIds(postIds);
-	} else if (mode === 'related' && slug) {
-		const fetchedPosts = await fetchPosts();
-		posts = getRelatedPosts(fetchedPosts, slug).sort(() => Math.random() - 0.5).slice(0, count);
-	}
+  if (mode === 'latest') {
+    posts = await findLatestPosts({ count });
+  } else if (mode === 'highlighted') {
+    posts = await findPostsByIds(postIds);
+  } else if (mode === 'related' && slug) {
+    const fetchedPosts = await fetchPosts();
+    posts = getRelatedPosts(fetchedPosts, slug).sort(() => Math.random() - 0.5).slice(0, count);
+  }
 }
 ---
 
 {posts.length > 0 && (
-
-	<Container id={id} containerClass={`${containerClasses} ${classes?.container || ''}`} bg={bg} class="mb-6 md:mb-62">
-
-		<div class="flex flex-col lg:justify-between lg:flex-row mb-6">
-			<div class="md:max-w-sm">
-				<h2 set:html={title}/>
-
-				{APP_BLOG.list.isEnabled && linkText && linkUrl && (
-					<a class="text-muted hover:text-primary block mb-6 lg:mb-0" href={linkUrl} target="_blank">
-						{linkText} »
-					</a>
-				)}
-
-			</div>
-
-			{information && <p class="text-muted lg:text-sm lg:max-w-md" set:html={information}/>}
-
-		</div>
-
-		<PostList posts={posts} layout="grid" variant="compact"/>
-
-	</Container>
-
+  <Container id={id} containerClass={`${containerClasses} ${classes?.container || ''}`} bg={bg} class="mb-6 md:mb-62">
+    <div class="flex flex-col lg:justify-between lg:flex-row mb-6">
+      <div class="md:max-w-sm">
+        <h2 set:html={title} />
+        {APP_BLOG.list.isEnabled && linkText && linkUrl && (
+          <a class="text-muted hover:text-primary block mb-6 lg:mb-0" href={linkUrl} target="_blank">
+            {linkText} »
+          </a>
+        )}
+      </div>
+      {information && <p class="text-muted lg:text-sm lg:max-w-md" set:html={information} />}
+    </div>
+    <PostList posts={posts} layout="grid" variant="compact" />
+  </Container>
 )}

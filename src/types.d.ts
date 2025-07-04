@@ -49,7 +49,6 @@ export interface ImageData {
 	alt: string;
 	width?: number;
 	height?: number;
-	loading: lazy;
 }
 
 export interface Hero extends BaseComponent {

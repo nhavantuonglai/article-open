@@ -3,15 +3,16 @@ pubDatetime: 2023-02-27T10:10:00Z
 title: Hướng dẫn trải nghiệm, khám phá Huế của người bản địa
 description: Bài viết này sẽ mang đến một góc nhìn khác, liệt kê những trải nghiệm giúp du khách phương xa khám phá Huế như một người bản địa, sống đơn thuần với nhịp điệu vốn có của nơi này.
 image: https://images.pexels.com/photos/32839490/pexels-photo-32839490.jpeg
+draft: false
 tags:
-	- viet lach
-	- doan van
-	- cam nang du lich
-	- du lich mien trung
-	- du lich hue
-	- di choi hue
-	- cam nang du lich hue
-	- du lich ban dia
+  - viet lach
+  - doan van
+  - cam nang du lich
+  - du lich mien trung
+  - du lich hue
+  - di choi hue
+  - cam nang du lich hue
+  - du lich ban dia
 ---
 
 _Dạo gần đây, Huế nổi lên như một điểm du lịch thú vị với nhiều trải nghiệm hấp dẫn để du khách khám phá. Bài viết này sẽ mang đến một góc nhìn khác, liệt kê những trải nghiệm giúp du khách phương xa khám phá Huế như một người bản địa, sống đơn thuần với nhịp điệu vốn có của nơi này._
