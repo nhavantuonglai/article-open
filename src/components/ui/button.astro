@@ -23,28 +23,30 @@ const {
 const baseClass = twMerge('btn', className);
 ---
 
-{type === 'submit' ? (
-	<button type="submit" class={baseClass} {...rest}>
-		<Fragment set:html={text} />
-	</button>
-) : href ? (
+{text && (
 
-	<a
-		href={href}
-		class={baseClass}
-		target={target}
-		rel={target === '_blank' ? 'noopener noreferrer' : undefined}
-		{...rest}
-	>
+	type === 'submit' ? (
+		<button type="submit" class={baseClass} {...rest}>
+			{text}
+		</button>
+	) : href ? (
 
-		<Fragment set:html={text} />
+		<a
+			href={href}
+			class={baseClass}
+			target={target}
+			rel={target === '_blank' ? 'noopener noreferrer' : undefined}
+			{...rest}
+		>
 
-	</a>
+			{text}
 
-) : (
+		</a>
 
-	<button type="button" class={baseClass} {...rest}>
-		<Fragment set:html={text} />
-	</button>
+	) : (
+		<button type="button" class={baseClass} {...rest}>
+			{text}
+		</button>
+	)
 
 )}

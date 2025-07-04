@@ -23,13 +23,15 @@ const Wrapper = as;
 <Wrapper class="relative not-prose scroll-mt-[72px]" {...(id && { id })}>
 
 	<div class={twMerge('absolute inset-0 pointer-events-none -z-[1]', containerClass)} aria-hidden="true">
+
 		<slot name="bg">
-			{bg && <Fragment set:html={bg} />}
+			{bg && <Fragment set:html={bg}/>}
 		</slot>
+
 	</div>
 
-	<div class={twMerge('mb-6 md:mb-62 relative mx-auto max-w-7xl px-4 md:px-6 text-default', containerClass)}>
-		<slot />
+	<div class={twMerge('container mb-6 md:mb-62 text-muted', containerClass)}>
+		<slot/>
 	</div>
 
 </Wrapper>

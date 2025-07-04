@@ -1,7 +1,6 @@
 <script client:load>
 
-	document.addEventListener('DOMContentLoaded', function() {
-
+	document.addEventListener('DOMContentLoaded', () => {
 		const style = document.createElement('style');
 		style.textContent = `
 			::selection {
@@ -14,52 +13,41 @@
 			}
 		`;
 		document.head.appendChild(style);
-		
-		document.addEventListener('mouseup', function() {
+
+		const handleSelection = () => {
 			const selection = window.getSelection();
 			const selectedText = selection.toString();
-			
-			if (selectedText && selectedText.length > 0) {
+			return selectedText && selectedText.length > 0 ? selectedText : null;
+		};
+
+		document.addEventListener('mouseup', () => {
+			const selectedText = handleSelection();
+			if (selectedText) {
 				document.execCommand('copy');
 			}
 		});
-		
-		document.addEventListener('copy', function(e) {
 
-			const selection = window.getSelection();
-			const selectedText = selection.toString();
-			
-			if (selectedText && selectedText.length > 0) {
-				let trimmedText = selectedText;
-				
-				if (selectedText.length > 500) {
-					trimmedText = selectedText.substring(0, 500) + "…";
-				}
-				
+		document.addEventListener('copy', (e) => {
+			const selectedText = handleSelection();
+			if (selectedText) {
+				const trimmedText = selectedText.length > 500 ? selectedText.substring(0, 500) + "…" : selectedText;
 				const currentUrl = window.location.href;
-				const modifiedText = trimmedText + "\n\nĐọc bài chi tiết tại: " + currentUrl;
-				
+				const modifiedText = `${trimmedText}\n\nĐọc bài chi tiết tại: ${currentUrl}`;
 				e.clipboardData.setData('text/plain', modifiedText);
 				e.preventDefault();
 			}
 		});
 
-		document.oncontextmenu = function() {
-			return false
-		}
-		
-		function preventRightClickNS(e) {
-			if (e.which == 3)
-				{(which == 3)
-				return false
-			}
-		}
-		
+		const preventRightClick = (e) => {
+			if (e.which === 3) return false;
+		};
+
+		document.oncontextmenu = () => false;
 		if (document.layers) {
 			document.captureEvents(Event.MOUSEDOWN);
-			document.onmousedown = preventRightClickNS;
+			document.onmousedown = preventRightClick;
 		} else {
-			document.onmouseup = preventRightClickNS;
+			document.onmouseup = preventRightClick;
 		}
 	});
 

@@ -1,6 +1,6 @@
 ---
-import Logo from "~/assets/logo.astro";
-import { getHomePermalink, trimSlash } from "~/utils/permalinks";
+import { getHomePermalink, trim } from "~/utils/permalinks";
+import { UI } from 'nhavantuonglai:config';
 
 interface Link {
 	text?: string;
@@ -20,54 +20,69 @@ export interface Props {
 
 const {
 	id = "header",
-	links = headerData.links,
+	links = headerData?.links || [
+		{ text: 'Home', href: '/' },
+		{ text: 'Blog', href: '/article' },
+	],
 } = Astro.props;
 
-const pathcurrent = `/${trimSlash(new URL(Astro.url).pathname)}`;
-const pathcurrentDisplay = pathcurrent.replace(" | nhavantuonglai", "");
-const pathsegment = pathcurrentDisplay.split('/').filter(Boolean);
+const pathcurrent = `/${trim(new URL(Astro.url).pathname, '/')}`;
+const pathsegment = pathcurrent.split('/').filter(Boolean);
 const pathlink = pathsegment.map((segment, i) => ({
 	text: segment,
 	path: `/${pathsegment.slice(0, i + 1).join('/')}`
 }));
 
-const baselink = "text-sm hover:text-primary px-3 flex items-center";
-const menuitem = `${baselink} py-0.5 text-ellipsis whitespace-nowrap overflow-hidden`;
-const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
+const baselink = UI?.header?.classes?.baselink ?? "text-sm hover:text-primary px-3 flex items-center";
+const menuitem = UI?.header?.classes?.menuitem ?? `${baselink} py-0.5 text-ellipsis whitespace-nowrap overflow-hidden`;
+const dropitem = UI?.header?.classes?.dropitem ?? `${baselink} py-1.5 mb-1 w-[200px]`;
 ---
 
-<div class="h-[24px] w-full">
+<div class="h-16 w-full">
 
 	<header
 		class="fixed top-0 left-0 right-0 w-full z-50 bg-white/80 backdrop-blur-sm border-b border-gray-200/50"
 		{...id ? { id } : {}}
 	>
 
-		<div class="relative text-default py-0.5 px-2 mx-auto w-full flex items-center justify-start">
-			<nav class="items-center flex text-default" aria-label="navigation">
+		<div class="relative text-default py-2 px-4 mx-auto max-w-7xl flex items-center justify-start">
+			<nav class="items-center flex text-default" aria-label="Main navigation">
 				<ul class="flex flex-row text-sm tracking-tight font-medium">
 
-					{links.map(({ text, href, links: linkchild }, index) => (
+					{links.map(({ text, href, links: linkchild, ariaLabel }, index) => (
 						<li key={index} class={linkchild?.length ? "dropdown relative group" : ""}>
 
 							{linkchild?.length ? (
 								<>
 
-									<span class={`${menuitem} text-gray-800 cursor-default`}>
+									<button
+										class={`${menuitem} text-gray-800 cursor-default`}
+										aria-label={ariaLabel || text}
+										aria-expanded="false"
+										data-dropdown-toggle={`dropdown-${index}`}
+									>
+
 										{text}
-									</span>
 
-									<ul class="dropdown-menu absolute left-0 top-full mt-0.5 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md">
+									</button>
 
-										{linkchild.map(({ text: textchild, href: hrefchild, links: linkgrand }, subchild) => (
+									<ul
+										id={`dropdown-${index}`}
+										class="dropdown-menu absolute left-0 top-full mt-0.5 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
+									>
+
+										{linkchild.map(({ text: textchild, href: hrefchild, links: linkgrand, ariaLabel: ariaLabelChild }, subchild) => (
 											<li key={subchild} class={linkgrand?.length ? "child-dropdown relative" : ""}>
+
 												<a
 													class:list={[
 														dropitem,
 														{ "aw-link-active": hrefchild === pathcurrent },
 													]}
 													href={hrefchild}
-													target="_blank"
+													aria-label={ariaLabelChild || textchild}
+													target={/^https?:\/\//.test(hrefchild) ? "_blank" : undefined}
+													rel={/^https?:\/\//.test(hrefchild) ? "noopener" : undefined}
 												>
 													<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
 														{textchild}
@@ -75,23 +90,36 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 												</a>
 
 												{linkgrand?.length && (
-													<ul class="grand-dropdown absolute left-full top-0 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md">
-														{linkgrand.map(({ text: textgrand, href: hrefgrand }, subgrand) => (
+													<ul
+														id={`grand-dropdown-${index}-${subchild}`}
+														class="grand-dropdown absolute left-full top-0 bg-white/90 backdrop-blur-sm rounded-lg min-w-[160px] shadow-md hidden"
+													>
+
+														{linkgrand.map(({ text: textgrand, href: hrefgrand, ariaLabel: ariaLabelGrand }, subgrand) => (
 															<li key={subgrand}>
+
 																<a
 																	class:list={[
 																		dropitem,
 																		{ "aw-link-active": hrefgrand === pathcurrent },
 																	]}
 																	href={hrefgrand}
-																	target="_blank"
+																	aria-label={ariaLabelGrand || textgrand}
+																	target={/^https?:\/\//.test(hrefgrand) ? "_blank" : undefined}
+																	rel={/^https?:\/\//.test(hrefgrand) ? "noopener" : undefined}
 																>
+
 																	<span class="block text-ellipsis whitespace-nowrap overflow-hidden">
+
 																		{textgrand}
+
 																	</span>
+
 																</a>
+
 															</li>
 														))}
+
 													</ul>
 												)}
 
@@ -101,16 +129,20 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 									</ul>
 								</>
 							) : (
+
 								<a
 									class:list={[
 										menuitem,
 										{ "aw-link-active": href === pathcurrent },
 									]}
 									href={href}
-									target="_blank"
+									aria-label={ariaLabel || text}
+									target={/^https?:\/\//.test(href) ? "_blank" : undefined}
+									rel={/^https?:\/\//.test(href) ? "noopener" : undefined}
 								>
 									{text}
 								</a>
+
 							)}
 
 						</li>
@@ -126,21 +158,23 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 										{ "aw-link-active": idx === pathlink.slice(-2).length - 1 },
 									]}
 									href={segment.path}
-									target="_blank"
+									aria-label={`Breadcrumb: ${segment.text}`}
+									target={/^https?:\/\//.test(segment.path) ? "_blank" : undefined}
+									rel={/^https?:\/\//.test(segment.path) ? "noopener" : undefined}
 								>
+
 									{`/${segment.text}`}
+
 								</a>
 
 							</li>
 						))
 					) : (
+
 						<li>
-
-							<a class:list={[menuitem, "aw-link-active"]} href="/" target="_blank">
-								/
-							</a>
-
+							<a class:list={[menuitem, "aw-link-active"]} href="/" aria-label="Home">/</a>
 						</li>
+
 					)}
 
 				</ul>
@@ -148,23 +182,64 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 		</div>
 
 	</header>
-
 </div>
 
 <script>
 
 	const header = document.querySelector("header");
 	let lastScrollTop = 0;
+	let ticking = false;
 
-	window.addEventListener("scroll", () => {
-		let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-		header.style.transform = scrollTop > lastScrollTop ? "translateY(-100%)" : "translateY(0)";
-		lastScrollTop = Math.max(scrollTop, 0);
-	});
+	if (header) {
+		window.addEventListener("scroll", () => {
+			if (!ticking) {
+				window.requestAnimationFrame(() => {
+					let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+					header.style.transform = scrollTop > lastScrollTop ? "translateY(-100%)" : "translateY(0)";
+					header.style.transition = "transform 0.3s ease";
+					lastScrollTop = Math.max(scrollTop, 0);
+					ticking = false;
+				});
+				ticking = true;
+			}
+		});
 
-	document.addEventListener("mousemove", (e) => {
-		if (e.clientY < 50) header.style.transform = "translateY(0)";
-	});
+		document.addEventListener("mousemove", (e) => {
+			if (e.clientY < 50) {
+				header.style.transform = "translateY(0)";
+				header.style.transition = "transform 0.3s ease";
+			}
+		});
+
+		document.querySelectorAll(".dropdown > button").forEach((button) => {
+			button.addEventListener("click", () => {
+				const dropdown = button.nextElementSibling;
+				const isOpen = !dropdown.classList.contains("hidden");
+				document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+				dropdown.classList.toggle("hidden", isOpen);
+				button.setAttribute("aria-expanded", (!isOpen).toString());
+			});
+		});
+
+		document.querySelectorAll(".child-dropdown > a").forEach((link) => {
+			link.addEventListener("click", (e) => {
+				const grandDropdown = link.nextElementSibling;
+				if (grandDropdown) {
+					e.preventDefault();
+					const isOpen = !grandDropdown.classList.contains("hidden");
+					document.querySelectorAll(".grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+					grandDropdown.classList.toggle("hidden", isOpen);
+				}
+			});
+		});
+
+		document.addEventListener("click", (e) => {
+			if (!e.target.closest(".dropdown")) {
+				document.querySelectorAll(".dropdown-menu, .grand-dropdown").forEach((menu) => menu.classList.add("hidden"));
+				document.querySelectorAll(".dropdown > button").forEach((btn) => btn.setAttribute("aria-expanded", "false"));
+			}
+		});
+	}
 
 </script>
 
@@ -182,6 +257,13 @@ const dropitem = `${baselink} py-1.5 mb-1 w-[200px]`;
 
 	.aw-link-active {
 		@apply text-primary font-bold;
+	}
+
+	@media (max-width: 768px) {
+		.dropdown-menu,
+		.grand-dropdown {
+			@apply relative left-0 top-0 mt-1;
+		}
 	}
 
 </style>

@@ -2,7 +2,6 @@
 import merge from 'lodash.merge';
 import { AstroSeo } from '@astrolib/seo';
 import type { Props as AstroSeoProps } from '@astrolib/seo';
-
 import { SITE, METADATA, I18N } from 'nhavantuonglai:config';
 import type { MetaData } from '~/types';
 import { getCanonical } from '~/utils/permalinks';
@@ -22,12 +21,20 @@ const {
 	twitter = {},
 } = Astro.props;
 
+const imageProps = openGraph.images?.map((img) => typeof img === 'string' ? {
+	url: img,
+	alt: 'Văn hay trong hiện tại, chữ tốt ở tương lai.',
+	width: 1200,
+	height: 626
+} : img) || [];
+
 const defaultSeoProps: AstroSeoProps = {
 	title: METADATA?.title?.default,
 	titleTemplate: METADATA?.title?.template,
 	noindex: METADATA?.robots?.index === false,
 	nofollow: METADATA?.robots?.follow === false,
 	description: METADATA?.description,
+	canonical,
 	openGraph: {
 		url: canonical,
 		site_name: SITE?.name,
@@ -35,12 +42,11 @@ const defaultSeoProps: AstroSeoProps = {
 		description: description || METADATA?.description,
 		type: 'website',
 		locale: METADATA?.openGraph?.locale || 'vi_VN',
-		images: [{
-			url: METADATA?.openGraph?.image?.url,
+		images: imageProps.length ? imageProps : [{
+			url: METADATA?.openGraph?.image?.url || '',
 			width: METADATA?.openGraph?.image?.width,
 			height: METADATA?.openGraph?.image?.height,
-			alt: METADATA?.openGraph?.image?.alt,
-			loading: "lazy",
+			alt: METADATA?.openGraph?.image?.alt || 'Văn hay trong hiện tại, chữ tốt ở tương lai.',
 		}],
 	},
 	twitter: {
@@ -48,7 +54,7 @@ const defaultSeoProps: AstroSeoProps = {
 		site: METADATA?.twitter?.site,
 		creator: METADATA?.twitter?.creator,
 		title: title || METADATA?.title?.default,
-		description: METADATA?.twitter?.description,
+		description: description || METADATA?.twitter?.description,
 		image: METADATA?.twitter?.image,
 	},
 };
@@ -64,10 +70,11 @@ const seoProps: AstroSeoProps = merge({}, defaultSeoProps, {
 		url: canonical,
 		title: title || METADATA?.title?.default,
 		description: description || METADATA?.description,
-		...openGraph 
+		...openGraph,
+		images: imageProps,
 	},
-	twitter: METADATA?.twitter,
+	twitter,
 });
 ---
 
-<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site) }} />
+<AstroSeo {...{ ...seoProps, openGraph: await adaptOpenGraphImages(seoProps.openGraph, Astro.site) }}/>

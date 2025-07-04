@@ -14,10 +14,10 @@ const {
 	class: text = 'text-sm', 
 	title 
 } = Astro.props;
+const commonClasses = "bg-gray-100 inline-block mr-2 rtl:mr-0 rtl:ml-2 mb-6 py-0.5 px-2 lowercase font-medium";
 ---
 
 {tags && tags.length > 0 && (
-
 	<>
 
 		{title && <span class="align-super font-normal underline underline-offset-4 decoration-2">{title}</span>}
@@ -25,12 +25,9 @@ const {
 		<ul class={text}>
 
 			{tags.map((tag) => (
+				<li class={commonClasses}>
 
-				<li class="bg-gray-100 inline-block mr-2 rtl:mr-0 rtl:ml-2 mb-6 py-0.5 px-2 lowercase font-medium">
-
-					{!APP_BLOG?.tag?.isEnabled ? (
-						tag
-					) : (
+					{APP_BLOG.tag?.isEnabled ? (
 
 						<a
 							href={getPermalink(tag, 'tag')}
@@ -41,13 +38,15 @@ const {
 							{tag}
 
 						</a>
+
+					) : (
+						tag
 					)}
 
 				</li>
-
 			))}
 
 		</ul>
-	</>
 
+	</>
 )}

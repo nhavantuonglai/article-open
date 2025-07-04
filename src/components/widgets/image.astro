@@ -1,0 +1,29 @@
+---
+import Image from '~/components/common/image.astro';
+import type { ImageMetadata } from 'astro';
+
+export interface Props {
+	src: string | ImageMetadata;
+	alt: string;
+	title?: string;
+	class?: string;
+	widths?: number[];
+	sizes?: string;
+}
+
+const { src, alt, title, class: className = 'mx-auto rounded-md w-full object-cover', widths, sizes } = Astro.props;
+---
+
+<Image
+
+	src={src}
+	class={className}
+	style="aspect-ratio: 4/3;"
+
+	widths={widths || (typeof src === 'string' ? undefined : [400, 768, 1024])}
+	sizes={sizes || (typeof src === 'string' ? undefined : '(max-width: 767px) 400px, (max-width: 1023px) 768px, 1024px')}
+
+	alt={alt}
+	title={title}
+
+/>

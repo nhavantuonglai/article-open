@@ -10,48 +10,27 @@ export interface Props {
 }
 
 const { prevUrl, nextUrl, prevText = 'Mới hơn', nextText = 'Cũ hơn' } = Astro.props;
+const commonClasses = "btn";
 ---
 
-{
+{(prevUrl || nextUrl) && (
 
-	(prevUrl || nextUrl) && (
-
-		<div class="w-full mb-6">
-
-			<div class="flex flex-row mx-auto justify-between">
+	<div class="w-full mb-6">
+		<div class="flex flex-row mx-auto justify-between">
 
 			{prevUrl && (
-
-				<a 
-					href={getPermalink(prevUrl)} 
-					class="btn"
-					variant="link"
-				>
-
+				<Button href={getPermalink(prevUrl)} class={commonClasses} variant="link">
 					<span class="ml-2">{prevText}</span>
-
-				</a>
-
+				</Button>
 			)}
 
 			{nextUrl && (
-
-				<a 
-					href={getPermalink(nextUrl)} 
-					class="btn"
-					variant="link"
-				>
-
+				<Button href={getPermalink(nextUrl)} class={commonClasses} variant="link">
 					<span class="mr-2">{nextText}</span>
-
-				</a>
-
+				</Button>
 			)}
 
-			</div>
-
 		</div>
+	</div>
 
-	)
-
-}
+)}

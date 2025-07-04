@@ -10,8 +10,7 @@ export interface Props {
 
 const { post, url } = Astro.props;
 const { Content } = post;
-const base = "max-w-3xl mx-auto";
-const text = "text-justify";
+const commonClasses = "max-w-3xl mx-auto text-justify";
 ---
 
 <section class="max-w-8xl mx-auto py-20 px-4 sm:px-6 pb-10">
@@ -20,27 +19,29 @@ const text = "text-justify";
 
 		<header>
 
-			<h1 class={`${base} ${text} text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading mt-4 mb-6`}>
+			<h1 class={`${commonClasses} text-4xl md:text-5xl font-bold text-primary leading-tighter tracking-tighter font-heading mt-4 mb-6`}>
 				{post.title}
 			</h1>
 
-			<p class={`${base} ${text} text-xl md:text-2xl mt-4 mb-6`}>
+			<p class={`${commonClasses} text-xl md:text-2xl mt-4 mb-6`}>
 				{post.description}
 			</p>
 
-			<div class={`${base} ${text} text-xl md:text-2xl flex justify-between flex-col sm:flex-row mt-4 mb-6 sm:items-center`}>
-
+			<div class={`${commonClasses} text-xl md:text-2xl flex justify-between flex-col sm:flex-row mt-4 mb-6 sm:items-center`}>
 				<p>
+
 					<time datetime={post.pubDatetime} class="inline-block">
 						{`${new Date(post.pubDatetime)
 							.toLocaleDateString('vi-VN', { day: 'numeric', month: 'numeric', year: 'numeric' })
 							.replace(/(\d{1,2})\/(\d{1,2})\/(\d{4})/, 'Đăng ngày $1 tháng $2 năm $3')}`}
 					</time>
+
 					{post.readingTime && (
 						<>
 							· <span>{post.readingTime}</span> phút đọc
 						</>
 					)}
+
 					· <span id="counter"></span> lượt xem.
 					<script client:load>
 						let count = localStorage.getItem('pageCounter');
@@ -54,22 +55,24 @@ const text = "text-justify";
 						const counterElement = document.getElementById('counter');
 						counterElement.textContent = count;
 					</script>
-				</p>
 
+				</p>
 			</div>
 
 		</header>
 
-		<div class={`${base} ${text} mt-4 mb-6`}>
+		<div class={`${commonClasses} mt-4 mb-6`}>
 			<div id="index"></div>
 		</div>
 
-		<div class={`${base} ${text} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
-			{Content ? <Content /> : <Fragment set:html={post.content || ''} />}
+		<div class={`${commonClasses} prose prose-xl md:text-2xl prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:text-primary prose-h2:font-bold prose-h3:font-bold prose-h3:italic prose-h4:italic prose-a:font-bold prose-a:text-primary prose-a:target-blank prose-img:rounded-md prose-img:w-full prose-img:h-auto mt-4 mb-6 prose-headings:scroll-mt-[20px]`}>
+
+			{Content ? <Content/> : <Fragment set:html={post.content || ''}/>}
+
 		</div>
 
-		<div class={`${base} ${text} flex justify-between flex-col sm:flex-row mt-4 mb-6`}>
-			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5" />
+		<div class={`${commonClasses} flex justify-between flex-col sm:flex-row mt-4 mb-6`}>
+			<PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5"/>
 		</div>
 
 	</article>
@@ -81,7 +84,6 @@ const text = "text-justify";
 	function generateTOC() {
 		const index = document.getElementById('index');
 		const headings = document.querySelectorAll('h2, h3, h4');
-
 		const tocList = document.createElement('ul');
 		let currentParent = null;
 
@@ -115,14 +117,12 @@ const text = "text-justify";
 		});
 
 		index.appendChild(tocList);
-
 		hideLastTOCItems(tocList, 8);
 	}
 
 	function hideLastTOCItems(tocList, count) {
 		const items = tocList.querySelectorAll('li');
 		const totalItems = items.length;
-
 		const itemsToHide = Math.min(count, totalItems);
 
 		for (let i = totalItems - itemsToHide; i < totalItems; i++) {
@@ -130,6 +130,6 @@ const text = "text-justify";
 		}
 	}
 
-	window.onload = generateTOC;
+	window.requestAnimationFrame(generateTOC);
 
 </script>

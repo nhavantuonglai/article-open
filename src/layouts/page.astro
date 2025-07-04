@@ -1,24 +1,30 @@
 ---
 import { headerData, footerData } from '~/navigation';
-
 import Layout from '~/layouts/main.astro';
-
 import Header from '~/components/widgets/header.astro';
 import Footer from '~/components/widgets/footer.astro';
-
 import type { MetaData } from '~/types';
 
 export interface Props {
 	metadata?: MetaData;
+	isSticky?: boolean;
+	showToggleTheme?: boolean;
+	breadcrumbSegments?: number;
 }
 
-const { metadata } = Astro.props;
+const { metadata, isSticky = true, showToggleTheme = true, breadcrumbSegments = 2 } = Astro.props;
 ---
 
 <Layout metadata={metadata}>
 
 	<slot name="header">
-		<Header {...headerData} isSticky showToggleTheme/>
+
+		{headerData && (
+
+			<Header {...headerData} isSticky={isSticky} showToggleTheme={showToggleTheme} breadcrumbSegments={breadcrumbSegments}/>
+
+		)}
+
 	</slot>
 
 	<main>
@@ -26,7 +32,7 @@ const { metadata } = Astro.props;
 	</main>
 
 	<slot name="footer">
-		<Footer {...footerData}/>
+		{footerData && <Footer {...footerData}/>}
 	</slot>
 
 </Layout>

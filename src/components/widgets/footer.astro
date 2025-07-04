@@ -1,7 +1,6 @@
 ---
 import { SITE } from 'nhavantuonglai:config';
 import { getHomePermalink } from '~/utils/permalinks';
-
 import Openstatus from '~/components/javascript/openstatus.astro';
 import Since from '~/components/javascript/since.astro';
 import DCMA from '~/components/javascript/dcma.astro';
@@ -26,10 +25,12 @@ export interface Props {
 }
 
 const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Astro.props;
+const commonClasses = "max-w-7xl mx-auto px-4 sm:px-6";
 ---
 
 <footer class="relative not-prose bg-white border-t border-gray-200">
-	<div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
+
+	<div class={`${commonClasses} py-12`}>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
 
@@ -44,13 +45,10 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 			</div>
 
 			<div class="w-full">
-
 				<div class="space-y-6">
 
 					<div>
-
 						<Address/>
-
 					</div>
 
 					{secondaryLinks.length > 0 && (
@@ -65,6 +63,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '' } = Ast
 			</div>
 
 		</div>
+
 	</div>
 
 </footer>

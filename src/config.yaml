@@ -36,27 +36,36 @@ apps:
   blog:
     isEnabled: true
     postsPerPage: 20
-
     post:
       isEnabled: true
       permalink: "article/%slug%"
       robots:
         index: true
-
     list:
       isEnabled: true
       pathname: "article"
       robots:
         index: true
-
     tag:
       isEnabled: true
       pathname: "tags"
       robots:
         index: true
-
     isRelatedPostsEnabled: true
     relatedPostsCount: 6
 
 ui:
   theme: "system"
+  tokens:
+    colors:
+      default: 'var(--aw-color-default)'
+      muted: 'var(--aw-color-muted)'
+      page: 'var(--aw-color-page)'
+      primary: 'var(--aw-color-primary)'
+
+image:
+  imageSizes: [16, 32, 48, 64, 96, 128, 256, 384]
+  deviceSizes: [640, 750, 828, 960, 1080, 1280, 1668, 1920, 2048, 2560, 3200, 3840, 4480, 5120, 6016]
+  openGraph:
+    defaultWidth: 1200
+    defaultHeight: 626

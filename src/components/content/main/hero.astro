@@ -11,8 +11,10 @@ import Hero from '~/components/widgets/hero.astro';
 		{ variant: 'btn', text: 'Đọc thêm', href: 'https://www.instagram.com/nhavantuonglai' },
 	]}
 
-	image="https://images.pexels.com/photos/32805779/pexels-photo-32805779.jpeg"
-	alt="Văn hay trong hiện tại, chữ tốt ở tương lai."
-	loading="lazy",
+	image={{
+		src: 'https://images.pexels.com/photos/32805779/pexels-photo-32805779.jpeg',
+		alt: 'Văn hay trong hiện tại, chữ tốt ở tương lai.',
+		title: 'Văn hay trong hiện tại, chữ tốt ở tương lai.'
+	}}
 
 />
