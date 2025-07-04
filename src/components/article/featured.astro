@@ -2,7 +2,7 @@
 import { APP_BLOG } from 'nhavantuonglai:config';
 import PostList from '~/components/article/article.astro';
 import Container from '~/components/ui/container.astro';
-import { getBlogPermalink } from '~/utils/permalinks';
+import { getPermalink } from '~/utils/permalinks';
 import { findLatestPosts, findPostsByIds, fetchPosts, getRelatedPosts } from '~/utils/blog';
 import type { Widget, Post } from '~/types';
 
@@ -20,7 +20,7 @@ export interface Props extends Widget {
 const {
   title = await Astro.slots.render('title') || 'Bài viết gần đây',
   linkText = 'Xem tất cả',
-  linkUrl = getBlogPermalink(),
+  linkUrl = getPermalink('', 'blog'), // Use getPermalink with type 'blog'
   information = await Astro.slots.render('information'),
   mode = 'latest',
   postIds = [],
@@ -41,7 +41,8 @@ if (APP_BLOG.isEnabled) {
     posts = await findPostsByIds(postIds);
   } else if (mode === 'related' && slug) {
     const fetchedPosts = await fetchPosts();
-    posts = getRelatedPosts(fetchedPosts, slug).sort(() => Math.random() - 0.5).slice(0, count);
+    const currentPost = fetchedPosts.find(post => post.slug === slug);
+    posts = getRelatedPosts(fetchedPosts, slug, currentPost?.tags || []).slice(0, count);
   }
 }
 ---
