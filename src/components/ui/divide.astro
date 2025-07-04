@@ -4,49 +4,57 @@ import { twMerge } from 'tailwind-merge';
 import Button from '~/components/ui/button.astro';
 
 export interface Props {
-  items?: Array<{
-    title?: string;
-    description?: string;
-    callToAction?: any;
-    classes?: Record<string, string>;
-  }>;
-  columns?: number;
-  classes?: Record<string, string>;
+	items?: Array<{
+		title?: string;
+		description?: string;
+		callToAction?: any;
+		classes?: Record<string, string>;
+	}>;
+	columns?: number;
+	classes?: Record<string, string>;
 }
 
 const { items = [], columns = 2, classes = {} } = Astro.props;
 
 const {
-  container: containerClass = '',
-  panel: panelClass = '',
-  action: actionClass = '',
+	container: containerClass = '',
+	panel: panelClass = '',
+	action: actionClass = '',
 } = classes;
 
 const gridClasses = twMerge(
-  'grid mx-auto',
-  columns === 4 ? 'lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2' :
-  columns === 3 ? 'lg:grid-cols-3 sm:grid-cols-2' :
-  'sm:grid-cols-2',
-  containerClass
+	'grid mx-auto',
+	columns === 4 ? 'lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2' :
+	columns === 3 ? 'lg:grid-cols-3 sm:grid-cols-2' :
+	'sm:grid-cols-2',
+	containerClass
 );
 ---
 
 {items && items.length > 0 && (
-  <div class={gridClasses}>
-    {items.map(({ title, description, callToAction, classes: itemClasses = {} }) => (
-      <div>
-        <div class={twMerge('flex text-justify', panelClass, itemClasses?.panel)}>
-          <div>
-            {title && <h4>{title}</h4>} {/* Dùng style từ @layer base h4 */}
-            {description && <p set:html={description} />} {/* Dùng style từ @layer base p */}
-            {callToAction && (
-              <div class={twMerge(`${title || description ? 'mt-6' : ''}`, actionClass, itemClasses?.actionClass)}>
-                <Button variant="link" {...callToAction} />
-              </div>
-            )}
-          </div>
-        </div>
-      </div>
-    ))}
-  </div>
+
+	<div class={gridClasses}>
+
+		{items.map(({ title, description, callToAction, classes: itemClasses = {} }) => (
+			<div>
+				<div class={twMerge('flex text-justify', panelClass, itemClasses?.panel)}>
+					<div>
+
+						{title && <h4>{title}</h4>}
+
+						{description && <p set:html={description} />}
+
+						{callToAction && (
+							<div class={twMerge(`${title || description ? 'mt-6' : ''}`, actionClass, itemClasses?.actionClass)}>
+								<Button variant="link" {...callToAction} />
+							</div>
+						)}
+
+					</div>
+				</div>
+			</div>
+		))}
+
+	</div>
+
 )}

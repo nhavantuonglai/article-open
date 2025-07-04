@@ -4,29 +4,32 @@ import type { Widget } from '~/types';
 import { twMerge } from 'tailwind-merge';
 
 export interface Props extends Widget {
-  id?: string | boolean;
-  containerClass?: string;
-  bg?: string;
-  as?: HTMLTag;
+	id?: string | boolean;
+	containerClass?: string;
+	bg?: string;
+	as?: HTMLTag;
 }
 
 const {
-  id = false,
-  containerClass = '',
-  bg,
-  as = 'section',
+	id = false,
+	containerClass = '',
+	bg,
+	as = 'section',
 } = Astro.props;
 
 const Wrapper = as;
 ---
 
 <Wrapper class="relative not-prose scroll-mt-[72px]" {...(id && { id })}>
-  <div class={twMerge('absolute inset-0 pointer-events-none -z-[1]', containerClass)} aria-hidden="true">
-    <slot name="bg">
-      {bg && <Fragment set:html={bg} />}
-    </slot>
-  </div>
-  <div class={twMerge('container mb-6 md:mb-62 text-muted', containerClass)}>
-    <slot />
-  </div>
+
+	<div class={twMerge('absolute inset-0 pointer-events-none -z-[1]', containerClass)} aria-hidden="true">
+		<slot name="bg">
+			{bg && <Fragment set:html={bg} />}
+		</slot>
+	</div>
+
+	<div class={twMerge('container mb-6 md:mb-62 text-muted', containerClass)}>
+		<slot />
+	</div>
+
 </Wrapper>

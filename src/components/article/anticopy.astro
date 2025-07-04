@@ -1,52 +1,54 @@
 <script client:load>
-  document.addEventListener('DOMContentLoaded', () => {
-    const style = document.createElement('style');
-    style.textContent = `
-      ::selection {
-        background: transparent !important;
-        color: inherit !important;
-      }
-      ::-moz-selection {
-        background: transparent !important;
-        color: inherit !important;
-      }
-    `;
-    document.head.appendChild(style);
 
-    const handleSelection = () => {
-      const selection = window.getSelection();
-      const selectedText = selection.toString();
-      return selectedText && selectedText.length > 0 ? selectedText : null;
-    };
+	document.addEventListener('DOMContentLoaded', () => {
+		const style = document.createElement('style');
+		style.textContent = `
+			::selection {
+				background: transparent !important;
+				color: inherit !important;
+			}
+			::-moz-selection {
+				background: transparent !important;
+				color: inherit !important;
+			}
+		`;
+		document.head.appendChild(style);
 
-    document.addEventListener('mouseup', () => {
-      const selectedText = handleSelection();
-      if (selectedText) {
-        document.execCommand('copy');
-      }
-    });
+		const handleSelection = () => {
+			const selection = window.getSelection();
+			const selectedText = selection.toString();
+			return selectedText && selectedText.length > 0 ? selectedText : null;
+		};
 
-    document.addEventListener('copy', (e) => {
-      const selectedText = handleSelection();
-      if (selectedText) {
-        const trimmedText = selectedText.length > 500 ? selectedText.substring(0, 500) + "…" : selectedText;
-        const currentUrl = window.location.href;
-        const modifiedText = `${trimmedText}\n\nĐọc bài chi tiết tại: ${currentUrl}`;
-        e.clipboardData.setData('text/plain', modifiedText);
-        e.preventDefault();
-      }
-    });
+		document.addEventListener('mouseup', () => {
+			const selectedText = handleSelection();
+			if (selectedText) {
+				document.execCommand('copy');
+			}
+		});
 
-    const preventRightClick = (e) => {
-      if (e.which === 3) return false;
-    };
+		document.addEventListener('copy', (e) => {
+			const selectedText = handleSelection();
+			if (selectedText) {
+				const trimmedText = selectedText.length > 500 ? selectedText.substring(0, 500) + "…" : selectedText;
+				const currentUrl = window.location.href;
+				const modifiedText = `${trimmedText}\n\nĐọc bài chi tiết tại: ${currentUrl}`;
+				e.clipboardData.setData('text/plain', modifiedText);
+				e.preventDefault();
+			}
+		});
 
-    document.oncontextmenu = () => false;
-    if (document.layers) {
-      document.captureEvents(Event.MOUSEDOWN);
-      document.onmousedown = preventRightClick;
-    } else {
-      document.onmouseup = preventRightClick;
-    }
-  });
+		const preventRightClick = (e) => {
+			if (e.which === 3) return false;
+		};
+
+		document.oncontextmenu = () => false;
+		if (document.layers) {
+			document.captureEvents(Event.MOUSEDOWN);
+			document.onmousedown = preventRightClick;
+		} else {
+			document.onmouseup = preventRightClick;
+		}
+	});
+
 </script>

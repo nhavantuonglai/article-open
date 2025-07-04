@@ -3,29 +3,34 @@ import Hero from '~/components/widgets/hero.astro';
 ---
 
 <Hero
-  title="Lỗi 404 đã xuất hiện."
-  subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
-  image={{
-    src: "https://images.pexels.com/photos/32839472/pexels-photo-32839472.jpeg",
-    alt: "Văn hay trong hiện tại, chữ tốt ở tương lai.",
-    title: "Văn hay trong hiện tại, chữ tốt ở tương lai."
-  }}
+
+	title="Lỗi 404 đã xuất hiện."
+	subtitle="Một hoặc nhiều lỗi liên quan đến dữ liệu website đã xảy ra. Hãy liên hệ với quản trị viên để được hỗ trợ tốt nhất. Tự động chuyển về trang chủ sau <span id='countdown'>5</span> giây."
+
+	image={{
+		src: "https://images.pexels.com/photos/32839472/pexels-photo-32839472.jpeg",
+		alt: "Văn hay trong hiện tại, chữ tốt ở tương lai.",
+		title: "Văn hay trong hiện tại, chữ tốt ở tương lai."
+	}}
+
 />
 
 <script>
-  let timeLeft = 5;
-  const countdownElement = document.getElementById('countdown');
-  
-  const countdownInterval = setInterval(() => {
-    timeLeft -= 1;
-    
-    if (countdownElement) {
-      countdownElement.textContent = timeLeft;
-    }
-    
-    if (timeLeft <= 0) {
-      clearInterval(countdownInterval);
-      window.location.href = 'https://nhavantuonglai.com';
-    }
-  }, 1000);
+
+	let timeLeft = 5;
+	const countdownElement = document.getElementById('countdown');
+	
+	const countdownInterval = setInterval(() => {
+		timeLeft -= 1;
+		
+		if (countdownElement) {
+			countdownElement.textContent = timeLeft;
+		}
+		
+		if (timeLeft <= 0) {
+			clearInterval(countdownInterval);
+			window.location.href = 'https://nhavantuonglai.com';
+		}
+	}, 1000);
+
 </script>

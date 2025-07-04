@@ -3,31 +3,37 @@ import type { Headline as Props } from '~/types';
 import { twMerge } from 'tailwind-merge';
 
 export interface Props {
-  title?: string;
-  subtitle?: string;
-  tagline?: string;
-  classes?: Record<string, string>;
+	title?: string;
+	subtitle?: string;
+	tagline?: string;
+	classes?: Record<string, string>;
 }
 
 const {
-  title = await Astro.slots.render('title'),
-  subtitle = await Astro.slots.render('subtitle'),
-  tagline,
-  classes = {},
+	title = await Astro.slots.render('title'),
+	subtitle = await Astro.slots.render('subtitle'),
+	tagline,
+	classes = {},
 } = Astro.props;
 
 const {
-  container: containerClass = '',
-  title: titleClass = '',
-  subtitle: subtitleClass = '',
-  tagline: taglineClass = 'text-2xl text-muted mb-6', // Đồng bộ với @layer base p
+	container: containerClass = '',
+	title: titleClass = '',
+	subtitle: subtitleClass = '',
+	tagline: taglineClass = 'text-2xl text-muted mb-6',
 } = classes;
 ---
 
 {(title || subtitle || tagline) && (
-  <div class={twMerge('content-container', containerClass)}>
-    {tagline && <p class={taglineClass} set:html={tagline} />}
-    {title && <h2 class={titleClass} set:html={title} />} {/* Dùng style từ @layer base h2 */}
-    {subtitle && <p class={subtitleClass} set:html={subtitle} />} {/* Dùng style từ @layer base p */}
-  </div>
+
+	<div class={twMerge('content-container', containerClass)}>
+
+		{tagline && <p class={taglineClass} set:html={tagline} />}
+
+		{title && <h2 class={titleClass} set:html={title} />}
+
+		{subtitle && <p class={subtitleClass} set:html={subtitle} />}
+
+	</div>
+
 )}

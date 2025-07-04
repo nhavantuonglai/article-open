@@ -1,33 +1,33 @@
 ---
 import { findImage } from '~/utils/images';
 import {
-  getImagesOptimized,
-  astroAsseetsOptimizer,
-  unpicOptimizer,
-  type ImageProps,
-  type AttributesProps
+	getImagesOptimized,
+	astroAsseetsOptimizer,
+	unpicOptimizer,
+	type ImageProps,
+	type AttributesProps
 } from '~/utils/optimization';
 import type { ImageMetadata } from 'astro';
 
 type Props = ImageProps & {
-  class?: string;
-  widths?: number[];
-  sizes?: string;
+	class?: string;
+	widths?: number[];
+	sizes?: string;
 };
 
 type ImageType = {
-  src: string;
-  attributes: AttributesProps;
+	src: string;
+	attributes: AttributesProps;
 };
 
 const {
-  src,
-  alt,
-  title,
-  class: className = 'mx-auto rounded-md w-full object-cover',
-  widths,
-  sizes,
-  ...props
+	src,
+	alt,
+	title,
+	class: className = 'mx-auto rounded-md w-full object-cover mb-6',
+	widths,
+	sizes,
+	...props
 } = Astro.props;
 
 if (!alt) throw new Error('Missing alt text for image');
@@ -40,13 +40,13 @@ const _image = await findImage(src);
 let image: ImageType | undefined = undefined;
 
 if (_image) {
-  if (typeof _image === 'object') {
-    image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
-  } else if (typeof _image === 'string' && (_image.startsWith('http://') || _image.startsWith('https://'))) {
-    image = await getImagesOptimized(_image, props, unpicOptimizer);
-  } else {
-    image = await getImagesOptimized(_image, props);
-  }
+	if (typeof _image === 'object') {
+		image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
+	} else if (typeof _image === 'string' && (_image.startsWith('http://') || _image.startsWith('https://'))) {
+		image = await getImagesOptimized(_image, props, unpicOptimizer);
+	} else {
+		image = await getImagesOptimized(_image, props);
+	}
 }
 
 const defaultWidths = typeof src === 'string' ? undefined : [400, 768, 1024];
@@ -54,18 +54,22 @@ const defaultSizes = typeof src === 'string' ? undefined : '(max-width: 767px) 4
 ---
 
 {image ? (
-  <img
-    title={title || 'Văn hay trong hiện tại, chữ tốt ở tương lai.'}
-    alt={alt || 'Văn hay trong hiện tại, chữ tốt ở tương lai.'}
-    src={image.src}
-    class={className}
-    style="aspect-ratio: 4/3;"
-    width={image.attributes.width}
-    height={image.attributes.height}
-    {...(widths || defaultWidths ? { widths: widths || defaultWidths } : {})}
-    {...(sizes || defaultSizes ? { sizes: sizes || defaultSizes } : {})}
-    {...image.attributes}
-  />
+
+	<img
+		title={title || 'Văn hay trong hiện tại, chữ tốt ở tương lai.'}
+		alt={alt || 'Văn hay trong hiện tại, chữ tốt ở tương lai.'}
+		src={image.src}
+		class={className}
+		style="aspect-ratio: 4/3;"
+		width={image.attributes.width}
+		height={image.attributes.height}
+		{...(widths || defaultWidths ? { widths: widths || defaultWidths } : {})}
+		{...(sizes || defaultSizes ? { sizes: sizes || defaultSizes } : {})}
+		{...image.attributes}
+	/>
+
 ) : (
-  <Fragment />
+
+	<Fragment />
+
 )}
