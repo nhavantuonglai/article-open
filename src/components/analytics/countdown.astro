@@ -1,55 +1,59 @@
 ---
-import Hero from '~/components/widgets/hero.astro';
+import Analytics from '~/components/widgets/analytics.astro';
 
-const subtitle = "Bạn cần biết thông tin còn bao nhiêu ngày nữa đến tết 2026? Dưới đây là câu trả lời dành cho bạn.";
+const subtitle = "Còn bao nhiêu ngày nữa đến Tết dương lịch 2026? giúp bạn biết chính xác còn bao nhiêu ngày, giờ, phút để sẵn sàng chào đón năm mới trọn vẹn nhất.";
 ---
 
-<Hero
+<Analytics
 
 	subtitle={subtitle}
+
 	id="countdown"
 	inputType="hidden"
-	outputType="h1"
-	image="https://banmaixanh.vercel.app/image/cover/001-731.jpg"
-	headingLevel="h1"
+
+	image="https://images.pexels.com/photos/32685804/pexels-photo-32685804.jpeg"
 
 />
 
 <script client:load>
 
-	function padNumber(num) {
-		return num < 10 ? `0${num}` : num;
-	}
-
-	function updateCountdown() {
+	document.addEventListener('DOMContentLoaded', () => {
 		const resultOutput = document.getElementById('countdown-text-output');
+
 		if (!resultOutput) return;
 
-		const now = new Date();
-		const newYear = new Date(2026, 0, 1);
-		const diff = newYear - now;
-
-		if (diff <= 0) {
-			resultOutput.textContent = "Chúc mừng năm mới!";
-			return;
+		function padNumber(num) {
+			return num < 10 ? `0${num}` : num;
 		}
 
-		const seconds = Math.floor(diff / 1000) % 60;
-		const minutes = Math.floor(diff / 60000) % 60;
-		const hours = Math.floor(diff / 3600000) % 24;
-		const days = Math.floor(diff / 86400000);
+		function updateCountdown() {
+			const now = new Date(),
+						newYear = new Date(2026, 0, 1),
+						diff = newYear - now;
 
-		let result = "Còn ";
-		if (days > 0) result += `${padNumber(days)} ngày `;
-		if (hours > 0) result += `${padNumber(hours)} giờ `;
-		if (minutes > 0) result += `${padNumber(minutes)} phút `;
-		if (seconds > 0) result += `${padNumber(seconds)} giây `;
-		result += "nữa là đến giao thừa 2026.";
+			if (diff <= 0) {
+				resultOutput.textContent = 'Chúc mừng năm mới!';
+				return;
+			}
 
-		resultOutput.textContent = result;
+			const seconds = Math.floor(diff / 1000) % 60,
+						minutes = Math.floor(diff / 60000) % 60,
+						hours = Math.floor(diff / 3600000) % 24,
+						days = Math.floor(diff / 86400000);
+
+			let result = 'Còn ';
+			if (days > 0) result += `${padNumber(days)} ngày `;
+			if (hours > 0) result += `${padNumber(hours)} giờ `;
+			if (minutes > 0) result += `${padNumber(minutes)} phút `;
+			if (seconds > 0) result += `${padNumber(seconds)} giây `;
+			result += 'nữa là đến Tết dương lịch 2026.';
+
+			resultOutput.textContent = result;
+
+			requestAnimationFrame(updateCountdown);
+		}
+
 		requestAnimationFrame(updateCountdown);
-	}
-
-	requestAnimationFrame(updateCountdown);
+	});
 
 </script>

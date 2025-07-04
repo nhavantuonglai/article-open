@@ -10,11 +10,6 @@ export interface Props {
 	content?: string;
 	actions?: string | CallToAction[];
 	image?: string | any;
-	id?: string;
-	inputType?: 'text' | 'button' | 'hidden';
-	outputType?: 'text' | 'audio' | 'h1';
-	placeholder?: string;
-	channels?: Array<{ name: string; url: string }>;
 	headingLevel?: 'h1' | 'h2';
 }
 
@@ -25,18 +20,8 @@ const {
 	content = await Astro.slots.render('content'),
 	actions = await Astro.slots.render('actions'),
 	image = await Astro.slots.render('image'),
-	id = 'default',
-	inputType = 'hidden',
-	outputType = 'text',
-	placeholder = '',
-	channels = [],
 	headingLevel = 'h1',
 } = Astro.props;
-
-const safe = id.replace(/[^a-zA-Z0-9_-]/g, '');
-const input = "w-full text-justify text-lg border border-gray-300 p-4 rounded-lg bg-white resize-none h-[150px]";
-const button = "btn mb-6 text-lg font-medium leading-6 text-center";
-const container = "rounded-lg w-full mb-6";
 ---
 
 <section class="relative md:-mt-[76px] not-prose">
@@ -44,44 +29,31 @@ const container = "rounded-lg w-full mb-6";
 	<div class="relative max-w-7xl mx-auto px-4 sm:px-6">
 
 		<div class="pt-0 md:pt-[120px] pointer-events-none"></div>
-		<div class="py-12 md:py-20 lg:flex lg:items-start grid mb-6 gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-2">
-
-			<div class="basis-1/2 pb-10 md:pb-16 mx-auto lg:mx-0">
+		<div class="py-12 md:py-20 grid gap-6 md:grid-cols-2">
+			<div class="pb-10 md:pb-16 mx-auto lg:mx-0">
 
 				{tagline && (
-					<p
-						class="text-base text-secondary font-bold tracking-wide uppercase text-left"
-						set:html={tagline}
-					/>
+					<p class="text-base text-secondary font-bold tracking-wide uppercase text-left" set:html={tagline} />
 				)}
 
-				{outputType !== 'h1' && title && (
+				{title && (
 					<Fragment>
-
 						{headingLevel === 'h1' ? (
-							<h1
-								class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
-								set:html={title}
-							/>
+							<h1 class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left" set:html={title} />
 						) : (
-							<h2
-								class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"
-								set:html={title}
-							/>
+							<h2 class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left" set:html={title} />
 						)}
-
 					</Fragment>
 				)}
 
-				<div class="max-w-3xl mx-auto lg:max-w-none">
+				<div class="max-w-3xl mx-auto">
 
 					{subtitle && (
 						<p class="text-xl text-justify text-muted mb-6 text-left" set:html={subtitle} />
 					)}
 
 					{actions && (
-						<div class="max-w-xs sm:max-w-md flex flex-nowrap flex-col sm:flex-row gap-4 lg:justify-start">
-
+						<div class="max-w-xs sm:max-w-md flex flex-col sm:flex-row gap-4">
 							{Array.isArray(actions) ? (
 								actions.map((action, index) => (
 									<div key={index} class="flex w-full sm:w-auto">
@@ -91,60 +63,22 @@ const container = "rounded-lg w-full mb-6";
 							) : (
 								<Fragment set:html={actions} />
 							)}
-
 						</div>
 					)}
 
-					<div class={container}>
+					{content && <Fragment set:html={content} />}
 
-						{inputType === 'text' && (
-							<textarea id={`${safe}-input`} placeholder={placeholder} class={input}></textarea>
-						)}
-
-						{inputType === 'button' && (
-							<div id={`${safe}-buttons`} class="flex flex-wrap gap-2">
-								{channels.map((channel) => (
-									<button class={button} data-url={channel.url}>{channel.name}</button>
-								))}
-							</div>
-						)}
-
-					</div>
-
-					<div class={container}>
-
-						{outputType === 'text' && (
-							<p id={`${safe}-text-output`} class="text-3xl font-bold mb-4 text-left"></p>
-						)}
-
-						{outputType === 'h1' && (
-							<h1 id={`${safe}-text-output`} class="text-5xl md:text-6xl font-bold leading-tighter tracking-tighter mb-6 font-heading text-left"></h1>
-						)}
-
-						{outputType === 'audio' && (
-							<div id={`${safe}-audio-output`} class="text-justify text-lg">
-								<audio id={`${safe}-audio-player`} class="w-full mb-6" controls>
-									<source id={`${safe}-audio-source`} src="" type="audio/mpeg" />
-								</audio>
-								<div id={`${safe}-status`} class="text-justify text-lg"></div>
-							</div>
-						)}
-
-					</div>
 				</div>
-
-				{content && <Fragment set:html={content} />}
-
 			</div>
 
 			{image && (
-				<div class="basis-1/2 pb-10 md:pb-16 mx-auto lg:mx-0">
-					<div title="nhavantuonglai" class="relative m-auto max-w-5xl">
-
+				<div class="pb-10 md:pb-16 mx-auto lg:mx-0">
+					<div class="relative m-auto max-w-5xl">
 						{typeof image === 'string' ? (
 							<img
 								src={image}
-								alt="Hero image"
+								alt="Văn hay trong hiện tại, chữ tốt ở tương lai."
+								title="Văn hay trong hiện tại, chữ tốt ở tương lai."
 								class="mx-auto rounded-md w-full object-cover"
 								style="aspect-ratio: 4/3;"
 							/>
@@ -159,7 +93,6 @@ const container = "rounded-lg w-full mb-6";
 								{...image}
 							/>
 						)}
-
 					</div>
 				</div>
 			)}
@@ -167,31 +100,12 @@ const container = "rounded-lg w-full mb-6";
 		</div>
 	</div>
 
-	<script define:vars={{ safe, inputType }}>
-		document.addEventListener('DOMContentLoaded', () => {
-			if (inputType === 'button') {
-				document.querySelectorAll(`#${safe}-buttons button`).forEach(button => {
-					button.addEventListener('click', () => {
-						if (button.dataset.url) {
-						}
-					});
-				});
-			}
-		});
-	</script>
-
 	<style>
 		@media (max-width: 1023px) {
-			.lg\:flex {
-				flex-direction: column;
-			}
-			.basis-1\/2 {
-				width: 100%;
-			}
-			.lg\:mx-0 {
-				margin-left: auto;
-				margin-right: auto;
+			.md\:grid-cols-2 {
+				grid-template-columns: 1fr;
 			}
 		}
 	</style>
+
 </section>

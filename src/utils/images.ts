@@ -65,7 +65,7 @@ export const adaptOpenGraphImages = async (
 
 				const _image = await getImage({
 					src: resolvedImage,
-					alt: 'Placeholder alt',
+					alt: 'Văn hay trong hiện tại, chữ tốt ở tương lai.',
 					width: image?.width || defaultWidth,
 					height: image?.height || defaultHeight,
 				});
