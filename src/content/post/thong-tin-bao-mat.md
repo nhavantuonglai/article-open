@@ -4,10 +4,10 @@ title: Điều khoản khai thác, sử dụng dữ liệu
 description: Điều khoản khai thác và sử dụng dữ liệu này được thiết lập nhằm xác định rõ ràng các quyền và nghĩa vụ của người đọc khi truy cập và sử dụng website nhavantuonglai.com.
 image: https://banmaixanh.vercel.app/image/cover/001-026.jpg
 tags:
-  - nhavantuonglai
-  - thong tin he thong
-  - phien ban
-  - cap nhat
+	- nhavantuonglai
+	- thong tin he thong
+	- phien ban
+	- cap nhat
 ---
 
 _Điều khoản khai thác và sử dụng dữ liệu này được thiết lập nhằm xác định rõ ràng các quyền và nghĩa vụ của người đọc khi truy cập và sử dụng website nhavantuonglai.com._
