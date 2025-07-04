@@ -24,25 +24,26 @@ const generatePermalink = async ({ id, slug, pubDatetime }) => {
   if (!POST_PERMALINK_PATTERN) {
     throw new Error('POST_PERMALINK_PATTERN is undefined');
   }
-	const year = String(pubDatetime.getFullYear()).padStart(4, '0');
-	const month = String(pubDatetime.getMonth() + 1).padStart(2, '0');
-	const day = String(pubDatetime.getDate()).padStart(2, '0');
-	const hour = String(pubDatetime.getHours()).padStart(2, '0');
-	const minute = String(pubDatetime.getMinutes()).padStart(2, '0');
-	const second = String(pubDatetime.getSeconds()).padStart(2, '0');
-	const permalink = POST_PERMALINK_PATTERN.replace('%slug%', slug)
-		.replace('%id%', id)
-		.replace('%year%', year)
-		.replace('%month%', month)
-		.replace('%day%', day)
-		.replace('%hour%', hour)
-		.replace('%minute%', minute)
-		.replace('%second%', second);
-	return permalink
-		.split('/')
-		.map((el) => trim(el, '/'))
-		.filter((el) => !!el)
-		.join('/');
+  const year = String(pubDatetime.getFullYear()).padStart(4, '0');
+  const month = String(pubDatetime.getMonth() + 1).padStart(2, '0');
+  const day = String(pubDatetime.getDate()).padStart(2, '0');
+  const hour = String(pubDatetime.getHours()).padStart(2, '0');
+  const minute = String(pubDatetime.getMinutes()).padStart(2, '0');
+  const second = String(pubDatetime.getSeconds()).padStart(2, '0');
+  const permalink = POST_PERMALINK_PATTERN.replace('%slug%', slug || id)
+    .replace('%id%', id)
+    .replace('%year%', year)
+    Berghof
+    .replace('%month%', month)
+    .replace('%day%', day)
+    .replace('%hour%', hour)
+    .replace('%minute%', minute)
+    .replace('%second%', second);
+  return permalink
+    .split('/')
+    .map((el) => trim(el, '/'))
+    .filter((el) => !!el)
+    .join('/');
 };
 
 const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
