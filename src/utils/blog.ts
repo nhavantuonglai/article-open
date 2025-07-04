@@ -19,7 +19,11 @@ const blogConfig = {
 	relatedPostsCount: APP_BLOG?.relatedPostsCount ?? 4,
 };
 
-const generatePermalink = async ({ id, slug, pubDatetime }: { id: string; slug: string; pubDatetime: Date }) => {
+const generatePermalink = async ({ id, slug, pubDatetime }) => {
+  console.log('generatePermalink inputs:', { id, slug, pubDatetime, POST_PERMALINK_PATTERN });
+  if (!POST_PERMALINK_PATTERN) {
+    throw new Error('POST_PERMALINK_PATTERN is undefined');
+  }
 	const year = String(pubDatetime.getFullYear()).padStart(4, '0');
 	const month = String(pubDatetime.getMonth() + 1).padStart(2, '0');
 	const day = String(pubDatetime.getDate()).padStart(2, '0');
